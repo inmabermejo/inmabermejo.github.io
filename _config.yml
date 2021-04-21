@@ -34,6 +34,7 @@ plugins:
 title: Chavalina. Diario.
 description: Blog personal de Inma Bermejo
 author: Inma Bermejo
+url: http://chavalina.net
 feed:
   path: feed/
 
