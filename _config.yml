@@ -35,8 +35,6 @@ title: Chavalina. Diario.
 description: Blog personal de Inma Bermejo
 author: Inma Bermejo
 url: http://chavalina.net
-feed:
-  path: feed/
 
 # Exclude from processing.
 # The following items will not be processed, by default.
