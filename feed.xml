@@ -19,4 +19,3 @@ layout: none
 		{% endfor %}
 	</channel>
 </rss>
-@inmabermejo
