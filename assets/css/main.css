@@ -1,0 +1,99 @@
+body {
+    background: #131313;
+    color: #939699;
+    margin: 0;
+    font-family: "IBM Plex Sans", "Inter", Georgia, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+    line-height: 1.4;
+    }
+    @media only screen and (min-width: 768px) {
+        body {
+        font-size: 140%;
+        }
+    }
+    
+    h1, a {
+    color: #fff;
+    }
+    
+    h1 {
+    margin: 0 0 24px;
+    }
+    
+    h2 {
+    margin: 24px 0 64px;
+    font-weight: lighter;
+    }
+    @media only screen and (min-width: 768px) {
+        h2 {
+        margin-bottom: 80px;
+        }
+    }
+    
+    p {
+    line-height: 1.5;
+    }
+    
+    aside {
+    margin-top: 64px;
+    }
+    @media only screen and (min-width: 768px) {
+        aside {
+        font-size: 60%;
+        float: right;
+        }
+    }
+    aside img {
+    width: 120px;
+    }
+    
+    cite, footer {
+    font-size: 90%;
+    line-height: 1.5;
+    }
+    @media only screen and (min-width: 768px) {
+        cite, footer {
+        font-size: 60%;
+        }
+    }
+
+    cite {
+    display: block;
+    margin-top: 64px;
+    margin-bottom: 64px;
+    }
+    @media only screen and (min-width: 768px) {
+        cite {
+        margin-top: 80px;
+        margin-bottom: 80px;
+        float:left;
+        }
+    }
+    cite span {
+    margin: 0 4px;
+    font-style: normal;
+    color: #FD86DF;
+    }
+            
+    footer {
+    text-align: center;
+    }
+    footer:hover {
+    cursor: help;
+    }
+    @media only screen and (min-width: 768px) {
+        footer {
+        clear: both;
+        }
+    }
+
+    .container {
+    padding: 80px 32px;
+    margin: 0 auto;
+    max-width: 1124px;
+    }
+    @media only screen and (min-width: 768px) {
+        .container {
+        padding: 144px 24px 24px;
+        }
+    }
+    
