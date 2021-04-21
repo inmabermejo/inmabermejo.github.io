@@ -1,0 +1,42 @@
+---
+id: 3024
+title: 'Semana #3'
+date: 2013-12-05T19:41:21+02:00
+author: Chavalina
+layout: revision
+guid: http://www.chavalina.net/2013/12/05/3019-revision-v1/
+permalink: /2013/12/05/3019-revision-v1/
+---
+Agotamiento! También es casualidad que desde que empecé este resumen semanal no haya tenido relax apenas. No he podido leer ni una página del libro que tenía pensado acabar este mes, <a href="http://ggili.com/es/tienda/productos/sistemas-de-reticulas-1" target="_blank">Sistemas de retículas</a> así que empezamos regular.
+
+<blockquote class="twitter-tweet" lang="en">
+  <p>
+    Galletas, magdalenas y pan. El día del hidrato! <a href="http://t.co/96oM7zz1k4">pic.twitter.com/96oM7zz1k4</a>
+  </p>
+  
+  <p>
+    &mdash; chavalina (@chavalina) <a href="https://twitter.com/chavalina/statuses/406786782727249920">November 30, 2013</a>
+  </p>
+</blockquote>
+
+
+
+Me prometía un fin de semana de ermitaña, pero acabé haciendo galletas, magdalenas y pan, yendo de compras, limpiando (tener terraza mola, menos cuando hay que levantarlo todo)&#8230; y esta semana igual, trabajando a tope de 8 a 20h. La energía se agota, y toca descansar de verdad.
+
+
+
+Y menos mal que cancelé la visita a Ikea que tenía pendiente. Renovando la oficina en casa, ahora que tengo un poco más de espacio puedo permitirme decorar un poco y por fin meter allí _el sillón de pensar_. Aunque el que de verdad me gusta por ahora sólo me lo puedo permitir en forma de lámina:
+
+
+
+En Weblogs SL me dediqué a preparar pruebas nuevas, esta vez enfocadas al tema de compartir en redes sociales. Arreglar algunos bugs y hacer los primeros bocetos para un sistema interno más eficiente para organizar nuestros archivos de estilos.
+
+El hecho de tener +40 blogs con versiones diferentes para móvil, tablet y escritorio tiene sus ventajas e inconvenientes, pero los que podamos evitar, como el mayor coste de desarrollo y mantenimiento, hay que hacerlo. Y por ahí van los tiros, **centralizar y reutilizar, como haría en un solo sitio responsive**, aunque luego en el cliente sean distintos sitios. Muchas ideas tengo volando alrededor de este tema&#8230; que aún tengo que ordenar para poder aprovechar.
+
+Y un proyecto nuevo, para trabajar con mi compañero Dani y el equipo Editorial&#8230; que puede ser muy bueno si sale como quiero. Así que a tirar fuerte.
+
+En el proyecto bancario, cerrando frentes, calculo que estamos al 75-80%. Una vez completado estoy pensando tomarme un descanso de freelances para poder retomar «los estudios». 
+
+Lo primero, un postmortem del Programa Vostok, y un planning para ahondar en cada tema que tocamos, y hacer (y rehacer) los ejercicios pendientes. Lo típico que siempre dices que vas a hacer y que nunca haces, pero que esta vez sí voy a hacer. Y para hacerlo, tengo que planearlo, eso es así.
+
+En fin, una semana corta, pero intensa y agotadora. Media hora para descansar, y salgo a una cena con maridaje que veremos cómo acaba. Porque cansancio + vino&#8230; zzz.

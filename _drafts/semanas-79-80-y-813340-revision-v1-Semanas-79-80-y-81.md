@@ -1,0 +1,72 @@
+---
+id: 3342
+title: 'Semanas #79, #80 y #81'
+date: 2015-06-07T20:56:21+02:00
+author: Chavalina
+layout: revision
+guid: http://www.chavalina.net/2015/06/07/3340-revision-v1/
+permalink: /2015/06/07/3340-revision-v1/
+---
+Nada, que no consigo mantener el ritmo de publicación, otras tres semanas sin pasar por aquí ni a decir _hola_.
+
+<blockquote class="instagram-media" data-instgrm-version="4" style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:658px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);">
+  <div style="padding:8px;">
+    <div style=" background:#F8F8F8; line-height:0; margin-top:40px; padding:50% 0; text-align:center; width:100%;">
+      <div style=" background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAsCAMAAAApWqozAAAAGFBMVEUiIiI9PT0eHh4gIB4hIBkcHBwcHBwcHBydr+JQAAAACHRSTlMABA4YHyQsM5jtaMwAAADfSURBVDjL7ZVBEgMhCAQBAf//42xcNbpAqakcM0ftUmFAAIBE81IqBJdS3lS6zs3bIpB9WED3YYXFPmHRfT8sgyrCP1x8uEUxLMzNWElFOYCV6mHWWwMzdPEKHlhLw7NWJqkHc4uIZphavDzA2JPzUDsBZziNae2S6owH8xPmX8G7zzgKEOPUoYHvGz1TBCxMkd3kwNVbU0gKHkx+iZILf77IofhrY1nYFnB/lQPb79drWOyJVa/DAvg9B/rLB4cC+Nqgdz/TvBbBnr6GBReqn/nRmDgaQEej7WhonozjF+Y2I/fZou/qAAAAAElFTkSuQmCC); display:block; height:44px; margin:0 auto -44px; position:relative; top:-22px; width:44px;">
+      </div>
+    </div>
+    
+    <p style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;">
+      <a href="https://instagram.com/p/3WA9BvtsnN/" style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none;" target="_top">A photo posted by Inma Bermejo (@inmabermejosalar)</a> on <time style=" font-family:Arial,sans-serif; font-size:14px; line-height:17px;" datetime="2015-05-31T11:05:19+00:00">May 31, 2015 at 4:05am PDT</time>
+    </p>
+  </div>
+</blockquote>
+
+
+
+Con mi **reducción del tiempo dedicado a internet**, actividades analógicas que aumentan con el verano, y el trabajo, se me pasan los días sin abrir el portátil, y tengo prohibido usar el iMac para ocio. Tiene sus ventajas, como que he podido empezar puntual mi lectura del mes, el [Manual de Tipografía de John Kane](http://amzn.to/1KLoDX9). 
+
+A pesar de que voy con retraso y no he empezado a reseñar los libros del [reto de lectura de Criterion](http://www.criteriondg.info/wordpress/12-meses-12-libros/), sigo poco a poco, y este mes tocaba de nuevo un libro técnico. Había encontrado la recomendación en twitter, y me está gustando mucho el tono por ahora.
+
+<blockquote class="instagram-media" data-instgrm-captioned data-instgrm-version="4" style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:658px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);">
+  <div style="padding:8px;">
+    <div style=" background:#F8F8F8; line-height:0; margin-top:40px; padding:50% 0; text-align:center; width:100%;">
+      <div style=" background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAsCAMAAAApWqozAAAAGFBMVEUiIiI9PT0eHh4gIB4hIBkcHBwcHBwcHBydr+JQAAAACHRSTlMABA4YHyQsM5jtaMwAAADfSURBVDjL7ZVBEgMhCAQBAf//42xcNbpAqakcM0ftUmFAAIBE81IqBJdS3lS6zs3bIpB9WED3YYXFPmHRfT8sgyrCP1x8uEUxLMzNWElFOYCV6mHWWwMzdPEKHlhLw7NWJqkHc4uIZphavDzA2JPzUDsBZziNae2S6owH8xPmX8G7zzgKEOPUoYHvGz1TBCxMkd3kwNVbU0gKHkx+iZILf77IofhrY1nYFnB/lQPb79drWOyJVa/DAvg9B/rLB4cC+Nqgdz/TvBbBnr6GBReqn/nRmDgaQEej7WhonozjF+Y2I/fZou/qAAAAAElFTkSuQmCC); display:block; height:44px; margin:0 auto -44px; position:relative; top:-22px; width:44px;">
+      </div>
+    </div>
+    
+    <p style=" margin:8px 0 0 0; padding:0 4px;">
+      <a href="https://instagram.com/p/3WAyJQtsm-/" style=" color:#000; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none; word-wrap:break-word;" target="_top">Ver cosas, o hacer cosas ????????????</a>
+    </p>
+    
+    <p style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;">
+      A photo posted by Inma Bermejo (@inmabermejosalar) on <time style=" font-family:Arial,sans-serif; font-size:14px; line-height:17px;" datetime="2015-05-31T11:03:50+00:00">May 31, 2015 at 4:03am PDT</time>
+    </p>
+  </div>
+</blockquote>
+
+
+
+Hice la **primera visita del año a la playa**. Tangencial, eso sí, para ver una prueba de triatlón en la que participaba una de mis mejores amigas. No probamos el agua de lleno, pero no estuvo mal el bocadillo de calamares que cayó.
+
+En el **trabajo**, rompiendo mis propósitos anuales acepté un pequeño encargo para adaptar a vista móvil un sitio que había rediseñado el año pasado. Lo acepté porque conociendo tan bien lo que había hecho y cómo lo había hecho, sería más fácil para mi que para cualquiera, no llevará mucho tiempo, y así a ellos tampoco se les sube mucho de precio.
+
+En **Weblogs SL** muchos lanzamientos. Tenemos la nueva publicación [Magnet](http://magnet.xataka.com/), donde en lugar de tener contenidos en torno a un tema concreto, lo que se ofrece es una actitud: explicar, ir al fondo de un asunto para tener la información con la que hacerse una opinión propia.
+
+Una nueva versión para móvil en los artículos de Xataka Foto, y Magnet. Éste es en el proyecto que he estado trabajando los últimos meses. Al principio lo planteamos por módulos (módulo H, módulo C&#8230;) pero finalmente hemos publicado a la vez todos los módulos para la página de artículo, pues era muy complejo técnicamente sacar el código nuevo integrado en el viejo.
+
+El diseño visual es muy conservador, nos hemos centrado en cambios estructurales y de funcionalidad en este momento, acorde a nuestros objetivos, estudiando mucho los competidores y con la premisa de no hacer un _gran rediseño radical_, sino poner las bases para poder crecer y ser flexibles para incorporar nuevas funcionalidades fácilmente.
+
+A partir de esta versión, estamos _haciéndolo crecer_ con las adaptaciones necesarias para pantallas grandes, mucho trabajo por delante.
+
+Paralelamente, trabajo en una optimización del CSS de la nueva versión para conseguir que la página cargue más rápido. La idea es simple, separar en dos hojas de estilo, una para lo que es necesario en la zona superior de la página, y otra para el resto.
+
+En la última reunión con los jefes tuvimos la noticia de que quieren organizar una jornada de _team building_ este mes, no tenemos ni idea aún de lo que pasará, pero parece que **estaré por Madrid el 18 de junio**, a ver si aprovecho para quedar con alguno de mis antiguos compañeros para tomar algo y verles, que hace un par de años ya desde la última vez.
+
+Y hoy quiero recomendar un vídeo. Es una conferencia que he visto esta semana de [Mike Monteiro](https://twitter.com/monteiro), autor del famoso libro _Design is a Job_ donde habla de cómo _vender diseño_. Es un recorrido a través de 13 **errores que los diseñadores cometemos cuando presentamos** nuestro trabajo a clientes, aunque yo la he encontrado muy interesante también para otras profesiones que tienen que presentar su trabajo.
+
+Una hora y en inglés, pero merece mucho la pena, porque además de que Monteiro es un gran orador, se puede ver cómo pone en práctica sus propios consejos. Y si alguien no se anima&#8230; también [recopiló estos consejos en Medium](https://medium.com/@monteiro/13-ways-designers-screw-up-client-presentations-51aaee11e28c), pero no es lo mismo, ¡ved la conferencia!
+
+
+
+Buena semana 🙂

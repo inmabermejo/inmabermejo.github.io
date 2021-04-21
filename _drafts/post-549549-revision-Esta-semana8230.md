@@ -1,0 +1,12 @@
+---
+id: 1555
+title: 'Esta semana&#8230;'
+date: 2005-09-10T11:14:04+02:00
+author: Chavalina
+layout: revision
+guid: http://www.wp.chavalina.net/2005/09/10/549-revision/
+permalink: /2005/09/10/549-revision/
+---
+Menuda semana llevo.  
+Retomar mi trabajo, entregar el art&iacute;culo de investigaci&oacute;n, dejar pasar la tentaci&oacute;n, terminar el proyecto fin de carrera, hacer una entrevista de trabajo, conocer a <a href="http://100px.com" target="_blank">Nicol&aacute;s Fantino</a>, tener 39 de fiebre, perderme las fiestas de Murcia, despedirme de un coleguilla, volver a beber cerveza, enfrentarme con Septiembre.  
+&iexcl;Y s&oacute;lo es s&aacute;bado por la tarde!

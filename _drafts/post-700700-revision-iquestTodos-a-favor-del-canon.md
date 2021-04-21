@@ -1,0 +1,33 @@
+---
+id: 1282
+title: '&iquest;Todos a favor del canon?'
+date: 2006-06-08T00:39:05+02:00
+author: Chavalina
+layout: revision
+guid: http://www.wp.chavalina.net/2006/06/08/700-revision/
+permalink: /2006/06/08/700-revision/
+---
+He encontrado <a href="http://todosafavordelcanon.es/index.html" target="_blank">esta web, bastante cutre</a>, todo hay que decirlo, en&prime;ca <a href="http://sol.blogia.com/2006/060802-todosafavordelcanon.php" target="_blank">Jesusda</a>. &Eacute;l comenta que es una nueva web de la SGAE para dar en las narices a <a href="http://todoscontraelcanon.es/" target="_blank">Todos contra el canon</a> , pero yo lo primero que he pensado es que es una co&ntilde;a, sobre todo despu&eacute;s de leer esto: 
+
+> Lleva la contraria a tu vecina.  
+> Destaca entre tus amistades.  
+> Defiende sin avergonzarte.  
+> Necesitamos el canon. Cr&eacute;enos.
+> 
+> No queremos que el Gobierno nos d&eacute; dinero  
+> porque a la gran mayor&iacute;a,  
+> no nos alcance para llegar a final de mes.  
+> Queremos ser libres para crear y producir.  
+> Como siempre.
+> 
+> Ay&uacute;danos para que sigamos componiendo,  
+> cantando, interpretando, bailando,  
+> guionizando, dirigiendo pelis y series para ti.
+> 
+> Es nuestro derecho, es tu derecho.  
+> Sal a la calle, navega en Internet,  
+> grita a los cuatro vientos:
+> 
+> &iexcl;S&iacute; al canon!.
+
+Es que si es de co&ntilde;a, todav&iacute;a puedo verle la gracia, pero si es de verdad&#8230; como dice mi querida <a href="http://www.portalmix.com/tamara/" target="_blank">Tamara la aut&eacute;ntica</a>&#8230; &iexcl;**sois pat&eacute;ticos**!

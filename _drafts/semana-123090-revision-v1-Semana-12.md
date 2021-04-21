@@ -1,0 +1,42 @@
+---
+id: 3093
+title: 'Semana #12'
+date: 2014-02-09T12:06:37+02:00
+author: Chavalina
+layout: revision
+guid: http://www.chavalina.net/2014/02/09/3090-revision-v1/
+permalink: /2014/02/09/3090-revision-v1/
+---
+Una semana más recapitulando para darme ánimos para mañana, y alguna colleja también.
+
+
+
+Fin de semana de recogimiento marujil, de planear mucho y hacer poco. He empezado con el sistema [Bullet Journal](http://bulletjournal.com/) en lugar de la agenda tradicional y estoy como niña con libreta nueva. Si quieres hacer feliz a un diseñador, **material escolar**, no lo dudes, material escolar.
+
+Por ahora, ya he programado una tarea _gorda_ para la semana que viene: los transplantes. Tengo en casa una decena de bonsais y prebonsais, les toca puesta a punto y tiene que ser ahora, que ya (casi) es primavera en la Región de Murcia.
+
+También continuo la desinfoxificación reestructurando mi Twitter. Da miedo ver el tiempo que puede consumir si le dejas, así que he empezado a sacar todo el tema _entrepeneur_ de mi timeline, para pasarlo a listas. De todas formas, no tengo muy claro qué hacía ahí. A estas alturas creo que está demasiado pasado de rosca para mí.
+
+
+
+En el trabajo, esta semana más normal aún que la anterior, así que aprovecho para adaptarme a mi **nueva rutina** con deporte incluido. Mi gran problema es que soy demasiado de mañanas, entonces lo que quiero hacer _de verdad_ lo tengo que hacer lo primero. Y ahí el deporte y el trabajo están compitiendo por la primera hora. Antes alternaba, pero ahora he de adaptarme de nuevo.
+
+Por suerte, apartarme de redes sociales, skype y mail está funcionando muy bien y estoy en el buen camino. Al final, **sólo es hacerlo sin pensar en si hacerlo**.
+
+En **WSL** seguimos con el experimento **«C»**. Ya nos queda poco. Con la prueba de la ley de Hick (menos opciones) de nuevo el <em lang="en">challenger</em> ha batido al original. Ahí creo que hemos llegado al final porque ya estamos en el mínimo. Implementaremos, veremos los resultados, y volveremos a iterar.
+
+Con la ley de Fitts, también el aspirante ha ganado al original, pero nos queda una fase más, donde los botones target son más grandes pero están más lejos del contexto. Mi tesis es que va a funcionar mejor que los botones más pequeños pero más cerca del contexto. ¿Se validará?
+
+Para una de las tareas del **front** de nuestros blogs ya tengo una propuesta lista para experimentar. No fue a la primera ni a la segunda, pero ahora estoy contenta con el resultado. Mis primeras ideas eran demasiado conservadoras. Aunque me forcé a hacer una propuesta diferente y lo conseguí, me quedé a medio camino. Necesité una iteración más y una colleja para sacar la que vamos a probar ahora. Apretar las tuercas un poco&#8230; parece que funciona.
+
+He retomado un **proyecto interno** que desde antes el verano está coleando. _En casa del herrero&#8230; la casa sin barrer_. Nos falta poco para poder lanzarlo, y he estado reactivando las tareas que nos quedan para acabar el mínimo viable. Después añadiremos más contenidos, pero al menos ya hay una lista concreta para acabar y poner deadline.
+
+Y una mala noticia, nos abandona una compañera a la que aprecio mucho, y que está con nosotros desde el principio 🙁 una pena, pero me alegro por ella, porque vuelve a su tierra. Espero que le vaya genial porque es una gran profesional.
+
+En el **proyecto bancario** mi compañero ha entregado ya al cliente el material para implementar, y hemos podido verlo funcionando en el servidor de desarrollo. Ha ido bastante bien, unos pocos detalles para arreglar, pero muy muy pocos. [Diego](http://diegosantamarta.com/) es un gran profesional, ha hecho un trabajo muy bueno y en el tiempo estimado, lo tengo ya en mi lista de VIPs 🙂
+
+Aparte del trabajo, di un paso para el **proyecto personal**, llamémosle «M», instalando el CMS y empezando a ver posibles themes que nos sirvan para empezar. No quiero retrasar la creación de contenido por diseñar algo específico. Busco un theme visual, pero con posibilidad de gestionar texto también. Algo estilo [Black Vostok](http://www.blackvostok.com/test/) pero con comentarios y otro tratamiento del texto. Conociéndome, seguro que al final me hago uno propio&#8230;
+
+Con este proyecto me he planteado la duda de **si hacerlo en inglés** directamente o en castellano. Y todavía no sé qué hacer! [soy lo peor](http://www.youtube.com/watch?v=xdp2MX77I1o), eso debería estar atado ya, siendo un proyecto de contenidos. Nuestra preferencia es el inglés, por alcance, pero creo que en castellano las opciones de monetizarlo son más realistas (aunque sea un poco, no tenemos grandes ambiciones en ese sentido).
+
+**¿Algún consejo?** Id pensando consejos mientras yo me voy de comida familiar&#8230; No iba a ser el finde ermitaño 100%!

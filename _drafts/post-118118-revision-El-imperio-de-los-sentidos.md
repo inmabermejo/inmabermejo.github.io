@@ -1,0 +1,18 @@
+---
+id: 1013
+title: El imperio de los sentidos
+date: 2004-05-17T10:06:07+02:00
+author: Chavalina
+layout: revision
+guid: http://www.wp.chavalina.net/2004/05/17/118-revision/
+permalink: /2004/05/17/118-revision/
+---
+No os equivoqu&eacute;is&#8230; me refiero al PC, al ordenador, que va _avanzando a pasos agigantados_ en su relaci&oacute;n con los humanos. Tras <a href=http://dmnet.bitacoras.com/index.php?id=1746>conquistarnos por el est&oacute;mago</a> se lanza a un nuevo universo: el del olfato.
+
+Y es que ya est&aacute; disponible para quien lo quiera .<a href=http://www.noticiasdot.com/publicaciones/2004/0504/1305/noticias130504/noticias130504-7.htm>el Aromatizador <acronym title="Universal Serial Bus">USB</acronym></a>, con hasta veinte fragancias distintas para poder recrear en tu habitaci&oacute;n toda clase de ambientes![gafas](/imagenes/emoticonos/gafas.gif) 
+
+Cu&aacute;l ser&aacute; la pr&oacute;xima chorrada que nos espera? un teclado de gel con apariencia de rubia neum&aacute;tica o morenazo cachas, seg&uacute;n corresponda?
+
+<p align="center">
+  <img src="http://www.noticiasdot.com/publicaciones/2004/0504/1305/noticias130504/images/usb-aromatizador.gif" border="1" alt="Aromatizador USB" />
+</p>

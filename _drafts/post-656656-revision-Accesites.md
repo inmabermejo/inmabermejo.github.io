@@ -1,0 +1,14 @@
+---
+id: 1137
+title: Accesites
+date: 2006-04-15T05:59:02+02:00
+author: Chavalina
+layout: revision
+guid: http://www.wp.chavalina.net/2006/04/15/656-revision/
+permalink: /2006/04/15/656-revision/
+---
+Hoy he encontrado en <a href="http://www.456bereastreet.com/archive/200604/a_showcase_for_attractive_and_accessible_websites/" target="_blank">456 Berea ST</a> un nuevo directorio de p&aacute;ginas que seguro que le encanta a <a href="http://usalo.es/" target="_blank">Juan Carlos</a>, puesto que se trata de p&aacute;ginas que, adem&aacute;s de tener un dise&ntilde;o atractivo, son **accesibles**.
+
+Se trata de <a href="http://accessites.org/home/" target="_blank">Accesites.org</a>, y **parece** que son _durillos_![emo](/imagenes/emoticonos/sonrisa.gif) 
+
+> Submission Stats

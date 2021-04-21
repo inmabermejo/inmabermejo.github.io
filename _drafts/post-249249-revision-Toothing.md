@@ -1,0 +1,20 @@
+---
+id: 1654
+title: Toothing
+date: 2004-10-28T11:03:35+02:00
+author: Chavalina
+layout: revision
+guid: http://www.wp.chavalina.net/2004/10/28/249-revision/
+permalink: /2004/10/28/249-revision/
+---
+Seguro que la mayor&iacute;a sabe lo que es el <a href="http://es.wikipedia.org/wiki/Bluetooth" target="_blank">Bluetooth</a> y quiz&aacute; tambi&eacute;n el <a href="http://www.noticiasdot.com/publicaciones/2004/0104/3001/noticias300104/noticias300104-27.htm" target="_blank">bluejacking</a>, pero &iquest;y el <a href="http://www.gsmspain.com/noticias/noticias.php?id=1123" target="_blank">toothing</a>?
+
+Para entrar un poco en materia, esto del _toothing_ es algo tan simple como el _aqu&iacute; te pillo y aqu&iacute; te mato_ por bluetooth, en adelante BT. Si tienes un tel&eacute;fono m&oacute;vil (lo m&aacute;s com&uacute;n) o un PDA con BT y muy poco tiempo para las relaciones sociales y sexuales, &eacute;sta es la tuya, simplemente juega a descubrir dispositivos en cualquier estaci&oacute;n de tren, aeropuerto o simplemente el hall de un hotel hasta que caiga alguien.
+
+Se suele comenzar con el mensaje «toothing», avisando, vamos, si a partir de ah&iacute; te siguen el rollo, ya puedes localizar a tu partenaire y, si entonces sigues dispuesto (que no todo el monte es or&eacute;gano, y todos los poseedores de dispositivos BT est&aacute;n buenos/as) os pod&eacute;is desfogar, como dir&iacute;a el se&ntilde;or Parada, en los lavabos p&uacute;blicos m&aacute;s cercanos.
+
+Hace ya unos meses que se comenz&oacute; a hablar de esta nueva manera de comunicarse, creo que tambi&eacute;n lo vi en el blog de <a href="http://pjorge.com/" target="_blank">pjorge</a> o bien en <a href="http://mobile.uberbin.net/" target="_blank">la zona tecnol&oacute;gica</a> de <a href="http://uberbin.net/" target="_blank">Denken &Uuml;ber</a>, en foros, en noticieros digitales y hasta el telediario de la hora de comer&#8230; y de la misma forma pas&oacute; de moda o al menos eso parece.
+
+No he vuelto a saber de ello, y mira que la cosa promet&iacute;a&#8230; porque hay gente para todo, &iquest;no?![emo](/imagenes/emoticonos/guino.gif) 
+
+Menos mal que <a href="http://www.chavalina.net/comentar.php?idpost=141&#038;q=" target="_blank">mi m&oacute;vil</a> tiene pocos extras, porque con tanta tecnolog&iacute;a vamos a acabar quitando el encanto hasta al ligoteo&#8230;

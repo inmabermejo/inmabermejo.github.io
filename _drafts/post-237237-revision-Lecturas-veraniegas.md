@@ -1,0 +1,23 @@
+---
+id: 944
+title: Lecturas veraniegas
+date: 2004-10-11T09:22:27+02:00
+author: Chavalina
+layout: revision
+guid: http://www.wp.chavalina.net/2004/10/11/237-revision/
+permalink: /2004/10/11/237-revision/
+---
+Os voy a contar un poco sobre los libros que he le&iacute;do este verano, eso s&iacute;, los Mortadelos no cuentan![emo](/imagenes/emoticonos/guino.gif) 
+
+  * **20.000 leguas de viaje submarino**. Todo un cl&aacute;sico y uno de mis g&eacute;neros favoritos. Ya lo hab&iacute;a le&iacute;do unas cuantas veces, pero vaya, no me cansa.
+  * **La sombra del viento**. Empec&eacute; a leerlo porque lo vi en alguna web y me ha sorprendido gratamente. Totalmente recomendable, no es la t&iacute;pica _espa&ntilde;olada_ (yo creo que tambi&eacute;n las hay en los libros)
+  * **La casa de los esp&iacute;ritus**. Ya lo hab&iacute;a le&iacute;do tambi&eacute;n, una historia que engancha peeeeero&#8230; es Isabel Allende, quien haya le&iacute;do algo de ella me entender&aacute;, y es que a veces se pone un poquito pesada. Aun as&iacute; el libro es una obra maestra.
+  * **Preg&uacute;ntale a Plat&oacute;n**. Mi hermana y mi madre me inducieron, es un libro que pretende _acercar_ la filosof&iacute;a a los iletrados como yo usando ejemplos de la vida diaria para ilustrar las diversas corrientes que se han dado a lo largo de la historia. Pero, sinceramente, se hace bastante pesado.
+  * **Los estados carenciales**. Parece un poco un libro de autoayuda camuflado de pseudo-novela de finales de los 90. Poca historia para mi gusto.
+  * **No te muevas**. No me gusta despreciar los libros porque yo no me siento capaz de escribir uno, y admiro mucho a quien lo hace, pero este libro es de lo peor que he le&iacute;do. Una historia facilona, un poquito de drama aqu&iacute;, un poquito de sexo all&aacute;, sentimentalismos a flor de piel&#8230; para esto mejor leed una novela rosa pura y dura y no os qued&eacute;is con este intento de algo.  
+    Y adem&aacute;s ahora han hecho una pel&iacute;cula. Posiblemente tenga &eacute;xito, pondr&aacute;n un par de escenas calientes y otras dos de llorar, y ya lo tienen hecho. Bueno, me callo ya.
+  * **Diez negritos**. Ya hab&iacute;a le&iacute;do antes a Agatha Christie. Este relato es de los que m&aacute;s me han gustado, muy interesante, te mantiene en vilo hasta el final&#8230; bueno, leedlo.
+  * **Pura Vida**. Bueno, un poquito facil&oacute;n, pero fresco y f&aacute;cil de leer. Para entretenerse un par de tardes. Creo que si se hubiera presentado al Premio Planeta el a&ntilde;o anterior hubiera ganado de calle al infame La Tempestad de De Prada.
+  * **Otros relatos de Agatha Christie**. Ahora he empezado con los relatos de Marple, que siempre me hacen pasar un rato interesante mientras busco otros terrenos habitables.
+  * **La tia Tula**. Gran GRAN obra de Unamuno, muy muy buena, llena de matices, cada vez que lo leo (y pensar que la primera fue obligada&#8230;) me gusta m&aacute;s. Bastante sencillo para ser de este se&ntilde;or, demasiado aficionado para mi gusto a filosofear en las novelas (Niebla), bueno, ser&aacute; que yo soy demasiado intransigente con esto.  
+    Pero lo bueno que tienen los cl&aacute;sicos es que no sueles llevarte sorpresas desagradables&#8230;

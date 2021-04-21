@@ -1,0 +1,12 @@
+---
+id: 1049
+title: El Jueves, secuestrado
+date: 2007-07-21T07:06:49+02:00
+author: Chavalina
+layout: revision
+guid: http://www.wp.chavalina.net/2007/07/21/815-revision/
+permalink: /2007/07/21/815-revision/
+---
+Todos sab&eacute;is ya que la revista <a href="http://eljueves.es/" target="_blank">el Jueves</a> has sido retirada esta semana por llevar en portada un chiste sobre el pr&iacute;ncipe Felipe. El caso es que yo creo que si cojo cualquiera de la monta&ntilde;a de Jueves que tengo en mi habitaci&oacute;n, seguro que saco varios chistes parecidos, y nunca ha pasado nada, &iquest;qu&eacute; ha pasado ahora?
+
+He intentado comprarlo pero he llegado tarde. Por suerte se puede <a href="http://www.megaupload.com/es/?d=Q2FIVTQ8" target="_blank">descargar el n&uacute;mero secuestrado del el Jueves</a> de megaupload. Esta descarga la he encontrado a trav&eacute;s de <a href="http://www.processblack.com/weblog/el-jueves-le-debe-una-al-sr-juez" target="_blank">ProcessBlack</a>, donde tambi&eacute;n se puede ver que el n&uacute;mero se est&aacute; subastando en Ebay.

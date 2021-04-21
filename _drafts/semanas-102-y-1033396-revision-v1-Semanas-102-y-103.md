@@ -1,0 +1,87 @@
+---
+id: 3399
+title: 'Semanas #102 y #103'
+date: 2015-11-15T22:17:41+02:00
+author: Chavalina
+layout: revision
+guid: http://www.chavalina.net/2015/11/15/3396-revision-v1/
+permalink: /2015/11/15/3396-revision-v1/
+---
+Dicen que antes de la tempestad viene la calma&#8230; pero a mi siempre me suele pasar al revés. 
+
+<blockquote class="instagram-media" data-instgrm-captioned data-instgrm-version="5" style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:658px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);">
+  <div style="padding:8px;">
+    <div style=" background:#F8F8F8; line-height:0; margin-top:40px; padding:50.0% 0; text-align:center; width:100%;">
+      <div style=" background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAsCAMAAAApWqozAAAAGFBMVEUiIiI9PT0eHh4gIB4hIBkcHBwcHBwcHBydr+JQAAAACHRSTlMABA4YHyQsM5jtaMwAAADfSURBVDjL7ZVBEgMhCAQBAf//42xcNbpAqakcM0ftUmFAAIBE81IqBJdS3lS6zs3bIpB9WED3YYXFPmHRfT8sgyrCP1x8uEUxLMzNWElFOYCV6mHWWwMzdPEKHlhLw7NWJqkHc4uIZphavDzA2JPzUDsBZziNae2S6owH8xPmX8G7zzgKEOPUoYHvGz1TBCxMkd3kwNVbU0gKHkx+iZILf77IofhrY1nYFnB/lQPb79drWOyJVa/DAvg9B/rLB4cC+Nqgdz/TvBbBnr6GBReqn/nRmDgaQEej7WhonozjF+Y2I/fZou/qAAAAAElFTkSuQmCC); display:block; height:44px; margin:0 auto -44px; position:relative; top:-22px; width:44px;">
+      </div>
+    </div>
+    
+    <p style=" margin:8px 0 0 0; padding:0 4px;">
+      <a href="https://instagram.com/p/9y6NlmtsqI/" style=" color:#000; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none; word-wrap:break-word;" target="_blank"></a>
+    </p>
+    
+    <p style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;">
+      A photo posted by Inma Bermejo (@inmabermejosalar) on <time style=" font-family:Arial,sans-serif; font-size:14px; line-height:17px;" datetime="2015-11-07T19:32:45+00:00">Nov 7, 2015 at 11:32am PST</time>
+    </p>
+  </div>
+</blockquote>
+
+
+
+Cuando tengo un par de semanas tranquilas&#8230; sé que algo se está gestando en algún sitio, y enseguida vendrá a por mi.
+
+Dos **fines de semana muy diferentes**, el primero lo aproveché mucho, visitando el pueblo, viendo a amigos y familia, y haciendo muchas fotos. Y éste que acaba, **trabajando días extra** para poder llegar a los Premios Xataka, y perdiéndome un par de eventos que tenía a la vista desde hace tiempo 🙁
+
+<blockquote class="instagram-media" data-instgrm-captioned data-instgrm-version="5" style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:658px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);">
+  <div style="padding:8px;">
+    <div style=" background:#F8F8F8; line-height:0; margin-top:40px; padding:50.0% 0; text-align:center; width:100%;">
+      <div style=" background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAsCAMAAAApWqozAAAAGFBMVEUiIiI9PT0eHh4gIB4hIBkcHBwcHBwcHBydr+JQAAAACHRSTlMABA4YHyQsM5jtaMwAAADfSURBVDjL7ZVBEgMhCAQBAf//42xcNbpAqakcM0ftUmFAAIBE81IqBJdS3lS6zs3bIpB9WED3YYXFPmHRfT8sgyrCP1x8uEUxLMzNWElFOYCV6mHWWwMzdPEKHlhLw7NWJqkHc4uIZphavDzA2JPzUDsBZziNae2S6owH8xPmX8G7zzgKEOPUoYHvGz1TBCxMkd3kwNVbU0gKHkx+iZILf77IofhrY1nYFnB/lQPb79drWOyJVa/DAvg9B/rLB4cC+Nqgdz/TvBbBnr6GBReqn/nRmDgaQEej7WhonozjF+Y2I/fZou/qAAAAAElFTkSuQmCC); display:block; height:44px; margin:0 auto -44px; position:relative; top:-22px; width:44px;">
+      </div>
+    </div>
+    
+    <p style=" margin:8px 0 0 0; padding:0 4px;">
+      <a href="https://instagram.com/p/9y6Te1tsqX/" style=" color:#000; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none; word-wrap:break-word;" target="_blank"></a>
+    </p>
+    
+    <p style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;">
+      A photo posted by Inma Bermejo (@inmabermejosalar) on <time style=" font-family:Arial,sans-serif; font-size:14px; line-height:17px;" datetime="2015-11-07T19:33:34+00:00">Nov 7, 2015 at 11:33am PST</time>
+    </p>
+  </div>
+</blockquote>
+
+
+
+Sábado y domingo pasados aproveché las mañanas para ir a hacer fotos por la <a hreff="https://www.google.com/maps/@38.1768496,-1.3722763,3a,75y,128.5h,86.52t/data=!3m6!1e1!3m4!1sfD-HMxsLsB6-3y66RRPvFQ!2e0!7i13312!8i6656">ribera del río</a> y [La Navela](https://www.google.com/maps/@38.169244,-1.3501096,3a,75y,197h,90t/data=!3m7!1e1!3m5!1sKW5_a1p5zfD8z9CC_975rg!2e0!6s%2F%2Fgeo2.ggpht.com%2Fcbk%3Fpanoid%3DKW5_a1p5zfD8z9CC_975rg%26output%3Dthumbnail%26cb_client%3Dsearch.TACTILE.gps%26thumb%3D2%26w%3D392%26h%3D106%26yaw%3D197.17995%26pitch%3D0!7i13312!8i6656), en Blanca. Tuve suerte y aunque no era muy muy temprano, quedaba rocío, la luz era buena, y lo pasé bien. Aunque tampoco es que hiciera unas fotos geniales, estoy cogiéndole el truco al teleobjetivo para hacer cosas un poco diferentes a lo que esperaba de él.
+
+Teniendo que trabajar de más la última semana, **del nuevo horario, ni flores**. Dejé de ir al gimnasio, y, me sorprende, pero lo he echado de menos. Otras veces cuando he faltado lo he notado poco, pero la combinación de inactividad con tantas horas sentada **me ha hecho cisco la espalda**. A ver si mañana hago el ánimo de volver, antes de que le coja el gusto a no ir.
+
+Sólo pude sacar tiempo para acompañar a un buen amigo en su cumpleaños, y me descubrieron un nuevo bar que espero visitar a menudo en adelante, y para tener una _cita de negocios_, en interesante compañía, aunque sin resultado positivo. **Uno de mis proyectos personales hace aguas** tal y como lo concebía, a no ser que se produzca un giro inesperado&#8230; Pero no soy optimista.
+
+Lo raro es que no se ha resentido la lectura. Ha caído un nuevo libro de [Wallander](http://www.amazon.es/gp/product/8483835231/ref=as_li_ss_tl?ie=UTF8&camp=3626&creative=24822&creativeASIN=8483835231&linkCode=as2&tag=chavadiari-21) en un santiamén. También [Thinking with type](http://thinkingwithtype.com/). Ya lo tenía medio leído porque está gratis online, pero ahora ya lo cogí en serio, que tengo la edición en papel y muy bien. Y hace unos días he empezado [Cita con Rama](http://www.amazon.es/gp/product/8435021521/ref=as_li_ss_tl?ie=UTF8&camp=3626&creative=24822&creativeASIN=8435021521&linkCode=as2&tag=chavadiari-21), un clásico de ciencia ficción que no recuerdo quién me lo recomendó, pero me está gustando mucho por ahora.
+
+<blockquote class="instagram-media" data-instgrm-captioned data-instgrm-version="5" style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:658px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);">
+  <div style="padding:8px;">
+    <div style=" background:#F8F8F8; line-height:0; margin-top:40px; padding:50.0% 0; text-align:center; width:100%;">
+      <div style=" background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAsCAMAAAApWqozAAAAGFBMVEUiIiI9PT0eHh4gIB4hIBkcHBwcHBwcHBydr+JQAAAACHRSTlMABA4YHyQsM5jtaMwAAADfSURBVDjL7ZVBEgMhCAQBAf//42xcNbpAqakcM0ftUmFAAIBE81IqBJdS3lS6zs3bIpB9WED3YYXFPmHRfT8sgyrCP1x8uEUxLMzNWElFOYCV6mHWWwMzdPEKHlhLw7NWJqkHc4uIZphavDzA2JPzUDsBZziNae2S6owH8xPmX8G7zzgKEOPUoYHvGz1TBCxMkd3kwNVbU0gKHkx+iZILf77IofhrY1nYFnB/lQPb79drWOyJVa/DAvg9B/rLB4cC+Nqgdz/TvBbBnr6GBReqn/nRmDgaQEej7WhonozjF+Y2I/fZou/qAAAAAElFTkSuQmCC); display:block; height:44px; margin:0 auto -44px; position:relative; top:-22px; width:44px;">
+      </div>
+    </div>
+    
+    <p style=" margin:8px 0 0 0; padding:0 4px;">
+      <a href="https://instagram.com/p/-HW0jTNskh/" style=" color:#000; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none; word-wrap:break-word;" target="_blank"> #A6000</a>
+    </p>
+    
+    <p style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;">
+      A photo posted by Inma Bermejo (@inmabermejosalar) on <time style=" font-family:Arial,sans-serif; font-size:14px; line-height:17px;" datetime="2015-11-15T18:07:33+00:00">Nov 15, 2015 at 10:07am PST</time>
+    </p>
+  </div>
+</blockquote>
+
+
+
+**En el trabajo**, bastante centrada en esta tarea para los Premios Xataka. Hacía tiempo que no tenía que hacer horas extra en el trabajo. El nuevo sistema de organización que nuestro CTO nos preparó al departamento de Diseño está funcionando muy bien, y sólo lo hemos tenido que hacer en lanzamientos muy concretos. A mi no me había tocado aún, al estar trabajando en producto, pero llevo dos semanas con una tarea un poco diferente, de la que no puedo contar mucho aún.
+
+Aparte de eso, sólo algunos **arreglos de _bugs_**, pues seguimos poniendo nuestro nuevo diseño en los blogs que faltan, y nuestros editores van encontrando _cosillas_, y una pequeña tarea de documentación para hacer una guía de estilo para publicidad para nuestro departamento de ventas, y así intentar tener piezas con estilo. Veremos qué resultado da.
+
+La semana que entra se presenta dura también al principio. El jueves 19 celebramos los [Premios Xataka](http://www.xataka.com/tag/premios-xataka-2015), pero este año no podré estar. Me quedo preparando cosas, y espero que el jueves y el viernes sean días tranquilos para los que estamos en remoto y poder volver a organizarme con normalidad.
+
+Por cierto, que los premios están bastante bien si te gusta la tecnología. Van un montón de marcas y te dejan toquetear todo jeje. Las entradas están muy disputadas, pero si quieres ir, puedes estar **atento**, que esta semana a lo mejor se puede [volver a conseguir alguna en Xataka](http://www.xataka.com/).

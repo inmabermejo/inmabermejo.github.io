@@ -1,0 +1,28 @@
+---
+id: 3042
+title: 'Semana #5'
+date: 2013-12-20T19:42:08+02:00
+author: Chavalina
+layout: revision
+guid: http://www.chavalina.net/2013/12/20/3039-revision-v1/
+permalink: /2013/12/20/3039-revision-v1/
+---
+_Versión corta_: Relax, repostería, **TRABAJO, TRABAJO, TRABAJO,** trabajo, zampar.
+
+_Versión larga_: semana de **traca fin de año** en el trabajo. El fin de semana aproveché para coger fuerzas, porque sabía lo que me esperaba (aunque al final fue hasta más extenuante de lo que pensaba). Así que sábado de relax total, lectura, huerto, una cerveza mirando por la ventana. Y el domingo, algo diferente, hice dulces navideños.
+
+
+
+En Weblogs SL, tres días infernales, contrarreloj, para hacer lo mejor posible el [**especial retrogaming**](http://www.xataka.com/especial/retrogaming-nostalgia-videojuegos) que hemos sacado esta semana. Mi compañero [Dani Candil](http://acrowdofmonsters.com/) realizó las maravillosas ilustraciones, y yo me encargué del diseño y maquetación de los contenidos. _Y de meter algún easter egg_. Me apena que con el poco tiempo que hemos tenido no hemos podido hacer que quedara todo como queríamos, creo que se quedaron el 60% de las ideas en el tintero, habrá que aprovecharlas en próximas ocasiones.
+
+La semana anterior había estado preparando el _esqueleto_ de la criatura. Ejercitando el tema tipográfico, probando en móviles, tablets y varios ordenadores. Construyendo un sistema de maquetación para **poder reutilizar en el futuro, responsive y flexible**, pero que aún tengo que depurar y mejorar. Por ahora parece que está funcionando bien.
+
+Ha sido agotador por la premura, pero estoy contenta con el resultado, porque creo que ha salido muy bien, creo que se realza y se hace más dinámico el contenido, que era muy textual y largo, y a los lectores les ha gustado, que era lo importante.
+
+Y una vez <del datetime="2013-12-20T18:36:45+00:00">parido el hijo</del> lanzado, de vuelta a los experimentos. Esta vez me va a tocar investigar para mejorar el ratio de suscripción a los blogs.
+
+Y, al margen del trabajo diario, he empezado a diseñar una encuesta que quiero hacer a mis compañeros para que me cuenten qué tal el año, y hacer un balance del cambio en el modo de trabajo que hicimos en octubre-noviembre de 2012. Básicamente pasamos de ser 3 a 5 y medio, organizados en departamentos separados, en lugar de hacer _«guerra de guerrillas»_. Mi valoración es positiva, ya no vamos locos perdidos, pero también cuesta más tener visión de todo lo que pasa.
+
+Sin nada del proyecto bancario en el horizonte hasta el día 26, y una nueva tarea para la red social de moda, ya para la semana que viene, hoy tocaba cambiar de tercio, darle una vuelta a la oficina en casa (todavía tengo que encontrar la disposición que me satisfaga), y **comida de empresa** de freelance. 
+
+Este año hemos fallado en el Enso, cambio radical hacia Foster&#8217;s Hollywood. _No solo de sushi vive el diseñador_.

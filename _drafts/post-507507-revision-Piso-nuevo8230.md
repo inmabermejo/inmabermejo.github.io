@@ -1,0 +1,16 @@
+---
+id: 1558
+title: 'Piso nuevo&#8230;'
+date: 2005-06-30T07:50:49+02:00
+author: Chavalina
+layout: revision
+guid: http://www.wp.chavalina.net/2005/06/30/507-revision/
+permalink: /2005/06/30/507-revision/
+---
+<img class="imgizqda" src="/imagenes/fotos/equipaje.jpg" alt="Mi equipaje" /> &#8230; vida nueva.  
+Hoy mis compa&ntilde;eras y yo hemos dejado el piso en el que vivo desde hace cuatro a&ntilde;os. La cosa no ha acabado muy bien con la casera, que no se ha portado muy bien con nosotras de un tiempo a esta parte. En plena &eacute;poca de ex&aacute;menes nos avisa con 3 d&iacute;as de antelaci&oacute;n de que tenemo que irnos![emo](/imagenes/emoticonos/enfadado.gif) 
+
+La verdad es que me cuesta mucho dejarlo. Por mucho que odie a la casera y me vaya a un sitio mejor, hoy _simplemente no quer&iacute;a irme_, me han pasado tantas cosas ah&iacute;&#8230; es raro. Mi piso anterior fue muy especial tambi&eacute;n, pero &eacute;ste es diferente, las cenas de navidad, los botelleos improvisados, todas las figurillas que robamos del piso de mis amigos, el viaje a Alemania, los cumplea&ntilde;os con 60 personas, la mesa de la terraza, la se&ntilde;al de tr&aacute;fico, los ingenieros de obras p&uacute;blicas (y el resto), Isa, Carmen&#8230; bueno, al menos me queda la pelirroja y Cristina, y aprovecho para decir que si alguna de las que me leen buscan piso para el a&ntilde;o que viene&#8230; pues <a href="http://www.chavalina.net/correo.php" target="_blank">que me escriba</a>.
+
+Pero bueno, eso ya est&aacute; pasado.  
+Ahora tenemos un piso nuevo que est&aacute; mucho mejor, y yo el a&ntilde;o que viene tomo la Ingenier&iacute;a Superior por banda y me dedicar&eacute; a ello por completo, menos cuando vaya a Bolonia a ver a mi Sika. Han cambiado muchas cosas para m&iacute; este a&ntilde;o, dejo mucho atr&aacute;s con esto, ya hab&iacute;a salido pero ahora adem&aacute;s cierro la puerta. Y ahora s&oacute;lo hay que mirar hacia adelante.

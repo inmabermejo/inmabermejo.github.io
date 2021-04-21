@@ -1,0 +1,27 @@
+---
+id: 1032
+title: 'Melbourne se ti&ntilde;e de azul'
+date: 2005-03-06T05:15:15+02:00
+author: Chavalina
+layout: revision
+guid: http://www.wp.chavalina.net/2005/03/06/360-revision/
+permalink: /2005/03/06/360-revision/
+---
+<img class="imgizqda" src="http://www.formulamania.com/img/fotos/fisico-melbourne-podio.jpg" alt="Giancarlo Fisichella se alza con la victoria en Melbourne" />Completa, una carrera muy completa la de ayer. Giancarlo Fisichella se alz&oacute; con la victoria sin dificultades despu&eacute;s de mantener la pole en los entrenamientos de ayer, acompa&ntilde;ado en el podio por Rubens Barrichello y su compa&ntilde;ero Fernando Alonso, <a href="http://www.formulamania.com/news/comentar.php?idpost=386" target="_blank">como adelant&aacute;bamos</a> hace unas horas.
+
+Una carrera tranquila durante las primeras vueltas, con poco movimiento. Adelantamientos a los pilotos de Jordan y Minardi, mientras que otros como Heidfeld o Villeneuve fueron huesos duros de roer, frenando este &uacute;ltimo a Fernando Alonso durante el primer tercio de la carrera, aunque el Nano consigui&oacute; superarlo y entonces ya no tuvo m&aacute;s problemas para alcanzar la zona de puntos.
+
+Hay que destacar esta jornada la estrategia del equipo Renault. Conservadores con Fisichella, donde no ten&iacute;an dif&iacute;cil mantener la posici&oacute;n debido a los pilotos que se colocaron detr&aacute;s de &eacute;l y actuaron de tap&oacute;n para los que hubieran podido ser competencia. Muy bien pensada la de Alonso, eligiendo muy bien los momentos en los que entrar a repostar y gracias a los que Alonso ha conseguido colarse en los primeros puestos, superando sin riesgo a pilotos como Webber o Montoya, que en un adelantamiento en pista hubieran podido causarle problemas.
+
+<img class="imgizqda" src="http://www.formulamania.com/img/fotos/barrichello-melbourne-podio.jpg" alt="Rubens Barrichello junto a Alonso y Fisichella en el podio" /> No debemos olvidar el segundo puesto de Rubens Barrichello.  
+Remontando desde la atr&aacute;s, a su ritmo, poco a poco y limpiamente, ha conseguido superar a todos hasta colocarse en segunda posici&oacute;n. Menos acierto ha tenido hoy su compa&ntilde;ero de equipo Michael Schumacher, que cambi&oacute; el motor antes de comenzar y sali&oacute; muy retrasado, consigui&oacute; remontar hasta la d&eacute;cima posici&oacute;n, pero que tras un encontronazo con Heidfeld tras salir de boxes acab&oacute; fuera de pista y fuera de la carrera.
+
+No comienza muy bien este mundial para el Kaiser, es curioso ver c&oacute;mo s&oacute;lo ha cambiado un piloto respecto al resultado del a&ntilde;o pasado pero la relevancia que alcanza por el hecho de ser Michael Schumacher. Se habla de dominio Renault y fin de la era Ferrari&#8230; cuando han conseguido poner a un piloto en el podio sin ni una pizca de suerte.
+
+Ahora algunos miran con recelo hacia el equipo McLaren, del que se esperaba bastante y que han tenido una actuaci&oacute;n bastante discreta.
+
+Enhorabuena al equipo Red Bull Racing, que ha conseguido mantener a David Coulthard en cuarta posici&oacute;n, de lo mejor considerando sus resultados el a&ntilde;o anterior.
+
+La impresi&oacute;n personal que he sacado es que la carrera ha sido muy conservadora, poco arriesgada. Le ha faltado espect&aacute;culo. Quiz&aacute; los equipos se reservan para Malasia, debemos tener en cuenta que los motores que han usado hoy les tienen que servir para el siguiente gran premio, que ser&aacute; donde realmente se pondr&aacute; a prueba las mejoras en fiabilidad que se han conseguido.
+
+Mucho m&aacute;s en <a href="http://www.formulamania.com" target="_blank">Formulamania</a>.

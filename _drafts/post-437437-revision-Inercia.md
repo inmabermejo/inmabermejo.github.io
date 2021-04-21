@@ -1,0 +1,18 @@
+---
+id: 1565
+title: Inercia
+date: 2005-05-14T14:27:05+02:00
+author: Chavalina
+layout: revision
+guid: http://www.wp.chavalina.net/2005/05/14/437-revision/
+permalink: /2005/05/14/437-revision/
+---
+Es complicado vivir.  
+Qu&eacute; f&aacute;cil es dejar pasar la vida y qu&eacute; complicado es vivir.
+
+Guarda sitio en la biblioteca, crea un logotipo, sal a tomar unas ca&ntilde;as, haz unas pr&aacute;cticas para clase, ve a comprar para la semana, haz pr&aacute;cticas con el coche, responde un email, lee un libro, repara un ordenador, suspira una vez, compra un nuevo bikini, haz una entrevista de trabajo, ap&uacute;ntate al gimnasio. Estoy cansada.
+
+Muchas veces me siento como un aut&oacute;mata que ya no puede romper la rutina simplemente por no tener tiempo para hacerlo. Y mientras hago todo esto simplemente porque toca, se me escapa la vida, se me pasa el tiempo. De vez en cuando tengo que parar para darme cuenta de las cosas que pasan, para analizar qu&eacute; estoy haciendo en un momento y por qu&eacute;. Y muchas veces ni siquiera lo s&eacute;. Creo que hasta puede que me haya sentido feliz y no me haya dado cuenta, mientras segu&iacute;a mi rutina. Vaya, creo que mi _vida_ ha adquirido _vida_ propia y se gobierna sola, ya no me necesita.
+
+Y es que la inercia es una fuerza muy poderosa. Esto me recuerda a lo que dice mi hermana sobre el capitalismo, que una vez _lanzado_ no se puede detener.  
+Yo s&iacute; quiero detener mi vida, porque quiero bajarme un momento, necesito pensar.

@@ -1,0 +1,38 @@
+---
+id: 1396
+title: Mi enfermedad
+date: 2004-04-20T10:38:52+02:00
+author: Chavalina
+layout: revision
+guid: http://www.wp.chavalina.net/2004/04/20/90-revision/
+permalink: /2004/04/20/90-revision/
+---
+<p align="center">
+  Estoy vencido porque el mundo me hizo as&iacute;,<br /> <br /> no puedo cambiar.<br /> <br /> Soy el remedio sin receta y tu amor<br /> <br /> mi enfermedad.<br /> <br /> Estoy vencido porque el cuerpo de los dos<br /> <br /> es mi debilidad<br /> <br /> esta vez el dolor va a terminar.
+</p>
+
+Parece que la fiesta termin&oacute;,  
+  
+perdidos en el t&uacute;nel del amor.  
+  
+Y dicen las hojas del libro que m&aacute;s leo yo  
+  
+que esta vez el esclavo se escap&oacute;.
+
+Me entrego al vino porque el mundo me hizo as&iacute;,  
+  
+no quiero cambiar.  
+  
+Soy el remedio sin receta y tu amor mi enfermedad.  
+  
+Estoy vencido porque el cuerpo de los dos es  
+  
+mi debilidad, esta vez el dolor va a terminar.
+
+Del &aacute;rbol una hoja se cay&oacute;,  
+  
+en mi boca la manzana se fundi&oacute;.  
+  
+Tendr&iacute;as que aprender a pedir perd&oacute;n,  
+  
+esta vez la cadena se rompi&oacute;.

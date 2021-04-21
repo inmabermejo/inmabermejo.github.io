@@ -1,0 +1,40 @@
+---
+id: 3032
+title: 'Semana #4'
+date: 2013-12-13T20:16:26+02:00
+author: Chavalina
+layout: revision
+guid: http://www.chavalina.net/2013/12/13/3027-revision-v1/
+permalink: /2013/12/13/3027-revision-v1/
+---
+Una semana más fichando por aquí. Esta vez, con muy buenas sensaciones, aunque no sé muy bien por qué, ya que he trabajado tanto o más que la anterior. 
+
+
+
+Será que eché un buen fin de semana con los amigos, que buena falta me hacía: la deliciosa cena con maridaje de [viñaelenas](http://www.vinaelena.com/) (que no me mataron) en el Club de Tenis de Cieza, la comida en la que casi salimos ardiendo, y el domingo que no se acababa.
+
+O que recibí [suculentos regalitos](http://instagram.com/p/hk_hMbNsvr/) por mi santo.
+
+O quizá también que el trabajo de esta semana me está gustando especialmente. 
+
+La cuestión es que a pesar de haber trabajado como una mona, hoy sigo con sonrisa, y no porque sea viernes (<abbr="Thank God it's Friday">TGIF</abbr>? NO.).
+
+Por fin en la **recta final del proyecto bancario**. Hice la última entrega y falta el feedback e impresiones del cliente tras revisarlo con su equipo. Con muchas ganas de ponerlo ya en marcha para ver cómo afecta el rediseño a sus números, ya que lo tienen todo medido al milímetro. Además, van a hacer pruebas A/B con dos de los diseños que les he propuesto. Aunque no sé aún si podré contar mucho de este experimento.
+
+Acabando una **tarea breve para la red social de moda**. Lo fue porque hay muchos benchmarks de competidores de todo tipo, así que intenté fijarme en sus fallos y aciertos, y teniéndolo en cuenta, crear una solución adecuada. Era una cuestión básica en sitios que manejan «stock» de marcas (en este caso de ropa), así que es un patrón frecuente, y tocaba **aprender de los que lo hacen bien**.
+
+En **Weblogs SL** casi todo mi tiempo se lo ha llevado el trabajo con el equipo editorial. Por ahora sólo puedo decir **lo mucho que me gusta trabajar con mi compañero Dani Candil**. Es un verdadero crack, como he visto pocos, y con una actitud y aptitudes que para mí las quisiera.
+
+Algo que me gustó menos fue trabajar en los espacios de marca, concretamente en uno que tenemos de larga duración (gracias Toyota!). Es un trabajo más repetitivo, aunque esta vez fue un poco más duro, trabajo de front-end que casi consigue volvernos locas a mi compañera Esther y a mi. El front de WSL es relativamente sencillo, pero en estos espacios de marca se vuelve complejo porque cada uno quiere cosas diferentes, especiales, y por eso hay que andar con cuidado especial cuando trabajamos en ellos.
+
+Y he trabajado bastante una de mis debilidades más graves. Tipografía. ¡Si es que tiemblo sólo de escucharlo! **Tipografía**. Buuuu.
+
+Pues he estado intentando construir un **sistema tipográfico basado en una escala**, preparada para móvil, tablet y ordenador. He revisado las notas de la clase que [José Román](http://www.bynewroman.com/) nos dio en el Programa Vostok, también he consultado el artículo de A List Apart [More meaningful typography](http://alistapart.com/article/more-meaningful-typography) y he utilizado la herramienta [Modular Scale](http://modularscale.com/), con la escala 1:raíz de 2.
+
+También conocí otra herramienta interesante, [A Visual Type Scale](http://type-scale.com/), pero no la utilicé porque prefiero construir una paginita HTML con contenido real y probarlo directamente en todos los dispositivos.
+
+Creo que poder hacer código real es lo mejor para no atrancar, y no depender de terceros. Creo que **es una gran inversión para un diseñador**, porque además no es tan difícil aprender lo suficiente, lo básico. 
+
+A ver si consigo terminar y validar este sistema, y me animo a aplicarlo al blog.
+
+Y antes de irme de relax, os dejo un artículo muy bueno de Fernando Blat, [Qué le digo a un programador que está en paro](http://fernando.blat.es/post/69391992190/que-le-digo-a-un-programador-que-esta-en-paro).

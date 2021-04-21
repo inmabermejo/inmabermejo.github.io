@@ -1,0 +1,24 @@
+---
+id: 3068
+title: 'Semana #8'
+date: 2014-01-12T18:47:35+02:00
+author: Chavalina
+layout: revision
+guid: http://www.chavalina.net/2014/01/12/3064-revision-v1/
+permalink: /2014/01/12/3064-revision-v1/
+---
+¡Vuelta al trabajo!
+
+Tras aprovechar el último fin de semana de las fiestas comiendo todos los dulces posibles (los he terminado hoy) y un día de Reyes un poco extraño pero con muchos regalos chulos, he vuelto al trabajo con un nuevo horario que ya he empezado a saltarme.
+
+
+
+Porque esta semana **he sustituido la hora del deporte por la hora de las rebajas**, incumpliendo varios de mis propósitos, pero fue divertido: cacé algo que había fichado hace meses a mitad de precio y de rebote cayó un [Componibili](http://www.amazon.es/gp/product/B004UL4CTK/ref=as_li_ss_tl?ie=UTF8&camp=3626&creative=24822&creativeASIN=B004UL4CTK&linkCode=as2&tag=chavadiari-21)<img src="http://ir-es.amazon-adsystem.com/e/ir?t=chavadiari-21&#038;l=as2&#038;o=30&#038;a=B004UL4CTK" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /> y otro para mi hermana. Así las gastamos&#8230;
+
+De vuelta a Weblogs SL **he empezado a ver los resultados de los experimentos** que dejamos corriendo. No tenemos aún suficientes datos como para resultar concluyente, por ahora la opción que me parecía la mejor va en cabeza pero con muy poca diferencia respecto a la más conservadora de las otras. Una vez lo demos por terminado, pasaré a probar un nuevo diseño que he preparado, con más texto, bueno, _con algo de texto_. A ver si hay diferencias.
+
+Aparte de eso, me he puesto al día, he tenido cuatro reuniones para planificar los siguientes movimientos en i+d y hacer **balance con mis compañeros**. Creo que no me lo he preparado suficiente, porque, aunque pude hacer un buen análisis de lo que había sido el año, y les di bastante feedback, no conseguí que ellos dieran sobre mí. Solamente sobre procesos o posibles mejoras técnicas, pero no sobre mi forma de comunicarme, de organizar&#8230; Creo que funcionaría mejor con una encuesta anónima, o también con preguntas más concretas. Quizá como una entrevista, preparándola como aprendí en el curso de UXLearn el año pasado. Pero es poco natural para hacerlo a gente con la que hablas cada día&#8230;
+
+Cerré las tareas pendientes para la red social de moda, y **me reuní con mis clientes del proyecto bancario**. Había presentado una propuesta para la portada bastante conservadora, y, la verdad, **no tuvo mucho éxito**. La estructura y zona de contenidos sí se aprobó, estaba en la línea de las páginas interiores que habíamos trabajado antes, pero la zona de presentación del servicio <em lang="en">above the fold</em> era poco potente visualmente. Ahora estoy trabajando en la nueva. He pensado hacer varios ejercicios con el contenido presentado de distinta forma, aunque luego tenga que hacer _recortes_ para presentar la versión final.
+
+Este fin de semana, desconexión, matanza con los amigos (gracias Patricia) y a coger la siguiente con energía, aunque **con el dolor de muelas que arrastro** desde el viernes casi no me llega ni para escribir la retro de esta semana 🙁

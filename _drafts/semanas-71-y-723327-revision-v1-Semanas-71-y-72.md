@@ -1,0 +1,72 @@
+---
+id: 3329
+title: 'Semanas #71 y #72'
+date: 2015-04-06T07:21:08+02:00
+author: Chavalina
+layout: revision
+guid: http://www.chavalina.net/2015/04/06/3327-revision-v1/
+permalink: /2015/04/06/3327-revision-v1/
+---
+Vacaciones, caramelos, monas, procesiones&#8230; cómo no me va a gustar la Semana Santa. Y más este año que el tiempo ha dado tregua, y estamos disfrutando de unos días realmente estupendos.
+
+<blockquote class="instagram-media" data-instgrm-version="4" style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:658px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);">
+  <div style="padding:8px;">
+    <div style=" background:#F8F8F8; line-height:0; margin-top:40px; padding:50% 0; text-align:center; width:100%;">
+      <div style=" background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAsCAMAAAApWqozAAAAGFBMVEUiIiI9PT0eHh4gIB4hIBkcHBwcHBwcHBydr+JQAAAACHRSTlMABA4YHyQsM5jtaMwAAADfSURBVDjL7ZVBEgMhCAQBAf//42xcNbpAqakcM0ftUmFAAIBE81IqBJdS3lS6zs3bIpB9WED3YYXFPmHRfT8sgyrCP1x8uEUxLMzNWElFOYCV6mHWWwMzdPEKHlhLw7NWJqkHc4uIZphavDzA2JPzUDsBZziNae2S6owH8xPmX8G7zzgKEOPUoYHvGz1TBCxMkd3kwNVbU0gKHkx+iZILf77IofhrY1nYFnB/lQPb79drWOyJVa/DAvg9B/rLB4cC+Nqgdz/TvBbBnr6GBReqn/nRmDgaQEej7WhonozjF+Y2I/fZou/qAAAAAElFTkSuQmCC); display:block; height:44px; margin:0 auto -44px; position:relative; top:-22px; width:44px;">
+      </div>
+    </div>
+    
+    <p style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;">
+      <a href="https://instagram.com/p/0v8DTvNso-/" style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none;" target="_top">A photo posted by Inma Bermejo (@inmabermejosalar)</a> on <time style=" font-family:Arial,sans-serif; font-size:14px; line-height:17px;" datetime="2015-03-27T23:08:34+00:00">Mar 27, 2015 at 4:08pm PDT</time>
+    </p>
+  </div>
+</blockquote>
+
+
+
+He aprovechado los días en Murcia para asistir a dos procesiones, la del [Viernes de Dolores](http://www.laverdad.es/murcia/semana-santa/murcia/201502/27/viernes-dolores.html) y la de [Miércoles Santo](http://www.laverdad.es/murcia/semana-santa/murcia/201502/27/miercoles-santo.html). Me quedé con ganas de ver también la del jueves por la noche, la del [Silencio](http://www.laverdad.es/murcia/semana-santa/murcia/201502/27/jueves-santo.html#procesion2), pero ya tocaba ver las de Blanca. El año que viene, será otra cosa.
+
+Algunos que me conocen se sorprenden de que me guste mucho ver las procesiones a pesar de mi agnosticismo, pero yo creo que mis creencias o no creencias no ponen ni quitan para apreciar [la belleza de las imágenes](https://www.flickr.com/photos/109568567@N03/13980388935/) y de [algunos rituales](https://www.flickr.com/photos/109568567@N03/sets/72157644202606066), como puede ser una procesión del Silencio. También apenarme cuando veo el poco respeto que se tiene en general por la procesión.
+
+En Murcia [es costumbre dar caramelos, monas, dulces&#8230; al público](http://gastronomiaycuriosidades.blogspot.com.es/2014/04/los-caramelos-y-la-semana-santa-de.html). El problema viene cuando la gente despliega **el afán** -también típico de cabalgatas de Reyes, Bando de la Huerta y todo tipo de desfiles- y en lugar de respetar el paso, se meten en las filas, gritan, interrumpen la procesión pidiendo caramelos. Niños y padres, y lo que es peor, padres azuzando a sus niños. En ese sentido envidio un poco las procesiones más serias, y me pregunto si no será posible conseguir algo más solemne sin renunciar a esta tradición de las golosinas.
+
+<blockquote class="instagram-media" data-instgrm-captioned data-instgrm-version="4" style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:658px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);">
+  <div style="padding:8px;">
+    <div style=" background:#F8F8F8; line-height:0; margin-top:40px; padding:50% 0; text-align:center; width:100%;">
+      <div style=" background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAsCAMAAAApWqozAAAAGFBMVEUiIiI9PT0eHh4gIB4hIBkcHBwcHBwcHBydr+JQAAAACHRSTlMABA4YHyQsM5jtaMwAAADfSURBVDjL7ZVBEgMhCAQBAf//42xcNbpAqakcM0ftUmFAAIBE81IqBJdS3lS6zs3bIpB9WED3YYXFPmHRfT8sgyrCP1x8uEUxLMzNWElFOYCV6mHWWwMzdPEKHlhLw7NWJqkHc4uIZphavDzA2JPzUDsBZziNae2S6owH8xPmX8G7zzgKEOPUoYHvGz1TBCxMkd3kwNVbU0gKHkx+iZILf77IofhrY1nYFnB/lQPb79drWOyJVa/DAvg9B/rLB4cC+Nqgdz/TvBbBnr6GBReqn/nRmDgaQEej7WhonozjF+Y2I/fZou/qAAAAAElFTkSuQmCC); display:block; height:44px; margin:0 auto -44px; position:relative; top:-22px; width:44px;">
+      </div>
+    </div>
+    
+    <p style=" margin:8px 0 0 0; padding:0 4px;">
+      <a href="https://instagram.com/p/1GBToZNsnH/" style=" color:#000; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none; word-wrap:break-word;" target="_top">Domingo soleado #respect</a>
+    </p>
+    
+    <p style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;">
+      Una foto publicada por Inma Bermejo (@inmabermejosalar) el <time style=" font-family:Arial,sans-serif; font-size:14px; line-height:17px;" datetime="2015-04-05T12:57:46+00:00">5 de Abr de 2015 a la(s) 5:57 PDT</time>
+    </p>
+  </div>
+</blockquote>
+
+
+
+Así que, pasada la Semana Santa, nos quedan las Fiestas de Primavera en Murcia y Blanca, y tengo algunos días libres. En el trabajo, intenté aprovechar mucho los días antes de irme, entrando en [modo pre-vacaciones](http://canasto.es/2007/04/pre-vacaciones/) total y consiguiendo bastante productividad.
+
+Terminé el front-end del **Módulo H** y tuve reuniones tanto con Julio Alonso como con Roberto de nuestro departamento Editorial para validar la implementación. 
+
+Fueron bien en cuanto a lo que habíamos trabajado en los wireframes y el diseño visual también, y comentamos algunos ajustes sobre el contenido, que no habíamos trabajado en profundidad en la fase anterior, cosa que deberíamos haber hecho. Aun así, fueron cambios muy sencillos y que vimos muy claros, y ahora ya sólo me queda una nueva ronda de presentación. Después tendré que trabajar en la adaptación a tablet y móvil.
+
+Esta semana he caído en la cuenta de que de verdad estoy trabajando _mobile first_. Y ahora veo claro que no es una técnica, sino una filosofía, es un estado mental. Por mi parte, ya no pienso en _breakpoints_, sino en _puntos de expansión_, es decir, no dónde el diseño se rompe, sino dónde cambia, crece y se adapta. La diferencia es sutil pero a la hora de plantearlo, me hace trabajar mejor.
+
+Estuve **poniéndome en marcha con git** (con Github) para los proyectos del trabajo. Yo ya había trabajado antes con [Bitbucket](https://bitbucket.org/) y [SourceTree](http://www.sourcetreeapp.com/) para otros proyectos, pero ahora tengo que cambiar a Github y adaptarme al flujo de trabajo compartido. Usamos [Github flow](https://guides.github.com/introduction/flow/) un poco modificado (una rama por tarea) y me ha resultado bastante intuitivo, me gusta más que el que usaba de forma personal.
+
+Aunque para el trabajo que yo hago no usamos esta herramienta, tengo que conocerla para echar una mano cuando haga falta en nuestros proyectos con clientes. Y quién sabe, quizá pronto podamos usarlo también para el CSS de producto, que ahora gestionamos con SVN.
+
+Estuve un par de sesiones con mis compañeros Javi y Rafa haciendo unos ejemplos, y me sirvieron para recordar por qué uso Mac para trabajar. 
+
+Los programas y procesos pueden ser parecidos en Windows, pero siempre hay algún atasco, algún problema, algo que no encuentras a la primera, **algo que no fluye** y te hace tener que cambiar el chip de la tarea que estás haciendo para resolver ese atasco. Y luego tienes que volver al punto que estabas. Una interrupción, vamos.
+
+No pasa siempre, pero mi sensación es que en Windows me pasa mucho más que en Mac, y aunque es algo subjetivo, a mi me ha hecho decantarme claramente, a pesar de gustarme mucho lo que está haciendo Microsoft últimamente.
+
+Acabé la semana preparando la presentación para mostrar los avances en el módulo H, y de paso, mejoré un poco la estructura de la presentación que había estado usando, lamentablemente no por iniciativa mía, sino por petición _del público_ de cosas que yo misma debería haber visto. 
+
+Ahora, un par de días más de trabajo, dos presentaciones y de nuevo unos días de fiesta, que queda lo mejor.
