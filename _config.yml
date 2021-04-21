@@ -31,10 +31,10 @@ github_username:  inmabermejo
 # theme: minima
 plugins:
   - jekyll-feed
-title: Chavalina. Diario.
-description: Blog personal de Inma Bermejo
-author: Inma Bermejo
-url: http://chavalina.net
+  - jekyll-paginate
+
+paginate: 10
+paginate_path: "/page/:num/"
 
 # Exclude from processing.
 # The following items will not be processed, by default.
