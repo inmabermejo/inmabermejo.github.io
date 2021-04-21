@@ -31,7 +31,9 @@ github_username:  inmabermejo
 # theme: minima
 plugins:
   - jekyll-feed
-
+title: Chavalina. Diario.
+description: Blog personal de Inma Bermejo
+author: Inma Bermejo
 feed:
   path: feed/
 
