@@ -1,0 +1,16 @@
+id: 2984
+name: ala_747
+email: nfanti@hotmail.com
+avatar: https://www.gravatar.com/avatar/dd9067ec437c60000f75dddec75b88ef?r=pg&d=retro
+url: http://www.100px.com/
+date: 2005-01-12 04:10:10
+message: "Gracias mil. Justo necesitaba un switcher en <acronym title=\"Hypertext PreProcessor\">PHP</acronym> para el ejemplo de mi &uacute;ltimo art&iacute;culo y me has ahorrado un trabaj&iacute;n <img src=\"/imagenes/emoticonos/sonrisa.gif\" alt=\":-)\" /> <br />
+<br />
+Me he tomado la libertad de modificarlo un poquito para lograr dos cosas: que no haga falta un archivo \"de paso\" (tu \"styleswitcher.php\") sino que todo suceda en la misma p&aacute;gina y, adem&aacute;s, que permita la definici&oacute;n simult&aacute;nea y cambio de m&aacute;s de un <acronym title=\"Cascade Style Sheets\">CSS</acronym> por p&aacute;gina (lo necesitaba porque en el ejemplo cargo dos <acronym title=\"Cascade Style Sheets\">CSS</acronym> al mismo tiempo y deb&iacute;a poder cambiarlos independientemente uno del otro).<br />
+<br />
+El c&oacute;digo a disposici&oacute;n de todos:<br />
+<br />
+<br />
+Para verlo funcionando: [LINK=http://www.100px.com/ejs/8/~]el ejemplo del art&iacute;culo[~LINK] .<br />
+<br />
+Espero que le sea &uacute;til a alguien m&aacute;s <img src=\"/imagenes/emoticonos/guino.gif\" alt=\";-)\" /> "

@@ -1,0 +1,30 @@
+
+{% if comment.url %}
+<a href="{{ comment.url }}" rel="nofollow">
+  <img alt="Gravatar for {{ comment.name | xml_escape }}" src="https://secure.gravatar.com/avatar/{{ comment.gravatar }}?s=48&amp;d=retro&amp;r=pg" srcset="https://secure.gravatar.com/avatar/{{ comment.gravatar }}?s=128&amp;d=retro&amp;r=pg 2x" class="avatar avatar-48 photo" height="48" width="48">
+</a>
+{% else %}
+<img alt="Gravatar for {{ comment.name | xml_escape }}" src="https://secure.gravatar.com/avatar/{{ comment.gravatar }}?s=48&amp;d=retro&amp;r=pg" srcset="https://secure.gravatar.com/avatar/{{ comment.gravatar }}?s=128&amp;d=retro&amp;r=pg 2x" class="avatar avatar-48 photo" height="48" width="48">
+{% endif %}
+
+<blockquote id="{{ comment.id }}">
+  <cite>
+    {% if comment.url %}
+      <a href="{{ comment.url }}" rel="nofollow">{{ comment.name | xml_escape }}</a>
+    {% else %}
+      {{ comment.name | xml_escape }}
+    {% endif %}
+    <span class="muted" title="{{ comment.date | date_to_rfc822 }}"> — 
+      {{ comment.date | date: '%B' }}
+      {% assign d = comment.date | date: "%-d" %}
+      {% case d %}
+        {% when '1' or '21' or '31' %}{{d}}st,
+        {% when '2' or '22' %}{{d}}nd,
+        {% when '3' or '23' %}{{d}}rd,
+        {% else %}{{d}}th,
+      {% endcase %}
+      {{ comment.date | date: '%Y' }}
+    </span>
+  </cite>
+  <div class="comment-body">{{ comment.message | markdownify }}</div>
+</blockquote>

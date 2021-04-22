@@ -1,0 +1,29 @@
+<!-- starting comment rendering -->
+{% capture default_slug %}{{ page.slug | default: (page.title | slugify) }}{% endcapture %}
+{% capture slug %}{{ (page.slug | fallback: default_slug) | downcase | replace: '.', '-' | replace: '_' : '-' }}{% endcapture %}
+{% assign comments_map = site.data.comments[slug] %}
+{% assign comments = site.emptyArray %}
+{% for comment in comments_map %}
+  {% assign comments = comments | push: comment[1] %}
+{% endfor %}
+{% assign comment_count = comments | size %}
+
+<div id="comments">
+  {% if comment_count > 0 %}
+  {% assign author = site.authors[page.author] %}
+  <h2>{% if comment_count == 1 %}Un comentario{% else %}{{ comment_count }} comentarios{% endif %}</h2>
+  <ol class="comments-list">
+  {% assign sorted_comments = comments | sort: 'date' %}
+  {% for comment in sorted_comments %}
+    <li class="comment-item">
+      {% include comment.html %}
+    </li>
+  {% endfor %}
+  </ol>
+{% else %}
+  <h2>No hay comentarios</h2>
+{% endif %}
+</div>
+{% if page.commenting == 'open' %}
+{% include comment-new.html %}
+{% endif %}

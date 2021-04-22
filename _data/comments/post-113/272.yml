@@ -1,0 +1,11 @@
+id: 272
+name: Chavalina
+email: ibs2@alu.um.es
+avatar: https://www.gravatar.com/avatar/4e79025d71af77001753f657fa8255d4?r=pg&d=retro
+url: http://www.chavalina.net
+date: 2004-05-13 01:53:13
+message: "Un \"fallo\" en el documento que generamos es que no tiene un DOCTYPE, no? y lo que pasa es que entonces no interpreta  como entidades los acentos y cualquier cosa que vaya entre & y ;<br />
+<br />
+En cuanto a los saltos de l&iacute;nea... puede ser porque aunque est&aacute; el 13 no est&aacute; el car&aacute;cter 10? esto me explicar&iacute;a que no se vea bien en windows, pero en linux deber&iacute;a ir.<br />
+<br />
+A ver si este finde me pongo a pulir un poco esto."

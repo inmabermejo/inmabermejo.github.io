@@ -1,0 +1,13 @@
+id: 3268
+name: Sergio
+email: xergio@gmail.com
+avatar: https://www.gravatar.com/avatar/95a2e9b28737e771d321bf89f378da80?r=pg&d=retro
+url: http://xergio.net
+date: 2005-02-01 03:03:01
+message: "Lo que faltaba.<br />
+<br />
+Pues as&iacute; de primeras lo que se me ocurre es implementarle por cuenta propia algo del sistema de Pingbacks, que es comprobar que la web de donde procede el trackback contiene el texto que te env&iacute;a. No es una idea brillante... pero igual vale.<br />
+<br />
+Aunque yo para los trackback si que veo la posivilidad de a&ntilde;adir m&aacute;s restricciones. De hecho yo elimino todos los tags html, algo es algo.<br />
+<br />
+(Francis, te comento lo mismo en tu blog)"

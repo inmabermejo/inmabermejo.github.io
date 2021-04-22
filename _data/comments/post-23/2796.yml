@@ -1,0 +1,6 @@
+id: 2796
+name: guidex
+email: guidex@xasamail.com
+avatar: https://www.gravatar.com/avatar/808ceb78efadc468ee6bc71353551b94?r=pg&d=retro
+date: 2005-01-04 10:09:02
+message: "Existe un problema con el bat para SP1, primero borra sin hacer el backup y luego no copia el uxtheme.dll en c:windowssystem32 .Yo recomiendo que cuando enten en la consola haganlo manualmente o si saben modifiquen primero el bat"

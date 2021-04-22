@@ -1,24 +1,46 @@
 <!DOCTYPE html>
 <html lang="{{ page.lang | default: site.lang | default: "es" }}">
 
-  {%- include head.html -%}
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    {%- seo -%}
+  
+    <link rel="stylesheet" href="{{ "/assets/css/main.css" | relative_url }}">
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
+    <link rel="shortcut icon" href="{{ "/favicon.ico" | relative_url }}" type="image/x-icon">
+    <link rel="icon" href="{{ "/favicon.ico" | relative_url }}" type="image/x-icon">
+  
+    {%- feed_meta -%}
+  </head>
 
   <body class="home blog">
     <div class="header">
     
     <div class="container">
       
-    {%- include header.html -%}
+      <header>
+        <a class="site-title" rel="author" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a>
+      </header>
+      
+      <main class="page-content" aria-label="Content">
+          {{ content }}
+      </main>
 
-    <main class="page-content" aria-label="Content">
-      <div class="wrapper">
-        {{ content }}
-      </div>
-    </main>
-
-    {%- include footer.html -%}
-
-    <footer title="Esta web no usa cookies">🍪</footer>
+      <footer>
+        <h2>↩</h2>
+        <p>
+          <a href="{{ "/" | relative_url }}">Blog</a> — 
+          <a href="{{ "/feed/" | relative_url }}">RSS</a> — 
+          <a href="https://twitter.com/chavalina">@chavalina</a> — 
+          <a href="{{ "/contacto/" | relative_url }}">Contacto</a> 
+        </p>
+        <h2>+</h2>
+        <p><a href="https://inmabermejo.com">inmabermejo.com</a></p>
+      </footer>
+      
   </div>
 
   </div>

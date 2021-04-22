@@ -1,0 +1,18 @@
+id: 3832
+name: nils
+email: nilsvdburg@gmail.com
+avatar: https://www.gravatar.com/avatar/e4683274c9dfae9034d6f302e7fb8af6?r=pg&d=retro
+date: 2005-04-04 03:16:43
+message: "Hay una forma m&aacute;s sencilla de hacerlo:<br />
+-moz-border-radius: 12px;<br />
+por ejemplo:<br />
+.rounder {<br />
+   -moz-border-radius: 12px;<br />
+}<br />
+<br />
+<br />
+<br />
+Tambi&eacute;n se puede poner:<br />
+ -moz-border-radius: 12px 12px 0px 0px;<br />
+<br />
+un saludo!"

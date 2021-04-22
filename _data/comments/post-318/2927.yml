@@ -1,0 +1,16 @@
+id: 2927
+name: Estatiko
+email: charlie@estatiko.com
+avatar: https://www.gravatar.com/avatar/9b2b7396f9047c6576bf777f2a5fcaec?r=pg&d=retro
+url: http://www.estatiko.com
+date: 2005-01-10 09:49:21
+message: "Habitual lector, pero inexistente comentador, aprovecho para aconsejarte con el PHP.<br />
+Mucho m&aacute;s sencillo que hacer dos p&aacute;ginas :)<br />
+<br />
+Brevemente... &iquest;no quieres que la url pueda ser www.chavalina.com?estilo=X? porque podrias comprobar siempre los parametros que se recogen o que no se recogen y en base al que encuentra mostrar uno u otro y si no hay pues uno por defecto. Facil con un switch.<br />
+<br />
+Por otra parte. No hace falta usar un location de javascript para volver a la p&aacute;gina principal, usa header de PHP: header(\"Location: /\");<br />
+<br />
+Y para volver al mismo sitio utiliza las variables de $_SERVER... $_SERVER[&prime;PHP_SELF&prime;] y tendr&aacute;s la direcci&oacute;n misma, o el HTTP_REFERER para saber desde que URL se llamo exactamente.<br />
+<br />
+Investiga (que es lo mejor para aprender) y si tienes dudas pues... :D"

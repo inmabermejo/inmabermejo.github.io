@@ -1,0 +1,20 @@
+id: 2880
+name: Chavalina
+url: http://www.chavalina.net
+date: 2005-01-07 09:04:28
+message: "Mmmm.... mira:<br />
+____________________________________________________<br />
+$url=$HTTP_POST_VARS[&prime;url&prime;];<br />
+$title=$HTTP_POST_VARS[&prime;title&prime;];<br />
+$blog_name=$HTTP_POST_VARS[&prime;blog_name&prime;];<br />
+$excerpt=$HTTP_POST_VARS[&prime;excerpt&prime;];<br />
+$idpost=$HTTP_GET_VARS[&prime;id&prime;];<br />
+<br />
+if(!isset($url) || !isset($title)){<br />
+	//error: la url y el t&iacute;tulo son obligatorios<br />
+	echo &prime;&prime;;<br />
+}else{<br />
+	//todo correcto, insertarlo en mi tabla de trackbacks<br />
+____________________________________________________<br />
+<br />
+Eso es lo que yo tengo, puede ser que te falte enviar alguno de los datos en tus trackbacks? Lo digo porque otras veces me han hecho referencias y me ha funcionado."

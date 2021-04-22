@@ -1,0 +1,15 @@
+id: 642
+name: Virginio GL
+email: virginiogl_web@ono.com
+avatar: https://www.gravatar.com/avatar/c033ff8628b54787a7eb30e5fc0275c3?r=pg&d=retro
+url: http://webs.ono.com/virginiogl_web
+date: 2004-07-05 08:06:55
+message: "Hola Inma.<br />
+<br />
+Si, es cierto que hay varias personas colaborando, sin embargo el peso del proyecto recae sobre Juan.<br />
+<br />
+Yo tambi&eacute;n quiero que siga avanzando, sin embargo el objetivo &uacute;ltimo ser&iacute;a implantarlo en el Kernel. Para que esto ocurra debe pasar varias fases (como en su d&iacute;a pasaron ext3, JFS, ReiserFS, XFS...), primero se extiende, las distribuciones llegan a implantarlo como parches, y finalmente se implanta en una versi&oacute;n inestable, que unos a&ntilde;os/meses despu&eacute;s se transforma en la estable. Reiser4 lleva medio camino hecho, teniendo en cuenta que los resultados de Reiser4 son brillantes le va a costar mucho a DualFS hacerse un hueco. Si te fijas en el enlace, las pruebas que hice, el copiado de ficheros grandes no es demasiado bueno. DualFS ten&iacute;a resultados en 1999, si hubiera sido terminado y liberado en esas fechas hubiera sido un rotundo &eacute;xito, pero desde entonces la tecnolog&iacute;a de los sistemas de ficheros a avanzado mucho.<br />
+<br />
+La universidad apoya muchos proyectos de investigaci&oacute;n y muy diversos (yo por ejemplo estoy en uno de ellos relacionado con la seguridad), quiz&aacute;s el de DualFS haya transcendido m&aacute;s hacia los alumnos, pero hay muchos otros, algunos muy ambiciosos que apenas se conocen pese a llevar varios a&ntilde;os y abundante personal.<br />
+<br />
+Estoy de acuerdo con que no se aprovechan los recursos, todos sabemos el poco apoyo gubernamental de la investigaci&oacute;n en Espa&ntilde;a (salvo de boquilla justo antes de elecciones, claro).  Afortunadamente en el campo de la inform&aacute;tica tenemos cierta ventaja puesto que se puede innovar con relativamente poco (un ordenador), mientras que en otros campos es m&aacute;s complicado (como en medicina), esperemos que la ley no impida la innovaci&oacute;n a los inform&aacute;ticos (v&iacute;a patentes)."

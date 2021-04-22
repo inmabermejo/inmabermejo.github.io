@@ -1,0 +1,13 @@
+id: 1559
+name: demian
+url: http://eworkstation.homelinux.org/
+date: 2004-09-25 05:15:41
+message: "En el caso de Linex es diferente. El instalador anaconda convierte el proceso en algo muy sencillo, es el mismo que se utiliza en fedora.<br />
+<br />
+Tambi&eacute;n incluye por defecto el acceso y punto de montaje a las particiones windows, y un actualizador pr&oacute;pio que te permite la instalaci&oacute;n de aplicaciones o plugins propietarios cmo flash, java, java para mozilla, etc...<br />
+<br />
+La pega para algunos kdeeros, es que viene con Gnome, pero a m&iacute; ya me mola as&iacute;  <img src=\"/imagenes/emoticonos/risa.gif\" alt=\":-D\" /> , aunque es algo facil de solucionar con apt.<br />
+<br />
+En fin si alg&uacute;n dia te animas tenla en cuenta, que est&aacute; hecha aqu&iacute;, y muy bien hecha por cierto.<br />
+<br />
+Suerte con tu SUSE"

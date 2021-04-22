@@ -1,0 +1,15 @@
+id: 1072
+name: Toad
+email: epanelapse@gmail.com
+avatar: https://www.gravatar.com/avatar/dfc7d7dfee196e63c691bcd5e87a62cf?r=pg&d=retro
+url: http://python.dns-nac-zone.com/~toad/lechuga/
+date: 2004-08-26 04:39:36
+message: "Hmmm... los comentarios est&aacute;n un poco desordenados, &iquest;no? <img src=\"./imagenes/emoticonos/confuso.gif\" alt=\"emo\"> <br />
+<br />
+Ya s&eacute; lo que pasa: antes hab&iacute;a un comentario de fernando repetido. Cuando escrib&iacute; mis tres comentarios, a&uacute;n estaba. Despues cuando se borr&oacute; el comentario, los siguientes que se a&ntilde;adieron se colocaron en el sitio del comentario borrado.<br />
+<br />
+ MySQL si no se usa un \"ORDER BY\", al borrar un registro coloca los siguientes justo en el sitio donde estaba el registro borrado.<br />
+<br />
+Para arreglar esto se puede utilizar un \"ORDER BY\". Por ejemplo, ordenarlos por fecha o por ID de comentario.<br />
+<br />
+"

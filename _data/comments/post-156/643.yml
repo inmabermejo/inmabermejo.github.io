@@ -1,0 +1,18 @@
+id: 643
+name: roghliff
+email: roghliff@yahoo.es
+avatar: https://www.gravatar.com/avatar/0fb82a2bb9164befc2fceeef6fba5336?r=pg&d=retro
+date: 2004-07-05 09:05:46
+message: "&iquest;Y de ahi se deduce que programar en Java es complicarse la vida?, obviamente el autor de ese texto no ha pisado la universidad y no tiene ni la mas remota idea de los conceptos clave en calidad de software, no ha oido hablar de ISO, de IEEE y por supuesto el modelo de madurez de software, CMM, no lo conoce ni en sus mas profundos sue&ntilde;os.<br />
+<br />
+Mira que se pueden decir burradas, que venga alguien a estas alturas a decir que la modularidad, la encapsulacion, etc es complicarse la vida...<br />
+<br />
+Yo programe en Perl en su dia, y ahora utilizo Java, y la version de Java de Microsoft, es decir, C#, y no se puede comparar ni remotamente. <br />
+<br />
+Vamos a ver, si ahora tuviera que revisar alguna de las aplicaciones que hice en Perl preferiria dispararme en una pierna, son un caos, en el mismo fichero se recogen los parametros, se hace la conexion a la base de datos, se realiza la consulta en sql, se tratan esos datos y se genera la salida... Esto es como hacer una piscina a pico y pala...<br />
+<br />
+En una aplicacion Java, todo esta perfectamente organizado, las responsabilidades estan distribuidas, localizar un fallo es sencillisimo, las modificaciones practicamente se hacen solas...<br />
+<br />
+Obviamente si prefiere Perl frente a Java es porque no tiene ni idea de Java...<br />
+<br />
+"

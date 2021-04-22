@@ -1,0 +1,11 @@
+id: 3185
+name: Saiyine
+url: http://clubdelphi.com/saiyine
+date: 2005-01-26 15:36:32
+message: "En tu vista previa no se ven los caretos/emoticonos/smileys, para que se vean es bastante facil, bastan unas cuantas lineas de javascript como las siguientes (espero que esto no pete):<br />
+<br />
+var NewText = document.getElementById(\"pw\").value;<br />
+splitText = NewText.split(/
+/).join(\"&prime;); <br />
+<br />
+(He tenido que poner un espacio en los tags HTML) "
