@@ -12,6 +12,6 @@ aktt_notify_twitter:
 sharing_disabled:
   - "1"
 ---
-Puedes escribir a <a href="mailto:chavalina@gmail.com">chavalina@gmail.com</a>.
+Puedes escribirme a <a href="mailto:chavalina@gmail.com">chavalina@gmail.com</a>.
 
 👋
