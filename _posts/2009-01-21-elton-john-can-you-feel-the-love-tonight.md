@@ -11,3 +11,4 @@ categories:
 tags:
   - Elton John
 ---
+<object width="425" height="344" data="http://www.youtube.com/v/Y1hcc1QvM2Q&amp;hl=es&amp;fs=1" type="application/x-shockwave-flash"><param name="allowFullScreen" value="true" /><param name="allowscriptaccess" value="always" /><param name="src" value="http://www.youtube.com/v/Y1hcc1QvM2Q&amp;hl=es&amp;fs=1" /><param name="allowfullscreen" value="true" /></object>

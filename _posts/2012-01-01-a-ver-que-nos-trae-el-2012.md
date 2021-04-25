@@ -1,6 +1,6 @@
 ---
 id: 2606
-title: 'A ver qué nos trae el 2012&#8230;'
+title: 'A ver qué nos trae el 2012'
 date: 2012-01-01T13:41:42+02:00
 author: Chavalina
 layout: post
@@ -19,3 +19,5 @@ Lo importante es **que lo importante siga como el año anterior, o mejor**. Salu
 Hoy os dejo un par de recomendaciones, el <a href="http://www.rtve.es/alacarta/videos/especiales-nochevieja-con-jose-mota/especial-nochevieja-jose-mota-seven-siete-pecados-capitales-provincia/1285081/" target="_blank">especial de Nochevieja de José Mota de este año</a>, y una musical: Mika &#8211; Any other world.
 
 Buen día y buen año!
+
+<iframe src="http://www.youtube.com/embed/As61-cmK4OI?rel=0" frameborder="0" width="640" height="300"></iframe>

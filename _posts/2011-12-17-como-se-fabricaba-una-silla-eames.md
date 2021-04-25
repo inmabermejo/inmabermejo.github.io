@@ -10,7 +10,7 @@ categories:
   - Curiosidades
   - Diseño
 tags:
-  - clÃ¡sicos del diseÃ±o
+  - clásicos del diseño
 ---
 Mucho tiempo sin pasar por aquí!
 
@@ -22,6 +22,6 @@ O vídeos curiosos como el que traigo hoy: **el proceso de fabricación clásico
 
 [Las sillas de los Eames](http://www.vitra.com/es-es/home/designers/charles-and-ray-eames/products/) son algunas de mis favoritas en clásicos del diseño del siglo XX, junto con la [Barcelona](http://www.knoll.com/products/product.jsp?prod_id=577) de Mies van der Rohe. **Y a ti ¿cuál te gusta más?**
 
-
+<iframe src="http://www.youtube.com/embed/PIlTtXrgA0c" frameborder="0" width="640" height="480"></iframe>
 
 Un vídeo que encontré en [Plataforma Arquitectura](http://www.plataformaarquitectura.cl/2008/12/03/%C2%BFcomo-se-fabrica-una-silla-eames/).

@@ -16,7 +16,7 @@ tags:
 ---
 Muy bueno este corto, que hará reír a cualquiera que haya tenido que tratar con la administración para algún trámite un poco complejo 🙂
 
-
+<iframe title="YouTube video player" width="600" height="368" src="http://www.youtube.com/embed/XXWZ3uAEKsw" frameborder="0" allowfullscreen></iframe>
 
 Me río ahora, pero es muy triste que sea **gracioso porque es real**, o basado en hechos reales y frecuentes, aunque en este caso hay final feliz.
 

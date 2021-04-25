@@ -23,24 +23,8 @@ Así que, por si ayuda a alguien en la misma situación, voy a contar cómo cons
 
 ## Mis fracasos
 
-<blockquote class="instagram-media" data-instgrm-captioned data-instgrm-version="4" style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:658px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);">
-  <div style="padding:8px;">
-    <div style=" background:#F8F8F8; line-height:0; margin-top:40px; padding:50% 0; text-align:center; width:100%;">
-      <div style=" background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAsCAMAAAApWqozAAAAGFBMVEUiIiI9PT0eHh4gIB4hIBkcHBwcHBwcHBydr+JQAAAACHRSTlMABA4YHyQsM5jtaMwAAADfSURBVDjL7ZVBEgMhCAQBAf//42xcNbpAqakcM0ftUmFAAIBE81IqBJdS3lS6zs3bIpB9WED3YYXFPmHRfT8sgyrCP1x8uEUxLMzNWElFOYCV6mHWWwMzdPEKHlhLw7NWJqkHc4uIZphavDzA2JPzUDsBZziNae2S6owH8xPmX8G7zzgKEOPUoYHvGz1TBCxMkd3kwNVbU0gKHkx+iZILf77IofhrY1nYFnB/lQPb79drWOyJVa/DAvg9B/rLB4cC+Nqgdz/TvBbBnr6GBReqn/nRmDgaQEej7WhonozjF+Y2I/fZou/qAAAAAElFTkSuQmCC); display:block; height:44px; margin:0 auto -44px; position:relative; top:-22px; width:44px;">
-      </div>
-    </div>
-    
-    <p style=" margin:8px 0 0 0; padding:0 4px;">
-      <a href="https://instagram.com/p/fcI2D2Nsnq/" style=" color:#000; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none; word-wrap:break-word;" target="_top">x7</a>
-    </p>
-    
-    <p style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;">
-      A photo posted by Inma Bermejo (@inmabermejosalar) on <time style=" font-family:Arial,sans-serif; font-size:14px; line-height:17px;" datetime="2013-10-14T07:36:16+00:00">Oct 14, 2013 at 12:36am PDT</time>
-    </p>
-  </div>
-</blockquote>
-
-
+<blockquote class="instagram-media" data-instgrm-captioned data-instgrm-version="4" style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:658px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);"><div style="padding:8px;"> <div style=" background:#F8F8F8; line-height:0; margin-top:40px; padding:50% 0; text-align:center; width:100%;"> <div style=" background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAsCAMAAAApWqozAAAAGFBMVEUiIiI9PT0eHh4gIB4hIBkcHBwcHBwcHBydr+JQAAAACHRSTlMABA4YHyQsM5jtaMwAAADfSURBVDjL7ZVBEgMhCAQBAf//42xcNbpAqakcM0ftUmFAAIBE81IqBJdS3lS6zs3bIpB9WED3YYXFPmHRfT8sgyrCP1x8uEUxLMzNWElFOYCV6mHWWwMzdPEKHlhLw7NWJqkHc4uIZphavDzA2JPzUDsBZziNae2S6owH8xPmX8G7zzgKEOPUoYHvGz1TBCxMkd3kwNVbU0gKHkx+iZILf77IofhrY1nYFnB/lQPb79drWOyJVa/DAvg9B/rLB4cC+Nqgdz/TvBbBnr6GBReqn/nRmDgaQEej7WhonozjF+Y2I/fZou/qAAAAAElFTkSuQmCC); display:block; height:44px; margin:0 auto -44px; position:relative; top:-22px; width:44px;"></div></div> <p style=" margin:8px 0 0 0; padding:0 4px;"> <a href="https://instagram.com/p/fcI2D2Nsnq/" style=" color:#000; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none; word-wrap:break-word;" target="_top">x7</a></p> <p style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;">A photo posted by Inma Bermejo (@inmabermejosalar) on <time style=" font-family:Arial,sans-serif; font-size:14px; line-height:17px;" datetime="2013-10-14T07:36:16+00:00">Oct 14, 2013 at 12:36am PDT</time></p></div></blockquote>
+<script async defer src="//platform.instagram.com/en_US/embeds.js"></script>
 
 Ya había intentado muchas veces añadir el ejercicio a mi rutina diaria, pero sin ningún éxito:
 
@@ -120,64 +104,35 @@ Más información de este tipo de dieta:
     
     Ejemplo práctico: esta noche quiero tomar una pizza, pues unas opciones buenas podrían ser desayunar unos huevos, leche y una pieza de fruta, almorzar pechuga de pavo y ensalada, y comer un pescado blanco con verdura a la plancha y un yogur, así se deja sitio para todos los hidratos de carbono y grasas que tiene la pizza. 
     
-    <blockquote class="instagram-media" data-instgrm-captioned data-instgrm-version="4" style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:658px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);">
-      <div style="padding:8px;">
-        <div style=" background:#F8F8F8; line-height:0; margin-top:40px; padding:50% 0; text-align:center; width:100%;">
-          <div style=" background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAsCAMAAAApWqozAAAAGFBMVEUiIiI9PT0eHh4gIB4hIBkcHBwcHBwcHBydr+JQAAAACHRSTlMABA4YHyQsM5jtaMwAAADfSURBVDjL7ZVBEgMhCAQBAf//42xcNbpAqakcM0ftUmFAAIBE81IqBJdS3lS6zs3bIpB9WED3YYXFPmHRfT8sgyrCP1x8uEUxLMzNWElFOYCV6mHWWwMzdPEKHlhLw7NWJqkHc4uIZphavDzA2JPzUDsBZziNae2S6owH8xPmX8G7zzgKEOPUoYHvGz1TBCxMkd3kwNVbU0gKHkx+iZILf77IofhrY1nYFnB/lQPb79drWOyJVa/DAvg9B/rLB4cC+Nqgdz/TvBbBnr6GBReqn/nRmDgaQEej7WhonozjF+Y2I/fZou/qAAAAAElFTkSuQmCC); display:block; height:44px; margin:0 auto -44px; position:relative; top:-22px; width:44px;">
-          </div>
-        </div>
-        
-        <p style=" margin:8px 0 0 0; padding:0 4px;">
-          <a href="https://instagram.com/p/mK3-VmNsmB/" style=" color:#000; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none; word-wrap:break-word;" target="_top">Berberechos, y que se quite lo demás&#8230;</a>
-        </p>
-        
-        <p style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;">
-          A photo posted by Inma Bermejo (@inmabermejosalar) on <time style=" font-family:Arial,sans-serif; font-size:14px; line-height:17px;" datetime="2014-03-30T14:21:31+00:00">Mar 30, 2014 at 7:21am PDT</time>
-        </p>
-      </div>
-    </blockquote>
-    
-    
-    
-    Es más difícil controlarlo cuando sales fuera a comer, aunque siempre se pueden **hacer elecciones mejores** que otras, por ejemplo unos berberechos al vapor frente a un calamar a la romana o unas bravas. Y es muy importante controlar el alcohol.
-    
-    Aquí es donde he puesto a prueba la disciplina, la paciencia, y los nervios. Y no sólo los míos&#8230; sino los de los que me rodean. Y donde he invertido más tiempo hasta ahora.
-    
-    Me he sorprendido a mi misma por haber conseguido seguir la dieta. Mi motivación era muy baja y aunque **poder comer los alimentos que quisiera me ha ayudado mucho**, he pasado momentos de querer mandarlo a tomar morcilla si tenía que pesar una patata más. No por no poder comer, sino **por tener que pesar**.
-    
-    Pero una vez te acostumbras, va mucho más rodado, sobre todo porque somos rutinarios, y **no somos tan originales comiendo**. Una vez tienes tu _base_ de alimentos y comidas frecuentes en My Fitness Pal, es más mecánico, sólo hay que planificar y controlar la cantidad en el momento de cocinarlo.
-    
-    Así que todavía la sigo, con diferentes parámetros (para no perder ni ganar peso). Cuando has perdido la grasa que necesitas y no tienes que estar en déficit de calorías, se vuelve más flexible aún.
-    
-    ## Todo esto suena muy bien pero&#8230; ¿El resultado?
-    
-    ¿Es sostenible? ¿Merece la pena?
-    
-    <blockquote class="instagram-media" data-instgrm-captioned data-instgrm-version="4" style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:658px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);">
-      <div style="padding:8px;">
-        <div style=" background:#F8F8F8; line-height:0; margin-top:40px; padding:50% 0; text-align:center; width:100%;">
-          <div style=" background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAsCAMAAAApWqozAAAAGFBMVEUiIiI9PT0eHh4gIB4hIBkcHBwcHBwcHBydr+JQAAAACHRSTlMABA4YHyQsM5jtaMwAAADfSURBVDjL7ZVBEgMhCAQBAf//42xcNbpAqakcM0ftUmFAAIBE81IqBJdS3lS6zs3bIpB9WED3YYXFPmHRfT8sgyrCP1x8uEUxLMzNWElFOYCV6mHWWwMzdPEKHlhLw7NWJqkHc4uIZphavDzA2JPzUDsBZziNae2S6owH8xPmX8G7zzgKEOPUoYHvGz1TBCxMkd3kwNVbU0gKHkx+iZILf77IofhrY1nYFnB/lQPb79drWOyJVa/DAvg9B/rLB4cC+Nqgdz/TvBbBnr6GBReqn/nRmDgaQEej7WhonozjF+Y2I/fZou/qAAAAAElFTkSuQmCC); display:block; height:44px; margin:0 auto -44px; position:relative; top:-22px; width:44px;">
-          </div>
-        </div>
-        
-        <p style=" margin:8px 0 0 0; padding:0 4px;">
-          <a href="https://instagram.com/p/reXZhvtsoB/" style=" color:#000; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none; word-wrap:break-word;" target="_top">Back to the track! <3</a>
-        </p>
-        
-        <p style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;">
-          A photo posted by Inma Bermejo (@inmabermejosalar) on <time style=" font-family:Arial,sans-serif; font-size:14px; line-height:17px;" datetime="2014-08-09T10:38:39+00:00">Aug 9, 2014 at 3:38am PDT</time>
-        </p>
-      </div>
-    </blockquote>
-    
-    
-    
-    No hay resultados sin esfuerzo. Este sistema tiene ventajas, pero también requiere **mucho trabajo y disciplina**.
-    
-    **Merece la pena**. Aparte de los resultados estéticos, que a mi tampoco eran lo que más me importaba, lo que me ha impresionado es lo que he mejorado en rendimiento.
-    
-    Me di cuenta al coger la bici tras un año y pico y poder hacer un recorrido que ni en mis mejores tiempos de ciclista habitual hubiera podido. Y a partir de ahí me fijé en otras cosas pequeñas, como poder subir las escaleras de mis siete pisos sin problema, poder agacharme y levantarme sin esfuerzo&#8230; 
-    
-    Cuando ves que no te cansas, que tienes fuerza, que no te quedas sin aliento, que puedes más&#8230; es cuando ves que merece la pena.
-    
-    Al final, si sabes cómo, es más fácil conseguir resultados a la primera que si vas probando sin saber. Y este sistema al final no son más que matemáticas aplicadas. No desperdicias esfuerzo, pero hay que esforzarse. **Todo depende de cuánto lo quieras**. Y yo, lo quiero.
+<blockquote class="instagram-media" data-instgrm-captioned data-instgrm-version="4" style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:658px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);"><div style="padding:8px;"> <div style=" background:#F8F8F8; line-height:0; margin-top:40px; padding:50% 0; text-align:center; width:100%;"> <div style=" background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAsCAMAAAApWqozAAAAGFBMVEUiIiI9PT0eHh4gIB4hIBkcHBwcHBwcHBydr+JQAAAACHRSTlMABA4YHyQsM5jtaMwAAADfSURBVDjL7ZVBEgMhCAQBAf//42xcNbpAqakcM0ftUmFAAIBE81IqBJdS3lS6zs3bIpB9WED3YYXFPmHRfT8sgyrCP1x8uEUxLMzNWElFOYCV6mHWWwMzdPEKHlhLw7NWJqkHc4uIZphavDzA2JPzUDsBZziNae2S6owH8xPmX8G7zzgKEOPUoYHvGz1TBCxMkd3kwNVbU0gKHkx+iZILf77IofhrY1nYFnB/lQPb79drWOyJVa/DAvg9B/rLB4cC+Nqgdz/TvBbBnr6GBReqn/nRmDgaQEej7WhonozjF+Y2I/fZou/qAAAAAElFTkSuQmCC); display:block; height:44px; margin:0 auto -44px; position:relative; top:-22px; width:44px;"></div></div> <p style=" margin:8px 0 0 0; padding:0 4px;"> <a href="https://instagram.com/p/mK3-VmNsmB/" style=" color:#000; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none; word-wrap:break-word;" target="_top">Berberechos, y que se quite lo demás...</a></p> <p style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;">A photo posted by Inma Bermejo (@inmabermejosalar) on <time style=" font-family:Arial,sans-serif; font-size:14px; line-height:17px;" datetime="2014-03-30T14:21:31+00:00">Mar 30, 2014 at 7:21am PDT</time></p></div></blockquote>
+<script async defer src="//platform.instagram.com/en_US/embeds.js"></script>
+
+  
+  
+  
+  Es más difícil controlarlo cuando sales fuera a comer, aunque siempre se pueden **hacer elecciones mejores** que otras, por ejemplo unos berberechos al vapor frente a un calamar a la romana o unas bravas. Y es muy importante controlar el alcohol.
+  
+  Aquí es donde he puesto a prueba la disciplina, la paciencia, y los nervios. Y no sólo los míos&#8230; sino los de los que me rodean. Y donde he invertido más tiempo hasta ahora.
+  
+  Me he sorprendido a mi misma por haber conseguido seguir la dieta. Mi motivación era muy baja y aunque **poder comer los alimentos que quisiera me ha ayudado mucho**, he pasado momentos de querer mandarlo a tomar morcilla si tenía que pesar una patata más. No por no poder comer, sino **por tener que pesar**.
+  
+  Pero una vez te acostumbras, va mucho más rodado, sobre todo porque somos rutinarios, y **no somos tan originales comiendo**. Una vez tienes tu _base_ de alimentos y comidas frecuentes en My Fitness Pal, es más mecánico, sólo hay que planificar y controlar la cantidad en el momento de cocinarlo.
+  
+  Así que todavía la sigo, con diferentes parámetros (para no perder ni ganar peso). Cuando has perdido la grasa que necesitas y no tienes que estar en déficit de calorías, se vuelve más flexible aún.
+  
+  ## Todo esto suena muy bien pero&#8230; ¿El resultado?
+  
+  ¿Es sostenible? ¿Merece la pena?
+  
+<blockquote class="instagram-media" data-instgrm-captioned data-instgrm-version="4" style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:658px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);"><div style="padding:8px;"> <div style=" background:#F8F8F8; line-height:0; margin-top:40px; padding:50% 0; text-align:center; width:100%;"> <div style=" background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAsCAMAAAApWqozAAAAGFBMVEUiIiI9PT0eHh4gIB4hIBkcHBwcHBwcHBydr+JQAAAACHRSTlMABA4YHyQsM5jtaMwAAADfSURBVDjL7ZVBEgMhCAQBAf//42xcNbpAqakcM0ftUmFAAIBE81IqBJdS3lS6zs3bIpB9WED3YYXFPmHRfT8sgyrCP1x8uEUxLMzNWElFOYCV6mHWWwMzdPEKHlhLw7NWJqkHc4uIZphavDzA2JPzUDsBZziNae2S6owH8xPmX8G7zzgKEOPUoYHvGz1TBCxMkd3kwNVbU0gKHkx+iZILf77IofhrY1nYFnB/lQPb79drWOyJVa/DAvg9B/rLB4cC+Nqgdz/TvBbBnr6GBReqn/nRmDgaQEej7WhonozjF+Y2I/fZou/qAAAAAElFTkSuQmCC); display:block; height:44px; margin:0 auto -44px; position:relative; top:-22px; width:44px;"></div></div> <p style=" margin:8px 0 0 0; padding:0 4px;"> <a href="https://instagram.com/p/reXZhvtsoB/" style=" color:#000; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none; word-wrap:break-word;" target="_top">Back to the track! &lt;3</a></p> <p style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;">A photo posted by Inma Bermejo (@inmabermejosalar) on <time style=" font-family:Arial,sans-serif; font-size:14px; line-height:17px;" datetime="2014-08-09T10:38:39+00:00">Aug 9, 2014 at 3:38am PDT</time></p></div></blockquote>
+<script async defer src="//platform.instagram.com/en_US/embeds.js"></script>
+
+No hay resultados sin esfuerzo. Este sistema tiene ventajas, pero también requiere **mucho trabajo y disciplina**.
+
+**Merece la pena**. Aparte de los resultados estéticos, que a mi tampoco eran lo que más me importaba, lo que me ha impresionado es lo que he mejorado en rendimiento.
+
+Me di cuenta al coger la bici tras un año y pico y poder hacer un recorrido que ni en mis mejores tiempos de ciclista habitual hubiera podido. Y a partir de ahí me fijé en otras cosas pequeñas, como poder subir las escaleras de mis siete pisos sin problema, poder agacharme y levantarme sin esfuerzo&#8230; 
+
+Cuando ves que no te cansas, que tienes fuerza, que no te quedas sin aliento, que puedes más&#8230; es cuando ves que merece la pena.
+
+Al final, si sabes cómo, es más fácil conseguir resultados a la primera que si vas probando sin saber. Y este sistema al final no son más que matemáticas aplicadas. No desperdicias esfuerzo, pero hay que esforzarse. **Todo depende de cuánto lo quieras**. Y yo, lo quiero.

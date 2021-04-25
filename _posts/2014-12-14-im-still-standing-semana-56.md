@@ -1,6 +1,6 @@
 ---
 id: 3241
-title: 'I&#8217;m still standing. Semana #56'
+title: I'm still standing. Semana #56
 date: 2014-12-14T17:46:52+02:00
 author: Chavalina
 layout: post
@@ -11,9 +11,9 @@ categories:
 tags:
   - semanal
 ---
-Semana corta y con viaje relámpago, que casi me acabó de rematar&#8230; pero sigo aquí al pie del cañón, en estado lamentable.
+Semana corta y con viaje relámpago, que casi me acabó de rematar… pero sigo aquí al pie del cañón, en estado lamentable.
 
-
+<iframe width="640" height="480" src="//www.youtube.com/embed/ZHwVBirqD2s" frameborder="0" allowfullscreen></iframe>
 
 Tras semanas de largas jornadas de trabajo extra, estrés, y un ritmo agotador, aunque apeteciera desconexión total en el puente, solamente en compañía del sofá, tocaba salir rumbo al concierto de **Elton John**, y a la tierra de mi amigo Nacho a darlo todo.
 
@@ -38,3 +38,5 @@ A medio gas estuve con la propuesta para la presentación a un cliente de empres
 Y al final de la semana salió otra tarea de investigación que empecé a mirar, pero no pude avanzar mucho. Estaba ya K.O. al final de la semana, y por muchas horas que estuviera delante del ordenador, lo que salía no me convencía ni a mi. Así que mejor parar.
 
 Ahora tengo 3 días de descanso, a ver si me recupero de esta gripe y vuelvo con las energías renovadas, para poder atacar los proyectos más importantes con toda mi atención.
+
+<iframe width="853" height="480" src="//www.youtube.com/embed/EVPqUxUMess" frameborder="0" allowfullscreen></iframe>

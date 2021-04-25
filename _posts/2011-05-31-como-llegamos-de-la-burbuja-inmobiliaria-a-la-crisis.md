@@ -20,5 +20,4 @@ Aquí os dejo un vídeo que me llegó, una vez más, por twitter, a través de v
 
 Si no sabes cómo hemos llegado a esta situación, quizá este vídeo te pueda dar alguna pista, y, sobre todo, analiza en qué parte de la cadena estás tú, porque todos estamos:
 
-<p class="mm">
-</p>
+<p class="mm"><iframe src="http://www.youtube.com/embed/N7P2ExRF3GQ" height="371" width="600" allowfullscreen="" frameborder="0"></iframe></p>

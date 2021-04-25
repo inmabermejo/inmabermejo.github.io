@@ -13,24 +13,8 @@ tags:
 ---
 Ya ha venido el frío, y aunque tiene sus ventajas -el otoño es delicioso-, no acompaña bien a la sensación de **vacío** que queda cuando un proyecto en el que has trabajado con mucha intensidad termina&#8230;
 
-<blockquote class="instagram-media" data-instgrm-captioned data-instgrm-version="6" style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:658px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);">
-  <div style="padding:8px;">
-    <div style=" background:#F8F8F8; line-height:0; margin-top:40px; padding:50.0% 0; text-align:center; width:100%;">
-      <div style=" background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAsCAMAAAApWqozAAAAGFBMVEUiIiI9PT0eHh4gIB4hIBkcHBwcHBwcHBydr+JQAAAACHRSTlMABA4YHyQsM5jtaMwAAADfSURBVDjL7ZVBEgMhCAQBAf//42xcNbpAqakcM0ftUmFAAIBE81IqBJdS3lS6zs3bIpB9WED3YYXFPmHRfT8sgyrCP1x8uEUxLMzNWElFOYCV6mHWWwMzdPEKHlhLw7NWJqkHc4uIZphavDzA2JPzUDsBZziNae2S6owH8xPmX8G7zzgKEOPUoYHvGz1TBCxMkd3kwNVbU0gKHkx+iZILf77IofhrY1nYFnB/lQPb79drWOyJVa/DAvg9B/rLB4cC+Nqgdz/TvBbBnr6GBReqn/nRmDgaQEej7WhonozjF+Y2I/fZou/qAAAAAElFTkSuQmCC); display:block; height:44px; margin:0 auto -44px; position:relative; top:-22px; width:44px;">
-      </div>
-    </div>
-    
-    <p style=" margin:8px 0 0 0; padding:0 4px;">
-      <a href="https://www.instagram.com/p/-hXqIktssP/" style=" color:#000; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none; word-wrap:break-word;" target="_blank"></a>
-    </p>
-    
-    <p style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;">
-      A photo posted by Inma Bermejo (@inmabermejosalar) on <time style=" font-family:Arial,sans-serif; font-size:14px; line-height:17px;" datetime="2015-11-25T20:35:07+00:00">Nov 25, 2015 at 12:35pm PST</time>
-    </p>
-  </div>
-</blockquote>
-
-
+<blockquote class="instagram-media" data-instgrm-captioned data-instgrm-version="6" style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:658px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);"><div style="padding:8px;"> <div style=" background:#F8F8F8; line-height:0; margin-top:40px; padding:50.0% 0; text-align:center; width:100%;"> <div style=" background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAsCAMAAAApWqozAAAAGFBMVEUiIiI9PT0eHh4gIB4hIBkcHBwcHBwcHBydr+JQAAAACHRSTlMABA4YHyQsM5jtaMwAAADfSURBVDjL7ZVBEgMhCAQBAf//42xcNbpAqakcM0ftUmFAAIBE81IqBJdS3lS6zs3bIpB9WED3YYXFPmHRfT8sgyrCP1x8uEUxLMzNWElFOYCV6mHWWwMzdPEKHlhLw7NWJqkHc4uIZphavDzA2JPzUDsBZziNae2S6owH8xPmX8G7zzgKEOPUoYHvGz1TBCxMkd3kwNVbU0gKHkx+iZILf77IofhrY1nYFnB/lQPb79drWOyJVa/DAvg9B/rLB4cC+Nqgdz/TvBbBnr6GBReqn/nRmDgaQEej7WhonozjF+Y2I/fZou/qAAAAAElFTkSuQmCC); display:block; height:44px; margin:0 auto -44px; position:relative; top:-22px; width:44px;"></div></div> <p style=" margin:8px 0 0 0; padding:0 4px;"> <a href="https://www.instagram.com/p/-hXqIktssP/" style=" color:#000; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none; word-wrap:break-word;" target="_blank"></a></p> <p style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;">A photo posted by Inma Bermejo (@inmabermejosalar) on <time style=" font-family:Arial,sans-serif; font-size:14px; line-height:17px;" datetime="2015-11-25T20:35:07+00:00">Nov 25, 2015 at 12:35pm PST</time></p></div></blockquote>
+<script async defer src="//platform.instagram.com/en_US/embeds.js"></script>
 
 Tener que recomponer los horarios que has quebrado, volver a la lista de tareas pendientes que no ha dejado de crecer porque no la estuvieras mirando, reencontrar tiempo de ocio y que la mente no sea capaz de relajarse. 
 
@@ -38,78 +22,30 @@ Acabé el viernes pasado, y voy recuperándome del atracón que me di, que nos d
 
 Así que un fin de semana casi en blanco, pero éste ha sido más movido. Limpieza intensiva -sí, sigo limpiando personalmente- y espectáculo.
 
-<blockquote class="instagram-media" data-instgrm-captioned data-instgrm-version="6" style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:658px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);">
-  <div style="padding:8px;">
-    <div style=" background:#F8F8F8; line-height:0; margin-top:40px; padding:50.0% 0; text-align:center; width:100%;">
-      <div style=" background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAsCAMAAAApWqozAAAAGFBMVEUiIiI9PT0eHh4gIB4hIBkcHBwcHBwcHBydr+JQAAAACHRSTlMABA4YHyQsM5jtaMwAAADfSURBVDjL7ZVBEgMhCAQBAf//42xcNbpAqakcM0ftUmFAAIBE81IqBJdS3lS6zs3bIpB9WED3YYXFPmHRfT8sgyrCP1x8uEUxLMzNWElFOYCV6mHWWwMzdPEKHlhLw7NWJqkHc4uIZphavDzA2JPzUDsBZziNae2S6owH8xPmX8G7zzgKEOPUoYHvGz1TBCxMkd3kwNVbU0gKHkx+iZILf77IofhrY1nYFnB/lQPb79drWOyJVa/DAvg9B/rLB4cC+Nqgdz/TvBbBnr6GBReqn/nRmDgaQEej7WhonozjF+Y2I/fZou/qAAAAAElFTkSuQmCC); display:block; height:44px; margin:0 auto -44px; position:relative; top:-22px; width:44px;">
-      </div>
-    </div>
-    
-    <p style=" margin:8px 0 0 0; padding:0 4px;">
-      <a href="https://www.instagram.com/p/-pZyx4Nspe/" style=" color:#000; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none; word-wrap:break-word;" target="_blank"></a>
-    </p>
-    
-    <p style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;">
-      A photo posted by Inma Bermejo (@inmabermejosalar) on <time style=" font-family:Arial,sans-serif; font-size:14px; line-height:17px;" datetime="2015-11-28T23:27:42+00:00">Nov 28, 2015 at 3:27pm PST</time>
-    </p>
-  </div>
-</blockquote>
-
-
+<blockquote class="instagram-media" data-instgrm-captioned data-instgrm-version="6" style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:658px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);"><div style="padding:8px;"> <div style=" background:#F8F8F8; line-height:0; margin-top:40px; padding:50.0% 0; text-align:center; width:100%;"> <div style=" background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAsCAMAAAApWqozAAAAGFBMVEUiIiI9PT0eHh4gIB4hIBkcHBwcHBwcHBydr+JQAAAACHRSTlMABA4YHyQsM5jtaMwAAADfSURBVDjL7ZVBEgMhCAQBAf//42xcNbpAqakcM0ftUmFAAIBE81IqBJdS3lS6zs3bIpB9WED3YYXFPmHRfT8sgyrCP1x8uEUxLMzNWElFOYCV6mHWWwMzdPEKHlhLw7NWJqkHc4uIZphavDzA2JPzUDsBZziNae2S6owH8xPmX8G7zzgKEOPUoYHvGz1TBCxMkd3kwNVbU0gKHkx+iZILf77IofhrY1nYFnB/lQPb79drWOyJVa/DAvg9B/rLB4cC+Nqgdz/TvBbBnr6GBReqn/nRmDgaQEej7WhonozjF+Y2I/fZou/qAAAAAElFTkSuQmCC); display:block; height:44px; margin:0 auto -44px; position:relative; top:-22px; width:44px;"></div></div> <p style=" margin:8px 0 0 0; padding:0 4px;"> <a href="https://www.instagram.com/p/-pZyx4Nspe/" style=" color:#000; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none; word-wrap:break-word;" target="_blank"></a></p> <p style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;">A photo posted by Inma Bermejo (@inmabermejosalar) on <time style=" font-family:Arial,sans-serif; font-size:14px; line-height:17px;" datetime="2015-11-28T23:27:42+00:00">Nov 28, 2015 at 3:27pm PST</time></p></div></blockquote>
+<script async defer src="//platform.instagram.com/en_US/embeds.js"></script>
 
 Mi madre ha actuado en una **función benéfica** y fue una tarde movidita. No llegamos a tiempo de ayudarle a preparar los materiales, y acabamos haciéndolo a última hora, maquillando y acortando un vestido entre bambalinas. Otro pequeño drama con mi abuela, que se quería hacer la interesante con que no se iba a venir&#8230; pero que cuando vio que tardábamos en el teatro, casi hace a mi hermano ir a buscarnos. Y al llegar, nos querían dejar sin sitio&#8230; Pero al final todo salió bien, y ahora la _artista_ disfruta de su éxito.
 
 Hoy quería aprovechar la tarde del domingo para volver a salir a hacer fotos, que me estoy oxidando. Además, he comprado [Photopills](http://es.photopills.com/), pero se me ha hecho tarde y apenas he podido aprovechar los últimos rayos de sol. De aquí a diciembre tendré que espabilarme, que la luz es muy bonita, pero se va enseguida!
 
-<blockquote class="instagram-media" data-instgrm-captioned data-instgrm-version="6" style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:658px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);">
-  <div style="padding:8px;">
-    <div style=" background:#F8F8F8; line-height:0; margin-top:40px; padding:50.0% 0; text-align:center; width:100%;">
-      <div style=" background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAsCAMAAAApWqozAAAAGFBMVEUiIiI9PT0eHh4gIB4hIBkcHBwcHBwcHBydr+JQAAAACHRSTlMABA4YHyQsM5jtaMwAAADfSURBVDjL7ZVBEgMhCAQBAf//42xcNbpAqakcM0ftUmFAAIBE81IqBJdS3lS6zs3bIpB9WED3YYXFPmHRfT8sgyrCP1x8uEUxLMzNWElFOYCV6mHWWwMzdPEKHlhLw7NWJqkHc4uIZphavDzA2JPzUDsBZziNae2S6owH8xPmX8G7zzgKEOPUoYHvGz1TBCxMkd3kwNVbU0gKHkx+iZILf77IofhrY1nYFnB/lQPb79drWOyJVa/DAvg9B/rLB4cC+Nqgdz/TvBbBnr6GBReqn/nRmDgaQEej7WhonozjF+Y2I/fZou/qAAAAAElFTkSuQmCC); display:block; height:44px; margin:0 auto -44px; position:relative; top:-22px; width:44px;">
-      </div>
-    </div>
-    
-    <p style=" margin:8px 0 0 0; padding:0 4px;">
-      <a href="https://www.instagram.com/p/-ro2qsNsoI/" style=" color:#000; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none; word-wrap:break-word;" target="_blank"></a>
-    </p>
-    
-    <p style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;">
-      A photo posted by Inma Bermejo (@inmabermejosalar) on <time style=" font-family:Arial,sans-serif; font-size:14px; line-height:17px;" datetime="2015-11-29T20:17:47+00:00">Nov 29, 2015 at 12:17pm PST</time>
-    </p>
-  </div>
-</blockquote>
-
-
+<blockquote class="instagram-media" data-instgrm-captioned data-instgrm-version="6" style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:658px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);"><div style="padding:8px;"> <div style=" background:#F8F8F8; line-height:0; margin-top:40px; padding:50.0% 0; text-align:center; width:100%;"> <div style=" background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAsCAMAAAApWqozAAAAGFBMVEUiIiI9PT0eHh4gIB4hIBkcHBwcHBwcHBydr+JQAAAACHRSTlMABA4YHyQsM5jtaMwAAADfSURBVDjL7ZVBEgMhCAQBAf//42xcNbpAqakcM0ftUmFAAIBE81IqBJdS3lS6zs3bIpB9WED3YYXFPmHRfT8sgyrCP1x8uEUxLMzNWElFOYCV6mHWWwMzdPEKHlhLw7NWJqkHc4uIZphavDzA2JPzUDsBZziNae2S6owH8xPmX8G7zzgKEOPUoYHvGz1TBCxMkd3kwNVbU0gKHkx+iZILf77IofhrY1nYFnB/lQPb79drWOyJVa/DAvg9B/rLB4cC+Nqgdz/TvBbBnr6GBReqn/nRmDgaQEej7WhonozjF+Y2I/fZou/qAAAAAElFTkSuQmCC); display:block; height:44px; margin:0 auto -44px; position:relative; top:-22px; width:44px;"></div></div> <p style=" margin:8px 0 0 0; padding:0 4px;"> <a href="https://www.instagram.com/p/-ro2qsNsoI/" style=" color:#000; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none; word-wrap:break-word;" target="_blank"></a></p> <p style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;">A photo posted by Inma Bermejo (@inmabermejosalar) on <time style=" font-family:Arial,sans-serif; font-size:14px; line-height:17px;" datetime="2015-11-29T20:17:47+00:00">Nov 29, 2015 at 12:17pm PST</time></p></div></blockquote>
+<script async defer src="//platform.instagram.com/en_US/embeds.js"></script>
 
 No a tiempo, pero **en el trabajo** ya pudimos sacar el especial que hemos preparado, patrocinado por Vodafone, sobre la [transformación digital de la televisión](http://www.xataka.com/especial/hemos-matado-la-television). Tuvimos unos problemas extraños a última hora, y perdimos el _momento_ de la mañana de los [Premios Xataka](http://www.xataka.com/xataka/premiosxataka15-la-cronica), así que acabamos publicándolo este lunes.
 
-<blockquote class="twitter-tweet" lang="en">
-  <p lang="es" dir="ltr">
-    Ayer sacamos especial en Xataka, <a href="https://t.co/KweAPK5YbA">https://t.co/KweAPK5YbA</a> con <a href="https://twitter.com/MissMacGuffin">@MissMacGuffin</a> y <a href="https://twitter.com/Alex_Ferrero">@Alex_Ferrero</a>. Lo diseñé y maqueté con ayuda de <a href="https://twitter.com/Strcilla">@Strcilla</a>
-  </p>
-  
-  <p>
-    &mdash; chavalina (@chavalina) <a href="https://twitter.com/chavalina/status/669233556389027840">November 24, 2015</a>
-  </p>
-</blockquote>
-
-
+<blockquote class="twitter-tweet" lang="en"><p lang="es" dir="ltr">Ayer sacamos especial en Xataka, <a href="https://t.co/KweAPK5YbA">https://t.co/KweAPK5YbA</a> con <a href="https://twitter.com/MissMacGuffin">@MissMacGuffin</a> y <a href="https://twitter.com/Alex_Ferrero">@Alex_Ferrero</a>. Lo diseñé y maqueté con ayuda de <a href="https://twitter.com/Strcilla">@Strcilla</a></p>&mdash; chavalina (@chavalina) <a href="https://twitter.com/chavalina/status/669233556389027840">November 24, 2015</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 Aproximadamente cuatro semanas de trabajo, que debieron haber sido cinco, pues la última tuvimos que apretar muchísimo para poder llegar. Trabajamos en ello principalmente [Marina Such](https://twitter.com/MissMacGuffin) en el contenido, coordinadora de [Vaya Tele](http://www.vayatele.com/), y por mi parte, diseño y maquetación, con la ayuda de mi compañera Esther. Álex Ferrero y Antonio Ortiz nos guiaron con el enfoque editorial, y nos espolearon para conseguir el mejor resultado (gracias), y Laura&#8230; Laura nos ayudó en todo, qué haríamos sin ti. Es lo que se llama una _facilitadora_ por naturaleza.
 
-<blockquote class="twitter-tweet" lang="en">
-  <p lang="en" dir="ltr">
-    New detail dribbble: Special post regarding TV digital transform <a href="https://t.co/jzXI7X4E2b">https://t.co/jzXI7X4E2b</a> <a href="https://t.co/Px5ERnezsc">pic.twitter.com/Px5ERnezsc</a>
-  </p>
-  
-  <p>
-    &mdash; chavalina (@chavalina) <a href="https://twitter.com/chavalina/status/667707616089513984">November 20, 2015</a>
-  </p>
-</blockquote>
-
-
+<blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">New detail dribbble: Special post regarding TV digital transform <a href="https://t.co/jzXI7X4E2b">https://t.co/jzXI7X4E2b</a> <a href="https://t.co/Px5ERnezsc">pic.twitter.com/Px5ERnezsc</a></p>&mdash; chavalina (@chavalina) <a href="https://twitter.com/chavalina/status/667707616089513984">November 20, 2015</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 Tras acabarlo, he preparado un _post-mortem_ en privado, y he propuesto al equipo escribir un caso de estudio para el sitio web de Social Media SL, contando el proceso, cómo hemos trabajado en equipo, cómo hemos conseguido los recursos&#8230; aunque no creo que lo hagamos antes de enero, si va adelante.
 
 Después estuve trabajando en algunas tareas pequeñas que se me habían acumulado las semanas anteriores, eché una mano a Esther y Diego con un microsite para un cliente de empresas, y empecé una nueva tarea de conceptualización para una nueva herramienta para nuestros editores, que será a lo que dedique más tiempo los próximos días.
 
 Y sigo lamentándome por no haber podido asistir a los Premios Xataka. Pero bueno, para mi, y para los que sintáis curiosidad, siempre quedará el streaming&#8230;
+
+<iframe width="853" height="480" src="https://www.youtube.com/embed/R1GL7rTNw7k?rel=0" frameborder="0" allowfullscreen></iframe>

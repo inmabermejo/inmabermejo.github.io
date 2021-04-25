@@ -23,8 +23,6 @@ tags:
   </p>
 </blockquote>
 
-
-
 Este año recibo las vacaciones con expectación. El año pasado las tuve muy repartidas, y éste no he tenido días libres así que va a ser la primera vez que tenga tres semanas seguidas. Quería planificarlas bien para aprovechar, pero por ahora solamente me he dejado llevar por eventos y sensaciones.
 
 En el trabajo hemos tenido dos semanas bastante planas. Se notan las vacaciones del resto del equipo, así que he aprovechado para seguir con el **refactoring**. Es un poco pesado pero nos dará agilidad y flexibilidad que nos hace falta. Es una inversión para hacer el trabajo más fácil después.
@@ -57,4 +55,6 @@ Y en el ocio, estoy en una etapa extraña. Hace mucho que perdí el interés en 
 
 Pero en los últimos días he vuelto a tener _sensaciones_ con sendas [Dune](http://www.imdb.com/title/tt0087182/) y [Blue Velvet](http://www.imdb.com/title/tt0090756/). Pese a que no son lo primero que veo de [David Lynch](http://www.imdb.com/name/nm0000186/?ref_=tt_ov_dr), son películas extrañas, y traen sensaciones extrañas, buenas y malas. Pero sensaciones al fin y al cabo.
 
-Lo único malo de Lynch es que luego necesitas el antídoto&#8230;
+Lo único malo de Lynch es que luego necesitas el antídoto…
+
+<iframe width="640" height="480" src="//www.youtube.com/embed/97N7Iat10_M" frameborder="0" allowfullscreen></iframe>

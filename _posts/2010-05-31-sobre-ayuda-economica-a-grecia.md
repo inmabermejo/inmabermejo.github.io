@@ -15,3 +15,5 @@ tags:
   - Reflexiones
 ---
 Como dice [@vaites](http://twitter.com/vaites/status/15094856949), triste que estas intervenciones se queden en nada, porque a nadie le importa:
+
+<object width="560" height="340"><param name="movie" value="http://www.youtube.com/v/nqno8H-mjeY&hl=es_ES&fs=1&"><param name="allowFullScreen" value="true"><param name="allowscriptaccess" value="always"><embed src="http://www.youtube.com/v/nqno8H-mjeY&hl=es_ES&fs=1&" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="560" height="340"></object>

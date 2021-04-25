@@ -66,3 +66,5 @@ En este manifiesto **yo añadiría** algún tipo de _«gratis con limitación»_
 **¿Y vosotros?** ¿dejaríais de descargar por otros medios si existiera uno (o varios) servicios de este tipo a precio razonable?
 
 Os dejo con el bonito vídeo que os comentaba arriba: **Copiar no es robar**.
+
+<iframe title="YouTube video player" width="560" height="345" src="http://www.youtube.com/embed/ef-OExpQEcU?rel=0" frameborder="0" allowfullscreen></iframe>
