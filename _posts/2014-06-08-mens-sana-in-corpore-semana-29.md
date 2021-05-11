@@ -13,7 +13,7 @@ tags:
 ---
 Para los que trabajamos _de oficinistas_ hacer las labores y mantenimiento del hogar debería ser obligatorio.
 
-
+<iframe src="//instagram.com/p/o-mzyTtsqW/embed/" width="612" height="710" frameborder="0" scrolling="no" allowtransparency="true"></iframe>
 
 Tareas sencillas, aunque puedan ser pesadas, pero que no requieren mucho trabajo mental. Cada vez más gente coincide conmigo en que tras jornadas de trabajo intelectual, agradecen más hacer la comida, limpiar la casa o cuidar el jardín que ponerse a ver _otra serie_ o incluso a leer.
 
@@ -38,3 +38,5 @@ En la **red social de moda** empezamos y cerramos la tarea nueva, relacionada co
 Así que hice dos propuestas. En una de ellas, ambas opciones para el login aparecían como **opciones de jerarquía similar**. Esto ayuda a la percepción como alternativas. La otra propuesta daba **mayor relevancia al login con email**. Hay un porcentaje muy pequeño de usuarios que utilizan el login con Facebook y además, por su diseño el botón tiene mucho peso visual ya de por sí. Acordamos usar esta segunda opción al final.
 
 Espero que la semana que viene pueda mantener el ritmo y buenas sensaciones, aunque acabe K.O. A empezar a planearla.
+
+<iframe src="//instagram.com/p/o-1-2QtssS/embed/" width="612" height="710" frameborder="0" scrolling="no" allowtransparency="true"></iframe>

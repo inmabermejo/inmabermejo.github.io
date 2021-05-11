@@ -14,20 +14,8 @@ categories:
 ---
 **Actualización <abbr ="Too long, didn't read">TL;DR</abbr>**: aquí una guía más breve aún para mejorar con el email:
 
-<blockquote class="twitter-tweet" data-lang="en">
-  <p lang="en" dir="ltr">
-    3 steps to better emails
-  </p>
-  
-  <p>
-    1. Spend 5 minutes writing it<br />2. Delete half of it<br />3. Maybe don't even send it
-  </p>
-  
-  <p>
-    &mdash; ⎛⚆_⚆⎠ (@supersole) <a href="https://twitter.com/supersole/status/677188797583466497">December 16, 2015</a>
-  </p>
-</blockquote>
-
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">3 steps to better emails<br><br>1. Spend 5 minutes writing it<br>2. Delete half of it<br>3. Maybe don&#39;t even send it</p>&mdash; ⎛⚆_⚆⎠ (@supersole) <a href="https://twitter.com/supersole/status/677188797583466497">December 16, 2015</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
 Hace unos días llegué gracias a [@antonello](https://twitter.com/antonello/status/561844411081162752) a un interesante [artículo de The Guardian](http://www.theguardian.com/science/2015/jan/18/modern-world-bad-for-brain-daniel-j-levitin-organized-mind-information-overload) donde cuentan cómo afecta a nuestro cerebro el uso que hacemos de la tecnología.

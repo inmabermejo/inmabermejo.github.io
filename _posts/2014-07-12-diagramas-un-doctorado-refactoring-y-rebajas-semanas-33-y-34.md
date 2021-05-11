@@ -13,7 +13,7 @@ tags:
 ---
 De nuevo voy a contar dos semanas en una, mi disculpa: _estaba de shopping_ 🙂
 
-
+<iframe src="//instagram.com/p/qUPlF0tsrV/embed/" width="612" height="710" frameborder="0" scrolling="no" allowtransparency="true"></iframe>
 
 Mi debilidad, **las rebajas**, compras por internet a horas intempestivas, pero también una **actividad familiar** que ya es tradición ir con mi hermana y mi madre. Tan buena para nosotras como ir al cine o de cañas, o incluso mejor, me atrevo a decir. Lo malo es que sufrimos _bulimia de compras_, término acuñado por Suso Lahuerta para describir la forma de comprar típica de mi madre.
 
@@ -21,7 +21,7 @@ Pero no toda la actividad familiar fue tan superficial, ya que este jueves acomp
 
 Una presentación impecable, un saber estar en la tarima y la forma de responder a las preguntas, con naturalidad pero contundencia, un dominio del inglés hablado que para mi quisiera la mitad, y, sobre todo, valentía al elegir un tema actual, desarrollado por filósofos contemporáneos y generando contenido original. Enhorabuena Ali!
 
-
+<iframe src="//instagram.com/p/qWCDEcNsm7/embed/" width="612" height="710" frameborder="0" scrolling="no" allowtransparency="true"></iframe>
 
 En el trabajo, han sido dos semanas muy diferentes. La primera, dedicada a cerrar frentes, como el **proyecto largamente retrasado**, revisión, ayudar a la implementación de los **snippets** de código en el panel de edición, hacer algunos prototipos para implementar la votación de comentarios en nuestras versiones móviles, y dar soporte a algunos compañeros de servicios a empresas, que han tenido mucho trabajo estos días y necesitaban un poco de ayuda.
 
@@ -33,17 +33,8 @@ Botones, iconos, formularios, colores&#8230; es lo básico que he abordado esta 
 
 También he empezado a preparar una escala tipográfica nueva, que no será tan sencilla de incorporar en esta refactorización como el resto de componentes. Necesita mucho más trabajo de diseño previo, pero es necesario también.
 
-<blockquote class="twitter-tweet" lang="en">
-  <p>
-    <a href="https://twitter.com/hashtag/lecturadeverano?src=hash">#lecturadeverano</a> Qué potra, pillé el Design for the real world por 11€ y ahora cuesta el doble <a href="http://t.co/3rR7ih2KyU">http://t.co/3rR7ih2KyU</a> <a href="http://t.co/C8mnLWSgcY">pic.twitter.com/C8mnLWSgcY</a>
-  </p>
-  
-  <p>
-    &mdash; chavalina (@chavalina) <a href="https://twitter.com/chavalina/statuses/485361824750374912">July 5, 2014</a>
-  </p>
-</blockquote>
-
-
+<blockquote class="twitter-tweet" lang="en"><p><a href="https://twitter.com/hashtag/lecturadeverano?src=hash">#lecturadeverano</a> Qué potra, pillé el Design for the real world por 11€ y ahora cuesta el doble <a href="http://t.co/3rR7ih2KyU">http://t.co/3rR7ih2KyU</a> <a href="http://t.co/C8mnLWSgcY">pic.twitter.com/C8mnLWSgcY</a></p>&mdash; chavalina (@chavalina) <a href="https://twitter.com/chavalina/statuses/485361824750374912">July 5, 2014</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 Y la siguiente semana ha venido marcada por una nueva tarea que me han pedido para el panel de edición, relacionada con la **visualización de datos**. 
 

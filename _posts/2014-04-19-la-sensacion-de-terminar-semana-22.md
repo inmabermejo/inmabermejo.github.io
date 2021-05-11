@@ -13,7 +13,7 @@ tags:
 ---
 Llevaba unos meses tan ocupados que ni siquiera había podido ir a cortarme el pelo. Parece una tontería, pero para mi es una medida de _mi ocupación_, ya que es algo para lo que _me tengo que preparar_. Oye, **cada uno tiene sus cosas**. 
 
-
+<iframe src="//instagram.com/p/m9_-g5NspE/embed/" width="612" height="710" frameborder="0" scrolling="no" allowtransparency="true"></iframe>
 
 Así que tras una semana más de muy alta actividad, por fin cerrando frentes, terminando, terminando&#8230; hacerlo es el símbolo perfecto, **hasta aquí hemos llegao**. Y hacer el resumen semanal, sorprendentemente, me apetece. 
 
@@ -21,7 +21,7 @@ Además, le robo a [Torresburriel](http://www.torresburriel.com/weblog/) la idea
 
 Aparte de terminar cosas y robar ideas, me he dedicado a disfrutar de la Semana Santa y beber cerveza. A algunos que me conocen les parece curioso que me guste la Semana Santa, pero, oye, **cada uno tiene sus cosas**.
 
-
+<iframe src="//instagram.com/p/m8h2ulNsuX/embed/" width="612" height="710" frameborder="0" scrolling="no" allowtransparency="true"></iframe>
 
 En el trabajo en **WSL** se abrió un nuevo frente, **V**, que pese a presentarte como una tarea sencilla, no lo es por el ámbito al que afecta. Puede que sea fácil hacer un diseño aislado para esta necesidad, pero tiene que convivir en territorio hostil, y ahí creo que va a estar la dificultad. 
 

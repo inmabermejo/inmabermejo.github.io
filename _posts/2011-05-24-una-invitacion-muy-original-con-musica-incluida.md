@@ -18,5 +18,4 @@ Creo que a través de Twitter (lo siento, pero no recuerdo exactamente la fuente
 
 Una idea muy bonita para como regalo para unos amigos de la diseñadora. Más información: [A paper record player](http://kellianderson.com/blog/2011/04/a-paper-record-player/).
 
-<div class="mm">
-</div>
+<div class="mm"><iframe src="http://player.vimeo.com/video/22306468" width="600" height="338" frameborder="0"></iframe></div>
