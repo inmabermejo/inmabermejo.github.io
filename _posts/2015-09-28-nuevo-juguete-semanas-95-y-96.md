@@ -14,23 +14,8 @@ tags:
 ---
 Que me han dado para mucho. Densas en el trabajo, y densas en el ocio. Así estoy, con _el cuerpo remolío_.
 
-<blockquote class="instagram-media" data-instgrm-captioned data-instgrm-version="4" style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:658px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);">
-  <div style="padding:8px;">
-    <div style=" background:#F8F8F8; line-height:0; margin-top:40px; padding:50.0% 0; text-align:center; width:100%;">
-      <div style=" background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAsCAMAAAApWqozAAAAGFBMVEUiIiI9PT0eHh4gIB4hIBkcHBwcHBwcHBydr+JQAAAACHRSTlMABA4YHyQsM5jtaMwAAADfSURBVDjL7ZVBEgMhCAQBAf//42xcNbpAqakcM0ftUmFAAIBE81IqBJdS3lS6zs3bIpB9WED3YYXFPmHRfT8sgyrCP1x8uEUxLMzNWElFOYCV6mHWWwMzdPEKHlhLw7NWJqkHc4uIZphavDzA2JPzUDsBZziNae2S6owH8xPmX8G7zzgKEOPUoYHvGz1TBCxMkd3kwNVbU0gKHkx+iZILf77IofhrY1nYFnB/lQPb79drWOyJVa/DAvg9B/rLB4cC+Nqgdz/TvBbBnr6GBReqn/nRmDgaQEej7WhonozjF+Y2I/fZou/qAAAAAElFTkSuQmCC); display:block; height:44px; margin:0 auto -44px; position:relative; top:-22px; width:44px;">
-      </div>
-    </div>
-    
-    <p style=" margin:8px 0 0 0; padding:0 4px;">
-      <a href="https://instagram.com/p/73M-j6tsuv/" style=" color:#000; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none; word-wrap:break-word;" target="_top">????</a>
-    </p>
-    
-    <p style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;">
-      A photo posted by Inma Bermejo (@inmabermejosalar) on <time style=" font-family:Arial,sans-serif; font-size:14px; line-height:17px;" datetime="2015-09-20T18:30:54+00:00">Sep 20, 2015 at 11:30am PDT</time>
-    </p>
-  </div>
-</blockquote>
-
+<blockquote class="instagram-media" data-instgrm-captioned data-instgrm-version="4" style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:658px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);"><div style="padding:8px;"> <div style=" background:#F8F8F8; line-height:0; margin-top:40px; padding:50.0% 0; text-align:center; width:100%;"> <div style=" background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAsCAMAAAApWqozAAAAGFBMVEUiIiI9PT0eHh4gIB4hIBkcHBwcHBwcHBydr+JQAAAACHRSTlMABA4YHyQsM5jtaMwAAADfSURBVDjL7ZVBEgMhCAQBAf//42xcNbpAqakcM0ftUmFAAIBE81IqBJdS3lS6zs3bIpB9WED3YYXFPmHRfT8sgyrCP1x8uEUxLMzNWElFOYCV6mHWWwMzdPEKHlhLw7NWJqkHc4uIZphavDzA2JPzUDsBZziNae2S6owH8xPmX8G7zzgKEOPUoYHvGz1TBCxMkd3kwNVbU0gKHkx+iZILf77IofhrY1nYFnB/lQPb79drWOyJVa/DAvg9B/rLB4cC+Nqgdz/TvBbBnr6GBReqn/nRmDgaQEej7WhonozjF+Y2I/fZou/qAAAAAElFTkSuQmCC); display:block; height:44px; margin:0 auto -44px; position:relative; top:-22px; width:44px;"></div></div> <p style=" margin:8px 0 0 0; padding:0 4px;"> <a href="https://instagram.com/p/73M-j6tsuv/" style=" color:#000; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none; word-wrap:break-word;" target="_top">????</a></p> <p style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;">A photo posted by Inma Bermejo (@inmabermejosalar) on <time style=" font-family:Arial,sans-serif; font-size:14px; line-height:17px;" datetime="2015-09-20T18:30:54+00:00">Sep 20, 2015 at 11:30am PDT</time></p></div></blockquote>
+<script async defer src="//platform.instagram.com/en_US/embeds.js"></script>
 
 
 Empecé el fin de semana de fiesta con amigos. Cumpleaños. Lo de siempre&#8230; **¿qué regalar?** Ahora, a no ser que tenga 100% claro que alguien necesita alguna cosa, regalo _consumibles_, cosas que no puedan acabar en un rincón cogiendo polvo.
@@ -43,17 +28,8 @@ Al principio me planteé comprar [otra compacta](http://www.amazon.es/gp/product
 
 Me estuve informando en [El blog del fotógrafo](http://www.blogdelfotografo.com/), una web muy muy didáctica. Me ha encantado porque explica las cosas muy bien, con ejemplos, con símiles&#8230; y se pueden entender de forma fácil conceptos que pueden parecer complejos al principio. Twitter también es una gran herramienta en estos casos, una forma de _preguntar a mucha gente_ rápido, y sin molestar mucho.
 
-<blockquote class="twitter-tweet" lang="en">
-  <p lang="es" dir="ltr">
-    Lo malo, que cuanto más sabes&#8230; más quieres. Ahora a lo difícil, decidir lo imprescindible para empezar y la pasta que voy a soltar
-  </p>
-  
-  <p>
-    &mdash; chavalina (@chavalina) <a href="https://twitter.com/chavalina/status/645673377248751616">September 20, 2015</a>
-  </p>
-</blockquote>
-
-
+<blockquote class="twitter-tweet" lang="en"><p lang="es" dir="ltr">Lo malo, que cuanto más sabes... más quieres. Ahora a lo difícil, decidir lo imprescindible para empezar y la pasta que voy a soltar</p>&mdash; chavalina (@chavalina) <a href="https://twitter.com/chavalina/status/645673377248751616">September 20, 2015</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 Estaba casi decidida por la [Sony A5000](http://www.amazon.es/gp/product/B00HH8A60C/ref=as_li_ss_tl?ie=UTF8&camp=3626&creative=24822&creativeASIN=B00HH8A60C&linkCode=as2&tag=chavadiari-21), que tiene muy buenas características para su precio, unos 300€. Pero me echó para atrás la falta de visor. Para hacer fotos en exteriores no quiero depender solamente de una pantalla que vete a saber cómo se verá bajo el sol.
 
@@ -63,23 +39,8 @@ Este fin de semana estuve dando algunas vueltas por ahí intentando hacer algo, 
 
 Así también retomaré [mi cuenta de flickr](https://www.flickr.com/photos/chavalina/), que desde que estoy con Instagram la tengo abandonada, pero creo que es interesante usar cada una para una cosa distinta. Mejor no _floodear_ Instagram, o mis amigos acabarán hasta el moño. 
 
-<blockquote class="instagram-media" data-instgrm-captioned data-instgrm-version="4" style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:658px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);">
-  <div style="padding:8px;">
-    <div style=" background:#F8F8F8; line-height:0; margin-top:40px; padding:50.0% 0; text-align:center; width:100%;">
-      <div style=" background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAsCAMAAAApWqozAAAAGFBMVEUiIiI9PT0eHh4gIB4hIBkcHBwcHBwcHBydr+JQAAAACHRSTlMABA4YHyQsM5jtaMwAAADfSURBVDjL7ZVBEgMhCAQBAf//42xcNbpAqakcM0ftUmFAAIBE81IqBJdS3lS6zs3bIpB9WED3YYXFPmHRfT8sgyrCP1x8uEUxLMzNWElFOYCV6mHWWwMzdPEKHlhLw7NWJqkHc4uIZphavDzA2JPzUDsBZziNae2S6owH8xPmX8G7zzgKEOPUoYHvGz1TBCxMkd3kwNVbU0gKHkx+iZILf77IofhrY1nYFnB/lQPb79drWOyJVa/DAvg9B/rLB4cC+Nqgdz/TvBbBnr6GBReqn/nRmDgaQEej7WhonozjF+Y2I/fZou/qAAAAAElFTkSuQmCC); display:block; height:44px; margin:0 auto -44px; position:relative; top:-22px; width:44px;">
-      </div>
-    </div>
-    
-    <p style=" margin:8px 0 0 0; padding:0 4px;">
-      <a href="https://instagram.com/p/8FgYJftsq7/" style=" color:#000; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none; word-wrap:break-word;" target="_top">??#a6000</a>
-    </p>
-    
-    <p style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;">
-      A photo posted by Inma Bermejo (@inmabermejosalar) on <time style=" font-family:Arial,sans-serif; font-size:14px; line-height:17px;" datetime="2015-09-26T07:49:47+00:00">Sep 26, 2015 at 12:49am PDT</time>
-    </p>
-  </div>
-</blockquote>
-
+<blockquote class="instagram-media" data-instgrm-captioned data-instgrm-version="4" style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:658px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);"><div style="padding:8px;"> <div style=" background:#F8F8F8; line-height:0; margin-top:40px; padding:50.0% 0; text-align:center; width:100%;"> <div style=" background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAsCAMAAAApWqozAAAAGFBMVEUiIiI9PT0eHh4gIB4hIBkcHBwcHBwcHBydr+JQAAAACHRSTlMABA4YHyQsM5jtaMwAAADfSURBVDjL7ZVBEgMhCAQBAf//42xcNbpAqakcM0ftUmFAAIBE81IqBJdS3lS6zs3bIpB9WED3YYXFPmHRfT8sgyrCP1x8uEUxLMzNWElFOYCV6mHWWwMzdPEKHlhLw7NWJqkHc4uIZphavDzA2JPzUDsBZziNae2S6owH8xPmX8G7zzgKEOPUoYHvGz1TBCxMkd3kwNVbU0gKHkx+iZILf77IofhrY1nYFnB/lQPb79drWOyJVa/DAvg9B/rLB4cC+Nqgdz/TvBbBnr6GBReqn/nRmDgaQEej7WhonozjF+Y2I/fZou/qAAAAAElFTkSuQmCC); display:block; height:44px; margin:0 auto -44px; position:relative; top:-22px; width:44px;"></div></div> <p style=" margin:8px 0 0 0; padding:0 4px;"> <a href="https://instagram.com/p/8FgYJftsq7/" style=" color:#000; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none; word-wrap:break-word;" target="_top">??#a6000</a></p> <p style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;">A photo posted by Inma Bermejo (@inmabermejosalar) on <time style=" font-family:Arial,sans-serif; font-size:14px; line-height:17px;" datetime="2015-09-26T07:49:47+00:00">Sep 26, 2015 at 12:49am PDT</time></p></div></blockquote>
+<script async defer src="//platform.instagram.com/en_US/embeds.js"></script>
 
 
 Fin de semana siguiente, **bautizo**. Lo pasamos muy bien, con gente que no veo con frecuencia, aprovechar para ponernos al día y enterarme de chismes de la infancia que desconocía.Y es divertido ver como los niños también observan anonadados a los adultos haciendo el ganso alguna vez.
@@ -90,17 +51,8 @@ No es tan fácil hacerlos cada uno solo en su casa: en clase coleccionaban papel
 
 Porque me doy cuenta de que tengo que centrarme en cada faceta del diseño que quiero aprender durante más tiempo, no saltar de tipografía a color y de ahí a composición o UX alegremente. Así que me planteo centrarme en tipografía hasta final del año, y volver al color releyendo este libro después, y haciendo los ejercicios comprando la aplicación. Empezar a hacer un **plan de I+D personal**, como decían aquí:
 
-<blockquote class="twitter-tweet" lang="en">
-  <p lang="es" dir="ltr">
-    Propósitos del nuevo curso. Crea tu plan de I+D Personal. Selecciona 4 temas (1 por trimestre), infórmate y escribe sobre lo que aprendas
-  </p>
-  
-  <p>
-    &mdash; Andrés Pérez Ortega (@marcapersonal) <a href="https://twitter.com/marcapersonal/status/22594884127">August 31, 2010</a>
-  </p>
-</blockquote>
-
-
+<blockquote class="twitter-tweet" lang="en"><p lang="es" dir="ltr">Propósitos del nuevo curso. Crea tu plan de I+D Personal. Selecciona 4 temas (1 por trimestre), infórmate y escribe sobre lo que aprendas</p>&mdash; Andrés Pérez Ortega (@marcapersonal) <a href="https://twitter.com/marcapersonal/status/22594884127">August 31, 2010</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 En mis favoritos desde 2010 y sin aplicarlo!
 
