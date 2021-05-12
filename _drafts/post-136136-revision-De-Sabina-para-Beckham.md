@@ -22,7 +22,7 @@ la Vicky y si el inglés se la tirara
 y el Ritz más que galaxia fuera nido,
 
 se comer&iacute;an vivo al Osasuna  
-y al M&oacute;naco y al Depor y ninguna  
+y al Mónaco y al Depor y ninguna  
 le tocar&iacute;a la polla a su marido.
 
 <span class="cita">De Joaqu&iacute;n Sabina en Intervi&uacute; (Junio de 2004)</span>  

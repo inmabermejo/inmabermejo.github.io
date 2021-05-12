@@ -1,6 +1,6 @@
 ---
 id: 1340
-title: 'Versi&oacute;n 4.6'
+title: 'Versión 4.6'
 date: 2004-08-01T16:59:58+02:00
 author: Chavalina
 layout: revision

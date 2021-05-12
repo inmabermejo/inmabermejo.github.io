@@ -11,4 +11,4 @@ Bush gana.
 Kerry pierde.  
 Poca posibilidad de novedades.  
 Lo bueno, si breve, dos veces bueno, y si es malo, tanto más.  
-Pero para regocijarse/desesperarse con un poco más de fundamento, podéis leer <a href="http://www.bitacoras.com/noticias/archivos/bitacoras_especial_elecciones_usa_bush_vs_kerry.php" target="_blank">un mont&oacute;n más de sitios</a> o también <a href="http://1984-2004.blogspot.com/2004/11/osama-y-george-4-aos-ms-de-la-mano.html" target="_blank">éste que me gusta a mi</a>.
+Pero para regocijarse/desesperarse con un poco más de fundamento, podéis leer <a href="http://www.bitacoras.com/noticias/archivos/bitacoras_especial_elecciones_usa_bush_vs_kerry.php" target="_blank">un montón más de sitios</a> o también <a href="http://1984-2004.blogspot.com/2004/11/osama-y-george-4-aos-ms-de-la-mano.html" target="_blank">éste que me gusta a mi</a>.

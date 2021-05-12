@@ -1,6 +1,6 @@
 ---
 id: 1784
-title: 'Edgarp&oacute;'
+title: 'Edgarpó'
 date: 2009-01-19T21:14:42+02:00
 author: Chavalina
 layout: revision

@@ -1,10 +1,10 @@
 ---
 id: 963
-title: 'Procrastinaci&oacute;n (ii)'
+title: 'Procrastinación (ii)'
 date: 2006-05-29T13:22:45+02:00
 author: Chavalina
 layout: revision
 guid: http://www.wp.chavalina.net/2006/05/29/694-revision/
 permalink: /2006/05/29/694-revision/
 ---
-Parece que <a href="http://www.alt1040.com/archivo/2006/05/29/como-dejar-de-procrastinar-la-manera-sencilla/" target="_blank">nos traen la soluci&oacute;n para la procrastinaci&oacute;n</a> (recordemos que eso de procrastinar es llevar mil cosas en danza y no acabar ninguna), ahora falta querer dejarlo!
+Parece que <a href="http://www.alt1040.com/archivo/2006/05/29/como-dejar-de-procrastinar-la-manera-sencilla/" target="_blank">nos traen la solución para la procrastinación</a> (recordemos que eso de procrastinar es llevar mil cosas en danza y no acabar ninguna), ahora falta querer dejarlo!

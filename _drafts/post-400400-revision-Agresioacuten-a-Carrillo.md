@@ -1,6 +1,6 @@
 ---
 id: 1066
-title: 'Agresi&oacute;n a Carrillo'
+title: 'Agresión a Carrillo'
 date: 2005-04-17T09:19:15+02:00
 author: Chavalina
 layout: revision

@@ -9,9 +9,9 @@ permalink: /2006/04/06/649-revision/
 ---
 Como dir&iacute;a si estuviera en <a href="http://formulamania.com/news/index.php" target="_blank">formulamania</a>, _comienza el baile_ pero no de pilotos, sino de **blogs**. Esta noche se celebra la fiesta y tenemos unos cuantos ganadores. 
 
-Enhorabuena a los premiados, y otra vez será a los no premiados, como yo, por ejemplo, acab&oacute; por no gustarme el concurso, por los <a href="http://www.domestikalien.com/2005/06/06/20-blogs/" target="_blank">mismos motivos que Fran</a>. Bueno, al final la cosa parece que acaba bien, y que todos han quedado contentos, aunque me hubiera gustado que los ganara GaBuBu jeje.
+Enhorabuena a los premiados, y otra vez será a los no premiados, como yo, por ejemplo, acabó por no gustarme el concurso, por los <a href="http://www.domestikalien.com/2005/06/06/20-blogs/" target="_blank">mismos motivos que Fran</a>. Bueno, al final la cosa parece que acaba bien, y que todos han quedado contentos, aunque me hubiera gustado que los ganara GaBuBu jeje.
 
 &iquest;Lo mejor?  
 Los blogs que he descubierto entre los finalistas y ganadores:
 
-<a href="http://www.elsentidodelavida.net/" target="_blank">El sentido de la vida</a>, ganador por votaci&oacute;n popular (3000
+<a href="http://www.elsentidodelavida.net/" target="_blank">El sentido de la vida</a>, ganador por votación popular (3000

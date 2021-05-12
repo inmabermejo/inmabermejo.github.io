@@ -7,7 +7,7 @@ layout: revision
 guid: http://www.wp.chavalina.net/2005/01/10/323-revision/
 permalink: /2005/01/10/323-revision/
 ---
-Pongámonos en situaci&oacute;n, _busco un consejo_ soy yo, y _«…el problema se&ntilde;or, sigue siendo sembrar amor…»_ mi hermana la fil&oacute;sofa:
+Pongámonos en situación, _busco un consejo_ soy yo, y _«…el problema se&ntilde;or, sigue siendo sembrar amor…»_ mi hermana la filósofa:
 
 «…el problema se&ntilde;or, sigue siendo sembrar amor…» dice:
 :   tu quieres un consejo, no?

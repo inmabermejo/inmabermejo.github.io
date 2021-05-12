@@ -7,7 +7,7 @@ layout: revision
 guid: http://www.wp.chavalina.net/2004/12/14/292-revision/
 permalink: /2004/12/14/292-revision/
 ---
-Pues ahora que estoy sin exámenes y que mi &uacute;nica ocupaci&oacute;n es trabajar un poco y sacarme el carnet de conducir estoy redise&ntilde;ando esto un poco, a ver si consigo que <acronym title="eXtended HyperText Markup Language">XHTML</acronym> o algo.
+Pues ahora que estoy sin exámenes y que mi &uacute;nica ocupación es trabajar un poco y sacarme el carnet de conducir estoy redise&ntilde;ando esto un poco, a ver si consigo que <acronym title="eXtended HyperText Markup Language">XHTML</acronym> o algo.
 
 El caso es que se me hab&iacute;a ocurrido cambiar la estructura y hacer dos columnas, como para diferenciar dos partes del blog, una con los temas personales y otra con el resto, pero ahora que ya lo he hecho y casi valida, no me convence![emo](/imagenes/emoticonos/triste.gif) Se queda muy descolgada una columna, y eso es algo que no me va. Además, me parece un poco desconcertante, porque están las dos columnas y parece que no se sabe bien cuál es el &uacute;ltimo post, el más nuevo.
 

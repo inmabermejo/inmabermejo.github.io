@@ -7,4 +7,4 @@ layout: revision
 guid: http://www.wp.chavalina.net/2007/07/22/816-revision/
 permalink: /2007/07/22/816-revision/
 ---
-Los chicos de <a href="http://ganga.es/" target="_blank">ganga.es</a> han puesto a mi disposici&oacute;n el c&oacute;digo promocional «chavalina» por si alguien quiere publicar anuncios en su sistema gratis. Se debe indicar en el momento de pagar la publicaci&oacute;n del anuncio para poder hacerlo gratuitamente. Espero que a alguno os aproveche!
+Los chicos de <a href="http://ganga.es/" target="_blank">ganga.es</a> han puesto a mi disposición el código promocional «chavalina» por si alguien quiere publicar anuncios en su sistema gratis. Se debe indicar en el momento de pagar la publicación del anuncio para poder hacerlo gratuitamente. Espero que a alguno os aproveche!

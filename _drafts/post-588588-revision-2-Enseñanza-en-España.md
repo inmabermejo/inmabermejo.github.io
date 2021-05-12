@@ -11,26 +11,26 @@ permalink: /2008/12/25/588-revision-2/
 > 
 > ENSE&Ntilde;ANZA DE 1960  
 > un campesino vende un saco de patatas por 1000 ptas.  
-> Sus gastos de producci&oacute;n se elevan a 4/5 del precio de la venta  
+> Sus gastos de producción se elevan a 4/5 del precio de la venta  
 > &iquest;Cual es su beneficio? 
 > 
 > ENSE&Ntilde;ANZA TRADICIONAL DE 1965  
 > Un campesino vende un sco de patatas por 1000 pts.  
-> Sus gastos de producci&oacute;n se elevan a 4/5 del precio de venta, esto es a 800 ptas.  
+> Sus gastos de producción se elevan a 4/5 del precio de venta, esto es a 800 ptas.  
 > &iquest;Cual es su beneficio? 
 > 
 > ENSE&Ntilde;ANZA MODERNA DE 1970  
 > Un campesino cambia un conjunto P de patatas por un conjunto M de monedas.  
 > El cardinal del conjunto M es igual a 1000 ptas, y cada elemento vale 1 pta.  
 > Dibuja 1000 puntos gordos que representen los elementos del conjunto M.  
-> El conjunto F de los gastos de producci&oacute;n comprende 200 puntos gordos menos que el conjunto M.  
-> Representa el conjunto F como subconjunto del conjunto M, estudia cual será su uni&oacute;n y su interseccci&oacute;n y da respuesta a la cuesti&oacute;n siguiente:  
+> El conjunto F de los gastos de producción comprende 200 puntos gordos menos que el conjunto M.  
+> Representa el conjunto F como subconjunto del conjunto M, estudia cual será su unión y su interseccción y da respuesta a la cuestión siguiente:  
 > &iquest;Cual es el cardinal del conjunto B de los beneficios?  
 > (Dibuje B con color rojo) 
 > 
 > L.O.G.S.E  
 > Un agricultor vende un saco de patatas por 1000 ptas.  
-> Los gastos de producci&oacute;n se elevan a 800 ptas. y el beneficio es de 200 ptas.  
+> Los gastos de producción se elevan a 800 ptas. y el beneficio es de 200 ptas.  
 > Actividad: subraya la palabra «patata» y discute sobre ella con tu compa&ntilde;ero. 
 > 
 > LA PROXIMA REFORMA  
@@ -43,4 +43,4 @@ permalink: /2008/12/25/588-revision-2/
 > Escribe tono, politono o sonitono con la frase «QUE LISTO EL EBARISTO» y envia un sms a tus colejas komentando los avusos antidemocraticos dEbaristo i conbocando una manifa expontanea nse&ntilde;al d protesta.  
 > Si bas a la manifa sortearan un buga guapeao. 
 
-Hoy, en mi buz&oacute;n de entrada (gracias Inma)![emo](/imagenes/emoticonos/guino.gif)
+Hoy, en mi buzón de entrada (gracias Inma)![emo](/imagenes/emoticonos/guino.gif)

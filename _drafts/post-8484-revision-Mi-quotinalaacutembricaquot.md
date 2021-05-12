@@ -11,11 +11,11 @@ permalink: /2004/04/14/84-revision/
   <a href="imagenes/fotos/inalambrica.jpg" target="_blank"><img src="/imagenes/fotos/thumbs/inalambrica.jpg" alt="inalambrica" width="267" height="200" border="0" /></a>
 </p>
 
-Pues ya tengo mi nueva conexi&oacute;n, pero por ahora deja bastante que desear.
+Pues ya tengo mi nueva conexión, pero por ahora deja bastante que desear.
 
-Las mayores ventajas son que no me ocupa la l&iacute;nea telef&oacute;nica, puedo conectar todo el d&iacute;a y es más rápida que mi antigua conexi&oacute;n, aqu&iacute; se pueden ver las medidas (y podéis medir la vuestra):
+Las mayores ventajas son que no me ocupa la l&iacute;nea telefónica, puedo conectar todo el d&iacute;a y es más rápida que mi antigua conexión, aqu&iacute; se pueden ver las medidas (y podéis medir la vuestra):
 
-  * <a href="http://213.4.114.108/cgi-bin/downstream3.asp?bytes=409600&#038;horaIni=1067113207.609&#038;horaFin=1067113374.539" target="_blank">Conexi&oacute;n con Universidad de Murcia &#8211; Tarifa Planna RTB </a>
-  * <a href="http://213.4.114.108/cgi-bin/downstream3.asp?bytes=409600&#038;horaIni=1081966568.215&#038;horaFin=1081966631.627" target="_blank">Conexi&oacute;n con Infoblanca.net &#8211; ADSL compartida por wi-fi </a>
+  * <a href="http://213.4.114.108/cgi-bin/downstream3.asp?bytes=409600&#038;horaIni=1067113207.609&#038;horaFin=1067113374.539" target="_blank">Conexión con Universidad de Murcia &#8211; Tarifa Planna RTB </a>
+  * <a href="http://213.4.114.108/cgi-bin/downstream3.asp?bytes=409600&#038;horaIni=1081966568.215&#038;horaFin=1081966631.627" target="_blank">Conexión con Infoblanca.net &#8211; ADSL compartida por wi-fi </a>
 
-Sin embargo, el gran inconveniente que le veo ahora mismo es que es muy inestable, va y viene como le da la gana, y no cojo una calidad de se&ntilde;al buena (siempre bajo o deficiente), además de que parece que el firewall me ralentiza la conexi&oacute;n (y quitarlo no es una opci&oacute;n) y todav&iacute;a no he conseguido hacer funcionar el MSN Messenger con ella. Mientras escribo estas l&iacute;neas se ha perdido la se&ntilde;al un par de veces, y eso es algo que me preocupa… Sé que la estabilidad es un precio a pagar a cambio de la comodidad, pero no sé si merece la pena.
+Sin embargo, el gran inconveniente que le veo ahora mismo es que es muy inestable, va y viene como le da la gana, y no cojo una calidad de se&ntilde;al buena (siempre bajo o deficiente), además de que parece que el firewall me ralentiza la conexión (y quitarlo no es una opción) y todav&iacute;a no he conseguido hacer funcionar el MSN Messenger con ella. Mientras escribo estas l&iacute;neas se ha perdido la se&ntilde;al un par de veces, y eso es algo que me preocupa… Sé que la estabilidad es un precio a pagar a cambio de la comodidad, pero no sé si merece la pena.

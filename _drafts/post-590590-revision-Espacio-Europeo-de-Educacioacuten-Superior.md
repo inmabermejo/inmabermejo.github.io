@@ -1,6 +1,6 @@
 ---
 id: 928
-title: 'Espacio Europeo de Educaci&oacute;n Superior'
+title: 'Espacio Europeo de Educación Superior'
 date: 2005-12-03T06:39:16+02:00
 author: Chavalina
 layout: revision

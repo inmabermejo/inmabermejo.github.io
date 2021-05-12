@@ -9,13 +9,13 @@ permalink: /2004/05/14/116-revision/
 ---
 Después de una dura semana de trabajo, entrega de prácticas de redes y bases de datos, disgustos en mi piso (alg&uacute;n d&iacute;a escribiré sobre eso) y malos rollos sentimentales (probablemente sobre esto también escribiré) vuelvo a mi abandonado weblog. En estas ocasiones es cuando me doy cuenta de la poca voluntad que tengo, me saturo un poco y lo dejo a la buena de dios. 
 
-Menos mal que tengo a <span class="alguien">kreach</span>, que, no sé c&oacute;mo se las apa&ntilde;a, que siempre se entera de todo el primero<img src="/imagenes/emoticonos/lengua.gif" alt="emo lengua" width="16" height="16" /> pero lo malo es que nunca me trae buenas noticias. Resulta que ahora parece que mi muy querido Wi-fi no es un protocolo tan seguro como parece.
+Menos mal que tengo a <span class="alguien">kreach</span>, que, no sé cómo se las apa&ntilde;a, que siempre se entera de todo el primero<img src="/imagenes/emoticonos/lengua.gif" alt="emo lengua" width="16" height="16" /> pero lo malo es que nunca me trae buenas noticias. Resulta que ahora parece que mi muy querido Wi-fi no es un protocolo tan seguro como parece.
 
-Seg&uacute;n he le&iacute;do, con un ataque de denegaci&oacute;n de servicio (DoS, que simplemente consiste en saturar a un servidor con peticiones falsas hasta que queda fuera de servicio) simplemente desde una PDA se podr&iacute;a dejar la red en mantillas (desde el protocolo, eh?)
+Seg&uacute;n he le&iacute;do, con un ataque de denegación de servicio (DoS, que simplemente consiste en saturar a un servidor con peticiones falsas hasta que queda fuera de servicio) simplemente desde una PDA se podr&iacute;a dejar la red en mantillas (desde el protocolo, eh?)
 
 > Los expertos aclararon que la vulnerabilidad no permite interceptar o modificar los datos transferidos, pero si puede afectar seriamente el funcionamiento de de la red, dejando a los usuarios -clientes o empleados- sin acceso a valiosos recursos online. 
 > 
-> Seg&uacute;n la AusCert no existen actualizaciones o defensas que se puedan tomar contra este tipo de ataques ya que la falla subyace en la base de la implemantaci&oacute;n del protocolo 802.11 DSSS (Direct-sequence spread spectrum) en los equipos. Con este antecedente, los expertos se&ntilde;alan que esta tecnolog&iacute;a no deber&iacute;a ser usada en ning&uacute;n caso para soportar infraestructura cr&iacute;tica. 
+> Seg&uacute;n la AusCert no existen actualizaciones o defensas que se puedan tomar contra este tipo de ataques ya que la falla subyace en la base de la implemantación del protocolo 802.11 DSSS (Direct-sequence spread spectrum) en los equipos. Con este antecedente, los expertos se&ntilde;alan que esta tecnolog&iacute;a no deber&iacute;a ser usada en ning&uacute;n caso para soportar infraestructura cr&iacute;tica. 
 > 
 > <p class="cita">
 >   Fuente: <a href="http://iblnews.com/noticias/05/107606.html" target="_blank">IBLNEWS</a> via kreach

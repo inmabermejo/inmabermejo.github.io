@@ -7,4 +7,4 @@ layout: revision
 guid: http://www.wp.chavalina.net/2006/11/02/752-revision/
 permalink: /2006/11/02/752-revision/
 ---
-<a href="http://tacfug.org/blog/index.cfm?mode=entry&#038;entry=C1205F0E-36D1-E29A-8C7F6B19CDB0060F" target="_blank">Con una lista de software <s>libre</s> gratuito como ésta, quién necesita piratear?</a> recibido por correo electr&oacute;nico.
+<a href="http://tacfug.org/blog/index.cfm?mode=entry&#038;entry=C1205F0E-36D1-E29A-8C7F6B19CDB0060F" target="_blank">Con una lista de software <s>libre</s> gratuito como ésta, quién necesita piratear?</a> recibido por correo electrónico.

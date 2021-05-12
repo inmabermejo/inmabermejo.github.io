@@ -7,4 +7,4 @@ layout: revision
 guid: http://www.wp.chavalina.net/2005/09/12/551-revision/
 permalink: /2005/09/12/551-revision/
 ---
-<a href="http://ipodmybaby.com/" target="_blank">Ipod my baby</a>. Menuda obsesi&oacute;n. Visto en el foro de Gsmspain.
+<a href="http://ipodmybaby.com/" target="_blank">Ipod my baby</a>. Menuda obsesión. Visto en el foro de Gsmspain.

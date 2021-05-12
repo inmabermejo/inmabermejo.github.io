@@ -1,6 +1,6 @@
 ---
 id: 1478
-title: 'Cuesti&oacute;n de prioridades'
+title: 'Cuestión de prioridades'
 date: 2005-06-29T04:11:09+02:00
 author: Chavalina
 layout: revision

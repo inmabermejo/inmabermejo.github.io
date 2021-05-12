@@ -1,6 +1,6 @@
 ---
 id: 1221
-title: 'Mi &uacute;ltima fuente de inspiraci&oacute;n'
+title: 'Mi &uacute;ltima fuente de inspiración'
 date: 2006-02-03T11:42:53+02:00
 author: Chavalina
 layout: revision

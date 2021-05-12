@@ -1,6 +1,6 @@
 ---
 id: 970
-title: 'Procrastinaci&oacute;n'
+title: 'Procrastinación'
 date: 2005-12-27T02:32:44+02:00
 author: Chavalina
 layout: revision

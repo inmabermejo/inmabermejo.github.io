@@ -7,7 +7,7 @@ layout: revision
 guid: http://www.wp.chavalina.net/2004/03/27/64-revision/
 permalink: /2004/03/27/64-revision/
 ---
-Pr&oacute;ximas tres pel&iacute;culas que veré:
+Próximas tres pel&iacute;culas que veré:
 
   * <a href="http://www.mangafilms.es/serviciodecompania/sinopsis.htm" target="_blank">Servicio de compa&ntilde;&iacute;a</a> con Andy Garc&iacute;a, espero que no sea un pastel… 
   * <a href="http://www.cinenganos.com/peliculas_ShatteredGlass.html" target="_blank">El precio de la verdad</a>, basada en una historia real, un periodista que se inventaba sus art&iacute;culos (para tragarnos todo lo que leemos)

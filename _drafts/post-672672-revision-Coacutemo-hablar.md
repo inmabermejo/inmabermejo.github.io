@@ -1,6 +1,6 @@
 ---
 id: 1378
-title: 'C&oacute;mo hablar'
+title: 'Cómo hablar'
 date: 2006-05-15T00:20:46+02:00
 author: Chavalina
 layout: revision

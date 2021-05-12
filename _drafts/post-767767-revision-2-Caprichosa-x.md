@@ -7,7 +7,7 @@ layout: revision
 guid: http://www.wp.chavalina.net/2008/12/21/767-revision-2/
 permalink: /2008/12/21/767-revision-2/
 ---
-Hoy me han mandado un correo electr&oacute;nico para que haga mi primer art&iacute;culo con Reviewme. A&uacute;n no he decidido si lo haré, porque en este blog no quer&iacute;a utilizarlo… y además porque es de una web de viajes.
+Hoy me han mandado un correo electrónico para que haga mi primer art&iacute;culo con Reviewme. A&uacute;n no he decidido si lo haré, porque en este blog no quer&iacute;a utilizarlo… y además porque es de una web de viajes.
 
 <img class="imgizqda" src="/imagenes/fotos/7370.jpg" alt="Nokia 7370" /> Yo quiero revisar <a href="http://chavalina.net/comentar.php?idpost=483" target="_blank">teléfonos chulos</a>, <a href="http://chavalina.net/comentar.php?idpost=60" target="_blank">ordenadores de dise&ntilde;o</a>, <a href="http://chavalina.net/comentar.php?idpost=235" target="_blank">sábanas caras</a> y <a href="http://chavalina.net/comentar.php?idpost=288" target="_blank">cosas as&iacute;</a>, porque estas cosas para revisarlas hay que probarlas.
 

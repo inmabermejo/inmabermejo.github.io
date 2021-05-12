@@ -1,6 +1,6 @@
 ---
 id: 2727
-title: 'Usabilidad, Documentaci&oacute;n y bitácoras en Zaragoza (Ibersid&#8217;06)'
+title: 'Usabilidad, Documentación y bitácoras en Zaragoza (Ibersid&#8217;06)'
 date: 2012-12-26T15:16:05+02:00
 author: Chavalina
 layout: revision

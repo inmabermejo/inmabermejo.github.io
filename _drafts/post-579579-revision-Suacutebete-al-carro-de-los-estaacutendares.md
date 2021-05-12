@@ -7,4 +7,4 @@ layout: revision
 guid: http://www.wp.chavalina.net/2005/11/23/579-revision/
 permalink: /2005/11/23/579-revision/
 ---
-Interesante reflexi&oacute;n de <a href="http://www.processblack.com" target="_blank">Miguel</a> sobre <a href="http://www.processblack.com/weblog/index.php?id=1266" target="_blank">estándares web</a>.
+Interesante reflexión de <a href="http://www.processblack.com" target="_blank">Miguel</a> sobre <a href="http://www.processblack.com/weblog/index.php?id=1266" target="_blank">estándares web</a>.

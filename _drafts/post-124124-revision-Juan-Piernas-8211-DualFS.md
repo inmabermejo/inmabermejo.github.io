@@ -9,17 +9,17 @@ permalink: /2004/05/24/124-revision/
 ---
 Juan Piernas es un profesor de la Facultad de Informática de la Universidad de Murcia.
 
-Y este profesor me impresion&oacute; un d&iacute;a resolviéndome una duda de mis prácticas de Redes. Y hoy vuelve a impresionarme un art&iacute;culo de la <a href="http://www.revistaecho.com/" target="_blank">revista {echo}</a> (n&uacute;mero 16) de la facultad de Informática de la Universidad, presentando un sistema de ficheros desarrollado por él. 
+Y este profesor me impresionó un d&iacute;a resolviéndome una duda de mis prácticas de Redes. Y hoy vuelve a impresionarme un art&iacute;culo de la <a href="http://www.revistaecho.com/" target="_blank">revista {echo}</a> (n&uacute;mero 16) de la facultad de Informática de la Universidad, presentando un sistema de ficheros desarrollado por él. 
 
 > ## DualFS en la práctica
 > 
-> La versi&oacute;n que tuve la oportunidad de probar es todav&iacute;a experimental, por lo que hay  
+> La versión que tuve la oportunidad de probar es todav&iacute;a experimental, por lo que hay  
 > que considerar los resultados con cautela. Lo primero que hice fue compilarme un kernel 2.4.19,  
-> parcheado para soportar DualFS, puesto que la versi&oacute;n de que dispongo esta preparada para este  
-> kernel. Tras la compilaci&oacute;n del m&oacute;dulo dualfs.o y la carga en memoria (insmod dualfs.o), ya puede  
+> parcheado para soportar DualFS, puesto que la versión de que dispongo esta preparada para este  
+> kernel. Tras la compilación del módulo dualfs.o y la carga en memoria (insmod dualfs.o), ya puede  
 > empezar a trabajar con este nuevo sistema de ficheros. He de resaltar que no es posible compilar  
-> separadamente el kernel y el m&oacute;dulo sino que el kernel ha de compilarse para aceptar este m&oacute;dulo;  
-> esto es as&iacute; porque para la implementaci&oacute;n de DualFS se ha retocado dos estructuras fundamentales  
+> separadamente el kernel y el módulo sino que el kernel ha de compilarse para aceptar este módulo;  
+> esto es as&iacute; porque para la implementación de DualFS se ha retocado dos estructuras fundamentales  
 > del kernel (en concreto el page-cache y buffer-cache unificados). El formateo de las particiones  
 > de metadatos y datos es tan sencillo como el cualquier otro sistema de ficheros, la &uacute;nica  
 > diferencia es que hay que indicar dos dispositivos en lugar de uno, simplemente escribir: mkdualfs  
@@ -30,12 +30,12 @@ Y este profesor me impresion&oacute; un d&iacute;a resolviéndome una duda de mi
 > Probé a hacer algunas operaciones con DualFS para compararlas con los sistemas de  
 > ficheros con journaling: xfs, reiserfs, jfs y ext3. Las pruebas las cronometré y pese a que realicé  
 > las pruebas con las dos particiones adyacentes en el mismo disco duro, los resultados son positivos:  
-> DualFS destac&oacute; en las operaciones con metadatos, en concreto en borrados y una prueba que  
+> DualFS destacó en las operaciones con metadatos, en concreto en borrados y una prueba que  
 > combinaba recorrido de directorios con lectura de algunos archivos. Todos los datos con estas  
 > pruebas podéis encontrarlos en <a href="http://webs.ono.com/virginiogl_web" target="_blank">http://webs.ono.com/virginiogl_web</a>
 > 
 > <p class="cita">
->   Fuente: Virginio Garc&iacute;a L&oacute;pez,<a href="http://www.revistaecho.com/" target="_blank"> n&uacute;mero 16, revista {echo}</a> de la Facultad de Informática de la UM
+>   Fuente: Virginio Garc&iacute;a López,<a href="http://www.revistaecho.com/" target="_blank"> n&uacute;mero 16, revista {echo}</a> de la Facultad de Informática de la UM
 > </p>
 
 Aqu&iacute; tenéis el art&iacute;culo completo para quien no quiera bajar la revista… quer&iacute;a poner un emoticono pero no sé cuál poner.

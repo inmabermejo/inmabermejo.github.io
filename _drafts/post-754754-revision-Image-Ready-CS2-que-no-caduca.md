@@ -7,4 +7,4 @@ layout: revision
 guid: http://www.wp.chavalina.net/2006/11/05/754-revision/
 permalink: /2006/11/05/754-revision/
 ---
-Ojo a ésto: Joan cuenta que su versi&oacute;n de <a href="http://trialbloggy.blogspot.com/2006/11/imageready-cs2-por-la-cara.html" target="_blank">Image Ready CS2 no caduca</a> después de pasarse el periodo de prueba. Habrá que intentarlo.
+Ojo a ésto: Joan cuenta que su versión de <a href="http://trialbloggy.blogspot.com/2006/11/imageready-cs2-por-la-cara.html" target="_blank">Image Ready CS2 no caduca</a> después de pasarse el periodo de prueba. Habrá que intentarlo.

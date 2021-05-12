@@ -7,4 +7,4 @@ layout: revision
 guid: http://www.wp.chavalina.net/2008/08/09/842-revision/
 permalink: /2008/08/09/842-revision/
 ---
-Seguro que muchos conocéis y utilizáis el servicio <a href="http://zattoo.com/" target="_blank">Zattoo</a> para ver un poco de televisi&oacute;n mientras estáis con el ordenador. Pues preparad los monederos, porque a partir de ahora habrá que aflojar la m&oacute;dica suma de 2,40
+Seguro que muchos conocéis y utilizáis el servicio <a href="http://zattoo.com/" target="_blank">Zattoo</a> para ver un poco de televisión mientras estáis con el ordenador. Pues preparad los monederos, porque a partir de ahora habrá que aflojar la módica suma de 2,40

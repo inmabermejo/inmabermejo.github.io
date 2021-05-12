@@ -7,7 +7,7 @@ layout: revision
 guid: http://www.wp.chavalina.net/2004/04/26/97-revision/
 permalink: /2004/04/26/97-revision/
 ---
-Este es un tema que me está haciendo plantearme sinceramente si seguir escribiendo esta página o no… Es muy fuerte, algo superior a m&iacute;, sentir&iacute;a mucho dejaros pero tengo que cuidar mi reputaci&oacute;n, cada uno tiene su imagen, tenéis que entenderme…
+Este es un tema que me está haciendo plantearme sinceramente si seguir escribiendo esta página o no… Es muy fuerte, algo superior a m&iacute;, sentir&iacute;a mucho dejaros pero tengo que cuidar mi reputación, cada uno tiene su imagen, tenéis que entenderme…
 
 Y es que hoy, mirando las estad&iacute;sticas de este humide sitio, me he encontrado con una visita desde Google. Una visita que ha marcado un antes y un después en m&iacute;.
 

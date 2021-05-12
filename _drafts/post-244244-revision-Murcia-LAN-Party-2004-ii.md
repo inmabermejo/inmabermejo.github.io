@@ -7,7 +7,7 @@ layout: revision
 guid: http://www.wp.chavalina.net/2004/10/17/244-revision/
 permalink: /2004/10/17/244-revision/
 ---
-Bueno, pues ya s&oacute;lo quedan 3 d&iacute;as para que empiece la <a href="http://www.murcialanparty.com/" target="_blank">Murcia Lan Party</a> y… por desgracia este a&ntilde;o **no** voy a estar all&iacute;.
+Bueno, pues ya sólo quedan 3 d&iacute;as para que empiece la <a href="http://www.murcialanparty.com/" target="_blank">Murcia Lan Party</a> y… por desgracia este a&ntilde;o **no** voy a estar all&iacute;.
 
 No me ha gustado mucho, bueno, más bien nada, que la hayan organizado en plena <a href="http://www.um.es/bienvenida/" target="_blank">Semana de Bienvenida</a>, si fuera a la Lan Party me perder&iacute;a jueves, viernes y sábado de varias actividades y conciertos (sobre todo) a los que pretend&iacute;a ir desde hace tiempo, o bien me perder&iacute;a la mitad de la Party.  
 ![emo](/imagenes/emoticonos/pensativo.gif)  

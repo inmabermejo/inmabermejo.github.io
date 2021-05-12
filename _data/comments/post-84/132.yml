@@ -2,7 +2,7 @@ id: 132
 name: Juanjo
 url: http://blackshell.usebox.net/
 date: 2004-04-15 00:11:50
-message: "El cortafuegos no debe interferir en nada, sino no está bien. Es algo duro tal cual suena, pero eso no le quita ni un ápice de verdad a la afirmaci&oacute;n :)<br />
+message: "El cortafuegos no debe interferir en nada, sino no está bien. Es algo duro tal cual suena, pero eso no le quita ni un ápice de verdad a la afirmación :)<br />
 <br />
 El tema del MSN ya es otro. Si sales a inet através del FW,  te hará NAT, lo que no se lleva nada bien con el MSN. Creo que desde la 6.0 ya pasa através de NAT como un machote. Aunque puede que el tema sea otro, si sales por un proxy web (en tal caso MSN también va, solo tienes que configurarlo).<br />
 <br />

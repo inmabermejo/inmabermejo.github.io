@@ -10,7 +10,7 @@ permalink: /2006/03/18/645-revision/
 Estoy cansada, muy cansada.  
 Cansada de luchar, de gastar mis energ&iacute;as in&uacute;tilmente, de darme de cabeza contra el muro del spam.
 
-Hace poco <a href="http://chavalina.net/comentar.php?idpost=617&#038;q=" target="_blank">criticaba a Miguel</a> por pasarse al _lado oscuro_, pero creo que yo también voy a tener que hacerlo. No tengo tiempo de dise&ntilde;ar un mejor sistema para prevenir el spam. Por el momento he cerrado los trackbacks, <a href="http://blackshell.usebox.net/archivo/794.php" target="_blank">la soluci&oacute;n que propone Juanjo</a> no me sirve porque s&oacute;lo dejar&iacute;a pasar los _pingbacks_ (<a href="http://chavalina.net/comentar.php?idpost=514" target="_blank">diferencias entre trackbacks y pingbacks</a>).
+Hace poco <a href="http://chavalina.net/comentar.php?idpost=617&#038;q=" target="_blank">criticaba a Miguel</a> por pasarse al _lado oscuro_, pero creo que yo también voy a tener que hacerlo. No tengo tiempo de dise&ntilde;ar un mejor sistema para prevenir el spam. Por el momento he cerrado los trackbacks, <a href="http://blackshell.usebox.net/archivo/794.php" target="_blank">la solución que propone Juanjo</a> no me sirve porque sólo dejar&iacute;a pasar los _pingbacks_ (<a href="http://chavalina.net/comentar.php?idpost=514" target="_blank">diferencias entre trackbacks y pingbacks</a>).
 
 Aunque los trackbacks es lo más grave ahora mismo, también está en los comentarios, el libro de visitas, los referers y cualquier cosa que vaya a mi base de datos.
 

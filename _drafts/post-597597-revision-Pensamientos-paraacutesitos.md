@@ -7,7 +7,7 @@ layout: revision
 guid: http://www.wp.chavalina.net/2005/12/13/597-revision/
 permalink: /2005/12/13/597-revision/
 ---
-Hoy, leyendo el 20 minutos, ése peri&oacute;dico tan bien conocido en ésta nuestra comunidad por <a href="http://www.chavalina.net/comentar.php?idpost=488" target="_blank">su concurso</a>, me ha gustado la tira c&oacute;mica (de c&oacute;mic, no de comedia) de Cuttlas.
+Hoy, leyendo el 20 minutos, ése periódico tan bien conocido en ésta nuestra comunidad por <a href="http://www.chavalina.net/comentar.php?idpost=488" target="_blank">su concurso</a>, me ha gustado la tira cómica (de cómic, no de comedia) de Cuttlas.
 
 <p class="imgcentro">
   <img src="/imagenes/fotos/cuttlas-dic-1.gif" alt="Cuttlas comienza a pensar" />
@@ -28,10 +28,10 @@ Cuttlas sigue pensando, dando vueltas sobre lo mismo, comiéndose la cabeza… m
 </p>
 
 **Vi&ntilde;eta 3**  
-El pensamiento que ocupaba la cabecita de Cuttlas llega a ser una madeja gigantesca, ocupa toda su cabeza, se convierte en una obsesi&oacute;n que crece y crece…
+El pensamiento que ocupaba la cabecita de Cuttlas llega a ser una madeja gigantesca, ocupa toda su cabeza, se convierte en una obsesión que crece y crece…
 
 <p class="imgcentro">
-  <img src="/imagenes/fotos/cuttlas-dic-4.gif" alt="&iquest;Y ahora c&oacute;mo salgo de ésta?" />
+  <img src="/imagenes/fotos/cuttlas-dic-4.gif" alt="&iquest;Y ahora cómo salgo de ésta?" />
 </p>
 
 **Vi&ntilde;eta 4**  
@@ -39,6 +39,6 @@ Finalmente, toma vida propia y le absorbe completamente, hasta dejarle sin volun
 
 Me ha gustado porque me he visto retratada en estas cuatro vi&ntilde;etas una y mil veces, y es gracioso que uno de mis mayores problemas me haga sonreir.
 
-Porque cuando estás en la **vi&ntilde;eta 4** no sabes c&oacute;mo ha empezado todo esto que llega a ocupar el 99% de tu tiempo, y lo peor es que ni te lo preguntas porque el 1% del tiempo que que queda es el margen de error, y no hay forma de salir, aunque intenten ayudarte. Pero en un c&oacute;mic, siempre puedes volver a la **vi&ntilde;eta 1**, no darle tanta importancia, tomar una![cerveza](/imagenes/emoticonos/cerveza.gif) fr&iacute;a bien acompa&ntilde;ado, asumirlo, y a otra cosa.
+Porque cuando estás en la **vi&ntilde;eta 4** no sabes cómo ha empezado todo esto que llega a ocupar el 99% de tu tiempo, y lo peor es que ni te lo preguntas porque el 1% del tiempo que que queda es el margen de error, y no hay forma de salir, aunque intenten ayudarte. Pero en un cómic, siempre puedes volver a la **vi&ntilde;eta 1**, no darle tanta importancia, tomar una![cerveza](/imagenes/emoticonos/cerveza.gif) fr&iacute;a bien acompa&ntilde;ado, asumirlo, y a otra cosa.
 
 Y ojalá fuera tan fácil.

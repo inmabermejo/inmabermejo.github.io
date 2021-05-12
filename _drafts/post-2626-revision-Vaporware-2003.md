@@ -15,7 +15,7 @@ permalink: /2004/01/25/26-revision/
 > Vaporware Awards de Wired News sigue siendo una manera divertida de festejar  
 > aquellos productos extensamente prometidos por los fabricantes y que finalmente  
 > no han llegado al mercado y muchos de ellos abandonados silenciosamente.  
-> Por séptimo a&ntilde;o consecutivo esta publicaci&oacute;n presenta el «Top 10», cuyos  
+> Por séptimo a&ntilde;o consecutivo esta publicación presenta el «Top 10», cuyos  
 > productos han sido incluidos a propuesta de los propios lectores y que  
 > «Wired» califica como la «lista de la verg&uuml;enza»
 > 
@@ -38,4 +38,4 @@ pasado.
 &iquest;Alg&uacute;n candidato más?
 
   * <a href="http://www.noticiasdot.com/publicaciones/2004/0104/2301/noticias230104/noticias230104-1.htm" target="_blank"><i>Vaporware<br /> 2003</i> en Noticiasdot.com</a>
-  * <a href="http://www.noticiasdot.com/publicaciones/2003/0103/2901/noticias290103/noticias290103-1.htm" target="_blank"><i>Vaporware<br /> 2002: vendiendo humo tecnol&oacute;gico</i> en Noticiasdot.com</a>
+  * <a href="http://www.noticiasdot.com/publicaciones/2003/0103/2901/noticias290103/noticias290103-1.htm" target="_blank"><i>Vaporware<br /> 2002: vendiendo humo tecnológico</i> en Noticiasdot.com</a>

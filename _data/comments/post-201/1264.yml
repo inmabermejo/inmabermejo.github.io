@@ -4,7 +4,7 @@ email: jcl@vmslabs.com
 avatar: https://www.gravatar.com/avatar/8456a86ecbf630f98cb902a032318fc5?r=pg&d=retro
 url: http://unknown.scenesp.org/jcl/blog/
 date: 2004-09-01 04:46:09
-message: "En la intranet solo tengo IIS... en casa tengo ambos instalados (Apache e IIS)... y no he escrito una aplicaci&oacute;n asp.net para internet (si para la intranet) en mi vida.<br />
+message: "En la intranet solo tengo IIS... en casa tengo ambos instalados (Apache e IIS)... y no he escrito una aplicación asp.net para internet (si para la intranet) en mi vida.<br />
 <br />
 Trabajo en C# para escritorio actualmente (aunque vengo de C++).<br />
 <br />
@@ -12,9 +12,9 @@ Si te refieres al blog, no es mi servidor, solo tengo una cuenta alli <img src=\
 <br />
 Y, si quereis polemizar un poco más, en su dia estuve escribiendo aplicaciones para Linux, para WindowMaker y Wings <img src=\"./imagenes/emoticonos/risa.gif\" alt=\"emo\">, y muchas para consola de linux... que hoy dia no se donde andarán... si es que andan! <img src=\"./imagenes/emoticonos/risa.gif\" alt=\"emo\"> ).<br />
 <br />
-Recuerdo una aplicacion que hice una vez que configuraba todas las conexiones PPP de modem en cualquier distribuci&oacute;n de linux de la epoca (Slackware y Red Hat eran las mas usadas) para conectar a infovia (cuando cambiaron al 055, que lo complicaron bastante para algunos usuarios de Linux porque el radius no funcionaba igual). La escribi porque en el ISP donde curraba teniamos montones de usuarios de Linux que decian que no habia forma humana de conectar <img src=\"./imagenes/emoticonos/risa.gif\" alt=\"emo\"><br />
+Recuerdo una aplicacion que hice una vez que configuraba todas las conexiones PPP de modem en cualquier distribución de linux de la epoca (Slackware y Red Hat eran las mas usadas) para conectar a infovia (cuando cambiaron al 055, que lo complicaron bastante para algunos usuarios de Linux porque el radius no funcionaba igual). La escribi porque en el ISP donde curraba teniamos montones de usuarios de Linux que decian que no habia forma humana de conectar <img src=\"./imagenes/emoticonos/risa.gif\" alt=\"emo\"><br />
 <br />
-Creo que la siguiente distribuci&oacute;n que vi despues de eso ya llevaba configuradores en XWindows y demás para el modem, al mas puro estilo Windows.<br />
+Creo que la siguiente distribución que vi despues de eso ya llevaba configuradores en XWindows y demás para el modem, al mas puro estilo Windows.<br />
 <br />
 Ah, y otra para configurar las SB PnP en kerneles 2.0.33 (que no tenia soporte PnP y todos los usuarios de linux con los que hablaba me decian que cambiara de tarjeta). Simplemente un modulito minimo de kernel que inicializaba el PnP de las tarjetas (asignando IRQs en la BIOS), y ya la podias configurar como una SB normal... <br />
 <br />

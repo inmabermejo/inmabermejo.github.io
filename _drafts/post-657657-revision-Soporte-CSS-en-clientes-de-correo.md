@@ -13,9 +13,9 @@ Y en el mismo sitio, <a href="http://www.456bereastreet.com/archive/200604/css_s
   * Clientes de PC: Outlook 2003 and Outlook Express, Lotus Notes, Thunderbird
   * Clientes para Mac:Mac Mail, Entourage, Eudora
 
-El informe me parece bastante completo, se analiza **c&oacute;mo declarar el estilo**, con el soporte a _style_ y _link_, los **selectores** que se pueden utilizar, y el soporte de **propiedades**.
+El informe me parece bastante completo, se analiza **cómo declarar el estilo**, con el soporte a _style_ y _link_, los **selectores** que se pueden utilizar, y el soporte de **propiedades**.
 
 Otra cosa ya es la conveniencia de enviar correos con <acronym title="HyperText Markup Language">HTML</acronym> y encima aplicarles estilo…![emo](/imagenes/emoticonos/triste.gif) 
 
   * [Odio](http://www.chavalina.net/comentar.php?idpost=443&q=)
-  * [Netiqueta del correo electr&oacute;nico](http://www.netiqueta.org/netiqueta_correo.shtml)
+  * [Netiqueta del correo electrónico](http://www.netiqueta.org/netiqueta_correo.shtml)

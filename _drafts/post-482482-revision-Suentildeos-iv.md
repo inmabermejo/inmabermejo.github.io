@@ -7,4 +7,4 @@ layout: revision
 guid: http://www.wp.chavalina.net/2005/06/04/482-revision/
 permalink: /2005/06/04/482-revision/
 ---
-La expresi&oacute;n más perfecta y exagerada. Perfecto, surrealista y perfecto.
+La expresión más perfecta y exagerada. Perfecto, surrealista y perfecto.

@@ -11,7 +11,7 @@ permalink: /2008/12/21/407-revision-2/
 
 Es algo que, aunque no me es extra&ntilde;o ni excepcional, parece que en cierto modo _me acerca_ a esta gente, me hace ver realmente que los que están detrás de una pantalla, de un cd o de unas páginas son personas como yo, que también echan un vistazo a la red, salen a comprar el <a href="http://www.chavalina.net/comentar.php?idpost=372&#038;q=bocadillo" target="_blank">pan</a>…
 
-As&iacute; que aqu&iacute; comienzo una recopilaci&oacute;n de blogs de gente más o menos conocida, y no relacionada especialmente con el mundo de la informática, ya que éstos es más normal que tengan blog. No conozco muchos, normalmente cuando llego a un blog nuevo me lo leo pero no me quedo mucho con el autor. 
+As&iacute; que aqu&iacute; comienzo una recopilación de blogs de gente más o menos conocida, y no relacionada especialmente con el mundo de la informática, ya que éstos es más normal que tengan blog. No conozco muchos, normalmente cuando llego a un blog nuevo me lo leo pero no me quedo mucho con el autor. 
 
   * <a href="http://www.andreubuenafuente.com/" target="_blank">Andreu Buenafuente</a>. Ahora conocido por todos, tiene su diario desde hace bastante.
   * <a href="http://captura.org/" target="_blank">Captura.org</a>. Un fotoblog donde varios actores y demás (el Terrat) usan una cámara en concreto.  

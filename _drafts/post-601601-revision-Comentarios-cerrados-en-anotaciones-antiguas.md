@@ -7,4 +7,4 @@ layout: revision
 guid: http://www.wp.chavalina.net/2005/12/26/601-revision/
 permalink: /2005/12/26/601-revision/
 ---
-Hasta que saque tiempo para construir un buen filtro para el spam &iquest;con heur&iacute;stica?![gafas](/imagenes/emoticonos/gafas.gif) los comentarios en las anotaciones más antiguas estarán cerrados. Si queréis decirme algo al respecto, ponedme un correo con la anotaci&oacute;n a la que se refiera.
+Hasta que saque tiempo para construir un buen filtro para el spam &iquest;con heur&iacute;stica?![gafas](/imagenes/emoticonos/gafas.gif) los comentarios en las anotaciones más antiguas estarán cerrados. Si queréis decirme algo al respecto, ponedme un correo con la anotación a la que se refiera.

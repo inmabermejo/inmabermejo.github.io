@@ -1,6 +1,6 @@
 ---
 id: 1470
-title: 'Traducci&oacute;n de los bugs de Internet Explorer'
+title: 'Traducción de los bugs de Internet Explorer'
 date: 2006-04-11T09:43:58+02:00
 author: Chavalina
 layout: revision

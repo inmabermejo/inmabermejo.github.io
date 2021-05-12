@@ -9,7 +9,7 @@ permalink: /2007/05/06/796-revision/
 ---
 Ahora mismo estoy redise&ntilde;ando de nuevo mi portafolio de trabajos, podéis verlo en <a href="http://www.inmabermejo.com/" target="_blank">inmabermejo punto com</a>. 
 
-Antes tuvo <a href="http://inmabermejo.com/images/94.png" target="_blank">este dise&ntilde;o más oscuro y colorista</a> pero me ha durado dos semanas o menos, porque creo que no serv&iacute;a para una página de presentaci&oacute;n de trabajos. Será reciclado para venir aqu&iacute;, donde tiene mucho más sentido.
+Antes tuvo <a href="http://inmabermejo.com/images/94.png" target="_blank">este dise&ntilde;o más oscuro y colorista</a> pero me ha durado dos semanas o menos, porque creo que no serv&iacute;a para una página de presentación de trabajos. Será reciclado para venir aqu&iacute;, donde tiene mucho más sentido.
 
 La verdad es que siempre que hago una web para m&iacute;, me siento muy insegura y acabo trabajando el doble porque no me quedo contenta. 
 

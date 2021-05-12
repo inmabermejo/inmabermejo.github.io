@@ -7,4 +7,4 @@ layout: revision
 guid: http://www.wp.chavalina.net/2007/11/03/826-revision/
 permalink: /2007/11/03/826-revision/
 ---
-Ahora que Gmail soporta IMAP (en la versi&oacute;n en inglés), aqu&iacute; tenéis un buen <a href="http://dogmafobia.com/2007/11/02/accede-a-gmail-desde-thunderbird-mediante-el-protocolo-imap/" target="_blank">tutorial paso a paso</a> para configurarlo en Thunderbird, nuestro cliente de email favorito.
+Ahora que Gmail soporta IMAP (en la versión en inglés), aqu&iacute; tenéis un buen <a href="http://dogmafobia.com/2007/11/02/accede-a-gmail-desde-thunderbird-mediante-el-protocolo-imap/" target="_blank">tutorial paso a paso</a> para configurarlo en Thunderbird, nuestro cliente de email favorito.

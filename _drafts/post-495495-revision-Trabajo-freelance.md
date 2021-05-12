@@ -7,4 +7,4 @@ layout: revision
 guid: http://www.wp.chavalina.net/2005/06/17/495-revision/
 permalink: /2005/06/17/495-revision/
 ---
-<a href="http://news.leoprieto.com/2005/06/como_trabajar_d.php" target="_blank">C&oacute;mo trabajar en casa y no morir en el intento</a>, no recuerdo c&oacute;mo me lleg&oacute; el enlace.
+<a href="http://news.leoprieto.com/2005/06/como_trabajar_d.php" target="_blank">Cómo trabajar en casa y no morir en el intento</a>, no recuerdo cómo me llegó el enlace.

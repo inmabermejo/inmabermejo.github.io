@@ -19,7 +19,7 @@ permalink: /2004/05/30/126-revision/
       </table>
       
       <p>
-        Bueno, he colocado un peque&ntilde;o buscador en la <a href="archivos.php">secci&oacute;n de archivos</a> que admite los operadores <em>and</em> y <em>or</em> no es mucho pero menos da una piedra, a ver si lo puedo hacer un poco más avanzado y arreglo unas cuantas cosas más de la web, como validar los comentarios con javascript (me da rabia, son cosas que estoy haciendo todos los d&iacute;as y ésto lo tengo abandonado, en casa del herrero…)
+        Bueno, he colocado un peque&ntilde;o buscador en la <a href="archivos.php">sección de archivos</a> que admite los operadores <em>and</em> y <em>or</em> no es mucho pero menos da una piedra, a ver si lo puedo hacer un poco más avanzado y arreglo unas cuantas cosas más de la web, como validar los comentarios con javascript (me da rabia, son cosas que estoy haciendo todos los d&iacute;as y ésto lo tengo abandonado, en casa del herrero…)
       </p>
       
       <p>

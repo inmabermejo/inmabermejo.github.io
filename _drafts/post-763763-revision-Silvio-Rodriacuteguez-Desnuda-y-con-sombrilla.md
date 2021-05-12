@@ -8,7 +8,7 @@ guid: http://www.wp.chavalina.net/2006/11/23/763-revision/
 permalink: /2006/11/23/763-revision/
 ---
 T&uacute; sentada en una silla  
-yo de pie con expresi&oacute;n de lord  
+yo de pie con expresión de lord  
 tu desnuda y con sombrilla  
 yo vestido pero con calor.
 
@@ -32,9 +32,9 @@ mirándote alelado
 colmada de licor.
 
 T&uacute; ardiente y sin capilla  
-yo quitándome el sombrero al&oacute;n  
+yo quitándome el sombrero alón  
 t&uacute; dispuesta la vajilla  
-yo al filo de mi pantal&oacute;n.
+yo al filo de mi pantalón.
 
 Yo a punto del delirio  
 extraigo un solo cirio  

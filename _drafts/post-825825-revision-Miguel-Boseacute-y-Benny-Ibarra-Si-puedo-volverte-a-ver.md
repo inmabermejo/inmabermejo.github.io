@@ -7,7 +7,7 @@ layout: revision
 guid: http://www.wp.chavalina.net/2007/10/30/825-revision/
 permalink: /2007/10/30/825-revision/
 ---
-Esta canci&oacute;n me encanta…
+Esta canción me encanta…
 
 <p class="imgcentro">
 </p>

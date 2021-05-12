@@ -7,4 +7,4 @@ layout: revision
 guid: http://www.wp.chavalina.net/2005/06/05/486-revision/
 permalink: /2005/06/05/486-revision/
 ---
-<a href="http://www.computerfinearts.com/collection/cloninger/rebranding/" target="_blank">REbranding</a>. Visto en <s>Domestika</s> **actualizaci&oacute;n:** lo vi en <a href="http://www.domestikalien.com/?p=209" target="_blank">Domestik Alien</a> que no es lo mismo![emo](/imagenes/emoticonos/guino.gif)
+<a href="http://www.computerfinearts.com/collection/cloninger/rebranding/" target="_blank">REbranding</a>. Visto en <s>Domestika</s> **actualización:** lo vi en <a href="http://www.domestikalien.com/?p=209" target="_blank">Domestik Alien</a> que no es lo mismo![emo](/imagenes/emoticonos/guino.gif)

@@ -23,11 +23,11 @@ permalink: /2004/06/17/143-revision/
       </p>
       
       <p>
-        Esta pel&iacute;cula me sorprendi&oacute; para bien la primera vez que la vi, y os la recomiendo a todos, si no podéis ma&ntilde;ana alquiladla o bajadla o lo que sea. Creo que no se promocion&oacute; adecuadamente, demasiados pu&ntilde;etazos y poca chicha, cuando tiene mucho más que la gran dosis de violencia gratuita que ofrece el trailer (que desde luego también tiene violencia, claro).
+        Esta pel&iacute;cula me sorprendió para bien la primera vez que la vi, y os la recomiendo a todos, si no podéis ma&ntilde;ana alquiladla o bajadla o lo que sea. Creo que no se promocionó adecuadamente, demasiados pu&ntilde;etazos y poca chicha, cuando tiene mucho más que la gran dosis de violencia gratuita que ofrece el trailer (que desde luego también tiene violencia, claro).
       </p>
       
       <p>
-        Si estáis atentos podréis ver unas cuantas imágenes "insertadas" entre los fotogramas, a ver quién me dice qué es lo que se ve (sin hacer trampa, listillos), lo siento pero no tengo cuentas de Gmail para ofrecer como premio, intentad pillarlo aunque sea s&oacute;lo como curiosidad 🙂
+        Si estáis atentos podréis ver unas cuantas imágenes "insertadas" entre los fotogramas, a ver quién me dice qué es lo que se ve (sin hacer trampa, listillos), lo siento pero no tengo cuentas de Gmail para ofrecer como premio, intentad pillarlo aunque sea sólo como curiosidad 🙂
       </p>
       
       <p>

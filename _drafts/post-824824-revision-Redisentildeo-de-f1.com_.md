@@ -17,4 +17,4 @@ Después de mucho tiempo sin pasar por <a href="http://www.f1.com" target="_blan
 
 No está nada mal, le da garra, &iquest;un homenaje a Ferrari? bueno, el rojo es el color de este deporte, tampoco hay que ser mala…
 
-Algunas cosas están más claras, como el acceso a cada GP, antes representado por la trazada del circuito, pero echo de menos su contador arriba, ahora relegado a un segundo plano en la zona de la derecha, &iexcl;me gustaba! era un elemento que llamaba la atenci&oacute;n y que todo el mundo identificaba con la web oficial.
+Algunas cosas están más claras, como el acceso a cada GP, antes representado por la trazada del circuito, pero echo de menos su contador arriba, ahora relegado a un segundo plano en la zona de la derecha, &iexcl;me gustaba! era un elemento que llamaba la atención y que todo el mundo identificaba con la web oficial.

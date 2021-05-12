@@ -17,9 +17,9 @@ El campeonato no pod&iacute;a haber comenzado mejor para el Nano, él mismo lo d
 
 > Ha sido una carrera so&ntilde;ada y un primer podio conseguido más fácilmente que lo esperado, esperaba puntuar pero no subir al podio con tanta facilidad 
 > 
-> La salida fue muy, muy buena y eso hay que agradecérselo también al equipo, que hizo un gran trabajo con el sistema de salida, que aunque sea manual seguimos teniendo un gran control de tracci&oacute;n y si no llega a ser porque Montoya me desplaz&oacute; un poco, hubiese podido llegar incluso a pelear con los Ferrari 
+> La salida fue muy, muy buena y eso hay que agradecérselo también al equipo, que hizo un gran trabajo con el sistema de salida, que aunque sea manual seguimos teniendo un gran control de tracción y si no llega a ser porque Montoya me desplazó un poco, hubiese podido llegar incluso a pelear con los Ferrari 
 
-En efecto la salida fue lo más destacable de la carrera, llegando después la monoton&iacute;a, ni siquiera consiguieron acercarse a Schumacher, ning&uacute;n adelantamiento que creara expectaci&oacute;n, ni nada que haya amenazado seriamente al podio desde las 5 primeras vueltas, pese a los intentos de Montoya por colarse en el 4&ordm; puesto, que finalmente conserv&oacute; su compa&ntilde;ero Ralph Schumacher.
+En efecto la salida fue lo más destacable de la carrera, llegando después la monoton&iacute;a, ni siquiera consiguieron acercarse a Schumacher, ning&uacute;n adelantamiento que creara expectación, ni nada que haya amenazado seriamente al podio desde las 5 primeras vueltas, pese a los intentos de Montoya por colarse en el 4&ordm; puesto, que finalmente conservó su compa&ntilde;ero Ralph Schumacher.
 
 <p align="center">
   <img src="/imagenes/fotos/kuala-lumpur-countdown.jpg" width="560" height="33" alt="Kuala Lumpur countdown" />

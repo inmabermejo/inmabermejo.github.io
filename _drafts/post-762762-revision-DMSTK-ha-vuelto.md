@@ -7,4 +7,4 @@ layout: revision
 guid: http://www.wp.chavalina.net/2006/11/23/762-revision/
 permalink: /2006/11/23/762-revision/
 ---
-No sé desde cuando, pero <a href="http://www.domestika.org/" target="_blank">DMSTK vuelve a estar en l&iacute;nea</a>. Me alegro un mont&oacute;n, a ver si en CDMon les va mejor.
+No sé desde cuando, pero <a href="http://www.domestika.org/" target="_blank">DMSTK vuelve a estar en l&iacute;nea</a>. Me alegro un montón, a ver si en CDMon les va mejor.

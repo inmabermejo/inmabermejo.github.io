@@ -1,6 +1,6 @@
 ---
 id: 1339
-title: 'Versi&oacute;n 4.7'
+title: 'Versión 4.7'
 date: 2004-08-03T08:35:07+02:00
 author: Chavalina
 layout: revision

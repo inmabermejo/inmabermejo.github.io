@@ -23,7 +23,7 @@ permalink: /2004/07/02/153-revision/
       </p>
       
       <p>
-        Sinceramente creo que se trata de lo segundo. Ciudades por toda Espa&ntilde;a se llenan de color, de m&uacute;sica bailable y de gente que viene de todos sitios con la libertad y la tolerancia por bandera para reclamar unos derechos que pertenecen a cualquier persona simplemente por sentido com&uacute;n. Por suerte en Espa&ntilde;a la cosa va avanzando bastante rápido… por suerte o por desgracia. &Uacute;ltimamente parece que ser homosexual (o más bien ser gay) es lo <span class="titulo">in</span>. No hay programa de televisi&oacute;n sin su "loca" comentarista o friki, sin ir más lejos, "los gays" ganaron el kk-show "La casa de tu vida"… &iquest;aceptaci&oacute;n o simple moda?
+        Sinceramente creo que se trata de lo segundo. Ciudades por toda Espa&ntilde;a se llenan de color, de m&uacute;sica bailable y de gente que viene de todos sitios con la libertad y la tolerancia por bandera para reclamar unos derechos que pertenecen a cualquier persona simplemente por sentido com&uacute;n. Por suerte en Espa&ntilde;a la cosa va avanzando bastante rápido… por suerte o por desgracia. &Uacute;ltimamente parece que ser homosexual (o más bien ser gay) es lo <span class="titulo">in</span>. No hay programa de televisión sin su "loca" comentarista o friki, sin ir más lejos, "los gays" ganaron el kk-show "La casa de tu vida"… &iquest;aceptación o simple moda?
       </p>
     </td>
   </tr>

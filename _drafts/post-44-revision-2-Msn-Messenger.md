@@ -16,7 +16,7 @@ permalink: /2008/12/25/4-revision-2/
 </p>
 
 <p align="left">
-  S&oacute;lo tienes que bajar Msn 5 para Win95, descomprimirlo<br /> en el escritorio y ya está, no hay que hacer nada más.
+  Sólo tienes que bajar Msn 5 para Win95, descomprimirlo<br /> en el escritorio y ya está, no hay que hacer nada más.
 </p>
 
   * <a href="http://www.nicobcn.tk" target="_blank">Msn Messenger en nicobcn.tk</a>

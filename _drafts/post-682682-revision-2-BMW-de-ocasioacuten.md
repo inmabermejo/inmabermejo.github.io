@@ -1,6 +1,6 @@
 ---
 id: 2784
-title: 'BMW de ocasi&oacute;n'
+title: 'BMW de ocasión'
 date: 2008-12-25T14:26:50+02:00
 author: Chavalina
 layout: revision

@@ -47,7 +47,7 @@ nada significa nada
 
 Y rompo las promesas que me hice a m&iacute;  
 prometo pensar en ti  
-ahora prometo s&oacute;lo pensar en ti
+ahora prometo sólo pensar en ti
 
 Y hago que suenen de forma genial  
 prometo que no dicen nada  
@@ -70,6 +70,6 @@ se irán se perderán, se irán se perderán
 Se irán se perderán  
 como lágrimas en la lluvia
 
-&iquest;D&oacute;nde estabas entonces  
+&iquest;Dónde estabas entonces  
 cuando tanto te necesité?  
 Te **necesité**

@@ -1,6 +1,6 @@
 ---
 id: 1978
-title: 'Momento remember: Empanadilla de M&oacute;stoles'
+title: 'Momento remember: Empanadilla de Móstoles'
 date: 2008-12-26T15:37:57+02:00
 author: Chavalina
 layout: revision

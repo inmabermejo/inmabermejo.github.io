@@ -8,11 +8,11 @@ guid: http://www.wp.chavalina.net/2003/11/22/3-revision/
 permalink: /2003/11/22/3-revision/
 ---
 <p align="left">
-  Muy conocida, esta es una de las mejores páginas de descargas<br /> "en general" que conozco y la que más uso, en ella<br /> se pueden encontrar tanto los programas de siempre (compresores,<br /> programas P2P) como algunas curiosidades como antivirus gratuitos<br /> (AVP), además de para los sistemas operativos más<br /> comunes (Windows, Linux y MacOS) también juegos y aplicaciones<br /> para m&oacute;viles, tanto Symbian como J2ME.
+  Muy conocida, esta es una de las mejores páginas de descargas<br /> "en general" que conozco y la que más uso, en ella<br /> se pueden encontrar tanto los programas de siempre (compresores,<br /> programas P2P) como algunas curiosidades como antivirus gratuitos<br /> (AVP), además de para los sistemas operativos más<br /> comunes (Windows, Linux y MacOS) también juegos y aplicaciones<br /> para móviles, tanto Symbian como J2ME.
 </p>
 
 <p align="left">
-  Además en los programas más conocidos<br /> los usuarios califican y dan su opini&oacute;n, puedes saber pros<br /> y contras antes de instalar.
+  Además en los programas más conocidos<br /> los usuarios califican y dan su opinión, puedes saber pros<br /> y contras antes de instalar.
 </p>
 
 <p align="left">

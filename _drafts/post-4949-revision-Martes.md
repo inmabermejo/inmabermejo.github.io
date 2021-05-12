@@ -30,11 +30,11 @@ permalink: /2004/03/07/49-revision/
       </p>
       
       <p>
-        Mi clase de prácticas de Redes ha sido productiva como no recuerdo otra. Mi profesor habla igual que "mi profesor", vaya, esta noche ya no dormiré bien ni con Eco ni con un Trakimaz&iacute;n. Bueno, me queda el recurso de la televisi&oacute;n. Es lo que tiene.
+        Mi clase de prácticas de Redes ha sido productiva como no recuerdo otra. Mi profesor habla igual que "mi profesor", vaya, esta noche ya no dormiré bien ni con Eco ni con un Trakimaz&iacute;n. Bueno, me queda el recurso de la televisión. Es lo que tiene.
       </p>
       
       <p>
-        Menos mal que esta noche planeamos una velada musical en "La puerta falsa" o bien ver la exposici&oacute;n de arte contemporáneo en "Las Claras", con su cervecita después, por supuesto, que, como siempre, quedará en palabras, al menos mentras lo hablamos me entretengo. As&iacute; que me voy a ver la programaci&oacute;n de los posibles conciertos a los que no iré, exposiciones que no visitaré y pel&iacute;culas que no veré. A lo sumo iré al piso de J.I. a robarle alguna figurita decorativa a&ntilde;os 70 o de las que regalan en las comuniones para mi colecci&oacute;n de criaderos de polvo. Ya escribiré esta paranoia en la web otro d&iacute;a…
+        Menos mal que esta noche planeamos una velada musical en "La puerta falsa" o bien ver la exposición de arte contemporáneo en "Las Claras", con su cervecita después, por supuesto, que, como siempre, quedará en palabras, al menos mentras lo hablamos me entretengo. As&iacute; que me voy a ver la programación de los posibles conciertos a los que no iré, exposiciones que no visitaré y pel&iacute;culas que no veré. A lo sumo iré al piso de J.I. a robarle alguna figurita decorativa a&ntilde;os 70 o de las que regalan en las comuniones para mi colección de criaderos de polvo. Ya escribiré esta paranoia en la web otro d&iacute;a…
       </p>
     </td>
     

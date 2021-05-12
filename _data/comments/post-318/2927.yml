@@ -11,6 +11,6 @@ Brevemente... &iquest;no quieres que la url pueda ser www.chavalina.com?estilo=X
 <br />
 Por otra parte. No hace falta usar un location de javascript para volver a la página principal, usa header de PHP: header(\"Location: /\");<br />
 <br />
-Y para volver al mismo sitio utiliza las variables de $_SERVER... $_SERVER[&prime;PHP_SELF&prime;] y tendrás la direcci&oacute;n misma, o el HTTP_REFERER para saber desde que URL se llamo exactamente.<br />
+Y para volver al mismo sitio utiliza las variables de $_SERVER... $_SERVER[&prime;PHP_SELF&prime;] y tendrás la dirección misma, o el HTTP_REFERER para saber desde que URL se llamo exactamente.<br />
 <br />
 Investiga (que es lo mejor para aprender) y si tienes dudas pues... :D"

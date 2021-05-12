@@ -1,6 +1,6 @@
 ---
 id: 1345
-title: 'Versi&oacute;n 4.0'
+title: 'Versión 4.0'
 date: 2004-06-08T12:40:01+02:00
 author: Chavalina
 layout: revision
@@ -13,7 +13,7 @@ permalink: /2004/06/08/134-revision/
       <table border="0" cellspacing="5" cellpadding="10" width="1" align="left">
         <tr>
           <td>
-            <img src="/imagenes/fotos/sugerencias.jpg" alt="Entrada &prime;La mala educaci&oacute;n&prime;" width="175" height="200" border="1" />
+            <img src="/imagenes/fotos/sugerencias.jpg" alt="Entrada &prime;La mala educación&prime;" width="175" height="200" border="1" />
           </td>
         </tr>
       </table>
@@ -23,15 +23,15 @@ permalink: /2004/06/08/134-revision/
       </p>
       
       <p>
-        Lo he subido y todav&iacute;a dudo de la limitaci&oacute;n que he puesto de 800px… con lo bien que se ajustaba antes… pero me he dado cuenta de que las l&iacute;neas largas con Arial Narrow son bastante inc&oacute;modas de leer, a ver c&oacute;mo se da ésta. Tras leer <a href="http://www.hotdesign.com/seybold/index.html" target="_blank">algunos art&iacute;culos</a> sobre dise&ntilde;o donde pon&iacute;an a las tablas bastante verdes, intenté hacerlo todo a base de div, pero me dieron más dolores de cabeza que alegr&iacute;as, as&iacute; que al final de todo un poco.
+        Lo he subido y todav&iacute;a dudo de la limitación que he puesto de 800px… con lo bien que se ajustaba antes… pero me he dado cuenta de que las l&iacute;neas largas con Arial Narrow son bastante incómodas de leer, a ver cómo se da ésta. Tras leer <a href="http://www.hotdesign.com/seybold/index.html" target="_blank">algunos art&iacute;culos</a> sobre dise&ntilde;o donde pon&iacute;an a las tablas bastante verdes, intenté hacerlo todo a base de div, pero me dieron más dolores de cabeza que alegr&iacute;as, as&iacute; que al final de todo un poco.
       </p>
       
       <p>
-        Además hay mejoras en el c&oacute;digo (que sigo queriendo colgar, pero sigue siendo c&oacute;digo de suspenso en Fundamentos de Programaci&oacute;n de primero), reutilizaci&oacute;n y cosas de esas que aprendemos en Ingenier&iacute;a del Software y nunca supe si realmente serv&iacute;an para algo,
+        Además hay mejoras en el código (que sigo queriendo colgar, pero sigue siendo código de suspenso en Fundamentos de Programación de primero), reutilización y cosas de esas que aprendemos en Ingenier&iacute;a del Software y nunca supe si realmente serv&iacute;an para algo,
       </p>
       
       <p>
-        Ah, y para el se&ntilde;or barbudo que susurraba, ya tiene su opci&oacute;n para previsualizar, por ahora bastante chapucera, pero no he logrado nada mejor sin manuales de Javascript, ahora buscaré uno.
+        Ah, y para el se&ntilde;or barbudo que susurraba, ya tiene su opción para previsualizar, por ahora bastante chapucera, pero no he logrado nada mejor sin manuales de Javascript, ahora buscaré uno.
       </p>
     </td>
   </tr>

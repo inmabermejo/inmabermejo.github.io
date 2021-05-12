@@ -1,6 +1,6 @@
 ---
 id: 1113
-title: 'Miradas: exposici&oacute;n de Xabier Mart&iacute;nez -psico-'
+title: 'Miradas: exposición de Xabier Mart&iacute;nez -psico-'
 date: 2007-03-29T03:49:35+02:00
 author: Chavalina
 layout: revision
@@ -9,7 +9,7 @@ permalink: /2007/03/29/785-revision/
 ---
 Quizá a algunos os suene, ha sido uno de los que más ha comentado en éste mi blog, y tuvo el suyo propio, <a href="http://psico.bitacoras.com/" target="_blank">Psico Interactive</a>, ya abandonado.
 
-Yo lo conoc&iacute; (virtualmente, todav&iacute;a no en persona) hace a&ntilde;os en los foros de Gsmspain (que ahora están tan asquerosillos que ni los enlazo), después por MSN, por los blogs… un chico tan procrastinador como yo, pero que parece que ya ha descubierto su vocaci&oacute;n, y yo me alegro much&iacute;simo por él. <a href="http://flickr.com/photos/xabier-martinez/" target="_blank">Xabier Mart&iacute;nez en Flickr</a>.
+Yo lo conoc&iacute; (virtualmente, todav&iacute;a no en persona) hace a&ntilde;os en los foros de Gsmspain (que ahora están tan asquerosillos que ni los enlazo), después por MSN, por los blogs… un chico tan procrastinador como yo, pero que parece que ya ha descubierto su vocación, y yo me alegro much&iacute;simo por él. <a href="http://flickr.com/photos/xabier-martinez/" target="_blank">Xabier Mart&iacute;nez en Flickr</a>.
 
 Y es bueno.  
 Tanto que en poco tiempo ha avanzado much&iacute;simo. Y ya está exponiendo en Santiago de Compostela. Por si os queréis acercar:

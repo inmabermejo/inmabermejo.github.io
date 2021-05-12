@@ -8,4 +8,4 @@ guid: http://www.wp.chavalina.net/2005/12/24/600-revision/
 permalink: /2005/12/24/600-revision/
 ---
 Requisitos para pasar una noche deliciosa… y más tarde![gafas](/imagenes/emoticonos/gafas.gif)  
-Pasadlo bien. Sin moderaci&oacute;n![cerveza](/imagenes/emoticonos/cerveza.gif)
+Pasadlo bien. Sin moderación![cerveza](/imagenes/emoticonos/cerveza.gif)

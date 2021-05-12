@@ -8,7 +8,7 @@ guid: http://www.wp.chavalina.net/2004/11/27/276-revision/
 permalink: /2004/11/27/276-revision/
 ---
 Mucho que aprender, muchos proyectos en mente para muy pronto, pero tendré que dejarlo para otro momento.  
-Llevo unas semanitas de lo más mon&oacute;tonas, con un peque&ntilde;o paréntesis el viernes pasado (no ayer), que menudo paréntesis, virgen santa y eso que no creo. <acronym title="Isika, si lees esto, a ver para cuándo la pr&oacute;xima">Qué fiesta</acronym>.
+Llevo unas semanitas de lo más monótonas, con un peque&ntilde;o paréntesis el viernes pasado (no ayer), que menudo paréntesis, virgen santa y eso que no creo. <acronym title="Isika, si lees esto, a ver para cuándo la próxima">Qué fiesta</acronym>.
 
 Bueno, y el jueves otro paréntesis, pero esa no la paso por caja.
 

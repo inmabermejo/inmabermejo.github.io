@@ -1,6 +1,6 @@
 ---
 id: 1276
-title: '&quot;La mala educaci&oacute;n&quot;'
+title: '&quot;La mala educación&quot;'
 date: 2004-03-24T09:08:44+02:00
 author: Chavalina
 layout: revision
@@ -13,13 +13,13 @@ permalink: /2004/03/24/62-revision/
       <table border="0" cellspacing="5" cellpadding="10" width="1" align="left">
         <tr>
           <td>
-            <img src="/imagenes/fotos/entrada-la-mala-edu.jpg" border="1" alt="Entrada &prime;La mala educaci&oacute;n&prime;" />
+            <img src="/imagenes/fotos/entrada-la-mala-edu.jpg" border="1" alt="Entrada &prime;La mala educación&prime;" />
           </td>
         </tr>
       </table>
       
       <p>
-        Bravo en esta ocasi&oacute;n por el director Pedro Almod&oacute;var, bravo por esta pel&iacute;cula. Gui&ntilde;os de humor presentan una historia que va madurando conforme se revela, hasta llegar a enganchar, es "una de Almod&oacute;var" pero quedándose con lo mejor, y hasta con un toque de elegancia en cierta manera; quizá no hablo objetivamente porque iba predispuesta para bien, pero me escudo en que no soy la &uacute;nica que sali&oacute; de la sala con esta impresi&oacute;n.
+        Bravo en esta ocasión por el director Pedro Almodóvar, bravo por esta pel&iacute;cula. Gui&ntilde;os de humor presentan una historia que va madurando conforme se revela, hasta llegar a enganchar, es "una de Almodóvar" pero quedándose con lo mejor, y hasta con un toque de elegancia en cierta manera; quizá no hablo objetivamente porque iba predispuesta para bien, pero me escudo en que no soy la &uacute;nica que salió de la sala con esta impresión.
       </p>
       
       <p>

@@ -1,6 +1,6 @@
 ---
 id: 1268
-title: 'Usabilidad, Documentaci&oacute;n y bitácoras en Zaragoza (Ibersid�06)'
+title: 'Usabilidad, Documentación y bitácoras en Zaragoza (Ibersid�06)'
 date: 2008-12-22T00:07:30+02:00
 author: Chavalina
 layout: revision

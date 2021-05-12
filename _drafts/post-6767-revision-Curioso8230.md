@@ -11,4 +11,4 @@ De la mano de **curiosa** de Gsmspain entro en <a href="http://galeon.com/shael/
 
 A ver si t&uacute; consigues salir.
 
-  * <a href="http://galeon.com/shael/habitacion/crisroom.swf" target="_blank">La habitaci&oacute;n.</a>
+  * <a href="http://galeon.com/shael/habitacion/crisroom.swf" target="_blank">La habitación.</a>

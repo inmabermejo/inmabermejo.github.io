@@ -7,4 +7,4 @@ layout: revision
 guid: http://www.wp.chavalina.net/2005/05/02/420-revision/
 permalink: /2005/05/02/420-revision/
 ---
-Recuerdo cuando pensaba que <a href="http://www.chavalina.net/comentar.php?idpost=129&#038;q=consejo" target="_blank">no pod&iacute;a escribir cualquier cosa aqu&iacute;</a> pero eso se extiende mucho más. Soy muy bocazas, y hoy he recibido una dura lecci&oacute;n. Será cuesti&oacute;n de aprender de ello.
+Recuerdo cuando pensaba que <a href="http://www.chavalina.net/comentar.php?idpost=129&#038;q=consejo" target="_blank">no pod&iacute;a escribir cualquier cosa aqu&iacute;</a> pero eso se extiende mucho más. Soy muy bocazas, y hoy he recibido una dura lección. Será cuestión de aprender de ello.

@@ -11,7 +11,7 @@ Ha dolido.
 Ha dolido mucho.  
 Es que menudo batacazo.  
 Casi una semana ha costado levantarme.  
-Y lo peor, ni una explicaci&oacute;n.
+Y lo peor, ni una explicación.
 
 > Estimado Cliente,  
 > el servicio ha sido restablicido correctamente.

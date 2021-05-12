@@ -7,4 +7,4 @@ layout: revision
 guid: http://www.wp.chavalina.net/2008/12/26/589-revision-3/
 permalink: /2008/12/26/589-revision-3/
 ---
-Otra genialidad con flash, <a href="http://www.pelourinho.com/movies/c003702/" target="_blank">ilustraci&oacute;n en directo</a>. Via <a href="http://earful.bitako.com/" target="_blank">earful</a>
+Otra genialidad con flash, <a href="http://www.pelourinho.com/movies/c003702/" target="_blank">ilustración en directo</a>. Via <a href="http://earful.bitako.com/" target="_blank">earful</a>

@@ -8,6 +8,6 @@ guid: http://www.wp.chavalina.net/2005/01/01/309-revision/
 permalink: /2005/01/01/309-revision/
 ---
 Ay que sue&ntilde;o tengo…  
-Pero creo que aun me da tiempo a felicitar el a&ntilde;o. No sé c&oacute;mo lo hago pero con lo que odio la Navidad y felicitar y todo eso siempre acabo haciéndolo![emo](/imagenes/emoticonos/confuso.gif) 
+Pero creo que aun me da tiempo a felicitar el a&ntilde;o. No sé cómo lo hago pero con lo que odio la Navidad y felicitar y todo eso siempre acabo haciéndolo![emo](/imagenes/emoticonos/confuso.gif) 
 
-El 2004 ha sido para m&iacute; un buen a&ntilde;o en conjunto, no espectacular pero s&iacute; mucho mejor que los desastrosos 2002 y 2003, y espero que 2005 se porte bien. <a href="http://www.chavalina.net/comentar.php?idpost=284&#038;q=" target="_blank">Hice mis prop&oacute;sitos</a> antes de tiempo, y <a href="http://www.chavalina.net/comentar.php?idpost=302&#038;q=" target="_blank">ped&iacute; unas cuantas cosas</a> para las que creo que necesitaré ayuda, ahora depende de m&iacute;![emo](/imagenes/emoticonos/sonrisa.gif)
+El 2004 ha sido para m&iacute; un buen a&ntilde;o en conjunto, no espectacular pero s&iacute; mucho mejor que los desastrosos 2002 y 2003, y espero que 2005 se porte bien. <a href="http://www.chavalina.net/comentar.php?idpost=284&#038;q=" target="_blank">Hice mis propósitos</a> antes de tiempo, y <a href="http://www.chavalina.net/comentar.php?idpost=302&#038;q=" target="_blank">ped&iacute; unas cuantas cosas</a> para las que creo que necesitaré ayuda, ahora depende de m&iacute;![emo](/imagenes/emoticonos/sonrisa.gif)

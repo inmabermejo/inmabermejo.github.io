@@ -7,4 +7,4 @@ layout: revision
 guid: http://www.wp.chavalina.net/2006/01/12/607-revision/
 permalink: /2006/01/12/607-revision/
 ---
-He aplicado <a href="http://www.aaronlogan.com/downloads/htaccess.php" target="_blank">esta soluci&oacute;n para el spam</a> que me estaba atacando pese a haber toqueteado mi CMS. Si no funciona, implementaré <a href="http://neuromancer.dif.um.es/blog/index.php?s=wp-morph&#038;submit=Search" target="_blank">WP-Morph</a> de <a href="http://neuromancer.dif.um.es/blog" target="_blank">diego</a>![emo](/imagenes/emoticonos/enfadado.gif)
+He aplicado <a href="http://www.aaronlogan.com/downloads/htaccess.php" target="_blank">esta solución para el spam</a> que me estaba atacando pese a haber toqueteado mi CMS. Si no funciona, implementaré <a href="http://neuromancer.dif.um.es/blog/index.php?s=wp-morph&#038;submit=Search" target="_blank">WP-Morph</a> de <a href="http://neuromancer.dif.um.es/blog" target="_blank">diego</a>![emo](/imagenes/emoticonos/enfadado.gif)

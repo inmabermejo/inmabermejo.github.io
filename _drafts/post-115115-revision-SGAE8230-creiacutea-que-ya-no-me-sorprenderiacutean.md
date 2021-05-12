@@ -15,7 +15,7 @@ permalink: /2004/05/11/115-revision/
 > 
 > […inaudible…] la ultima de la SGAE que pretende cobrar el 7% del  
 > presupuesto destinado a los conciertos populares organizados por las  
-> parroquias de Vigo. El descalabro econ&oacute;mico que podr&iacute;a ocasionar este canon  
+> parroquias de Vigo. El descalabro económico que podr&iacute;a ocasionar este canon  
 > ser&iacute;a tan grande que los organizadores amenazan con cancelar las fiestas si  
 > la SGAE insiste en cobrarlo. Vamos que como en las fiestas populares suena  
 > musica con copyright pues a cobrar por ello. Sera el final de las fiestas  

@@ -1,6 +1,6 @@
 ---
 id: 2677
-title: 'C&oacute;mo nos ven las revistas rosas'
+title: 'Cómo nos ven las revistas rosas'
 date: 2008-12-21T21:54:10+02:00
 author: Chavalina
 layout: revision

@@ -9,7 +9,7 @@ permalink: /2004/01/25/27-revision/
 ---
 De la mano de <a href="http://www.anesvad.org/cadena/home.htm" target="_blank">Anesvad</a>  
 tenemos la oportunidad de ayudar muy fácilmente a donar 1&euro;  
-para colaborar en su erradicaci&oacute;n en la India.
+para colaborar en su erradicación en la India.
 
 > A través de esta iniciativa, nuestro objetivo es que los internautas  
 > env&iacute;en mensajes de apoyo a los enfermos y a las personas que están dedicando  

@@ -23,4 +23,4 @@ permalink: /2004/02/21/35-revision/
   Ojalá se te acabe la mirada constante, <br /> la palabra precisa, la sonrisa perfecta. <br /> Ojalá pase algo que te borre de pronto, <br /> una luz cegadora, un disparo de nieve. <br /> Ojalá por lo menos que me lleve la muerte, <br /> para no verte tanto, para no verte siempre<br /> en todos los segundos, en todas las visiones.<br /> Ojalá que no pueda tocarte ni en canciones.
 </p>
 
-&iquest;Quién no tuvo una noche en la que record&oacute; todo lo que crey&oacute; que estaba olvidado?
+&iquest;Quién no tuvo una noche en la que recordó todo lo que creyó que estaba olvidado?

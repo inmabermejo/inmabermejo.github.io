@@ -7,7 +7,7 @@ layout: revision
 guid: http://www.chavalina.net/2008/12/21/623-revision-2/
 permalink: /2008/12/21/623-revision-2/
 ---
-<a href="http://www.criteriondg.info/wordpress/archives/2006/02/06/meme-again-de-4-en-4/" target="_blank">Me han vuelto a pasar un marr&oacute;n</a>, pero es lo que tiene ser bloggah…
+<a href="http://www.criteriondg.info/wordpress/archives/2006/02/06/meme-again-de-4-en-4/" target="_blank">Me han vuelto a pasar un marrón</a>, pero es lo que tiene ser bloggah…
 
 **Cuatro trabajos que he tenido** 
 
@@ -20,7 +20,7 @@ permalink: /2008/12/21/623-revision-2/
 
   * Eduardo Manostijeras
   * Casablanca
-  * Lo que el viento se llev&oacute; (esta tiene mérito, eh?)
+  * Lo que el viento se llevó (esta tiene mérito, eh?)
   * Rebeca
 
 **Cuatro series que me encantan** 

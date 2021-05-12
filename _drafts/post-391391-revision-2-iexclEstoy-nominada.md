@@ -11,4 +11,4 @@ permalink: /2008/12/21/391-revision-2/
 ups! que esto no es un Oscar!
 
 Dame una C, dame una H, dame una A!  
-jajajaja, que tonta soy, pero me hace mucha ilusi&oacute;n estar nominada![emo](/imagenes/emoticonos/sonrisa.gif) gracias a todos los que me visitan cada d&iacute;a.
+jajajaja, que tonta soy, pero me hace mucha ilusión estar nominada![emo](/imagenes/emoticonos/sonrisa.gif) gracias a todos los que me visitan cada d&iacute;a.

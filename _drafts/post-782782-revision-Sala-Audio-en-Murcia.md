@@ -11,7 +11,7 @@ permalink: /2007/02/11/782-revision/
 
 Ayer estuve all&iacute; en el concierto de <a href="http://www.fangoria.es/" target="_blank">Fangoria</a> y menuda incomodidad. Escribo esto pese a mi huelga involuntaria de blog porque me dio mucha rabia. 
 
-Un recinto muy estrecho y largo, como un pasillo, y al fondo un escenario peque&ntilde;ajo, incluso la propia Alaska _se quej&oacute;_, 
+Un recinto muy estrecho y largo, como un pasillo, y al fondo un escenario peque&ntilde;ajo, incluso la propia Alaska _se quejó_, 
 
 > Estamos encantados de estar aqu&iacute;, un poco estrechos pero muy contentos…
 

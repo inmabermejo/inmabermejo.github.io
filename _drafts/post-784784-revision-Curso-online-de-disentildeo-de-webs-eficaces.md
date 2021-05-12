@@ -9,7 +9,7 @@ permalink: /2007/02/21/784-revision/
 ---
 Este a&ntilde;o vuelve a hacerse el <a href="http://www.um.es/estudios/cursos/web/" target="_blank">Curso en l&iacute;nea de Dise&ntilde;o de Sitios Web Eficaces</a>, en el que participo como profesora.
 
-Es un curso de **introducci&oacute;n** al dise&ntilde;o web con estándares, a la usabilidad y la accesibilidad, y a la arquitectura de la informaci&oacute;n. Se requieren conocimientos previos de HTML, pero muy poco, hay un peque&ntilde;o formulario para que quien se quiera apuntar pueda ver c&oacute;mo va, pero s&oacute;lo es orientativo.
+Es un curso de **introducción** al dise&ntilde;o web con estándares, a la usabilidad y la accesibilidad, y a la arquitectura de la información. Se requieren conocimientos previos de HTML, pero muy poco, hay un peque&ntilde;o formulario para que quien se quiera apuntar pueda ver cómo va, pero sólo es orientativo.
 
 Si ya sabes lo que son los estándares, usas <acronym title="Cascade Style Sheets">CSS</acronym> y eres un profesional de este sector, probablemente esto sea poco para t&iacute;, aunque nunca viene mal tener un t&iacute;tulo más.
 

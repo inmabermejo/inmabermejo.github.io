@@ -1,6 +1,6 @@
 ---
 id: 1612
-title: '&iexcl;Se acab&oacute;!'
+title: '&iexcl;Se acabó!'
 date: 2004-08-17T03:34:39+02:00
 author: Chavalina
 layout: revision

@@ -12,7 +12,7 @@ No sé por qué llamo a esto estad&iacute;sticas. Bueno, estad&iacute;sticas de 
 
 Me resulta curioso que, después de dos meses, el buscador indexe el post de <a href="http://www.chavalina.net/comentar.php?idpost=238&#038;q=" target="_blank">mi pendrive</a> en tercer lugar buscando la palabra «amable»![emo](/imagenes/emoticonos/confuso.gif) (después de las «amables chicas desnud as», ya ves).
 
-También me ha llamado la atenci&oacute;n que prácticamente todas las visitas que he recibido desde Zootropo llegaban desde su post sobre el por no con ni&ntilde;os y tal. Desde luego que la gente… a lo mejor al no encontrar ah&iacute; lo que buscaban (menudos comentarios) ven&iacute;an a ver si el diario de chavalina era X  
+También me ha llamado la atención que prácticamente todas las visitas que he recibido desde Zootropo llegaban desde su post sobre el por no con ni&ntilde;os y tal. Desde luego que la gente… a lo mejor al no encontrar ah&iacute; lo que buscaban (menudos comentarios) ven&iacute;an a ver si el diario de chavalina era X  
 ![asqueado](/imagenes/emoticonos/asqueado.gif) 
 
 Y otras tantas visitas con palabras clave como «colegial as», «azot es», «anticonceptivos de dibujos animados» y una serie de paranoias que tengo por ah&iacute; registradas. &iquest;Tanto ha degenerado esto?

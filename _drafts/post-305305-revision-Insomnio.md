@@ -7,7 +7,7 @@ layout: revision
 guid: http://www.wp.chavalina.net/2004/12/28/305-revision/
 permalink: /2004/12/28/305-revision/
 ---
-Mis horarios cambiados me llevan a leer mientras veo la televisi&oacute;n a las dos y pico de la ma&ntilde;ana, pero acabo de levantarme (supremo esfuerzo, supongo que me entendéis) a apagarla tras escuchar una magn&iacute;fica frase:
+Mis horarios cambiados me llevan a leer mientras veo la televisión a las dos y pico de la ma&ntilde;ana, pero acabo de levantarme (supremo esfuerzo, supongo que me entendéis) a apagarla tras escuchar una magn&iacute;fica frase:
 
 > &iquest;sabes que si no te acuestas con alguien en un a&ntilde;o puedes volver a revirginizarte?
 

@@ -1,6 +1,6 @@
 ---
 id: 1699
-title: 'Momento &lt;em&gt;remember&lt;/em&gt;: Empanadilla de M&oacute;stoles'
+title: 'Momento &lt;em&gt;remember&lt;/em&gt;: Empanadilla de Móstoles'
 date: 2008-12-25T14:17:20+02:00
 author: Chavalina
 layout: revision

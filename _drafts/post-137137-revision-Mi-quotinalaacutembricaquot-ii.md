@@ -27,7 +27,7 @@ permalink: /2004/06/12/137-revision/
       </p>
       
       <p>
-        Y la soluci&oacute;n ha pasado por algo tan simple como colocar la antena en el lugar adecuado, no es tan importante la orientaci&oacute;n como la altura. Una antena artesanal y tan simple como una barra metálica con algunas arandelas de plástico sujeta dentro de un bote de patatas (como podéis ver en la foto, junto a las cortinas de mi sal&oacute;n comedor xD) y poner otra tarjeta inalámbrica por PCMCIA.
+        Y la solución ha pasado por algo tan simple como colocar la antena en el lugar adecuado, no es tan importante la orientación como la altura. Una antena artesanal y tan simple como una barra metálica con algunas arandelas de plástico sujeta dentro de un bote de patatas (como podéis ver en la foto, junto a las cortinas de mi salón comedor xD) y poner otra tarjeta inalámbrica por PCMCIA.
       </p>
       
       <p>

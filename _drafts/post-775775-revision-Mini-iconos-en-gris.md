@@ -7,4 +7,4 @@ layout: revision
 guid: http://www.wp.chavalina.net/2006/12/14/775-revision/
 permalink: /2006/12/14/775-revision/
 ---
-Un regalito de navidad, [un mont&oacute;n de mini iconos en escala de grises](http://www.brandspankingnew.net/archive/2006/12/hohoho.html), visto en <a href="http://www.webintenta.com/113-iconos-en-escala-de-grises.html" target="_blank">intenta</a>, otro de mis blogs favoritos.
+Un regalito de navidad, [un montón de mini iconos en escala de grises](http://www.brandspankingnew.net/archive/2006/12/hohoho.html), visto en <a href="http://www.webintenta.com/113-iconos-en-escala-de-grises.html" target="_blank">intenta</a>, otro de mis blogs favoritos.

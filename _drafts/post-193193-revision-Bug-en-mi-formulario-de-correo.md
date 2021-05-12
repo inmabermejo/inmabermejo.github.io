@@ -8,7 +8,7 @@ guid: http://www.wp.chavalina.net/2004/08/13/193-revision/
 permalink: /2004/08/13/193-revision/
 ---
 Menuda estoy hecha…  
-Desde la actualizaci&oacute;n de mi dise&ntilde;o ten&iacute;a un bug en <a href="correo.php" target=&prime;_blank&prime;>el formulario de correo</a> que aparece a la izquierda como contacto (conflictos entre versiones en pruebas y versiones definitivas… en fin, lo de siempre) y desde aqu&iacute; quer&iacute;a disculparme con la gente, si la hay, que me ha mandado alg&uacute;n mail y que no haya contestado.
+Desde la actualización de mi dise&ntilde;o ten&iacute;a un bug en <a href="correo.php" target=&prime;_blank&prime;>el formulario de correo</a> que aparece a la izquierda como contacto (conflictos entre versiones en pruebas y versiones definitivas… en fin, lo de siempre) y desde aqu&iacute; quer&iacute;a disculparme con la gente, si la hay, que me ha mandado alg&uacute;n mail y que no haya contestado.
 
 Probablemente ni lo haya recibido.  
-Pero ya está arreglado. Gracias a Barrylm por avisarme. Y la pr&oacute;xima vez tendré más cuidado![emo](/imagenes/emoticonos/pensativo.gif)
+Pero ya está arreglado. Gracias a Barrylm por avisarme. Y la próxima vez tendré más cuidado![emo](/imagenes/emoticonos/pensativo.gif)

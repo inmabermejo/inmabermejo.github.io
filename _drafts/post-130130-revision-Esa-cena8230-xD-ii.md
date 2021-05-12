@@ -19,11 +19,11 @@ permalink: /2004/06/05/130-revision/
       </table>
       
       <p>
-        Bueno, creo que por ahora esto será lo &uacute;nico que veréis de la cena de mi promoci&oacute;n, desde luego que hay más fotos perooo…. que luego esto lo ve mi ex-jefe (Juan Carlos llámame en septiembre <img src="/imagenes/emoticonos/gafas.gif" alt="emo gafas" width="16" height="16" />)
+        Bueno, creo que por ahora esto será lo &uacute;nico que veréis de la cena de mi promoción, desde luego que hay más fotos perooo…. que luego esto lo ve mi ex-jefe (Juan Carlos llámame en septiembre <img src="/imagenes/emoticonos/gafas.gif" alt="emo gafas" width="16" height="16" />)
       </p>
       
       <p>
-        La de la cena fue una noche un poco extra&ntilde;a para m&iacute;, la verdad es que lo pasé muy bien pero no deja de ser chocante ver como gente que en clase act&uacute;a como si no existieras de pronto se vuelven la alegr&iacute;a de la huerta y parece que te conocen de toda la vida. Como dec&iacute;an hace tiempo en "El Jueves", el aprecio que se tiene a una persona es directamente proporcional a las copas que llevas encima, pero no deja de ser gracioso, sobre todo cuando son los profesores los que se desinhiben (y eso que este a&ntilde;o no tuvimos, por desgracia, a cierto profesor de programaci&oacute;n, que me han dicho que es todo un show en las cenas)
+        La de la cena fue una noche un poco extra&ntilde;a para m&iacute;, la verdad es que lo pasé muy bien pero no deja de ser chocante ver como gente que en clase act&uacute;a como si no existieras de pronto se vuelven la alegr&iacute;a de la huerta y parece que te conocen de toda la vida. Como dec&iacute;an hace tiempo en "El Jueves", el aprecio que se tiene a una persona es directamente proporcional a las copas que llevas encima, pero no deja de ser gracioso, sobre todo cuando son los profesores los que se desinhiben (y eso que este a&ntilde;o no tuvimos, por desgracia, a cierto profesor de programación, que me han dicho que es todo un show en las cenas)
       </p>
       
       <p>

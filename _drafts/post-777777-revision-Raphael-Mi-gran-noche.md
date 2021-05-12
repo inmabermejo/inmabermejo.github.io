@@ -7,4 +7,4 @@ layout: revision
 guid: http://www.wp.chavalina.net/2006/12/15/777-revision/
 permalink: /2006/12/15/777-revision/
 ---
-Y ma&ntilde;ana es la gran noche… veremos c&oacute;mo está el concierto.
+Y ma&ntilde;ana es la gran noche… veremos cómo está el concierto.

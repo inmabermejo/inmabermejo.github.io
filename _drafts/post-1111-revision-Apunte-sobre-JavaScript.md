@@ -12,11 +12,11 @@ permalink: /2003/12/29/11-revision/
 </p>
 
 > <p align="left">
->   El javascript es muy muy &uacute;til y necesario para<br /> hacer, por ejemplo, comprobaciones antes de enviar datos al servidor.<br /> En el caso de un formulario, comprobar su correci&oacute;n antes de<br /> mandar los datos al servidor: se hacen las comprobaciones en el cliente<br /> y s&oacute;lo se hace trabajar al servidor si los datos son correctos,<br /> evitas mandarlos, comprobar y devolver el mensaje de error, se hace<br /> «in situ».
+>   El javascript es muy muy &uacute;til y necesario para<br /> hacer, por ejemplo, comprobaciones antes de enviar datos al servidor.<br /> En el caso de un formulario, comprobar su correción antes de<br /> mandar los datos al servidor: se hacen las comprobaciones en el cliente<br /> y sólo se hace trabajar al servidor si los datos son correctos,<br /> evitas mandarlos, comprobar y devolver el mensaje de error, se hace<br /> «in situ».
 > </p>
 > 
 > <p align="left">
->   Javascript se puede integrar en una pagina generada con<br /> php, con perl o con java, es indiferente; eso si, suele dar problemas<br /> si no usas Internet Explorer. Todo esto viene de cuando microsoft abandon&oacute;<br /> el estandar html.
+>   Javascript se puede integrar en una pagina generada con<br /> php, con perl o con java, es indiferente; eso si, suele dar problemas<br /> si no usas Internet Explorer. Todo esto viene de cuando microsoft abandonó<br /> el estandar html.
 > </p>
 
 <p align="left">

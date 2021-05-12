@@ -1,6 +1,6 @@
 ---
 id: 2741
-title: 'Meme de traducci&oacute;n colaborativa'
+title: 'Meme de traducción colaborativa'
 date: 2008-12-21T21:54:47+02:00
 author: Chavalina
 layout: revision
@@ -14,33 +14,33 @@ permalink: /2008/12/21/559-revision-2/
   * chat = charla
   * content management system (CMS) = gestor de contenidos
   * draft: borrador
-  * email: correo [a secas, que para eso ya casi no se dice el &#8216;m&oacute;vil&#8217; de &#8216;teléfono m&oacute;vil&#8217;. La funci&oacute;n hereda el término]
+  * email: correo [a secas, que para eso ya casi no se dice el &#8216;móvil&#8217; de &#8216;teléfono móvil&#8217;. La función hereda el término]
   * eye-tracking: seguimiento de mirada
   * feed = canal, fuente
   * findability = encontrabilidad, recuperabilidad
   * form = formulario
-  * freeware = gratuito, edici&oacute;n gratuita
+  * freeware = gratuito, edición gratuita
   * hack = truco
   * hardware: componentes (informáticos)
   * home page = página principal
   * layout = maqueta
   * link = enlace
-  * information foraging: rastreo o forrajeo de informaci&oacute;n
-  * newsletter = bolet&iacute;n electr&oacute;nico
+  * information foraging: rastreo o forrajeo de información
+  * newsletter = bolet&iacute;n electrónico
   * online = en l&iacute;nea
-  * outsourcing = externalizaci&oacute;n
+  * outsourcing = externalización
   * peer-to-peer = persona a persona
   * permalink = enlace permanente
-  * plugin = complemento, extensi&oacute;n
+  * plugin = complemento, extensión
   * podcasting: fonodiario
-  * post = art&iacute;culo, anotaci&oacute;n, entrada
+  * post = art&iacute;culo, anotación, entrada
   * reader = lector
   * sidebar = men&uacute; lateral
   * scent = rastro, pista
   * social software = aplicaciones sociales
   * software: programas (informáticos)
   * spam = basucorreo
-  * stemming = lematizaci&oacute;n
+  * stemming = lematización
   * tag = etiqueta
   * template = plantilla
   * topic map = mapa conceptual
@@ -49,7 +49,7 @@ permalink: /2008/12/21/559-revision-2/
   * weblog, blog = bitácora, cuaderno de anotaciones
   * webmaster = administrador
   * wallpaper = fondo de escritorio
-  * widget: cacharro, aparatejo, &#8220;chint&oacute;fano&#8221;
+  * widget: cacharro, aparatejo, &#8220;chintófano&#8221;
   * wireframes: esquema de página
 
 Yo a&ntilde;ado:

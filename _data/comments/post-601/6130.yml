@@ -6,9 +6,9 @@ url: http://www.taufpate.com/
 date: 2005-12-27 18:58:22
 message: "Un par de consejillos que tal vez puedan serte de utilidad:<br />
 <br />
-1.- Usa el Bad Behavior, lo he montado en un par de instalaciones de wordpress y el spam no se redujo sino que desapareci&oacute; por completo!, además, puedes integrarlo con cualquier cms en php que quieras facilmente.<br />
+1.- Usa el Bad Behavior, lo he montado en un par de instalaciones de wordpress y el spam no se redujo sino que desapareció por completo!, además, puedes integrarlo con cualquier cms en php que quieras facilmente.<br />
 <br />
-2.- En mi sistema de blog simplemente bloquee todos lo que contuviera H1 H2 .... Hx y el spam desapareci&oacute;, al parecer los spamers que visitaban mi blog solo usaban header dentro del comment :-/<br />
+2.- En mi sistema de blog simplemente bloquee todos lo que contuviera H1 H2 .... Hx y el spam desapareció, al parecer los spamers que visitaban mi blog solo usaban header dentro del comment :-/<br />
 <br />
 Espero te sirva, cualquier cosa pegame un grito y te doy una mano :-)<br />
 <br />

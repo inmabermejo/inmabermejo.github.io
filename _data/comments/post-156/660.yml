@@ -2,9 +2,9 @@ id: 660
 name: Jcl
 url: http://unknown.scenesp.org/jcl/blog/
 date: 2004-07-06 13:11:52
-message: "Pues... desde la VM (que a mi entender es infinitamente mejor que cualquiera disponible de java), al JIT, a la interoperabilidad entre lenguajes de .net, sobrecarga de operadores, un entorno de desarrollo bastante bueno y 100% integrado (no comparemos con eclipse + plugins, etc.), un framework bastante mas currado que los paquetes standard de java, interacci&oacute;n y llamadas a codigo nativo sin hacks extra&ntilde;os, y un largo etc.<br />
+message: "Pues... desde la VM (que a mi entender es infinitamente mejor que cualquiera disponible de java), al JIT, a la interoperabilidad entre lenguajes de .net, sobrecarga de operadores, un entorno de desarrollo bastante bueno y 100% integrado (no comparemos con eclipse + plugins, etc.), un framework bastante mas currado que los paquetes standard de java, interacción y llamadas a codigo nativo sin hacks extra&ntilde;os, y un largo etc.<br />
 <br />
-La cosa es que, aunque por la &prime;idea&prime; si es posible comparar .NET a Java, en la practica e implementaci&oacute;n son bien distintos, y, a mi gusto (cada cual con el suyo, claro), .NET le da mil patadas a Java en cuanto a todo salvo portabilidad (DotGNU y Mono se los pueden meter por donde les quepa). Si tu plataforma es Windows, .NET es una decisi&oacute;n ampliamente correcta en la inmensa mayoria de los casos... Java... no tanto.<br />
+La cosa es que, aunque por la &prime;idea&prime; si es posible comparar .NET a Java, en la practica e implementación son bien distintos, y, a mi gusto (cada cual con el suyo, claro), .NET le da mil patadas a Java en cuanto a todo salvo portabilidad (DotGNU y Mono se los pueden meter por donde les quepa). Si tu plataforma es Windows, .NET es una decisión ampliamente correcta en la inmensa mayoria de los casos... Java... no tanto.<br />
 <br />
 Y bueno, .NET está aun en pa&ntilde;ales, esperemos a ver como mejora con Whidbey, .NET 2.0 (esperemos que antes de Longhorn), y demás...<br />
 <br />

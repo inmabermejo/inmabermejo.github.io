@@ -1,6 +1,6 @@
 ---
 id: 1977
-title: 'Meme: series de televisi&oacute;n'
+title: 'Meme: series de televisión'
 date: 2008-12-25T14:18:02+02:00
 author: Chavalina
 layout: revision
