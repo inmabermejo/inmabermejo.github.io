@@ -11,7 +11,7 @@ permalink: /2005/04/15/394-revision/
 <a href="http://femdefence.info/index2.html" target="_blank">FemDefence</a> nos lo trae en un formato bastante discreto.  
 Así, a primera vista, parece eficaz… 
 
-Desde luego… &iexcl;y yo que pensaba que ya había visto curiosidades por internet!
+Desde luego… ¡y yo que pensaba que ya había visto curiosidades por internet!
 
 **Actualización:** evidentemente, una curiosidad como ésta <a href="http://femdefence.info/bakgr2.html" target="_blank">no podía ser otra cosa</a>.
 

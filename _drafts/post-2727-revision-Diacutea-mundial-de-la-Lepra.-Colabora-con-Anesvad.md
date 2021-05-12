@@ -19,4 +19,4 @@ para colaborar en su erradicación en la India.
 
 Vamos, es solo un momento, anímate a colaborar![sonrisa](/imagenes/emoticonos/sonrisa.gif) 
 
-  * <a href="http://www.anesvad.org/cadena/home.htm" target="_blank">Anesvad:<br /> Cadena de monis contra la lepra &iexcl;únete!</a>
+  * <a href="http://www.anesvad.org/cadena/home.htm" target="_blank">Anesvad:<br /> Cadena de monis contra la lepra ¡únete!</a>

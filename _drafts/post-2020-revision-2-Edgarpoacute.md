@@ -15,7 +15,7 @@ permalink: /2008/12/21/20-revision-2/
 > y día. Yo no perseguía ningún propósito.  
 > Ni tampoco estaba colérico. Quería mucho al viejo. Jamás  
 > me insultó. Su dinero no me interesaba. Me parece que fue su  
-> ojo. &iexcl;Sí, eso fue! Tenía un ojo semejante al de  
+> ojo. ¡Sí, eso fue! Tenía un ojo semejante al de  
 > un buitre… Un ojo celeste, y velado por una tela. Cada vez que lo  
 > clavaba en mí se me helaba la sangre. Y así, poco a poco,  
 > muy gradualmente, me fui decidiendo a matar al viejo y librarme de aquel  

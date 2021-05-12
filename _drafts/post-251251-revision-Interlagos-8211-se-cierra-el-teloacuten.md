@@ -8,7 +8,7 @@ guid: http://www.wp.chavalina.net/2004/10/29/251-revision/
 permalink: /2004/10/29/251-revision/
 ---
 <img class="imgizqda" src="http://www.chavalina.net/imagenes/fotos/interlagos.jpg" alt="Montoya ba&ntilde;ado en champán" /> …y con una ovación para todos esta vez.  
-&iexcl;Si es que hasta se me ha caído una lagrimilla y todo durante la ceremonia del champán!  
+¡Si es que hasta se me ha caído una lagrimilla y todo durante la ceremonia del champán!  
 Estoy casi por decir que la del domingo ha sido la mejor carrera del mundial, aunque <a href="http://www.chavalina.net/comentar.php?idpost=203&#038;q=" target="_blank">en Spa</a> también estuvieron increíbles.
 
 Una carrera tan interesante que sólo fue posible gracias a que Michael Schumacher sufrió un accidente durante la clasificación y tuvo que salir desde el puesto 18, acabando al final 7&ordm;. Me gustaría haber visto los comentarios del se&ntilde;or Lobato si hubiera sido Alonso el que se hubiera visto en esta situación, pero como es M. Schumacher… «Alonsitis».

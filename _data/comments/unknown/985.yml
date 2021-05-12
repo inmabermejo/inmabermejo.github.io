@@ -6,6 +6,6 @@ message: "No es el momento para discutirlo, pero... que esté en una web no quie
 <br />
 Si se usa UTF-8 para codificar textos en espa&ntilde;ol (castellano), a parte de desperdiciar espacio (se necesita más de un caracter para los acentos, por ejemplo), es del todo innecesario ya que hay un estándar que suficientemente cubre esas necesidades.... iso-8859-1 (o iso-8859-15 con el Euro).<br />
 <br />
-Aunque en realidad con entidades <acronym title=\"HyperText Markup Language\">HTML</acronym> se puede solucionar todo esto, y muy fácil, en PHP... &iexcl;y se usa el juego de caracteres  iso-8859-1).<br />
+Aunque en realidad con entidades <acronym title=\"HyperText Markup Language\">HTML</acronym> se puede solucionar todo esto, y muy fácil, en PHP... ¡y se usa el juego de caracteres  iso-8859-1).<br />
 <br />
 En serio... que se use UTF-8 en un CMS que puede estar en muchos idiomas, me parece genial. Pero no es &prime;lo que ha y que usar&prime;, al menos no empleando la lengua de cervantes (o la de Ausias... si somos valencianos como yo :D)."

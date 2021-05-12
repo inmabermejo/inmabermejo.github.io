@@ -1,6 +1,6 @@
 ---
 id: 1591
-title: '&iexcl;Felicidades mamá!'
+title: '¡Felicidades mamá!'
 date: 2004-12-22T03:18:36+02:00
 author: Chavalina
 layout: revision

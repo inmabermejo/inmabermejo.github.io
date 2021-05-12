@@ -17,8 +17,8 @@ nos planteamos dos opciones:
   * Opción a &#8211; A echarle huevos! Hoy voy a estudiar como un cabrón! (Buen  
     comienzo, lástima que hacerlo no sea tan fácil ponerse como decirlo) 
   * Opción b &#8211; Uhmmm… si total para lo que queda de tarde entre que  
-    me pongo y tal no hago nada. &iexcl;Lo dicho! Hoy ya no hago nada, pero ma&ntilde;ana  
-    me pongo a saco. &iexcl;Fijo! (Opción bastante frecuente)
+    me pongo y tal no hago nada. ¡Lo dicho! Hoy ya no hago nada, pero ma&ntilde;ana  
+    me pongo a saco. ¡Fijo! (Opción bastante frecuente)
 
 _Fase 2: Concentración_  
 Una vez que estamos dispuestos a estudiar, una mínima concentración es  

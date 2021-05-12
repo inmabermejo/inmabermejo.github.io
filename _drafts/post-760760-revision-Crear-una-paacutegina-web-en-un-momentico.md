@@ -25,7 +25,7 @@ Vayamos por partes:
     Esto fue otro ratico de espera, pero en el mismo día yo ya tenía mi dominio apuntando a donde yo quería, con todo el espacio de [Dreamhost](http://www.dreamhost.com/r.cgi?chavalina) y sin pagar nada todavía.
 
   3. **El software:**  
-    Yo siempre he abogado por el DO-IT-YOURSELF cuando se quiere algo medianamente complicado, pero los sistemas de gestión de contenido cada vez hacen más cositas, y esta vez _no tenía tiempo_, así que en el panel de goodies de Dreamhost hice una instalación de [WordPress 2](http://www.wordpress.com), con un click y sin mirar una línea de <acronym title="Hypertext PreProcessor">PHP</acronym> &iexcl;qué feliz soy!</p> 
+    Yo siempre he abogado por el DO-IT-YOURSELF cuando se quiere algo medianamente complicado, pero los sistemas de gestión de contenido cada vez hacen más cositas, y esta vez _no tenía tiempo_, así que en el panel de goodies de Dreamhost hice una instalación de [WordPress 2](http://www.wordpress.com), con un click y sin mirar una línea de <acronym title="Hypertext PreProcessor">PHP</acronym> ¡qué feliz soy!</p> 
     **Plugins**  
     Esta instalación que te hacen de WP te pone unos 50 temas para que elijas tu dise&ntilde;o y unos cuantos plugins. Yo activé [Akismet](http://akismet.com/), y [WP-Caché 2](http://mnm.uib.es/gallir/wp-cache-2/), cambié el que viene con la instalación por la última versión que aparecía en la web. Aun así, no fue solución suficiente…
     

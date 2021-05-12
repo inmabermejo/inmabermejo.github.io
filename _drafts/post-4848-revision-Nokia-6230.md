@@ -7,7 +7,7 @@ layout: revision
 guid: http://www.wp.chavalina.net/2004/03/06/48-revision/
 permalink: /2004/03/06/48-revision/
 ---
-A estas horas antes de salir a la dichosa noche me paro aquí para advertir a los que quieran cambiar su trastico móvil **&iexcl;cuidado!** No toméis una decisión hasta haber conocido este peque&ntilde;ín. Y es peque&ntilde;ín de hecho, prácticamente el mismo tama&ntilde;o que el ya conocido 7250i, se puede llevar perfectamente en un bolsillo sin que estorbe como otros teléfonos tipo Nokia 7650 o 3650, si bien estos últimos ofrecen muchas más posibilidades debido a que incorporan  
+A estas horas antes de salir a la dichosa noche me paro aquí para advertir a los que quieran cambiar su trastico móvil **¡cuidado!** No toméis una decisión hasta haber conocido este peque&ntilde;ín. Y es peque&ntilde;ín de hecho, prácticamente el mismo tama&ntilde;o que el ya conocido 7250i, se puede llevar perfectamente en un bolsillo sin que estorbe como otros teléfonos tipo Nokia 7650 o 3650, si bien estos últimos ofrecen muchas más posibilidades debido a que incorporan  
 <span title="sistema operativo para móviles" class="anotacion">Symbian</span>  
 . 
 

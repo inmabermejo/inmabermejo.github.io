@@ -1,6 +1,6 @@
 ---
 id: 905
-title: '&iexcl;Estoy nominada!'
+title: '¡Estoy nominada!'
 date: 2005-04-11T00:05:12+02:00
 author: Chavalina
 layout: revision

@@ -49,7 +49,7 @@ permalink: /2005/10/07/559-revision/
   * weblog, blog = bitácora, cuaderno de anotaciones
   * webmaster = administrador
   * wallpaper = fondo de escritorio
-  * widget: cacharro, aparatejo, &#8220;chintófano&#8221;
+  * widget: cacharro, aparatejo, “chintófano”
   * wireframes: esquema de página
 
 Yo a&ntilde;ado:

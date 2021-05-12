@@ -7,7 +7,7 @@ layout: revision
 guid: http://www.wp.chavalina.net/2006/06/15/706-revision/
 permalink: /2006/06/15/706-revision/
 ---
-&iexcl;Murcianicos, olvidaros de La Sexta! preparad vuestras antenas para **la tele de Losantos**:
+¡Murcianicos, olvidaros de La Sexta! preparad vuestras antenas para **la tele de Losantos**:
 
 
 
