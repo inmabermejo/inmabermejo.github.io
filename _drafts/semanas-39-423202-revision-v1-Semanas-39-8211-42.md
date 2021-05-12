@@ -1,6 +1,6 @@
 ---
 id: 3207
-title: 'Semanas #39 &#8211; #42'
+title: 'Semanas #39 – #42'
 date: 2014-09-05T16:26:52+02:00
 author: Chavalina
 layout: revision

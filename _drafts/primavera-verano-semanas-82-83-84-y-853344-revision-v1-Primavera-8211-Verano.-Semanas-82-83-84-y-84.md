@@ -1,6 +1,6 @@
 ---
 id: 3345
-title: 'Primavera &#8211; Verano. Semanas #82, #83, #84 y #84'
+title: 'Primavera – Verano. Semanas #82, #83, #84 y #84'
 date: 2015-07-05T16:36:05+02:00
 author: Chavalina
 layout: revision

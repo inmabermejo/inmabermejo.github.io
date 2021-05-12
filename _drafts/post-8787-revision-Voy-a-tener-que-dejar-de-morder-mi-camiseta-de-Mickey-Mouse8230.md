@@ -18,7 +18,7 @@ Hoy una noticia un tanto grotesca para que haga juego con mi situación, sentada
 > Sin embargo, la empresa pasó por alto dicha demanda comunicando estar dentro de los parámetros legales. Para el grupo ecologista Greenpeace, es inconcebible que después de un año, Disney siga fabricando este tipo de prendas, sin seguir el ejemplo de compañías como H&M la cual dejó de estampar con esta sustancia. Al parecer, la legislación de químicos no está actualmente preparada ni en las condiciones de atender dicha demanda.
 > 
 > <p class="cita">
->   Fuente: <a href="http://noticias.com/index.php?action=mostrar_articulo&#038;id=56430&#038;IDCanal=1" target="_blank">noticias.com</a>
+>   Fuente: <a href="http://noticias.com/index.php?action=mostrar_articulo&id=56430&IDCanal=1" target="_blank">noticias.com</a>
 > </p>
 
 Bueno, pues eso, que dejaré de morder mi camiseta de Mickey… por lo menos. Oye, quien sabe, lo mismo sale más barato coger un pelotazo así que con whisky… estudiaré el caso.

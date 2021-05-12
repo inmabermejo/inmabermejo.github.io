@@ -18,4 +18,4 @@ Un anuncio que te hace pensar, plantearte si es necesario poner o no el aire aco
 
 Habría que pensar si compensa tener una web más atractiva y dejar fuera a cierta parte de la población.
 
-**Actualización:** como bien <a href="http://diariodeunjabali.com/archivos/categorias/miniblog/sostenibilidad.html" target="_blank">dice Adriano el Jabalí</a>, gato por liebre, o al menos zorro con piel de cordero, es una campaña de una constructora. Y la verdad es que **no me ha sorprendido absolutamente nada**, como diría El Chavo, <a href="http://youtube.com/results?search=sostenibilidad&#038;search_type=search_videos&#038;search=Search" target="_blank">lo sospeché desde un principio!</a>
+**Actualización:** como bien <a href="http://diariodeunjabali.com/archivos/categorias/miniblog/sostenibilidad.html" target="_blank">dice Adriano el Jabalí</a>, gato por liebre, o al menos zorro con piel de cordero, es una campaña de una constructora. Y la verdad es que **no me ha sorprendido absolutamente nada**, como diría El Chavo, <a href="http://youtube.com/results?search=sostenibilidad&search_type=search_videos&search=Search" target="_blank">lo sospeché desde un principio!</a>

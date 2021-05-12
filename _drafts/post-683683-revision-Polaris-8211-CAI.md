@@ -1,6 +1,6 @@
 ---
 id: 1022
-title: 'Polaris &#8211; CAI'
+title: 'Polaris – CAI'
 date: 2006-05-23T23:45:17+02:00
 author: Chavalina
 layout: revision

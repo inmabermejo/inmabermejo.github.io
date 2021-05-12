@@ -8,7 +8,7 @@ guid: http://www.wp.chavalina.net/2004/11/27/275-revision/
 permalink: /2004/11/27/275-revision/
 ---
 A ver si recuerdo la secuencia…  
-Comencé por <a href="http://wp.xergio.net/conociendo-gente-i.html" target="_blank">Sergio</a>, <a href="http://www.tudi0s.net/lamateporunyogur/archivos/2004/11/23/formularios_sin_tablas/" target="_blank">Boja</a>, <a href="http://www.blogpocket.com/scripts/view.php?arch=posts0411&#038;articulo=verpermalink&#038;id=200411222" target="_blank">Blogpocket</a> y por fin <a href="http://www.quirksmode.org/css/forms.html" target="_blank">Quirksmode</a>.
+Comencé por <a href="http://wp.xergio.net/conociendo-gente-i.html" target="_blank">Sergio</a>, <a href="http://www.tudi0s.net/lamateporunyogur/archivos/2004/11/23/formularios_sin_tablas/" target="_blank">Boja</a>, <a href="http://www.blogpocket.com/scripts/view.php?arch=posts0411&articulo=verpermalink&id=200411222" target="_blank">Blogpocket</a> y por fin <a href="http://www.quirksmode.org/css/forms.html" target="_blank">Quirksmode</a>.
 
 <a href="http://www.quirksmode.org/" target="_blank">Quirksmode</a> se describe:
 

@@ -1,6 +1,6 @@
 ---
 id: 1181
-title: '«Disain» &#8211; GaBuBu y Verlee'
+title: '«Disain» – GaBuBu y Verlee'
 date: 2008-12-21T23:37:09+02:00
 author: Chavalina
 layout: revision

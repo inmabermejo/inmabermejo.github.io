@@ -21,7 +21,7 @@ permalink: /2006/05/11/671-revision/
 
 **Hay que leer** <a href="http://lafragua.blogspot.com/2006/05/pincha-en-la-imagen-o-aqu.html" target="_blank">las reflexiones y sobre todo las cuentas de Antonio Fraguas</a>. 
 
-Y **acudir**. <a href="http://www.escolar.net/wiki/index.php/Sentada_por_una_vivienda_digna" target="_blank">Por una vivienda digna</a>. Aquí en Murcia será en <a href="http://callejero.lanetro.com/apps/lanetro/mapas.asp?pais=es&#038;idvia=459&#038;num=2&#038;muni=Murcia&#038;mapa=geo1es4%2Dmurcia&#038;prov=Murcia" target="_blank">la Glorieta</a>, junto al Ayuntamiento. El domingo, a las **5 de la tarde**.
+Y **acudir**. <a href="http://www.escolar.net/wiki/index.php/Sentada_por_una_vivienda_digna" target="_blank">Por una vivienda digna</a>. Aquí en Murcia será en <a href="http://callejero.lanetro.com/apps/lanetro/mapas.asp?pais=es&idvia=459&num=2&muni=Murcia&mapa=geo1es4%2Dmurcia&prov=Murcia" target="_blank">la Glorieta</a>, junto al Ayuntamiento. El domingo, a las **5 de la tarde**.
 
 <p class="imgcentro">
   <img src="/imagenes/fotos/viviendadigna.jpg" alt="Domingo, 14 de mayo a las 17.00, acude, por una vivienda digna" />

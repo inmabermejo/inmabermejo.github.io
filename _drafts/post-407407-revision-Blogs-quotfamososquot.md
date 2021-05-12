@@ -9,7 +9,7 @@ permalink: /2005/04/23/407-revision/
 ---
 <a href="imagenes/fotos/originales/escritorio-buenafuente.jpg" target="_blank"><img class="imgizqda" src="/imagenes/fotos/escritorio-buenafuente.jpg" alt="Mi escritorio con un fondo de Andreu Buenafuente" /></a> últimamente, <a href="http://www.chavalina.net/comentar.php?idpost=395#4001" target="_blank">por una cosa</a> o <a href="http://www.chavalina.net/comentar.php?idpost=406#4101" target="_blank">por otra</a> me he topado sin querer con algunos blogs de gente que puede considerarse conocida (en España al menos).
 
-Es algo que, aunque no me es extraño ni excepcional, parece que en cierto modo _me acerca_ a esta gente, me hace ver realmente que los que están detrás de una pantalla, de un cd o de unas páginas son personas como yo, que también echan un vistazo a la red, salen a comprar el <a href="http://www.chavalina.net/comentar.php?idpost=372&#038;q=bocadillo" target="_blank">pan</a>…
+Es algo que, aunque no me es extraño ni excepcional, parece que en cierto modo _me acerca_ a esta gente, me hace ver realmente que los que están detrás de una pantalla, de un cd o de unas páginas son personas como yo, que también echan un vistazo a la red, salen a comprar el <a href="http://www.chavalina.net/comentar.php?idpost=372&q=bocadillo" target="_blank">pan</a>…
 
 Así que aquí comienzo una recopilación de blogs de gente más o menos conocida, y no relacionada especialmente con el mundo de la informática, ya que éstos es más normal que tengan blog. No conozco muchos, normalmente cuando llego a un blog nuevo me lo leo pero no me quedo mucho con el autor. 
 

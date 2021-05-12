@@ -7,7 +7,7 @@ layout: revision
 guid: http://www.chavalina.net/2008/12/24/462-revision-2/
 permalink: /2008/12/24/462-revision-2/
 ---
-<img class="imgizqda" src="/imagenes/fotos/lovejackdaniels.jpg" alt="I Love Jack Daniels" /> ¿Recordáis la maravillosa <a href="http://www.chavalina.net/comentar.php?idpost=418&#038;q=css" target="_blank">chuleta CSS</a>?
+<img class="imgizqda" src="/imagenes/fotos/lovejackdaniels.jpg" alt="I Love Jack Daniels" /> ¿Recordáis la maravillosa <a href="http://www.chavalina.net/comentar.php?idpost=418&q=css" target="_blank">chuleta CSS</a>?
 
 Pues via <a href="http://blog.enrique.barbeito.org/archivos/2005/05/04/chuleta-php-y-mas/" target="_blank">ebarbeito</a> me entero de que también hay una <a href="http://www.ilovejackdaniels.com/php/php-cheat-sheet/" target="_blank">chuleta PHP</a> y no sólo eso! <a href="http://www.ilovejackdaniels.com/cheat-sheets/" target="_blank">chuletas para todos los gustos</a>.
 

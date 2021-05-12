@@ -19,7 +19,7 @@ Y con la **gripe**, desde mitad de noviembre sin ir al gimnasio… con lo bien q
     </div>
     
     <p style=" margin:8px 0 0 0; padding:0 4px;">
-      <a href="https://www.instagram.com/p/BNxO9lmFKLV/" style=" color:#000; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none; word-wrap:break-word;" target="_blank">&#x1f381;&#x1f389;&#x1f388;</a>
+      <a href="https://www.instagram.com/p/BNxO9lmFKLV/" style=" color:#000; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none; word-wrap:break-word;" target="_blank">🎁&#x1f389;&#x1f388;</a>
     </p>
     
     <p style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;">

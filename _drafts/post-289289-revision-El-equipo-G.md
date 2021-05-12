@@ -7,7 +7,7 @@ layout: revision
 guid: http://www.wp.chavalina.net/2004/12/12/289-revision/
 permalink: /2004/12/12/289-revision/
 ---
-<img class="imgizqda" src="http://www.chavalina.net/imagenes/fotos/men/beckhamnails.jpg" alt="David Beckham: metrosexual por excelencia" /> Esta noche estrenan en Antena 3 un nuevo programa, <a href="http://www.antena3.com/a3tv2004/servlet/GestorWeb?opera=getFicha&#038;idPag=358&#038;dest=/web/html/ficha/index.jsp" target="_blank">el Equipo <acronym title="¿gilipollas?">G</acronym></a>.
+<img class="imgizqda" src="http://www.chavalina.net/imagenes/fotos/men/beckhamnails.jpg" alt="David Beckham: metrosexual por excelencia" /> Esta noche estrenan en Antena 3 un nuevo programa, <a href="http://www.antena3.com/a3tv2004/servlet/GestorWeb?opera=getFicha&idPag=358&dest=/web/html/ficha/index.jsp" target="_blank">el Equipo <acronym title="¿gilipollas?">G</acronym></a>.
 
 Desde que vi el anuncio por primera vez me lo temí.  
   

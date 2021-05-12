@@ -7,4 +7,4 @@ layout: revision
 guid: http://www.wp.chavalina.net/2005/03/04/359-revision/
 permalink: /2005/03/04/359-revision/
 ---
- <a href="http://www.google.es/search?hl=es&#038;q=juan+pablo+montoya&#038;btnG=B%C3%BAsqueda&#038;meta=" target="_blank"><img src="/imagenes/emoticonos/sonrisa.gif" alt="emo" /> </a>
+ <a href="http://www.google.es/search?hl=es&q=juan+pablo+montoya&btnG=B%C3%BAsqueda&meta=" target="_blank"><img src="/imagenes/emoticonos/sonrisa.gif" alt="emo" /> </a>

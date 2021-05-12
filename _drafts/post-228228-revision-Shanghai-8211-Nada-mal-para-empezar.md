@@ -1,6 +1,6 @@
 ---
 id: 1036
-title: 'Shanghai &#8211; Nada mal para empezar'
+title: 'Shanghai – Nada mal para empezar'
 date: 2004-09-26T07:49:48+02:00
 author: Chavalina
 layout: revision

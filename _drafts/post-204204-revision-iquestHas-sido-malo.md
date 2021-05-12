@@ -11,11 +11,11 @@ En el foro de Gsmspain he encontrado un link a un test bastante curioso, <a href
 
 Me ha sorprendido mi resultado, soy más mala de lo que creía:
 
-> Sixth Level of Hell &#8211; The City of Dis
+> Sixth Level of Hell – The City of Dis
 > 
 > You approach Satan&prime;s wretched city where you behold a wide plain surrounded by iron walls. Before you are fields full of distress and torment terrible. Burning tombs are littered about the landscape. Inside these flaming sepulchers suffer the heretics, failing to believe in God and the afterlife, who make themselves audible by doleful sighs. You will join the wicked that lie here, and will be offered no respite. The three infernal Furies stained with blood, with limbs of women and hair of serpents, dwell in this circle of Hell.
 
-**The Dante&prime;s Inferno Test has banished you to _the Sixth Level of Hell &#8211; The City of Dis!_**  
+**The Dante&prime;s Inferno Test has banished you to _the Sixth Level of Hell – The City of Dis!_**  
 Here is how you matched up against all the levels:
 
 <table align="center" cellspacing="1" style="margin: 15px; background-color: #000000; border: none; font: 7pt  verdana, &prime;sans serif&prime;;">
@@ -41,7 +41,7 @@ Here is how you matched up against all the levels:
   
   <tr style="background-color: #110022; color: #eeeeee;">
     <td style="padding: 4px;">
-      <b><a href="http://www.4degreez.com/misc/dante-inferno-information.html#1" style="color: #ff3344; text-decoration: underline;">Level 1 &#8211; Limbo</a></b> (Virtuous Non-Believers)
+      <b><a href="http://www.4degreez.com/misc/dante-inferno-information.html#1" style="color: #ff3344; text-decoration: underline;">Level 1 – Limbo</a></b> (Virtuous Non-Believers)
     </td>
     
     <td style="color: #4466dd; background-color: #333333; padding: 4px;">
@@ -91,7 +91,7 @@ Here is how you matched up against all the levels:
   
   <tr style="background-color: #660011; color: #eeeeee;">
     <td style="padding: 4px;">
-      <b><a href="http://www.4degreez.com/misc/dante-inferno-information.html#6" style="color: #ff3344; text-decoration: underline;">Level 6 &#8211; The City of Dis</a></b> (Heretics)
+      <b><a href="http://www.4degreez.com/misc/dante-inferno-information.html#6" style="color: #ff3344; text-decoration: underline;">Level 6 – The City of Dis</a></b> (Heretics)
     </td>
     
     <td style="color: #c40033; background-color: #333333; padding: 4px;">
@@ -121,7 +121,7 @@ Here is how you matched up against all the levels:
   
   <tr style="background-color: #990011; color: #eeeeee;">
     <td style="padding: 4px;">
-      <b><a href="http://www.4degreez.com/misc/dante-inferno-information.html#9" style="color: #ff3344; text-decoration: underline;">Level 9 &#8211; Cocytus</a></b> (Treacherous)
+      <b><a href="http://www.4degreez.com/misc/dante-inferno-information.html#9" style="color: #ff3344; text-decoration: underline;">Level 9 – Cocytus</a></b> (Treacherous)
     </td>
     
     <td style="color: #aa33aa; background-color: #333333; padding: 4px;">

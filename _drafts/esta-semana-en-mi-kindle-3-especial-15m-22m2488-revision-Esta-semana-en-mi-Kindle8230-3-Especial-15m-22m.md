@@ -17,7 +17,7 @@ permalink: /2011/05/20/2488-revision/
 
 Esta semana ha habido mucho movimiento en Twitter con el tema de la manifestación del 15 de mayo, convocada por <a href="http://democraciarealya.es/" target="_blank">Democracia Real Ya</a>, que finalmente ha resultado en la <a href="http://twitter.com/#!/search?q=%23acampadasol" target="_blank">#acampadasol</a>, <a href="http://twitter.com/#!/search?q=%23acampadamurcia" target="_blank">#acampadamurcia</a> y <a href="http://www.thetechnoant.info/campmap/" target="_blank">más de 400 por todo el mundo</a>, con apoyos frente a las embajadas de algunas de las principales capitales del mundo.
 
-Para algunos de mis amigos del Mundo Real &#8482; que me podéis leer, os recomiendo informaros en Twitter u otros medios directos, además de en los _medios tradicionales_, para que tengáis las dos versiones y podáis informaros bien de todo antes de ir a votar mañana.
+Para algunos de mis amigos del Mundo Real ™ que me podéis leer, os recomiendo informaros en Twitter u otros medios directos, además de en los _medios tradicionales_, para que tengáis las dos versiones y podáis informaros bien de todo antes de ir a votar mañana.
 
 Por mi parte, os dejo algunos artículos interesantes que he ido leyendo esta semana sobre el tema, y también alguna imagen _de impacto_:
 

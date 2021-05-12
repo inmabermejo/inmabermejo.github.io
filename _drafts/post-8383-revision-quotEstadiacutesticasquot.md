@@ -9,7 +9,7 @@ permalink: /2004/04/13/83-revision/
 ---
 La única utilidad que encuentro a las estadísticas hasta ahora es la curiosidad de saber de dónde es la gente que me visita. Hasta ahora lo que más me ha sorprendido han sido las visitas desde Bahrain (donde se celebró el último GP de Formula 1), supongo que llevado por alguna búsqueda que, por desgracia, no quedó reflejada.
 
-Y ahora encuentro que la mayoría de mis visitantes procedentes de buscadores llegan a través de "retrato", "Dorian", "Gray", "Dragostea din tei", "eco", "rosa". Pero la que más me ha gustado ha sido <a href="http://mx.search.yahoo.com/search/mx?va=robert+downey+jr+fotografias&#038;ei=UTF-8&#038;n=10&#038;fl=1&#038;vl=lang_es&#038;xargs=0&#038;fr=fp-tab-web-t&#038;b=1" target="_blank">"robert downey jr fotografías"</a> 
+Y ahora encuentro que la mayoría de mis visitantes procedentes de buscadores llegan a través de "retrato", "Dorian", "Gray", "Dragostea din tei", "eco", "rosa". Pero la que más me ha gustado ha sido <a href="http://mx.search.yahoo.com/search/mx?va=robert+downey+jr+fotografias&ei=UTF-8&n=10&fl=1&vl=lang_es&xargs=0&fr=fp-tab-web-t&b=1" target="_blank">"robert downey jr fotografías"</a> 
 
 Y para no defraudar… ahí van mis favoritas.
 

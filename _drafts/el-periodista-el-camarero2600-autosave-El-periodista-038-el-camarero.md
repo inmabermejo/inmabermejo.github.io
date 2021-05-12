@@ -1,6 +1,6 @@
 ---
 id: 2603
-title: 'El periodista &#038; el camarero'
+title: 'El periodista & el camarero'
 date: 2011-12-27T22:45:35+02:00
 author: Chavalina
 layout: revision

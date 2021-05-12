@@ -7,7 +7,7 @@ layout: revision
 guid: http://www.wp.chavalina.net/2006/01/30/618-revision/
 permalink: /2006/01/30/618-revision/
 ---
-Llevaba un tiempo queriendo escribir sobre mi cambio de hosting. No tenía tiempo, pero <a href="http://www.media-vida.net/vertema.php?fid=9&#038;tid=197818" target="_blank">quiero aclararlo</a> por si a alguien le sirve. Quizá algunos se dieron cuenta, porque estuvo un tiempo esto inaccesible, aunque no mucho, pequeños problemas durante el día de la transferencia del dominio, y poco más.
+Llevaba un tiempo queriendo escribir sobre mi cambio de hosting. No tenía tiempo, pero <a href="http://www.media-vida.net/vertema.php?fid=9&tid=197818" target="_blank">quiero aclararlo</a> por si a alguien le sirve. Quizá algunos se dieron cuenta, porque estuvo un tiempo esto inaccesible, aunque no mucho, pequeños problemas durante el día de la transferencia del dominio, y poco más.
 
 Tengo 4 dominios a mi cargo, en 3 registradores diferentes, y Aruba prácticamente no me daba opciones para gestionarlos. Después de pensar en frames (no!), htaccess… llegó <a href="http://mundogeek.net/" target="_blank">Zootropo</a> hablando de <a href="http://www.dreamhost.com/r.cgi?chavalina" target="_blank">Dreamhost</a>. 20GB de espacio, 1000GB de transferencia mensual y un dominio, MySQL sin límite, subdominios, 3000 cuentas de correo… $8.95 al mes.
 

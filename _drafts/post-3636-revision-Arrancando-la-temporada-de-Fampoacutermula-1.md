@@ -23,6 +23,6 @@ permalink: /2004/02/26/36-revision/
   En cualquier caso, Michael Schumacher volvió a batir el record del circuito de Imola justo antes de empaquetar para Melbourne, ¿una forma de dejar claro que este año también va a por todas? Ahí estaremos para verlo, aunque eso será si Alonso le deja jejeje <img src="/imagenes/emoticonos/risa.gif" alt="emo" />
 </p>
 
-  * <a href="http://www.f1.com" target="_blank">F1.com &#8211; página oficial</a>
-  * <a href="http://f1.racing-live.com/es/index.html" target="_blank">F1live.com &#8211; en español</a>
-  * <a href="http://www.informativos.telecinco.es/dn_4600.htm" target="_blank">TeleCinco &#8211; poseedor de los derechos de retransmisión para el campeonato de 2004</a>
+  * <a href="http://www.f1.com" target="_blank">F1.com – página oficial</a>
+  * <a href="http://f1.racing-live.com/es/index.html" target="_blank">F1live.com – en español</a>
+  * <a href="http://www.informativos.telecinco.es/dn_4600.htm" target="_blank">TeleCinco – poseedor de los derechos de retransmisión para el campeonato de 2004</a>

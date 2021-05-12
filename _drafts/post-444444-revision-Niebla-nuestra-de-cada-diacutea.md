@@ -13,4 +13,4 @@ permalink: /2005/05/15/444-revision/
   </p>
 </blockquote>
 
-<span class="cita">Miguel de Unamuno &#8211; Niebla</span>
+<span class="cita">Miguel de Unamuno – Niebla</span>

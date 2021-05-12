@@ -13,7 +13,7 @@ Lo importante es que lo importante siga como el año anterior, o mejor. Salud, t
 
 &nbsp;
 
-Y por último, un par de recomendaciones, el <a href="http://www.rtve.es/alacarta/videos/especiales-nochevieja-con-jose-mota/especial-nochevieja-jose-mota-seven-siete-pecados-capitales-provincia/1285081/" target="_blank">especial de Nochevieja de José Mota de este año</a>, y una recomendación musical: Mika &#8211; Any other world.
+Y por último, un par de recomendaciones, el <a href="http://www.rtve.es/alacarta/videos/especiales-nochevieja-con-jose-mota/especial-nochevieja-jose-mota-seven-siete-pecados-capitales-provincia/1285081/" target="_blank">especial de Nochevieja de José Mota de este año</a>, y una recomendación musical: Mika – Any other world.
 
 <noframes>
   In any other world<br /> You could tell the difference<br /> And let it all unfurl<br /> Into broken ruminants</p> 
@@ -23,7 +23,7 @@ Y por último, un par de recomendaciones, el <a href="http://www.rtve.es/alacart
   </p>
   
   <p>
-    Cos it&#8217;s all in the hands of a bitter, bitter man<br /> Say goodbye to the world you thought you lived in<br /> Take a bow, play the part of a lonely lonely heart<br /> Say goodbye to the world you thought you lived in<br /> To the world you thought you lived in
+    Cos it’s all in the hands of a bitter, bitter man<br /> Say goodbye to the world you thought you lived in<br /> Take a bow, play the part of a lonely lonely heart<br /> Say goodbye to the world you thought you lived in<br /> To the world you thought you lived in
   </p>
   
   <p>
@@ -35,11 +35,11 @@ Y por último, un par de recomendaciones, el <a href="http://www.rtve.es/alacart
   </p>
   
   <p>
-    Cos it&#8217;s all in the hands of a bitter, bitter man<br /> Say goodbye to the world you thought you lived in<br /> Take a bow, play the part of a lonely lonely heart<br /> Say goodbye to the world you thought you lived in<br /> To the world you thought you lived in
+    Cos it’s all in the hands of a bitter, bitter man<br /> Say goodbye to the world you thought you lived in<br /> Take a bow, play the part of a lonely lonely heart<br /> Say goodbye to the world you thought you lived in<br /> To the world you thought you lived in
   </p>
   
   <p>
-    Cos it&#8217;s all in the hands of a bitter, bitter man<br /> Say goodbye to the world you thought you lived in<br /> Take a bow, play the part of a lonely lonely heart<br /> Say goodbye to the world you thought you lived in<br /> To the world you thought you lived in
+    Cos it’s all in the hands of a bitter, bitter man<br /> Say goodbye to the world you thought you lived in<br /> Take a bow, play the part of a lonely lonely heart<br /> Say goodbye to the world you thought you lived in<br /> To the world you thought you lived in
   </p>
   
   <p>

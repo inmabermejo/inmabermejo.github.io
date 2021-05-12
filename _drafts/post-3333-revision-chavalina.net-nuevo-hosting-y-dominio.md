@@ -22,4 +22,4 @@ me dió muy buen resultado. Así que dos objetivos para este
 
 Y pondré las fotos de Alemania para todos jeje![sonrisa](/imagenes/emoticonos/gafas.gif) 
 
-  * [Aruba.it &#8211; mi proveedor de hosting](http://aruba.it)
+  * [Aruba.it – mi proveedor de hosting](http://aruba.it)

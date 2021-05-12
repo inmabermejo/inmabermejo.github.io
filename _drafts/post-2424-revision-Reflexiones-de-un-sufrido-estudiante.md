@@ -14,9 +14,9 @@ Uno de los momentos más duros para los estudiantes es aquel en el que
 tenemos que sentarnos ante los apuntes. Llegados a esta díficil situación  
 nos planteamos dos opciones: 
 
-  * Opción a &#8211; A echarle huevos! Hoy voy a estudiar como un cabrón! (Buen  
+  * Opción a – A echarle huevos! Hoy voy a estudiar como un cabrón! (Buen  
     comienzo, lástima que hacerlo no sea tan fácil ponerse como decirlo) 
-  * Opción b &#8211; Uhmmm… si total para lo que queda de tarde entre que  
+  * Opción b – Uhmmm… si total para lo que queda de tarde entre que  
     me pongo y tal no hago nada. ¡Lo dicho! Hoy ya no hago nada, pero mañana  
     me pongo a saco. ¡Fijo! (Opción bastante frecuente)
 
@@ -41,8 +41,8 @@ Cuando tras media hora resolviendo un problema, compruebas que tu solución
 está lejos de coincidir con la de los apuntes, la desesperación es la  
 consecuencia más frecuente. Puede deberse a dos factores:
 
-  * a &#8211; Te has equivocado (muy probable). A repetir el problema. 
-  * b &#8211; El que se ha equivocado es el profesor (suele pasar también).  
+  * a – Te has equivocado (muy probable). A repetir el problema. 
+  * b – El que se ha equivocado es el profesor (suele pasar también).  
     Procedimiento a seguir: Te cagas en su puta madre. La desesperación  
     persiste, pues nunca sabes si se ha equivocado realmente, y si es así,  
     si tu solución es la correcta.

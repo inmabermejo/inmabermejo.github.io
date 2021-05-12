@@ -1,6 +1,6 @@
 ---
 id: 1108
-title: 'Sicarm &#8211; Nocarm'
+title: 'Sicarm – Nocarm'
 date: 2006-05-23T02:14:19+02:00
 author: Chavalina
 layout: revision

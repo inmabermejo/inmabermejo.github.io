@@ -25,4 +25,4 @@ Según he leído, con un ataque de denegación de servicio (DoS, que simplemente
 >   <a href="http://www.auscert.org.au/render.html?it=4091" target="_blank">Comunicado oficial</a>
 > </p>
 
-Pero parece ser que no es tan grave como parece, y esto no será el fin del protocolo Wi-fi. Al menos eso dicen mis compañeros de foro, podéis verlo <a href="http://www.gsmspain.com/foros/showthread.php?s=&#038;threadid=208000" target="_blank">aquí</a>. Yo, como es el primer año que estudio redes, no me pronuncio.
+Pero parece ser que no es tan grave como parece, y esto no será el fin del protocolo Wi-fi. Al menos eso dicen mis compañeros de foro, podéis verlo <a href="http://www.gsmspain.com/foros/showthread.php?s=&threadid=208000" target="_blank">aquí</a>. Yo, como es el primer año que estudio redes, no me pronuncio.

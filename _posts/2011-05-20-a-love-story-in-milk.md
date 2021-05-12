@@ -16,4 +16,4 @@ tags:
 ---
 <iframe src="http://player.vimeo.com/video/23627164" width="600" height="338" frameborder="0"></iframe>
 
-Me lo pasó mi amiga Patri, del Mundo Real &#8482; 🙂
+Me lo pasó mi amiga Patri, del Mundo Real ™ 🙂

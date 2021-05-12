@@ -17,7 +17,7 @@ Semana corta y con viaje relámpago, que casi me acabó de rematar… pero sigo 
 
 Tras semanas de largas jornadas de trabajo extra, estrés, y un ritmo agotador, aunque apeteciera desconexión total en el puente, solamente en compañía del sofá, tocaba salir rumbo al concierto de **Elton John**, y a la tierra de mi amigo Nacho a darlo todo.
 
-Y vaya que si lo dimos, magnífico concierto, aunque _demasiado rockero_ para algunos &#8211;_ejem_, ¿puede ser algo demasiado rockero?-, volvería a ir mañana mismo. 
+Y vaya que si lo dimos, magnífico concierto, aunque _demasiado rockero_ para algunos –_ejem_, ¿puede ser algo demasiado rockero?-, volvería a ir mañana mismo. 
 
 Ya tocaba desde la última -y única- vez en 2001, cuando tres monigotes preuniversitarios nos aventuramos solos a Benidorm y llegamos con el espectáculo ya empezado para ver que ni así bajaba la media de edad a unos 45 años.
 

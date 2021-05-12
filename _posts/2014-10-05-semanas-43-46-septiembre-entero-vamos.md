@@ -1,6 +1,6 @@
 ---
 id: 3212
-title: 'Semanas #43 &#8211; #46. Septiembre entero, vamos'
+title: 'Semanas #43 – #46. Septiembre entero, vamos'
 date: 2014-10-05T17:15:39+02:00
 author: Chavalina
 layout: post

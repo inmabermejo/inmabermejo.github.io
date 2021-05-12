@@ -38,6 +38,6 @@ permalink: /2008/12/24/10-revision-2/
   * <a href="http://www.php.net/" target="_blank">PHP.NET</a>
   * <a href="http://www.mysql.com/" target="_blank">mySQL.com</a>
   * [apache.org](http://www.apache.org/)
-  * <a href="http://www.programacion.com/php/tutorial/php/" target="_blank">Tutorial<br /> de <acronym title="Hypertext PreProcessor">PHP</acronym> &#8211; MySQL de programacion.com</a>
+  * <a href="http://www.programacion.com/php/tutorial/php/" target="_blank">Tutorial<br /> de <acronym title="Hypertext PreProcessor">PHP</acronym> – MySQL de programacion.com</a>
   * <a href="http://www.rinconastur.com/php/" target="_blank">Memorias<br /> de un aprendiz de PHP</a>
   * <a href="ficheros/ficheros.php#php" target="_blank">Algún<br /> manual…</a>

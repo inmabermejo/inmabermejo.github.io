@@ -1,6 +1,6 @@
 ---
 id: 1454
-title: 'Iconos gratuitos para tus aplicaciones web &#8211; muy pero que muy monos'
+title: 'Iconos gratuitos para tus aplicaciones web – muy pero que muy monos'
 date: 2008-04-23T02:40:29+02:00
 author: Chavalina
 layout: revision

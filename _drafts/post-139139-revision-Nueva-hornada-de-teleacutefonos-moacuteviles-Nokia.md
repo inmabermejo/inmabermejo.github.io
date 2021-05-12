@@ -27,7 +27,7 @@ permalink: /2004/06/14/139-revision/
       </p>
       
       <p>
-        Pero como yo de estas cosas tan modernas sé más bien poco, os dejo <a href="http://www.gsmspain.com/foros/showthread.php?s=&#038;threadid=216020&#038;perpage=15&#038;pagenumber=1" target="blank_">este link </a> al foro de Gsmspain donde podréis ver las más diversas opiniones, y recalco diversas, sobre todo tratándose de Nokia.
+        Pero como yo de estas cosas tan modernas sé más bien poco, os dejo <a href="http://www.gsmspain.com/foros/showthread.php?s=&threadid=216020&perpage=15&pagenumber=1" target="blank_">este link </a> al foro de Gsmspain donde podréis ver las más diversas opiniones, y recalco diversas, sobre todo tratándose de Nokia.
       </p>
     </td>
   </tr>

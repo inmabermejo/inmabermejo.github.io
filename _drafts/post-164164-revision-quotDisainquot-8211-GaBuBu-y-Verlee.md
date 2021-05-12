@@ -1,6 +1,6 @@
 ---
 id: 1176
-title: '&quot;Disain&quot; &#8211; GaBuBu y Verlee'
+title: '&quot;Disain&quot; – GaBuBu y Verlee'
 date: 2004-07-16T00:26:11+02:00
 author: Chavalina
 layout: revision

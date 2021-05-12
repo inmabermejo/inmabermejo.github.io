@@ -34,22 +34,22 @@ Poco a poco conocí más bitacoreros, <a href="http://dmnet.bitacoras.com/index.
 
 Con todo lo que he aprendido he descubierto mi gran interés por este mundo, es algo de lo que no me canso, quizá porque es un trabajo bastante creativo, y me gustaría encauzar mi futuro por aquí (ya os contaré). 
 
-Y también gracias a este blog <a href="http://www.chavalina.net/comentar.php?idpost=108&#038;q=" target="_blank">conseguí un trabajo</a> que todavía tengo (aunque no sé por cuánto tiempo) donde he seguido aprendiendo muchísimo, sobre todo sobre <a href="http://usalo.blogspot.com/" target="_blank">usabilidad</a> y he conocido a mis <a href="http://www.chavalina.net/comentar.php?idpost=238&#038;q=" target="_blank">amables</a> compañeros.
+Y también gracias a este blog <a href="http://www.chavalina.net/comentar.php?idpost=108&q=" target="_blank">conseguí un trabajo</a> que todavía tengo (aunque no sé por cuánto tiempo) donde he seguido aprendiendo muchísimo, sobre todo sobre <a href="http://usalo.blogspot.com/" target="_blank">usabilidad</a> y he conocido a mis <a href="http://www.chavalina.net/comentar.php?idpost=238&q=" target="_blank">amables</a> compañeros.
 
 Vaya, que el balance (tiempo empleado)/(beneficios obtenidos) es muy positivo.
 
 En cuanto a lo que es el blog, ha crecido bastante en poco tiempo, 268 anotaciones, 2216 comentarios.
 
 Esa es una de las cosas que más me gustan de mi bitácora.  
-Ahora que <a href="http://www.bloglines.com/public/chavalina" target="_blank">leo más</a> (antes <a href="http://dmnet.bitacoras.com/index.php?id=2734" target="_blank">casi no leía nada</a> aunque era más divertido recorrer los links sin rumbo) me he dado cuenta de que para <a href="http://www.nedstatbasic.net/s?tab=1&#038;link=1&#038;id=2840122" target="_blank">las visitas</a> que tiene esta página, hay un índice de comentarios muy alto.  
+Ahora que <a href="http://www.bloglines.com/public/chavalina" target="_blank">leo más</a> (antes <a href="http://dmnet.bitacoras.com/index.php?id=2734" target="_blank">casi no leía nada</a> aunque era más divertido recorrer los links sin rumbo) me he dado cuenta de que para <a href="http://www.nedstatbasic.net/s?tab=1&link=1&id=2840122" target="_blank">las visitas</a> que tiene esta página, hay un índice de comentarios muy alto.  
 Muchas gracias a todos los que alguna vez han dejado un comentario, o me han escrito un mail o me han dejado una anotación en el libro de visitas.  
 Es lo que lo hace divertido![emo](/imagenes/emoticonos/guino.gif) 
 
-Gracias también a los que <a href="http://www.google.es/search?as_lq=www.chavalina.net&#038;btnG=Buscar" target="_blank">me enlazan</a> por su confianza, y a todos los que alguna vez me han ayudado con cosas como <acronym title="Cascade Style Sheets">CSS</acronym> , <acronym title="eXtensible Markup Language">XML</acronym> , las famosas capas (que ciega había estado), las bases de datos… bueno, no digo nombres que luego se me olvida alguien y… 
+Gracias también a los que <a href="http://www.google.es/search?as_lq=www.chavalina.net&btnG=Buscar" target="_blank">me enlazan</a> por su confianza, y a todos los que alguna vez me han ayudado con cosas como <acronym title="Cascade Style Sheets">CSS</acronym> , <acronym title="eXtensible Markup Language">XML</acronym> , las famosas capas (que ciega había estado), las bases de datos… bueno, no digo nombres que luego se me olvida alguien y… 
 
 Desde luego, con lo que yo odio los discursitos me ha quedado un rollo bastante típico![asqueado](/imagenes/emoticonos/asqueado.gif)  
 Agg, yo qué sé, pensaba poner sólo esas imágenes, pero algo tenía que decir y me he enrollado más de la cuenta.  
 Bueno, como comentaba hace un tiempo con barbudo que susurraba, el blog es mío y me lo… me callo! jeje![emo](/imagenes/emoticonos/sonrisa.gif) 
 
-Por cierto, para los que me siguen preguntando por <a href="http://www.chavalina.net/comentar.php?idpost=247&#038;q=" target="_blank">esto</a>, en serio que no es nada! no lo voy a contar todo, ¿no?  
+Por cierto, para los que me siguen preguntando por <a href="http://www.chavalina.net/comentar.php?idpost=247&q=" target="_blank">esto</a>, en serio que no es nada! no lo voy a contar todo, ¿no?  
 ![emo](/imagenes/emoticonos/guino.gif)

@@ -26,7 +26,7 @@ Sigo haciendo planos tras dos semanas, y parece que se va yendo el frío. Me gus
   </div>
 </blockquote>
 
-En **Weblogs SL** retomamos el **módulo H**. Había estado parado esperando a pasar el lío de principio de año para poder recabar _feedback_ de los managers. Y volvimos sobre ello con una ronda de presentaciones &#8211; recogida de feedback con todos los departamentos implicados. 
+En **Weblogs SL** retomamos el **módulo H**. Había estado parado esperando a pasar el lío de principio de año para poder recabar _feedback_ de los managers. Y volvimos sobre ello con una ronda de presentaciones – recogida de feedback con todos los departamentos implicados. 
 
 Mi jefe revisó mis presentaciones antes de hacerlas y me dio algunos consejos que luego ayudaron, como **enseñar también los fracasos**, es decir, las propuestas descartadas y razonar por qué, claro (no sea que luego quieran una de ellas!), hacerlo entender en lugar de convencer. 
 

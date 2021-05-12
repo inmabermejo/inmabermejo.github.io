@@ -54,7 +54,7 @@ Y me han regalado/prestado/he robado (jiji):
     > ¿Cómo pudo salvar su vida y la de su hermano? >> 
     > 
     > El viejo jefe de bomberos, hombre sabio y respetado les dio la respuesta:  
-    > &#8211;_Panchito estaba solo … No tenía a nadie que le dijera que no iba a poder_. 
+    > –_Panchito estaba solo … No tenía a nadie que le dijera que no iba a poder_. 
 
   * **Factotum**: Más Bukowski. Ya se hace un poco repetitivo. He encontrado fragmentos iguales en los tres libros suyos que aquí he nombrado. Yo entiendo que no tuviera ganas de trabajar, peroooo… ahora temo comprarme alguno más suyo por si sigue repitiéndose. 
   * **Todas las almas**: Javier Marías. Me gusta la historia y me gusta como está escrito, pero se me ha hecho un poco espeso, quizá porque tampoco le presté la atención que debía, lo leí hace poco cuando estaba de trabajo hasta arriba. 

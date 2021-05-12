@@ -45,7 +45,7 @@ Así que en esas estoy, intentando reunir fuentes de inspiración para ir mirand
 
 Aparte, continúo leyendo [Now You See It](http://www.amazon.es/gp/product/0970601980/ref=as_li_ss_tl?ie=UTF8&camp=3626&creative=24822&creativeASIN=0970601980&linkCode=as2&tag=chavadiari-21), que está siendo **muy didáctico**, y en el tema de _filosofía del diseño_, si se puede llamar así, sigo con [Design for the real world](http://www.amazon.es/gp/product/0500273588/ref=as_li_ss_tl?ie=UTF8&camp=3626&creative=24822&creativeASIN=0500273588&linkCode=as2&tag=chavadiari-21) de **Victor Papanek**. Por ahora creo que es el diseñador con cuya visión más llego a congeniar. 
 
-> In persuading people to buy things they don&#8217;t need, with money they don&#8217;t have, in order to impress others who don&#8217;t care, commercial design is probably one of the phoniest fields in existence today.
+> In persuading people to buy things they don’t need, with money they don’t have, in order to impress others who don’t care, commercial design is probably one of the phoniest fields in existence today.
 
 ¿Suena la frase? Recomiendo este [breve artículo sobre Papanek](http://novosedlik.com/2013/05/01/praise-papanek/), y, por supuesto el libro. 
 

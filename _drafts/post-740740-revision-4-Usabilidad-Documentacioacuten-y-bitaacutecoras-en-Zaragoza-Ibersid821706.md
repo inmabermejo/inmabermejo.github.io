@@ -1,6 +1,6 @@
 ---
 id: 2727
-title: 'Usabilidad, Documentación y bitácoras en Zaragoza (Ibersid&#8217;06)'
+title: 'Usabilidad, Documentación y bitácoras en Zaragoza (Ibersid’06)'
 date: 2012-12-26T15:16:05+02:00
 author: Chavalina
 layout: revision
@@ -9,7 +9,7 @@ permalink: /2012/12/26/740-revision-4/
 ---
 Cito a <a href="http://usalo.es/165/usabilidad-documentacion-y-bitacoras-en-zaragoza-ibersid06/" target="_blank">Juan Carlos</a>
 
-> Durante la primera semana de octubre tendrán lugar las jornadas [Ibersid&#8217;06](http://ibersid.net/) en Zaragoza, que ya van por la undécima edición: _XI Encuentros Internacionales sobre Sistemas de Información y Documentación_.
+> Durante la primera semana de octubre tendrán lugar las jornadas [Ibersid’06](http://ibersid.net/) en Zaragoza, que ya van por la undécima edición: _XI Encuentros Internacionales sobre Sistemas de Información y Documentación_.
 > 
 > Se trata de unas jornadas centradas en la Documentación pero que este año lleva un alto componente de Usabilidad y hasta un curso de bitácoras: [Blogs: diseño, mantenimiento y aplicación a las unidades y servicios de información](http://cicic.unizar.es/ibersid2006/Resumenes/Blogs.htm). El curso está dirigido por el Dr. Javier Mártinez (de [Recuperación de Información en la Web](http://irsweb.blogspot.com/)) y será impartido por dos pesos pesados del mundo blog: Adriano Morán (de [Jabalí Digital](http://www.diariodeunjabali.com/) e [Informativos Telecinco](http://www.informativos.telecinco.es/) además de tener el premio al mejor blog periodístico del 2005) e Inma Bermejo (de [Chavalina.net](http://www.chavalina.net/)).
 > 

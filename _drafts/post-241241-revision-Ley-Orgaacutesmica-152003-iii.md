@@ -7,7 +7,7 @@ layout: revision
 guid: http://www.wp.chavalina.net/2004/10/16/241-revision/
 permalink: /2004/10/16/241-revision/
 ---
-<a href="http://www.internautas.org/article.php?sid=1973&#038;mode=thread&#038;order=0" target="_blank">Algunas</a> <a href="http://www.acam.es/noticias_detalle.php?id=259" target="_blank">opiniones</a> sobre esto del P2P.  
+<a href="http://www.internautas.org/article.php?sid=1973&mode=thread&order=0" target="_blank">Algunas</a> <a href="http://www.acam.es/noticias_detalle.php?id=259" target="_blank">opiniones</a> sobre esto del P2P.  
 Por suerte, hoy 16 de octubre, la gente sigue compartiendo.
 
 <p align="center">

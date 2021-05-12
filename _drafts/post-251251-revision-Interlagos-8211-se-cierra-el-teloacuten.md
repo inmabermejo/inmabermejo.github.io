@@ -1,6 +1,6 @@
 ---
 id: 1034
-title: 'Interlagos &#8211; se cierra el telón'
+title: 'Interlagos – se cierra el telón'
 date: 2004-10-29T10:42:17+02:00
 author: Chavalina
 layout: revision
@@ -9,11 +9,11 @@ permalink: /2004/10/29/251-revision/
 ---
 <img class="imgizqda" src="http://www.chavalina.net/imagenes/fotos/interlagos.jpg" alt="Montoya bañado en champán" /> …y con una ovación para todos esta vez.  
 ¡Si es que hasta se me ha caído una lagrimilla y todo durante la ceremonia del champán!  
-Estoy casi por decir que la del domingo ha sido la mejor carrera del mundial, aunque <a href="http://www.chavalina.net/comentar.php?idpost=203&#038;q=" target="_blank">en Spa</a> también estuvieron increíbles.
+Estoy casi por decir que la del domingo ha sido la mejor carrera del mundial, aunque <a href="http://www.chavalina.net/comentar.php?idpost=203&q=" target="_blank">en Spa</a> también estuvieron increíbles.
 
 Una carrera tan interesante que sólo fue posible gracias a que Michael Schumacher sufrió un accidente durante la clasificación y tuvo que salir desde el puesto 18, acabando al final 7&ordm;. Me gustaría haber visto los comentarios del señor Lobato si hubiera sido Alonso el que se hubiera visto en esta situación, pero como es M. Schumacher… «Alonsitis».
 
-Al final, menos de un segundo de diferencia entre <a href="http://www.chavalina.net/comentar.php?idpost=206&#038;q=" target="_blank">mi querido Montoya</a> y Kimi Raikkonen hasta la última vuelta. Una maravilla. Al final ganó el colombiano, supo mantenerse y ahora puede mirar con desdén a su ya ex-equipo Williams BMW, donde últimamente parece que no sabían apreciarlo (y por supuesto, no supieron domarlo).
+Al final, menos de un segundo de diferencia entre <a href="http://www.chavalina.net/comentar.php?idpost=206&q=" target="_blank">mi querido Montoya</a> y Kimi Raikkonen hasta la última vuelta. Una maravilla. Al final ganó el colombiano, supo mantenerse y ahora puede mirar con desdén a su ya ex-equipo Williams BMW, donde últimamente parece que no sabían apreciarlo (y por supuesto, no supieron domarlo).
 
 Y el año que viene McLaren va a dar miedo…
 

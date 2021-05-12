@@ -15,7 +15,7 @@ Experiencias de un usuario durante un proceso de alta <a rel="nofollow" href="ht
 
 <blockquote class="wp-embedded-content" data-secret="Ed6NmSX7SG">
   <p>
-    <a href="https://unmatchedstyle.com/news/sign-up-form-design-best-practices-design-review.php">Sign Up form design &#8211; best practices & design review</a>
+    <a href="https://unmatchedstyle.com/news/sign-up-form-design-best-practices-design-review.php">Sign Up form design – best practices & design review</a>
   </p>
 </blockquote>
 

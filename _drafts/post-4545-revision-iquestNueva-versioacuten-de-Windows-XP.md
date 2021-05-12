@@ -32,4 +32,4 @@ Si ahora migran a XP, ¿alguno se actualizará al nuevo XP Reloaded? ¿Seremos l
 
 No tengo mucha información, pero ahí os dejo un link a un foro por si alguien quiere informarse, pero para bajarlo creo que tendréis que tirar de emule![guino](/imagenes/emoticonos/guino.gif) 
 
-  * <a href="http://www.infochaos.com/foro/index.php?showforum=20" target="_blank">Foro sobre Windows LongHorn &#8211; InfoChaos Foros</a>
+  * <a href="http://www.infochaos.com/foro/index.php?showforum=20" target="_blank">Foro sobre Windows LongHorn – InfoChaos Foros</a>

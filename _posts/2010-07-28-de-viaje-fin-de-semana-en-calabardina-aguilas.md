@@ -1,6 +1,6 @@
 ---
 id: 1974
-title: 'De viaje: fin de semana en Calabardina &#8211; Águilas'
+title: 'De viaje: fin de semana en Calabardina – Águilas'
 date: 2010-07-28T10:32:14+02:00
 author: Chavalina
 layout: post

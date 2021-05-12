@@ -1,6 +1,6 @@
 ---
 id: 1498
-title: 'Juan Piernas &#8211; DualFS'
+title: 'Juan Piernas – DualFS'
 date: 2004-05-24T15:42:56+02:00
 author: Chavalina
 layout: revision

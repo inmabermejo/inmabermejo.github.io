@@ -1,6 +1,6 @@
 ---
 id: 1344
-title: 'Encuesta &#8211; ¿qué pensaríais de mí si…'
+title: 'Encuesta – ¿qué pensaríais de mí si…'
 date: 2004-06-20T11:20:27+02:00
 author: Chavalina
 layout: revision

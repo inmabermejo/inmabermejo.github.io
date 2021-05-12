@@ -45,5 +45,5 @@ permalink: /2004/04/03/71-revision/
   </tr>
 </table>
 
-  * <a href="http://f1.primera-clase.com/" target="_blank">F1 Blog &#8211; weblog sobre Formula 1</a>
+  * <a href="http://f1.primera-clase.com/" target="_blank">F1 Blog – weblog sobre Formula 1</a>
   * <a href="http://www.coopsf1.com/picks/" target="_blank">Coops F1 2004</a>

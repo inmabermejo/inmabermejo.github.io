@@ -28,7 +28,7 @@ Montaña rusa de propuestas, avances, retrocesos y fracasos…
 
 
 
-Por un lado, me han hecho una propuesta muy interesante, una inversión que me apetece mucho. A falta de los detalles, _I&#8217;m in_, espero que todo salga bien y pueda contarlo pronto.
+Por un lado, me han hecho una propuesta muy interesante, una inversión que me apetece mucho. A falta de los detalles, _I’m in_, espero que todo salga bien y pueda contarlo pronto.
 
 Pero otro de mis proyectos, la nueva casa que planificaba con mi hermana, ha tenido un revés duro, y no sé si podremos seguir adelante… aunque lo intentaremos. En poco tiempo pueden torcerse las cosas, pero ¿por qué no volver a darles la vuelta?
 

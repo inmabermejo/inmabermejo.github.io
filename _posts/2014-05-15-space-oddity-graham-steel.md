@@ -1,6 +1,6 @@
 ---
 id: 3161
-title: 'Space Oddity &#8211; Graham Steel'
+title: 'Space Oddity – Graham Steel'
 date: 2014-05-15T17:35:06+02:00
 author: Chavalina
 layout: post

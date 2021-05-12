@@ -11,7 +11,7 @@ Os dejo algunos enlaces que he recopilado esta semana para leer traquilamente:
 
 Negocios:
 
-  * [Cómo aumentar tu red de contactos laborales y profesionales | Un Cafelito a las Once &#8211; 1C11](http://www.uncafelitoalasonce.com/como-aumentar-red-contactos-laborales-profesionales)
+  * [Cómo aumentar tu red de contactos laborales y profesionales | Un Cafelito a las Once – 1C11](http://www.uncafelitoalasonce.com/como-aumentar-red-contactos-laborales-profesionales)
   * [10 Things I Learned From Failure](http://www.inc.com/millennial-entrepreneurs/10-things-i-learned-from-failure.html)
 
 Productividad y vida freelance:
@@ -23,5 +23,5 @@ Usabilidad y desarrollo web:
 
   * [Errores en proyectos web](http://www.ricardotayar.com/2011/05/02/errores-proyectos-sitios-web/)
   * [A List Apart: Articles: Now You See Me](http://www.alistapart.com/articles/now-you-see-me/)
-  * [dnxgroup &#8211; RTVE &#8211; A la carta](http://dnxgroup.com/clientes/casos-estudio/caso_estudio_RTVE_alacarta.html)
+  * [dnxgroup – RTVE – A la carta](http://dnxgroup.com/clientes/casos-estudio/caso_estudio_RTVE_alacarta.html)
   * [6 Tips for Starting an Online Community | Social Media Examiner](http://www.socialmediaexaminer.com/6-tips-for-starting-an-online-community/)

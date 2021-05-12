@@ -1,6 +1,6 @@
 ---
 id: 1127
-title: 'SGAE 1 &#8211; Frikipedia 0'
+title: 'SGAE 1 – Frikipedia 0'
 date: 2007-11-09T10:43:06+02:00
 author: Chavalina
 layout: revision

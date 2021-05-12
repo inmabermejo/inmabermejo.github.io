@@ -1,6 +1,6 @@
 ---
 id: 2757
-title: 'Rico &#8211; Javascript para tus aplicaciones web'
+title: 'Rico – Javascript para tus aplicaciones web'
 date: 2008-12-24T16:41:48+02:00
 author: Chavalina
 layout: revision

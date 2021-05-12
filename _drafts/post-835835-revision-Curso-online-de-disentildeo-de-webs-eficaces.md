@@ -12,7 +12,7 @@ permalink: /2008/02/21/835-revision/
 Aunque ahora se le añade el término _introducción_, los contenidos van a ser los mismos que en años anteriores: 
 
   * XHTML y CSS: código y maquetación con estándares para gente que tenga ya algo de experiencia.
-  * Usabilidad y Accesibilidad: de la mano de Juan Carlos &#8211;[úsalo](http://www.usalo.es)&#8211; García Gómez
+  * Usabilidad y Accesibilidad: de la mano de Juan Carlos –[úsalo](http://www.usalo.es)– García Gómez
   * Arquitectura de la información: con el nuevo fichaje estelar, [Yusef Hassan Montero](http://www.nosolousabilidad.com/hassan/)
 
 Durará un mes aproximadamente, empezando el 31 de Marzo y se realiza **a distancia** a través de la plataforma SUMA de la Universidad de Murcia.

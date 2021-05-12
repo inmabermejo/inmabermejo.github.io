@@ -22,9 +22,9 @@ Hace unos días llegué gracias a [@antonello](https://twitter.com/antonello/sta
 
 Del artículo me gusta especialmente la comparación del correo electrónico con el correo tradicional (o _snail mail_, como lo llama), sobre todo dos reflexiones: 
 
-&#8211; Que **lleva mucho más trabajo escribir y enviar una carta analógica** que un email.
+– Que **lleva mucho más trabajo escribir y enviar una carta analógica** que un email.
 
-&#8211; Que en el correo tradicional está más clara la **jerarquía del mensaje** en el envoltorio. La diferencia entre una carta, una «carta de Hacienda», una postal, un _post-it_ o mensaje que dejas en una pizarra es relativamente clara. Dos emails es más difícil clasificarlos por jerarquía hasta que has leído un poco, porque no hay un sistema universal que los identifique, y la mayoría no sabemos «titular» bien los asuntos.
+– Que en el correo tradicional está más clara la **jerarquía del mensaje** en el envoltorio. La diferencia entre una carta, una «carta de Hacienda», una postal, un _post-it_ o mensaje que dejas en una pizarra es relativamente clara. Dos emails es más difícil clasificarlos por jerarquía hasta que has leído un poco, porque no hay un sistema universal que los identifique, y la mayoría no sabemos «titular» bien los asuntos.
 
 Es un tema muy recurrente estos días, y a mi personalmente la gestión del email me ha dado muchos problemas, sobre todo por **no darme cuenta de que tenía un problema** con él.
 

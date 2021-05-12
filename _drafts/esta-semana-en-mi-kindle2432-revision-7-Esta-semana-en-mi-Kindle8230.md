@@ -25,11 +25,11 @@ Diseño, UX y desarrollo web:
 
   * [The fall and rise of user experience : Cennydd Bowles on user experience](http://www.cennydd.co.uk/2011/fall-and-rise-of-ux/)
   * [Usabilidad. Qué debo tener en cuenta al escribir para web | ESTILO, Manual de estilo para los nuevos medios](http://www.manualdeestilo.com/escribir/usabilidad-que-debo-tener-en-cuenta-al-escribir-para-web/)
-  * [Clean Up Your Mess &#8211; A Guide to Visual Design for Everyone](http://www.visualmess.com/)
+  * [Clean Up Your Mess – A Guide to Visual Design for Everyone](http://www.visualmess.com/)
   * [A List Apart: Articles: Mapping Memory: Web Designer as Information Cartographer](http://www.nytimes.com/2011/04/17/magazine/mag-17sitting-t.html?_r=4)
 
 Y de interés ge
 
-  * [Is Sitting a Lethal Activity? &#8211; NYTimes.com](http://www.nytimes.com/2011/04/17/magazine/mag-17sitting-t.html?_r=4)
+  * [Is Sitting a Lethal Activity? – NYTimes.com](http://www.nytimes.com/2011/04/17/magazine/mag-17sitting-t.html?_r=4)
   * [La Isla de Wight será sostenible y autosuficiente para el año 2020 « El Blog de Juanjo Gabiña](http://juanjogabina.com/2011/05/01/la-isla-de-wight-sera-sostenible-y-autosuficiente-para-el-ano-2020/)
   * [Simple Living Manifesto: 72 Ideas to Simplify Your Life | zen habits](http://zenhabits.net/simple-living-manifesto-72-ideas-to-simplify-your-life/)

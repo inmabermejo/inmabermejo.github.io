@@ -1,6 +1,6 @@
 ---
 id: 2772
-title: 'GTK &#8211; programación visual en Linux con C'
+title: 'GTK – programación visual en Linux con C'
 date: 2008-12-24T16:49:53+02:00
 author: Chavalina
 layout: revision

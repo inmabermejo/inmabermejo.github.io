@@ -14,13 +14,13 @@ categories:
   - Cultura
   - Internet
 ---
-> We believe that content providers are a wee bit lost. They see us as their enemy. But we&#8217;re not! We love movies! And most of us understand that movies have a cost.
+> We believe that content providers are a wee bit lost. They see us as their enemy. But we’re not! We love movies! And most of us understand that movies have a cost.
 
 <p style="text-align: center;">
   <img class="size-large wp-image-2366  aligncenter" title="dontmakemesteal" src="http://www.chavalina.net/imagenes/2011/02/dontmakemesteal-500x244.png" alt="Portada de Don't Make Me Steal" width="500" height="244" srcset="http://www.chavalina.net/imagenes/2011/02/dontmakemesteal-500x244.png 500w, http://www.chavalina.net/imagenes/2011/02/dontmakemesteal-300x146.png 300w, http://www.chavalina.net/imagenes/2011/02/dontmakemesteal.png 1263w" sizes="(max-width: 500px) 100vw, 500px" />
 </p>
 
-A través del <a href="http://twitter.com/#!/alexsancho/status/33567871380488192" target="_blank">twitter de Álex Sancho</a> llego a esta iniciativa, <a href="﻿http://www.dontmakemesteal.com/" target="_blank">Don&#8217;t Make Me Steal</a>,  que, aunque no me gusta mucho su nombre, ya que <a href="http://www.youtube.com/watch?v=ef-OExpQEcU" target="_blank">copiar no es robar</a>, creo que tienen un manifiesto bastante interesante.
+A través del <a href="http://twitter.com/#!/alexsancho/status/33567871380488192" target="_blank">twitter de Álex Sancho</a> llego a esta iniciativa, <a href="﻿http://www.dontmakemesteal.com/" target="_blank">Don’t Make Me Steal</a>,  que, aunque no me gusta mucho su nombre, ya que <a href="http://www.youtube.com/watch?v=ef-OExpQEcU" target="_blank">copiar no es robar</a>, creo que tienen un manifiesto bastante interesante.
 
 > Creemos que los proveedores de contenidos están un poco perdidos. Nos ven como a sus enemigos. ¡Pero no lo somos! ¡Nos encantan las películas! Y la mayoría de nosotros entendemos que las películas tienen un coste.
 

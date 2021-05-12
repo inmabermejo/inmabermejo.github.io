@@ -1,6 +1,6 @@
 ---
 id: 2923
-title: '2010&#8217;s: The iPad is the new transistor radio'
+title: '2010’s: The iPad is the new transistor radio'
 date: 2013-02-09T09:29:04+02:00
 author: Chavalina
 layout: revision

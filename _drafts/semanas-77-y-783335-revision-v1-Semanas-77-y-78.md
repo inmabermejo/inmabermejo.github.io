@@ -30,7 +30,7 @@ Madre mía, qué pereza escribir el post semanal.
 
 Pero no me quiero volver a juntar con un mes. Tras la celebración del **cumpleaños de mi madre**, donde lo pasamos muy bien aunque mi abuela criticó duramente mi pan de olivas negras, pasé la semana entre limpieza general, de interiores y exteriores, y bastante bastante trabajo.
 
-<q>Este pan… No lo vuelvas a hacer</q> &#8211; <cite>Mi abuela</cite>
+<q>Este pan… No lo vuelvas a hacer</q> – <cite>Mi abuela</cite>
 
 Por cierto, **¿vosotros limpiáis personalmente o limpia alguien por vosotros?**. Siempre he tenido esa curiosidad por la gente de mi sector.
 

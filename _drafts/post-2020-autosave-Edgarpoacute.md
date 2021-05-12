@@ -19,7 +19,7 @@ permalink: /2009/01/19/20-autosave/
 > ojo para siempre.
 > 
 > <p class="cita">
->   Fragmento de «El corazón delator» &#8211; Cuentos, Edgar Allan Poe
+>   Fragmento de «El corazón delator» – Cuentos, Edgar Allan Poe
 > </p>
 
 «Cuentos» de Edgar Allan Poe es una colección de relatos  

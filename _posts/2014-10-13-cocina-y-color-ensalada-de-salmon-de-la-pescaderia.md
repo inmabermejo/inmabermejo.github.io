@@ -15,10 +15,10 @@ Hace unos años en Tarifa visité [este restaurante por recomendación de 11870]
 
 Cuatro ingredientes nada más:
 
-&#8211; Salmón, ahumado o [marinado](http://www.directoalpaladar.com/recetas-de-pescados-y-mariscos/salmon-marinado-receta) casero, en láminas, se pone en la base  
-&#8211; Mango, cortado tipo _juliana_  
-&#8211; Rúcula, no escatimar con ella!  
-&#8211; Queso parmesano, rallado por encima.
+– Salmón, ahumado o [marinado](http://www.directoalpaladar.com/recetas-de-pescados-y-mariscos/salmon-marinado-receta) casero, en láminas, se pone en la base  
+– Mango, cortado tipo _juliana_  
+– Rúcula, no escatimar con ella!  
+– Queso parmesano, rallado por encima.
 
 Aliñar con pimienta y aceite de oliva. Antes de ponerle sal… probadla. El parmesano ya sala lo suyo.
 

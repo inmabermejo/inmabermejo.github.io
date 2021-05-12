@@ -13,7 +13,7 @@ Me van a pagar no se cuánto por escribir esto, pero es un trabajo funcionario, 
 
 Alcohólicos anónimos parecemos ya los bitacoreros.
 
-<a href="http://chavalina.net/comentar.php?idpost=144&#038;q=publicidad" target="_blank">No es la primera vez que lo hago</a>, muchas veces he querido poner publicidad en mis páginas y muchas veces también he querido quitarla y dejar esto limpio. Y ahora voy a hacer una review del servicio de posts patrocinados de los [Text Link Ads](http://www.text-link-ads.com/?ref=39914).
+<a href="http://chavalina.net/comentar.php?idpost=144&q=publicidad" target="_blank">No es la primera vez que lo hago</a>, muchas veces he querido poner publicidad en mis páginas y muchas veces también he querido quitarla y dejar esto limpio. Y ahora voy a hacer una review del servicio de posts patrocinados de los [Text Link Ads](http://www.text-link-ads.com/?ref=39914).
 
 Recuerdo que cuando [Walter](http://htmllife.com/) volvió, me sorprendió ver a su derecha un enlace del Mercadona, ¡El Mercadona anunciado en un blog como <acronym title="HyperText Markup Language">HTML</acronym> Life! supongo que me sorprendió, quizá esperaba más bien encontrar ahí un enlace de YouDesignWeXHTML, de Adobe :-), del CssReboot… pero no del supermercado de debajo de mi casa.
 

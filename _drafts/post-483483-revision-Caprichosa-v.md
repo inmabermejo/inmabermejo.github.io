@@ -7,6 +7,6 @@ layout: revision
 guid: http://www.wp.chavalina.net/2005/06/05/483-revision/
 permalink: /2005/06/05/483-revision/
 ---
-Si cuando digo que <a href="comentar.php?idpost=469&#038;q=nokia" target="_blank">en Nokia deberían darme comisión</a>… 
+Si cuando digo que <a href="comentar.php?idpost=469&q=nokia" target="_blank">en Nokia deberían darme comisión</a>… 
 
-Más de un año después de <a href="http://www.chavalina.net/comentar.php?idpost=48&#038;q=6230" target="_blank">hablar del Nokia 6230</a> lo he conseguido por el módico precio de 39
+Más de un año después de <a href="http://www.chavalina.net/comentar.php?idpost=48&q=6230" target="_blank">hablar del Nokia 6230</a> lo he conseguido por el módico precio de 39

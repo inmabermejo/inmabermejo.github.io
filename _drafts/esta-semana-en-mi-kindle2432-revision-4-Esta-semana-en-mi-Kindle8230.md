@@ -20,4 +20,4 @@ Así que, esta semana primera de mayo:
 [4 Tips from Someone Who Has Hired Over 25 Freelancers |&nbsp;FreelanceFolder](http://freelancefolder.com/4-requests-after-working-with-more-than-25-freelancers/)  
 [The fall and rise of user experience : Cennydd Bowles on user&nbsp;experience](http://www.cennydd.co.uk/2011/fall-and-rise-of-ux/)  
 [Usabilidad. Qué debo tener en cuenta al escribir para web | ESTILO, Manual de estilo para los nuevos&nbsp;medios](http://www.manualdeestilo.com/escribir/usabilidad-que-debo-tener-en-cuenta-al-escribir-para-web/)  
-[Is Sitting a Lethal Activity? &#8211;&nbsp;NYTimes.com](http://www.nytimes.com/2011/04/17/magazine/mag-17sitting-t.html?_r=4)
+[Is Sitting a Lethal Activity? –&nbsp;NYTimes.com](http://www.nytimes.com/2011/04/17/magazine/mag-17sitting-t.html?_r=4)
