@@ -12,7 +12,7 @@ permalink: /2011/01/29/1968-revision/
 </p>
 
 <p style="text-align: center;">
-  <cite>Stone House por <a href="http://www.flickr.com/photos/jsome1/">Jsome1</a> <a href="http://www.flickr.com/people/jsome1/"> Feliciano Guimarães</a></cite>
+  <cite>Stone House por <a href="http://www.flickr.com/photos/jsome1/">Jsome1</a> <a href="http://www.flickr.com/people/jsome1/"> Feliciano Guimaríes</a></cite>
 </p>
 
 Impresionante casa de piedra en las montañas de Fafe, Portugal. Es como en los Picapiedra, me encanta!

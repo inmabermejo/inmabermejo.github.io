@@ -16,8 +16,8 @@ categories:
   - Reflexiones
 tags:
   - '%#@!!*#Â¬*'
-  - economÃ­a
-  - polÃ­tica
+  - economí­a
+  - polí­tica
   - Reflexiones
 ---
 <p style="text-align: center;">

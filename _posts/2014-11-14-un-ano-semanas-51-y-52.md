@@ -17,17 +17,8 @@ Parece que por ahora Noviembre me trata mejor que el sádico Octubre.
 
 Se van resolviendo algunos temas, coche nuevo ya en casa, aquel nuevo trabajo ya rodando, mi abuela ha salido hoy del hospital -aunque yo tengo mis reticencias- y unas buenas semanas en el trabajo me dejan hoy **agotada pero en paz**, así que puedo volver a mis _problemas del primer mundo_:
 
-<blockquote class="twitter-tweet" lang="en">
-  <p>
-    Tras uso intensivo del iPhone, digo: WTF de teclado? Hasta el de mi viejo Windows Phone 7 era mejor, y en pantalla más pequeña <a href="https://twitter.com/hashtag/iOSvsWP?src=hash">#iOSvsWP</a>
-  </p>
-  
-  <p>
-    &mdash; chavalina (@chavalina) <a href="https://twitter.com/chavalina/status/529923626196533248">November 5, 2014</a>
-  </p>
-</blockquote>
-
-
+<blockquote class="twitter-tweet" lang="en"><p>Tras uso intensivo del iPhone, digo: WTF de teclado? Hasta el de mi viejo Windows Phone 7 era mejor, y en pantalla más pequeña <a href="https://twitter.com/hashtag/iOSvsWP?src=hash">#iOSvsWP</a></p>&mdash; chavalina (@chavalina) <a href="https://twitter.com/chavalina/status/529923626196533248">November 5, 2014</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 En **Digio**, con la aplicación que rediseñamos, la propuesta para listados parece que ya está bien encaminada, nos queda un tema pequeño por resolver. Tenemos que poner mucha atención en este elemento, y vaya que si lo estamos haciendo. Espero que quede perfecto.
 

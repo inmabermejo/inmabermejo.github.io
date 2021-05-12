@@ -15,7 +15,7 @@ categories:
   - Reflexiones
 tags:
   - Reflexiones
-  - TelevisiÃ³n
+  - Televisión
 ---
 > Nuestro papel parece limitarse a pedir créditos para comprar cosas que no necesitamos
 
@@ -27,8 +27,7 @@ Porque un producto que no se estropea no es un buen negocio.
 
 Mañana **domingo 9, a las 22h emiten en La 2 y en <a href="http://www.rtve.es/television/documentales/comprar-tirar-comprar/directo/" target="_blank">RTVE.es</a>** el documental <a href="http://www.rtve.es/television/documentales/comprar-tirar-comprar/" target="_blank"><em>«Comprar, tirar, comprar»</em></a>, donde se habla de como **las empresas programan el fin de la vida útil de sus productos**, y como nosotros seguimos comprando antes de lo debido.
 
-<p style="text-align: center;">
-</p>
+<object id="RTVEPlayer2558" classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" width="425" height="300" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0"><param name="allowScriptAccess" value="always" /><param name="allowFullScreen" value="true" /><param name="src" value="http://www.rtve.es/swf/v2/embed/980278_es_videos/RTVEPlayer.swf" /><param name="name" value="RTVEPlayer2558" /><param name="allowfullscreen" value="true" /><embed id="RTVEPlayer2558" type="application/x-shockwave-flash" width="425" height="300" src="http://www.rtve.es/swf/v2/embed/980278_es_videos/RTVEPlayer.swf" name="RTVEPlayer2558" allowfullscreen="true" allowscriptaccess="always"></embed></object>
 
 Una nueva llamada de atención sobre nuestras **costumbres consumistas**, que, ahora más que nunca con el mal momento económico que vivimos, **conviene reconsiderar**.
 

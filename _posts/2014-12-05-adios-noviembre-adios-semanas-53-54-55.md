@@ -11,17 +11,8 @@ categories:
 ---
 Agotador Noviembre que llega a su fin, por suerte, sin novedades importantes. **Que no haya noticias son buenas noticias**.
 
-<blockquote class="twitter-tweet" lang="en">
-  <p>
-    <a href="https://twitter.com/hashtag/dearlazyweb?src=hash">#dearlazyweb</a> algún intercomunicador tipo vigilabebés que podáis recomendar? Con visión nocturna, activación por sonido&#8230;
-  </p>
-  
-  <p>
-    &mdash; chavalina (@chavalina) <a href="https://twitter.com/chavalina/status/535745738798809089">November 21, 2014</a>
-  </p>
-</blockquote>
-
-
+<blockquote class="twitter-tweet" lang="en"><p><a href="https://twitter.com/hashtag/dearlazyweb?src=hash">#dearlazyweb</a> algún intercomunicador tipo vigilabebés que podáis recomendar? Con visión nocturna, activación por sonido...</p>&mdash; chavalina (@chavalina) <a href="https://twitter.com/chavalina/status/535745738798809089">November 21, 2014</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 Que alguno se me asustó con estas declaraciones, pero no, **no era para mi el vigilabebés** 🙂 aunque [este intercomunicador Motorola](http://www.amazon.es/gp/product/B005IWH0VM/ref=as_li_ss_tl?ie=UTF8&camp=3626&creative=24822&creativeASIN=B005IWH0VM&linkCode=as2&tag=chavadiari-21) al final ha dado un gran resultado para ayudar a cuidar a mi abuela. Estos días la situación me hace reflexionar más sobre la vida, y que en muchos sentidos, acaba como empieza.
 

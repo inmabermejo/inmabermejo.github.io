@@ -14,7 +14,7 @@ categories:
   - Internet
   - Reflexiones
 tags:
-  - comercio electrÃ³nico
+  - comercio electrónico
   - experiencias
   - moleskine
   - Reflexiones

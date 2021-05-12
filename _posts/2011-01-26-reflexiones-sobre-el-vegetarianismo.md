@@ -16,7 +16,7 @@ categories:
   - Reflexiones
   - Sólo mío
 tags:
-  - Ã‘am Ã±am
+  - í‘am ñam
   - experiencias
   - Reflexiones
   - vegetarianismo

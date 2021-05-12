@@ -17,17 +17,8 @@ No es que mis obligaciones sociales hayan aumentado tanto, sólo un par de proye
 
 Por un lado, empecé un **rediseño _exprés_ de mi portfolio**. No me había dado cuenta de que en algunos móviles el <em lang="en">layout responsive</em> se rompía, así que se ha convertido en un asunto urgente. Tengo ya casi listo el nuevo, me falta redactar los contenidos para poder ponerlo online.
 
-<blockquote class="twitter-tweet" lang="en">
-  <p>
-    New detail dribbble: Quick portfolio update <a href="http://t.co/v7RjXQudRT">http://t.co/v7RjXQudRT</a> <a href="http://t.co/dZsCjghp61">pic.twitter.com/dZsCjghp61</a>
-  </p>
-  
-  <p>
-    &mdash; chavalina (@chavalina) <a href="https://twitter.com/chavalina/status/514099949353848832">September 22, 2014</a>
-  </p>
-</blockquote>
-
-
+<blockquote class="twitter-tweet" lang="en"><p>New detail dribbble: Quick portfolio update <a href="http://t.co/v7RjXQudRT">http://t.co/v7RjXQudRT</a> <a href="http://t.co/dZsCjghp61">pic.twitter.com/dZsCjghp61</a></p>&mdash; chavalina (@chavalina) <a href="https://twitter.com/chavalina/status/514099949353848832">September 22, 2014</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 Por otro lado, en [Digio]() me han pedido colaboración para el **rediseño de una aplicación móvil**, y aunque tenía el objetivo de no hacer trabajos freelance una temporada, he aceptado. Me gusta el proyecto, y hace bastante que no trabajo en producto puro y duro. Además la aplicación pertenece a un sector en el que no he trabajado antes, es un un reto. Espero poder ir enseñando los avances en la propuesta.
 

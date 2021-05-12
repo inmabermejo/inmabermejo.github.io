@@ -15,7 +15,7 @@ categories:
   - Cultura
   - Diseño
 tags:
-  - ilustraciÃ³n
+  - ilustración
   - libros
 ---
 <p style="text-align: center;">

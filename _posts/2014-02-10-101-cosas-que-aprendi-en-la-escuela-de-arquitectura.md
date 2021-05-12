@@ -10,17 +10,9 @@ categories:
   - Diseño
   - Lecturas
 ---
-<blockquote class="twitter-tweet" lang="en">
-  <p>
-    Aprender a tirar, esto me hace falta a mí <a href="https://twitter.com/search?q=%23pv4&src=hash">#pv4</a> <a href="http://t.co/UsAMNtKUPn">pic.twitter.com/UsAMNtKUPn</a>
-  </p>
-  
-  <p>
-    &mdash; chavalina (@chavalina) <a href="https://twitter.com/chavalina/statuses/354679351951892480">July 9, 2013</a>
-  </p>
-</blockquote>
 
-
+<blockquote class="twitter-tweet" lang="en"><p>Aprender a tirar, esto me hace falta a mí <a href="https://twitter.com/search?q=%23pv4&amp;src=hash">#pv4</a> <a href="http://t.co/UsAMNtKUPn">pic.twitter.com/UsAMNtKUPn</a></p>&mdash; chavalina (@chavalina) <a href="https://twitter.com/chavalina/statuses/354679351951892480">July 9, 2013</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 Este verano, al terminar el Programa Vostok, Javier nos regaló un detalle, y tuve la suerte de que me tocó este libro. Yo ya lo tenía fichado porque lo había conocido leyendo un post suyo precisamente, es uno de los que ha elegido como <a title="26 books that shaped me as an interaction designer - Javier Cañada" href="http://www.vostokstudio.com/blog/2011/01/the-26-books-that-made-me-an-interaction-designer/" target="_blank">influyentes en su formación como diseñador de interacción</a>.
 

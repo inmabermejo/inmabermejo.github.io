@@ -17,7 +17,7 @@ tags:
   - lost
   - perdidos
   - series
-  - TelevisiÃ³n
+  - Televisión
 ---
 Uf, otra temporada sin escribir en el blog! no tengo excusa&#8230; errr&#8230; bueno, esta vez sí! y es que desde hace un tiempo he dedicado mis ratos libres a la famosa serie **Perdidos** (Lost).
 

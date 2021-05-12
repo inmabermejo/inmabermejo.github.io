@@ -11,7 +11,7 @@ aktt_notify_twitter:
 categories:
   - El mundo
 tags:
-  - polÃ­tica
+  - polí­tica
   - Reflexiones
 ---
 Como dice [@vaites](http://twitter.com/vaites/status/15094856949), triste que estas intervenciones se queden en nada, porque a nadie le importa:

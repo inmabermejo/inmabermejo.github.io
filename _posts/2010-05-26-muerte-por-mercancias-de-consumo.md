@@ -12,7 +12,7 @@ categories:
   - Cultura
 tags:
   - Fotografía
-  - inspiraciÃ³n
+  - inspiración
 ---
 <p style="text-align: center;">
   <a href="http://www.fundacionpedromeyer.com/china/dedburg/preview/dedburg01.jpg"><img class="aligncenter" title="Muerte por algodón de dulce" src="/imagenes/2010/05/dedburg01-500x333.jpg" alt="Fotografía &quot;Muerte por algodón de dulce&quot; de Daniela Edburg" width="500" height="333" /></a>
