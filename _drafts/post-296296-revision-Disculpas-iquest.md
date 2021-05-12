@@ -1,6 +1,6 @@
 ---
 id: 1593
-title: 'Disculpas (&iquest;?)'
+title: 'Disculpas (¿?)'
 date: 2004-12-18T07:58:44+02:00
 author: Chavalina
 layout: revision

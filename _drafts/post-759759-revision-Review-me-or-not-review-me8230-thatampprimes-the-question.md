@@ -27,13 +27,13 @@ Es un servicio muy 2.0, con su dise&ntilde;o con colores a la moda y degradados,
 
 No sé, los blogs que merecen la pena no creo que sean muy dados a venderse.
 
-Pero claro, yo misma he hecho publicidad gratuita de productos simplemente porque los quería, [todos tenemos nuestros caprichos](http://chavalina.net/archivos.php?patron=capri) &iquest;esto es venderse?
+Pero claro, yo misma he hecho publicidad gratuita de productos simplemente porque los quería, [todos tenemos nuestros caprichos](http://chavalina.net/archivos.php?patron=capri) ¿esto es venderse?
 
-Pronto me voy a comprar un monitor widescreen, una impresora láser, un teclado y ratón Logitech, una mesa del Ikea (o del Rústiko), voy a hacer tarjetas con Moo… y seguramente lo voy a contar por aquí, &iquest;quiero contarlo de gratis, o que me paguen por decir lo mismo?
+Pronto me voy a comprar un monitor widescreen, una impresora láser, un teclado y ratón Logitech, una mesa del Ikea (o del Rústiko), voy a hacer tarjetas con Moo… y seguramente lo voy a contar por aquí, ¿quiero contarlo de gratis, o que me paguen por decir lo mismo?
 
 Si yo pudiera decirles a éstos «eh, mirad, me he comprado éste monitor Dell, a ver cuándo me pagáis porque cuente en el blog qué me parece, en vez de estar ese rato leyendo mis feeds», pues estupendo de la muerte.
 
-Pero ya no me gusta que me digan «eh, nena, los de Acer sacan éste monitor, haz una review», vale, yo la hago, pero que me manden el monitor de gratis, &iquest;no?
+Pero ya no me gusta que me digan «eh, nena, los de Acer sacan éste monitor, haz una review», vale, yo la hago, pero que me manden el monitor de gratis, ¿no?
 
 Ya veremos cómo lo hacen.  
 A ver si los bares de Murcia se apuntan a [TLA ahora que están de promoción](http://www.text-link-ads.com/starter_kit.php?ref=39914 "Text Link Ads") y me pagan por «probarlos».

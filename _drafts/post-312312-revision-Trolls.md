@@ -7,4 +7,4 @@ layout: revision
 guid: http://www.wp.chavalina.net/2005/01/05/312-revision/
 permalink: /2005/01/05/312-revision/
 ---
-Ya tengo un par de trolls. &iquest;Significará eso que tengo éxito? Pues NO lo quiero![emo](/imagenes/emoticonos/enfadado.gif)
+Ya tengo un par de trolls. ¿Significará eso que tengo éxito? Pues NO lo quiero![emo](/imagenes/emoticonos/enfadado.gif)

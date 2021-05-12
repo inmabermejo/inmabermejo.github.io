@@ -19,7 +19,7 @@ permalink: /2004/11/21/269-revision/
 
 <img class="imgcentro" src="http://www.chavalina.net/imagenes/logotipos/historico/logo_sup.jpg" alt="Logotipo actual, veraniego y perezoso, como yo" /> 
 
-<img class="imgcentro" src="http://www.chavalina.net/imagenes/logotipos/historico/supv2.jpg" alt="&iquest;Próximo logotipo? no creo, me gusta el de ahora" /> 
+<img class="imgcentro" src="http://www.chavalina.net/imagenes/logotipos/historico/supv2.jpg" alt="¿Próximo logotipo? no creo, me gusta el de ahora" /> 
 
 Un a&ntilde;o!  
 Al final no me está saliendo como pretendía, pero quizá así me refleje mejor a mí misma. Yo sólo quería escribir sobre programación y ahora ya ves, menos eso, de todo.
@@ -51,5 +51,5 @@ Desde luego, con lo que yo odio los discursitos me ha quedado un rollo bastante 
 Agg, yo qué sé, pensaba poner sólo esas imágenes, pero algo tenía que decir y me he enrollado más de la cuenta.  
 Bueno, como comentaba hace un tiempo con barbudo que susurraba, el blog es mío y me lo… me callo! jeje![emo](/imagenes/emoticonos/sonrisa.gif) 
 
-Por cierto, para los que me siguen preguntando por <a href="http://www.chavalina.net/comentar.php?idpost=247&#038;q=" target="_blank">esto</a>, en serio que no es nada! no lo voy a contar todo, &iquest;no?  
+Por cierto, para los que me siguen preguntando por <a href="http://www.chavalina.net/comentar.php?idpost=247&#038;q=" target="_blank">esto</a>, en serio que no es nada! no lo voy a contar todo, ¿no?  
 ![emo](/imagenes/emoticonos/guino.gif)

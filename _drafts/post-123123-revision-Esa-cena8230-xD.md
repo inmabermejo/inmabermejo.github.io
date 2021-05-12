@@ -8,5 +8,5 @@ guid: http://www.wp.chavalina.net/2004/05/23/123-revision/
 permalink: /2004/05/23/123-revision/
 ---
 <p align="center">
-  <a href="imagenes/fotos/cenagestion.jpg"><img src="/imagenes/fotos/thumbs/cenagestion.jpg" width="400" height="300" border="0" /></a><br />La verdad es que la cena estuvo bien. Ya os ense&ntilde;aré más fotos.<br />&iquest;Adivináis quién soy? pues sí, la más "borracha"
+  <a href="imagenes/fotos/cenagestion.jpg"><img src="/imagenes/fotos/thumbs/cenagestion.jpg" width="400" height="300" border="0" /></a><br />La verdad es que la cena estuvo bien. Ya os ense&ntilde;aré más fotos.<br />¿Adivináis quién soy? pues sí, la más "borracha"
 </p>

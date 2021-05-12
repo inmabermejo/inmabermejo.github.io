@@ -1,6 +1,6 @@
 ---
 id: 1409
-title: '&iquest;PHP 4? &iquest;PHP 5 &iquest;PHP 6?'
+title: '¿PHP 4? ¿PHP 5 ¿PHP 6?'
 date: 2006-08-03T04:45:05+02:00
 author: Chavalina
 layout: revision

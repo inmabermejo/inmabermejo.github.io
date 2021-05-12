@@ -17,4 +17,4 @@ Desde anoche a las 11, hasta esta ma&ntilde;ana a las 8, he recibido 596 mensaje
 
 La verdad es que voy poniendo mi dirección de correo en todos los blogs por los que paso, y en todos los registros que me la piden, pero me parece un incremento desproporcionado en un solo día.
 
-Y tú, &iquest;cuántos correos basura recibes?
+Y tú, ¿cuántos correos basura recibes?

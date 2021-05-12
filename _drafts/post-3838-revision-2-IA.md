@@ -39,9 +39,9 @@ Según este test, para saber si una máquina se puede llamar <acronym title="Int
 
 Expresamente para rebatir esta prueba se han construido programas capaces de mantener una conversación más o menos con sentido, y que basándose en lo que el humano va escribiendo, pueden dar la sensación de que es una conversación con algo inteligente, como ELIZA; sin embargo, no hay nada de <acronym title="Inteligencia Artificial">IA</acronym> en estos programas, simplemente se trata de analizar sintaxis y recorrer tablas de contenidos para dar las respuestas.
 
-Lo que me ha impresionado es ver que hay muchísimas áreas de investigación para la <acronym title="Inteligencia Artificial">IA</acronym> y que realmente cada vez se va metiendo más en nuestra vida… &iquest;es inteligente por nuestra parte querer dar inteligencia a las máquinas?
+Lo que me ha impresionado es ver que hay muchísimas áreas de investigación para la <acronym title="Inteligencia Artificial">IA</acronym> y que realmente cada vez se va metiendo más en nuestra vida… ¿es inteligente por nuestra parte querer dar inteligencia a las máquinas?
 
-Como informática, o intento, me parece un campo de investigación de lo más interesante. Pero me parece peligroso… &iquest;es Matrix es una fantasía?![pensativo](/imagenes/emoticonos/pensativo.gif)  
+Como informática, o intento, me parece un campo de investigación de lo más interesante. Pero me parece peligroso… ¿es Matrix es una fantasía?![pensativo](/imagenes/emoticonos/pensativo.gif)  
 ![lengua](/imagenes/emoticonos/lengua.gif) 
 
   * <a href="http://es.wikipedia.org/wiki/Prueba_de_Turing" target="_blank">Información sobre la Prueba de Turing en Wikipedia.</a>

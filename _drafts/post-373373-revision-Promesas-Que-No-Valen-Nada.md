@@ -70,6 +70,6 @@ se irán se perderán, se irán se perderán
 Se irán se perderán  
 como lágrimas en la lluvia
 
-&iquest;Dónde estabas entonces  
+¿Dónde estabas entonces  
 cuando tanto te necesité?  
 Te **necesité**

@@ -1,6 +1,6 @@
 ---
 id: 1264
-title: '&iquest;Trabajar gratis? No gracias'
+title: '¿Trabajar gratis? No gracias'
 date: 2004-11-23T08:14:05+02:00
 author: Chavalina
 layout: revision

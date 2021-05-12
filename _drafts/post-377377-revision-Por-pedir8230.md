@@ -7,4 +7,4 @@ layout: revision
 guid: http://www.wp.chavalina.net/2005/03/23/377-revision/
 permalink: /2005/03/23/377-revision/
 ---
-<a href="http://www.mercadelia.com/es-es/directorio/ofertas_de_empleo/informaticos_y_disenadores/1048/soltera_con_buen_nivel_de_php" target="_blank">por pedir que no quede</a>, &iquest;candidatas? <a href="http://www.minid.net/archivos/categorias/curiosidades/que_morro.php" target="_blank">via</a>
+<a href="http://www.mercadelia.com/es-es/directorio/ofertas_de_empleo/informaticos_y_disenadores/1048/soltera_con_buen_nivel_de_php" target="_blank">por pedir que no quede</a>, ¿candidatas? <a href="http://www.minid.net/archivos/categorias/curiosidades/que_morro.php" target="_blank">via</a>

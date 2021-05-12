@@ -20,7 +20,7 @@ permalink: /2004/02/26/36-revision/
 </p>
 
 <p align="left">
-  En cualquier caso, Michael Schumacher volvió a batir el record del circuito de Imola justo antes de empaquetar para Melbourne, &iquest;una forma de dejar claro que este a&ntilde;o también va a por todas? Ahí estaremos para verlo, aunque eso será si Alonso le deja jejeje <img src="/imagenes/emoticonos/risa.gif" alt="emo" />
+  En cualquier caso, Michael Schumacher volvió a batir el record del circuito de Imola justo antes de empaquetar para Melbourne, ¿una forma de dejar claro que este a&ntilde;o también va a por todas? Ahí estaremos para verlo, aunque eso será si Alonso le deja jejeje <img src="/imagenes/emoticonos/risa.gif" alt="emo" />
 </p>
 
   * <a href="http://www.f1.com" target="_blank">F1.com &#8211; página oficial</a>

@@ -7,4 +7,4 @@ layout: revision
 guid: http://www.chavalina.net/2012/12/26/370-revision-3/
 permalink: /2012/12/26/370-revision-3/
 ---
-&iquest;Eres de Murcia? &iquest;Tienes un blog? <a href="http://neuromancer.dif.um.es/planetmurcia/" target="_blank">Planet Murcia</a>
+¿Eres de Murcia? ¿Tienes un blog? <a href="http://neuromancer.dif.um.es/planetmurcia/" target="_blank">Planet Murcia</a>

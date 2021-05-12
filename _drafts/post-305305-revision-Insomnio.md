@@ -9,6 +9,6 @@ permalink: /2004/12/28/305-revision/
 ---
 Mis horarios cambiados me llevan a leer mientras veo la televisión a las dos y pico de la ma&ntilde;ana, pero acabo de levantarme (supremo esfuerzo, supongo que me entendéis) a apagarla tras escuchar una magnífica frase:
 
-> &iquest;sabes que si no te acuestas con alguien en un a&ntilde;o puedes volver a revirginizarte?
+> ¿sabes que si no te acuestas con alguien en un a&ntilde;o puedes volver a revirginizarte?
 
 Ya decía yo que «Sexo en Nueva York» no era un título muy prometedor. A ver si vuelve South Park!

@@ -49,7 +49,7 @@ permalink: /2006/02/06/623-revision/
   * Arroz a la cubana (pero no con huevo frito, con la fritura de carne que hago yo y sus platanitos fritos)
   * La merlucita al horno que hace mi madre
   * Chorizos a la sidra mmmmmmm
-  * &iquest;Cuentan los postres? Helado de chocolate, o de plátano
+  * ¿Cuentan los postres? Helado de chocolate, o de plátano
 
 **Cuatro sitios en los que te gustaría estar ahora mismo** 
 

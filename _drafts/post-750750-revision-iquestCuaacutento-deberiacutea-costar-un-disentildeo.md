@@ -1,6 +1,6 @@
 ---
 id: 1209
-title: '&iquest;Cuánto debería costar un dise&ntilde;o?'
+title: '¿Cuánto debería costar un dise&ntilde;o?'
 date: 2006-10-26T01:23:18+02:00
 author: Chavalina
 layout: revision

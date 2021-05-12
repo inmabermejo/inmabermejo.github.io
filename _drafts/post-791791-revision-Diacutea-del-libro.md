@@ -15,7 +15,7 @@ Me regalaron:
 
   * **11 minutos**: un rollazo. Quizá soy un poco dura, pero es que no despertó absolutamente ninguna sensación en mí, y eso que lo cogí con ganas, por aquello del morbo de la zagala que se mete a p*tilla y a ver qué le pasa y tal y cual, pero ni con esas. Iba a leer El Alquimista, pero creo que necesito un descanso de Coelho. 
   * **Deseo**: no digo que el libro no sea bueno porque no me lo he leído. No he podido pasar de 20 páginas, porque tiene un estilo muy particular y me carga mucho leerlo:  
-    > &iquest;Qué pasa con las mujeres? El imperecedero retrato de sus placeres les importa más que el original perecedero, que tendrán que exponer tarde o temprano a la competencia de la vida, cuando, febrilmente encadenadas a su cuerpo, deban mostrarse en público en la pastelería, con un vestido nuevo y un hombre nuevo. Quieren contemplar la imagen del amado, ese hermoso rostro, en el silencio de la pocilga conyugal, apretadas a alguien que de vez en cuando se refugia pesadamente en ellas para no tener que mirarse a sí mismo todo el tiempo. Toda imagen descansa mejor en la memoria que en la vida misma, y, abandonadas, hojeamos ociosamente nuestras hojas sonoras y nos sacamos los recuerdos de entre los dedos de los pies: ¡Qué hermoso fue abrirse un día de par en par! Gerti puede incluso cocerse al piano, y presentar al marido sus panecillos recién hechos. Y los ni&ntilde;os cantan tralalá.  
+    > ¿Qué pasa con las mujeres? El imperecedero retrato de sus placeres les importa más que el original perecedero, que tendrán que exponer tarde o temprano a la competencia de la vida, cuando, febrilmente encadenadas a su cuerpo, deban mostrarse en público en la pastelería, con un vestido nuevo y un hombre nuevo. Quieren contemplar la imagen del amado, ese hermoso rostro, en el silencio de la pocilga conyugal, apretadas a alguien que de vez en cuando se refugia pesadamente en ellas para no tener que mirarse a sí mismo todo el tiempo. Toda imagen descansa mejor en la memoria que en la vida misma, y, abandonadas, hojeamos ociosamente nuestras hojas sonoras y nos sacamos los recuerdos de entre los dedos de los pies: ¡Qué hermoso fue abrirse un día de par en par! Gerti puede incluso cocerse al piano, y presentar al marido sus panecillos recién hechos. Y los ni&ntilde;os cantan tralalá.  
     > Nos merecemos todo lo que podemos soportar. 
 
   * **Lo mejor que le puede pasar a un cruasán**: muy entretenido, me lo leí muy rápido porque me enganchó mucho, es muy dinámico. No es de lo más profundo, pero para pasar el rato está bien. 
@@ -37,7 +37,7 @@ Y me han regalado/prestado/he robado (jiji):
     > 
     > Cuando el novio de la jovencita llamó para invitarla a un paseo en su coche nuevo, Marina no dudó demasiado. Después de todo, los ni&ntilde;os estaban durmiento como cada tarde, y no se despertarían hasta la cinco.
     > 
-    > Apenas escuchó la bocina cogió el bolso y descolgó el teléfono. Tomó la precaución de cerrar la puerta del cuarto y se guardó la lave en el bolsillo. Ella no quería arriesgarse a que Pancho se despertara y bajara las escaleras para buscarla, porque después de todo tenía sólo seis a&ntilde;os y en un descuido podía tropezar y lastimarse. Además, pensó, si eso sucediera, &iquest;cómo le explicaría a la madre que el ni&ntilde;o no la había encontrado?
+    > Apenas escuchó la bocina cogió el bolso y descolgó el teléfono. Tomó la precaución de cerrar la puerta del cuarto y se guardó la lave en el bolsillo. Ella no quería arriesgarse a que Pancho se despertara y bajara las escaleras para buscarla, porque después de todo tenía sólo seis a&ntilde;os y en un descuido podía tropezar y lastimarse. Además, pensó, si eso sucediera, ¿cómo le explicaría a la madre que el ni&ntilde;o no la había encontrado?
     > 
     > Quizás fue un cortocircuito en el televisor encendido o en alguna de las luces de la sala, o tal vez una chispa del hogar de le&ntilde;a; el caso es que cuando las cortinas empezaron a arder el fuego rápidamente alcanzó la escalera de madera que conducía a los dormitorios.
     > 
@@ -48,10 +48,10 @@ Y me han regalado/prestado/he robado (jiji):
     > Pancho se dio cuenta que debía sacar a su hermanito de allí. Intentó abrir la ventana que daba a la cornisa, pero era imposible para sus peque&ntilde;as manos destrabar el seguro y aunque lo hubiera conseguido aún debia soltar la malla de alambre que sus padres habían instalado como protección.
     > 
     > Cuando los bomberos terminaron de apagar el incendio, el tema de conversación de todos era el mismo:  
-    > &iquest;Cómo pudo ese ni&ntilde;o peque&ntilde;o romper el vidrio y luego el enrejado con el perchero?  
-    > &iquest;Cómo pudo cargar al bebé en la mochila?  
-    > &iquest;cómo pudo caminar por la cornisa con semejante peso y bajar por el árbol?  
-    > &iquest;Cómo pudo salvar su vida y la de su hermano? >> 
+    > ¿Cómo pudo ese ni&ntilde;o peque&ntilde;o romper el vidrio y luego el enrejado con el perchero?  
+    > ¿Cómo pudo cargar al bebé en la mochila?  
+    > ¿cómo pudo caminar por la cornisa con semejante peso y bajar por el árbol?  
+    > ¿Cómo pudo salvar su vida y la de su hermano? >> 
     > 
     > El viejo jefe de bomberos, hombre sabio y respetado les dio la respuesta:  
     > &#8211;_Panchito estaba solo … No tenía a nadie que le dijera que no iba a poder_. 

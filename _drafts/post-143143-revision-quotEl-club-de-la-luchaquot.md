@@ -31,7 +31,7 @@ permalink: /2004/06/17/143-revision/
       </p>
       
       <p>
-        Por cierto, "la primera regla del Club de la Lucha es no hablar del Club de la Lucha". &iquest;Qué pasaría si las bitácoras se aplicaran el mismo principio?
+        Por cierto, "la primera regla del Club de la Lucha es no hablar del Club de la Lucha". ¿Qué pasaría si las bitácoras se aplicaran el mismo principio?
       </p>
     </td>
   </tr>

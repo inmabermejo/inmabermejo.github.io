@@ -12,12 +12,12 @@ permalink: /2008/12/25/588-revision-2/
 > ENSE&Ntilde;ANZA DE 1960  
 > un campesino vende un saco de patatas por 1000 ptas.  
 > Sus gastos de producción se elevan a 4/5 del precio de la venta  
-> &iquest;Cual es su beneficio? 
+> ¿Cual es su beneficio? 
 > 
 > ENSE&Ntilde;ANZA TRADICIONAL DE 1965  
 > Un campesino vende un sco de patatas por 1000 pts.  
 > Sus gastos de producción se elevan a 4/5 del precio de venta, esto es a 800 ptas.  
-> &iquest;Cual es su beneficio? 
+> ¿Cual es su beneficio? 
 > 
 > ENSE&Ntilde;ANZA MODERNA DE 1970  
 > Un campesino cambia un conjunto P de patatas por un conjunto M de monedas.  
@@ -25,7 +25,7 @@ permalink: /2008/12/25/588-revision-2/
 > Dibuja 1000 puntos gordos que representen los elementos del conjunto M.  
 > El conjunto F de los gastos de producción comprende 200 puntos gordos menos que el conjunto M.  
 > Representa el conjunto F como subconjunto del conjunto M, estudia cual será su unión y su interseccción y da respuesta a la cuestión siguiente:  
-> &iquest;Cual es el cardinal del conjunto B de los beneficios?  
+> ¿Cual es el cardinal del conjunto B de los beneficios?  
 > (Dibuje B con color rojo) 
 > 
 > L.O.G.S.E  

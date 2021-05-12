@@ -14,7 +14,7 @@ categories:
 ---
 **Actualización <abbr ="Too long, didn't read">TL;DR</abbr>**: aquí una guía más breve aún para mejorar con el email:
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">3 steps to better emails<br><br>1. Spend 5 minutes writing it<br>2. Delete half of it<br>3. Maybe don&#39;t even send it</p>&mdash; ⎛⚆_⚆⎠ (@supersole) <a href="https://twitter.com/supersole/status/677188797583466497">December 16, 2015</a></blockquote>
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">3 steps to better emails<br><br>1. Spend 5 minutes writing it<br>2. Delete half of it<br>3. Maybe don't even send it</p>&mdash; ⎛⚆_⚆⎠ (@supersole) <a href="https://twitter.com/supersole/status/677188797583466497">December 16, 2015</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 

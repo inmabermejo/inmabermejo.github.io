@@ -7,4 +7,4 @@ layout: revision
 guid: http://www.wp.chavalina.net/2006/02/25/635-revision/
 permalink: /2006/02/25/635-revision/
 ---
-Hoy, a las 13.25 aproximadamente, hemos sentido otro terremoto en Blanca. Ha sido corto, de hecho yo ni me he enterado (como siempre) pero después me han avisado. Dicen que el epicentro ha estado en Cieza, &iquest;alguien más lo ha notado?
+Hoy, a las 13.25 aproximadamente, hemos sentido otro terremoto en Blanca. Ha sido corto, de hecho yo ni me he enterado (como siempre) pero después me han avisado. Dicen que el epicentro ha estado en Cieza, ¿alguien más lo ha notado?

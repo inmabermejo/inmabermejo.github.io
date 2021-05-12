@@ -1,6 +1,6 @@
 ---
 id: 1427
-title: '&iquest;Se complican demasiado la vida los programadores de Java?'
+title: '¿Se complican demasiado la vida los programadores de Java?'
 date: 2004-07-04T14:38:09+02:00
 author: Chavalina
 layout: revision

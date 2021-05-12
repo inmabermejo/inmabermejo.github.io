@@ -1,6 +1,6 @@
 ---
 id: 1205
-title: '&iquest;Un dise&ntilde;o hecho con Mac es diferente de uno hecho con PC?'
+title: '¿Un dise&ntilde;o hecho con Mac es diferente de uno hecho con PC?'
 date: 2007-04-16T09:32:51+02:00
 author: Chavalina
 layout: revision

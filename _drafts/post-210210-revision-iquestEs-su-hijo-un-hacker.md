@@ -1,6 +1,6 @@
 ---
 id: 1010
-title: '&iquest;Es su hijo un hacker?'
+title: '¿Es su hijo un hacker?'
 date: 2004-09-04T12:52:44+02:00
 author: Chavalina
 layout: revision

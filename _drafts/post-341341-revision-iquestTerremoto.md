@@ -1,6 +1,6 @@
 ---
 id: 1583
-title: '&iquest;Terremoto?'
+title: '¿Terremoto?'
 date: 2005-01-29T01:05:24+02:00
 author: Chavalina
 layout: revision

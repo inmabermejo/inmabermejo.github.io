@@ -1,6 +1,6 @@
 ---
 id: 1104
-title: '&iquest;Quieres salir en la nueva película de Matt Damon?'
+title: '¿Quieres salir en la nueva película de Matt Damon?'
 date: 2007-12-11T08:00:53+02:00
 author: Chavalina
 layout: revision

@@ -1,13 +1,13 @@
 ---
 id: 1286
-title: '&iquest;Has sido malo?'
+title: '¿Has sido malo?'
 date: 2004-08-30T02:11:22+02:00
 author: Chavalina
 layout: revision
 guid: http://www.wp.chavalina.net/2004/08/30/204-revision/
 permalink: /2004/08/30/204-revision/
 ---
-En el foro de Gsmspain he encontrado un link a un test bastante curioso, <a href="http://www.4degreez.com/misc/dante-inferno-test.mv" target="_blank">a qué nivel del infierno de Dante irías</a> (&iquest;recordáis «La Divina Comedia»?). 
+En el foro de Gsmspain he encontrado un link a un test bastante curioso, <a href="http://www.4degreez.com/misc/dante-inferno-test.mv" target="_blank">a qué nivel del infierno de Dante irías</a> (¿recordáis «La Divina Comedia»?). 
 
 Me ha sorprendido mi resultado, soy más mala de lo que creía:
 

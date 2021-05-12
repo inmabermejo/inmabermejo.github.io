@@ -11,4 +11,4 @@ La «justicia» le ha dado la razón a la SGAE en <a href="http://blog.frikipedi
 
 > La sentencia ha sido ratificada, y no cabe recurso de apelación. El fundamento jurídico que parece haber es que Vicente (Krusher), al tener control sobre la página, era responsable de los comentarios vertidos en la misma.
 
-&iquest;un precedente para empezar a demandar a blogs, foros, redes sociales y comunidades de internet en general?
+¿un precedente para empezar a demandar a blogs, foros, redes sociales y comunidades de internet en general?

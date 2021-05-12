@@ -7,7 +7,7 @@ date: 2005-01-10 09:49:21
 message: "Habitual lector, pero inexistente comentador, aprovecho para aconsejarte con el PHP.<br />
 Mucho más sencillo que hacer dos páginas :)<br />
 <br />
-Brevemente... &iquest;no quieres que la url pueda ser www.chavalina.com?estilo=X? porque podrias comprobar siempre los parametros que se recogen o que no se recogen y en base al que encuentra mostrar uno u otro y si no hay pues uno por defecto. Facil con un switch.<br />
+Brevemente... ¿no quieres que la url pueda ser www.chavalina.com?estilo=X? porque podrias comprobar siempre los parametros que se recogen o que no se recogen y en base al que encuentra mostrar uno u otro y si no hay pues uno por defecto. Facil con un switch.<br />
 <br />
 Por otra parte. No hace falta usar un location de javascript para volver a la página principal, usa header de PHP: header(\"Location: /\");<br />
 <br />

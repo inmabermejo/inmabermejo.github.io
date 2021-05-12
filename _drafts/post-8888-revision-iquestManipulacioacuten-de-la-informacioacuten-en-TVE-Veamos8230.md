@@ -1,6 +1,6 @@
 ---
 id: 1164
-title: '&iquest;Manipulación de la información en TVE? Veamos…'
+title: '¿Manipulación de la información en TVE? Veamos…'
 date: 2004-04-18T05:08:12+02:00
 author: Chavalina
 layout: revision

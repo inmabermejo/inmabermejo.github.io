@@ -8,7 +8,7 @@ guid: http://www.wp.chavalina.net/2006/11/14/760-revision/
 permalink: /2006/11/14/760-revision/
 ---
 He dejado caer que estoy trabajando en un nuevo proyecto.  
-Y algunos, sobre todo los que tengo en el messenger y en la vida real dirán «&iquest;No estabas tan ocupada?». Y yo me tendría que poner roja de verg&uuml;enza… &iquest;o no?
+Y algunos, sobre todo los que tengo en el messenger y en la vida real dirán «¿No estabas tan ocupada?». Y yo me tendría que poner roja de verg&uuml;enza… ¿o no?
 
 Me apetece contar un poco del proceso que he seguido para crear este sitio. No me he gastado ni un duro todavía, y todo lo hice en ratos. Maravillas de los CMS actuales.
 

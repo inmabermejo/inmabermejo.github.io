@@ -9,7 +9,7 @@ permalink: /2005/05/27/455-revision/
 ---
 Como <a href="http://ricplan.f2o.org/" target="_blank">Richard</a> me pasa <a href="http://ricplan.f2o.org/index/2005/05/27/266-otro-meme-analisis-de-careto" target="_blank">otro meme</a> y no tengo ganas de estudiar, voy yo tan pancha a hacer un <a href="http://www.faceanalyzer.com/" target="_blank">análisis de mi cara</a>. Creo que ha revelado aspectos de mi personalidad que ni yo conocía…
 
-**&iquest;Cuántas fotos has tenido que mandar para que te gustase el resultado?** bonito modo de hacer el análisis jejeje. Yo sólo he mandado una, y luego la misma en blanco y negro _para hacer pruebas_.  
+**¿Cuántas fotos has tenido que mandar para que te gustase el resultado?** bonito modo de hacer el análisis jejeje. Yo sólo he mandado una, y luego la misma en blanco y negro _para hacer pruebas_.  
 <img class="imgizqda" src="/imagenes/fotos/analisis1.jpg" alt="Análisis de fotografía en color" />  
 Hablando un poco de los resultados…  
 bueno, que con esa mata de pelo negro, ojos oscuros y ahora que estoy morenita me digan que soy del tipo anglosajón… ya me da una idea de lo que van a acertar con el resto. 

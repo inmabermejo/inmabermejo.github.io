@@ -1,6 +1,6 @@
 ---
 id: 1658
-title: '&iquest;Un iPod asequible?'
+title: '¿Un iPod asequible?'
 date: 2005-01-07T06:21:36+02:00
 author: Chavalina
 layout: revision

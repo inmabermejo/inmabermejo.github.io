@@ -7,4 +7,4 @@ layout: revision
 guid: http://www.wp.chavalina.net/2004/11/09/262-revision/
 permalink: /2004/11/09/262-revision/
 ---
-<img class="imgizqda" src="http://www.mozilla.org/products/firefox/firefox-preview-product.gif" alt="Firefox 1.0 is coming November 9 2004" /> &iquest;Llega o no llega? A las 10 todavía se descarga el PR…![emo](/imagenes/emoticonos/pensativo.gif)
+<img class="imgizqda" src="http://www.mozilla.org/products/firefox/firefox-preview-product.gif" alt="Firefox 1.0 is coming November 9 2004" /> ¿Llega o no llega? A las 10 todavía se descarga el PR…![emo](/imagenes/emoticonos/pensativo.gif)

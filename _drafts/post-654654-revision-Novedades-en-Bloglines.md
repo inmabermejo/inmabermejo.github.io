@@ -13,10 +13,10 @@ Ayer seguro que a más de uno le pasó como a mi, estuvimos un buen rato trastea
 
 La forma de crear carpetas y manejarlas es mucho más sencilla, con un simple click se crea una carpeta, y para mover las suscripciones, **arrastrar y colocar**, qué alegría, qué alboroto! 
 
-&iquest;Inconveniente? cuando tienes muchas muchas carpetas o muchas muchas suscripciones y tienes scroll en el marco de edición, y arrastras una de muy abajo a muy arriba, el marco de edición _no se mueve_, lo tienes que mover tú para ver la zona de arriba (con el teclado, ya que con el ratón estás arrastrando…). Sería demasiado pedir que al arrastrar el elemento que quieres mover, se moviera el foco del marco hacia la parte que te estás moviendo… &iquest;o no?
+¿Inconveniente? cuando tienes muchas muchas carpetas o muchas muchas suscripciones y tienes scroll en el marco de edición, y arrastras una de muy abajo a muy arriba, el marco de edición _no se mueve_, lo tienes que mover tú para ver la zona de arriba (con el teclado, ya que con el ratón estás arrastrando…). Sería demasiado pedir que al arrastrar el elemento que quieres mover, se moviera el foco del marco hacia la parte que te estás moviendo… ¿o no?
 
 Borrarlas es igual de simple, seleccionar y click en el botón de borrar.  
-Y cambiar el nombre, exactamente igual que a los archivos en Windows (no sé si en Mac será así), click y luego otro click para editar ahí mismo. Doble click (uys, &iquest;esto no estaba patentado o algo?) para editar la suscripción.
+Y cambiar el nombre, exactamente igual que a los archivos en Windows (no sé si en Mac será así), click y luego otro click para editar ahí mismo. Doble click (uys, ¿esto no estaba patentado o algo?) para editar la suscripción.
 
 A mi al menos me ha encantado la experiencia de uso, me ha hecho mucho más rápida la reorganización de mis suscripciones, y por eso mismo, a quien lo lo use, le recomiendo al menos _que lo pruebe_.
 

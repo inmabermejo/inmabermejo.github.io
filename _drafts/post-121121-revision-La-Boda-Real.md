@@ -13,4 +13,4 @@ permalink: /2004/05/21/121-revision/
 > 
 > <a href=http://www.eluniversal.com.mx/pls/impreso/noticia.html?id_nota=34651&tabla=NUESTROMUNDO>El Universal Online</a>
 
-Que interesante, &iquest;no?
+Que interesante, ¿no?

@@ -15,4 +15,4 @@ Me resulta curioso que, después de dos meses, el buscador indexe el post de <a 
 También me ha llamado la atención que prácticamente todas las visitas que he recibido desde Zootropo llegaban desde su post sobre el por no con ni&ntilde;os y tal. Desde luego que la gente… a lo mejor al no encontrar ahí lo que buscaban (menudos comentarios) venían a ver si el diario de chavalina era X  
 ![asqueado](/imagenes/emoticonos/asqueado.gif) 
 
-Y otras tantas visitas con palabras clave como «colegial as», «azot es», «anticonceptivos de dibujos animados» y una serie de paranoias que tengo por ahí registradas. &iquest;Tanto ha degenerado esto?
+Y otras tantas visitas con palabras clave como «colegial as», «azot es», «anticonceptivos de dibujos animados» y una serie de paranoias que tengo por ahí registradas. ¿Tanto ha degenerado esto?

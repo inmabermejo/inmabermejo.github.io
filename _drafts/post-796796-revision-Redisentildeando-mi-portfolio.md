@@ -15,4 +15,4 @@ La verdad es que siempre que hago una web para mí, me siento muy insegura y aca
 
 Ahora es más importante que nunca, porque empiezo a meterme en el mundo del dise&ntilde;o web freelance, y esto va a ser mi escaparate, puede ayudarme o puede perjudicarme, por eso me gustaría tener algo de ayuda vuestra.
 
-&iquest;Opiniones y consejos?
+¿Opiniones y consejos?

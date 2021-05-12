@@ -27,7 +27,7 @@ permalink: /2004/05/30/126-revision/
       </p>
       
       <p>
-        &iquest;Y la foto? no, no tiene nada que ver, pero me apetecía <img src="/imagenes/emoticonos/sonrisa.gif" alt="sonrisa" width="16" height="16" />
+        ¿Y la foto? no, no tiene nada que ver, pero me apetecía <img src="/imagenes/emoticonos/sonrisa.gif" alt="sonrisa" width="16" height="16" />
       </p>
       
       <p>

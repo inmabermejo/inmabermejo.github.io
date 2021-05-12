@@ -1,6 +1,6 @@
 ---
 id: 1282
-title: '&iquest;Todos a favor del canon?'
+title: '¿Todos a favor del canon?'
 date: 2006-06-08T00:39:05+02:00
 author: Chavalina
 layout: revision

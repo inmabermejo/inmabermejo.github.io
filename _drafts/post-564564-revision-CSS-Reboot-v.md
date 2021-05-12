@@ -7,7 +7,7 @@ layout: revision
 guid: http://www.wp.chavalina.net/2005/11/01/564-revision/
 permalink: /2005/11/01/564-revision/
 ---
-Este es el resultado en este blog del segundo <a href="http://www.cssreboot.com" target="_blank">CSS Reboot</a>. &iquest;Una excusa para volver a escribir algo por aquí?
+Este es el resultado en este blog del segundo <a href="http://www.cssreboot.com" target="_blank">CSS Reboot</a>. ¿Una excusa para volver a escribir algo por aquí?
 
 Me gustaría dar un nuevo rumbo al blog. Quisiera escribir sobre programación y dise&ntilde;o, y dejar al margen los temas personales. La cuestión es que yo no sé cuántas veces he dicho ya eso, y por eso escribo menos, no me gusta borrar.
 

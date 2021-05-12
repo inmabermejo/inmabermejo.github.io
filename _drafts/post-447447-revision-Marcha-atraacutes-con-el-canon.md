@@ -7,4 +7,4 @@ layout: revision
 guid: http://www.wp.chavalina.net/2005/05/21/447-revision/
 permalink: /2005/05/21/447-revision/
 ---
-<a href="http://www.elotrolado.net/vernoticia.php?s=&#038;idnoticia=9010" target="_blank">&iquest;Marcha atrás con el canon?</a> no me fío nada nada.
+<a href="http://www.elotrolado.net/vernoticia.php?s=&#038;idnoticia=9010" target="_blank">¿Marcha atrás con el canon?</a> no me fío nada nada.

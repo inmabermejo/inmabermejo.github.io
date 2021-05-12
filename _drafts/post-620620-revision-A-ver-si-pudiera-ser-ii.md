@@ -9,4 +9,4 @@ permalink: /2006/02/01/620-revision/
 ---
 spam… remitiendo.  
 <a href="http://www.chavalina.net/comentar.php?idpost=607&#038;q=spam" target="_blank">Esta solución</a> fue eficaz contra el spam de referidos, y para el de comentarios y libro de visitas, simplemente pedí que la página de referencia fuera la de mis comentarios o la de mi libro de visitas.  
-A ver si me dura! &iquest;comentarios a esta solución? &iquest;sugerencias?
+A ver si me dura! ¿comentarios a esta solución? ¿sugerencias?

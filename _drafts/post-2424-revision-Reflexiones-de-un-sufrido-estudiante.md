@@ -50,7 +50,7 @@ consecuencia más frecuente. Puede deberse a dos factores:
 _Fase 5: Evasión de responsabilidades_  
 Frases más frecuentes:
 
-  * &iquest;Quién carajo me mandó a mí estudiar esta mierda de carrera? 
+  * ¿Quién carajo me mandó a mí estudiar esta mierda de carrera? 
   * Si es que con esta mierda de apuntes que tengo es imposible estudiar. 
   * No me presento.
 
@@ -69,9 +69,9 @@ Con el pasar de las horas uno tiende a sacar la parte mas reflexiva de
 nuestro ser, que en muchos casos denota graves alteraciones del estado  
 psíquico. Pensamientos comunes: 
 
-  * «&iquest;Por qué en la vida tenemos que sufrir así?» 
-  * «&iquest;De dónde viene, «por hache o por be»?» 
-  * «&iquest;Por qué apretamos más fuerte los botones del mando a distancia cuando  
+  * «¿Por qué en la vida tenemos que sufrir así?» 
+  * «¿De dónde viene, «por hache o por be»?» 
+  * «¿Por qué apretamos más fuerte los botones del mando a distancia cuando  
     éste tiene pocas pilas?…» 
   * «Me gustaría reencarnarme en un perro…vaya vidorra…»
 

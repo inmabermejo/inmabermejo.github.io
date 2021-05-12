@@ -12,5 +12,5 @@ permalink: /2003/12/31/13-revision/
 </p>
 
 <p align="left">
-  &iquest;Habéis hecho ya vuestra <span title="lista de buenos propósitos que no se piensa cumplir" class="anotacion">lista<br /> de buenos propósitos</span>? Yo sí, y espero llevar adelante<br /> al menos uno o dos…<br /> Pasadlo muy bien esta noche <img src="/imagenes/emoticonos/guino.gif" alt="emo" /><br /> y cuidado con los excesos, jeje <img src="/imagenes/emoticonos/asqueado.gif" alt="emo" />
+  ¿Habéis hecho ya vuestra <span title="lista de buenos propósitos que no se piensa cumplir" class="anotacion">lista<br /> de buenos propósitos</span>? Yo sí, y espero llevar adelante<br /> al menos uno o dos…<br /> Pasadlo muy bien esta noche <img src="/imagenes/emoticonos/guino.gif" alt="emo" /><br /> y cuidado con los excesos, jeje <img src="/imagenes/emoticonos/asqueado.gif" alt="emo" />
 </p>

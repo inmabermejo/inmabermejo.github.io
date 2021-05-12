@@ -13,7 +13,7 @@ Y yo que quería pasar un tiempo sin escribir por aquí…
 
 Veamos, tengo en la carpeta de las corcheas **540 canciones** muy bien organizadas por autor y disco, 1,6 días de música, 2,48gb.
 
-**&iquest;último disco que me compré?** Ufff… el último que yo compré fue porque era para regalo, el CD y libro de **Joaquín Sabina «Diario de un peatón»**. El último que me regalaron a mí fue **«Night Life» de Pet Shop Boys**, y el último que yo compré para mí, **«Bilingual»**, también de Pet Shop Boys, un disco que me encanta y que hace mil a&ntilde;os que no escucho.
+**¿último disco que me compré?** Ufff… el último que yo compré fue porque era para regalo, el CD y libro de **Joaquín Sabina «Diario de un peatón»**. El último que me regalaron a mí fue **«Night Life» de Pet Shop Boys**, y el último que yo compré para mí, **«Bilingual»**, también de Pet Shop Boys, un disco que me encanta y que hace mil a&ntilde;os que no escucho.
 
 Ahora mismo estoy escuchando una canción que se llama **Angel City** de **Helicopter Girl**, un gran descubrimiento, me encanta, aunque no sé si debería escucharlo ahora… voy a ponerme Nirvana que me apetece más…
 

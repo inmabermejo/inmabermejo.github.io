@@ -7,4 +7,4 @@ layout: revision
 guid: http://www.wp.chavalina.net/2005/05/11/432-revision/
 permalink: /2005/05/11/432-revision/
 ---
-**&iquest;Alguna vez te asomas por aquí sin que yo lo sepa?** Gracias a todos los que leen y comentan esta página, y a los que me escriben mails, siento no poder contestar a todos, intentaré hacerlo poco a poco.
+**¿Alguna vez te asomas por aquí sin que yo lo sepa?** Gracias a todos los que leen y comentan esta página, y a los que me escriben mails, siento no poder contestar a todos, intentaré hacerlo poco a poco.

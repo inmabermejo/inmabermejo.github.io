@@ -1,6 +1,6 @@
 ---
 id: 1401
-title: '&iquest;Qué fue de… (ii)'
+title: '¿Qué fue de… (ii)'
 date: 2008-12-24T16:17:28+02:00
 author: Chavalina
 layout: revision

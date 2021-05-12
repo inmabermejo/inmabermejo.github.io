@@ -1,6 +1,6 @@
 ---
 id: 2675
-title: '&iquest;No querías Caldum?'
+title: '¿No querías Caldum?'
 date: 2008-12-21T21:54:10+02:00
 author: Chavalina
 layout: revision

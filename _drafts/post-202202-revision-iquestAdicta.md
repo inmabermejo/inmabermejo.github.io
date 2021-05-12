@@ -1,6 +1,6 @@
 ---
 id: 1611
-title: '&iquest;Adicta?'
+title: '¿Adicta?'
 date: 2004-08-27T06:49:25+02:00
 author: Chavalina
 layout: revision
@@ -18,7 +18,7 @@ permalink: /2004/08/27/202-revision/
 Ahora estoy en casa y me encuentro con que no puedo levantarme del pc. 
 
 Pero es que normalmente no hago nada. Acaso leo un poco las noticias. O algún blog. O un poco el foro. Apenas chateo, y normalmente sólo con gente que conozco. El correo. Pero ahí estoy. Hasta me llevo la cena junto al pc.  
-&iquest;Plugged?
+¿Plugged?
 
 Con esta pinta cualquiera pensaría que tengo un problema. Y yo también si no fuera porque cuando estoy sin internet ni siquiera lo echo de menos. Salgo más. Estudio más. Trabajo más. Voy más a clase. Hasta veo la televisión. Escribo. Leo.
 

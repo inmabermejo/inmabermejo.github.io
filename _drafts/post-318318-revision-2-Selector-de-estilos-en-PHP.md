@@ -50,4 +50,4 @@ Además si estábamos en alguna zona concreta del documento (#referencias, #come
 Me gustaría que si veis otra forma más sencilla de hacer esto me lo digáis, que nunca está de más![emo](/imagenes/emoticonos/guino.gif) 
 
 Sin embargo, mi index.php sigue siendo demasiado pesado.  
-Pensé en «cortar» los artículos menos actuales (por ejemplo, los cinco más antiguos) de la portada dejando solo unas líneas a modo de resumen, pero no sé si es cómodo tener que hacer otro click para leer el artículo, a mi no me gusta mucho pero… &iquest;vosotros qué pensáis?
+Pensé en «cortar» los artículos menos actuales (por ejemplo, los cinco más antiguos) de la portada dejando solo unas líneas a modo de resumen, pero no sé si es cómodo tener que hacer otro click para leer el artículo, a mi no me gusta mucho pero… ¿vosotros qué pensáis?

@@ -1,6 +1,6 @@
 ---
 id: 1605
-title: '&iquest;Adicta? (ii)'
+title: '¿Adicta? (ii)'
 date: 2004-10-14T10:23:15+02:00
 author: Chavalina
 layout: revision

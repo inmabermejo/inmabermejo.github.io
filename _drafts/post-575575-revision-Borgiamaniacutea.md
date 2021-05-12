@@ -13,13 +13,13 @@ En principio parece atractiva, rodada entre Espa&ntilde;a e Italia, una buena am
 
 > éste es el comienzo de la _Borgiamanía_
 
-Comienzan la promoción de una película histórica queriendo convertirla en un fenómeno mediático, &iquest;un Star Wars? &iquest;un se&ntilde;or de los anillos? &iquest;un Operación Triunfo? &iquest;envía _fondo Borgia_ al 7777?
+Comienzan la promoción de una película histórica queriendo convertirla en un fenómeno mediático, ¿un Star Wars? ¿un se&ntilde;or de los anillos? ¿un Operación Triunfo? ¿envía _fondo Borgia_ al 7777?
 
 <img class="imgizqda" src="/imagenes/fotos/familiaborgia.jpg" alt="Familia Borgia" /> Me parece triste que en lugar de plantear la película como una forma de acercarse a la historia, al Renacimiento, a la gran influencia de una familia espa&ntilde;ola en una época, se plantee directamente como un negocio, sin disimular siquiera. 
 
 Sin llegar a la vulgaridad, se podría haber presentado introduciendo un poco la historia, insinuando, que seguro que hubiera cautivado a los que al final vamos a ir a ver la película, con lo morbosillos que somos los espa&ntilde;oles…
 
-Aunque viendo como está el patio _de butacas_, tampoco se puede esperar mucho más. Si hay que vender la película así, pues se hace y ya está, &iquest;no? que para eso ponen la pasta los productores, pero esto es un poco descarado.
+Aunque viendo como está el patio _de butacas_, tampoco se puede esperar mucho más. Si hay que vender la película así, pues se hace y ya está, ¿no? que para eso ponen la pasta los productores, pero esto es un poco descarado.
 
 Probablemente le esté dando más importancia de la que tiene a la <acronym title="Borgiamanía">palabrita</acronym>, quizá todo se quede en eso y no haya abuso de merchandising, aunque leyendo:
 

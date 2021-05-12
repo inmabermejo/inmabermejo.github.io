@@ -1,6 +1,6 @@
 ---
 id: 1534
-title: '&iquest;Dell se pasa a Linux?'
+title: '¿Dell se pasa a Linux?'
 date: 2006-01-05T02:53:51+02:00
 author: Chavalina
 layout: revision

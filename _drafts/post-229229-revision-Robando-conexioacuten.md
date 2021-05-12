@@ -7,7 +7,7 @@ layout: revision
 guid: http://www.wp.chavalina.net/2004/09/28/229-revision/
 permalink: /2004/09/28/229-revision/
 ---
-<img class="imgizqda" src="http://www.chavalina.net/imagenes/fotos/robando.gif" alt=&prime;Mi conexión "prestada&prime;" /> &iquest;Soy una delincuente?  
+<img class="imgizqda" src="http://www.chavalina.net/imagenes/fotos/robando.gif" alt=&prime;Mi conexión "prestada&prime;" /> ¿Soy una delincuente?  
 Ya me ha ocurrido varias veces que estando en mi piso en Murcia haciendo cualquier cosa con el pc se me ha descargado el correo. Conexión inalámbrica a internet y yo sin enterarme, albricias!
 
 Supongo que se tratará de uno de los router 3Com que pone Telefónica y que hay que proteger explícitamente, pero que un usuario <acronym title="los mismos que no podrían poner Debian jeje">normal</acronym> no protege. <a href="http://www.ladybenko.net/cafeina/2004/08/wireless.html" target="_blank">Y no es el único</a>.

@@ -1,6 +1,6 @@
 ---
 id: 1596
-title: '&iquest;Qué es mejor? (ii)'
+title: '¿Qué es mejor? (ii)'
 date: 2004-11-29T14:37:52+02:00
 author: Chavalina
 layout: revision
@@ -8,7 +8,7 @@ guid: http://www.wp.chavalina.net/2004/11/29/277-revision/
 permalink: /2004/11/29/277-revision/
 ---
 Cuando no puedes dormir…  
-&iquest;qué es mejor, la bebida (por ejemplo, una copa de brandy antes de dormir) o las pastillas (trankimazin y similares, no sé más nombres)?
+¿qué es mejor, la bebida (por ejemplo, una copa de brandy antes de dormir) o las pastillas (trankimazin y similares, no sé más nombres)?
 
 Sé que hay más soluciones. No me miréis así que no estoy buscando remedio a mi reciente insomnio![emo](/imagenes/emoticonos/guino.gif) para eso tengo otros remedios…  
-Es una conversación extra&ntilde;a que he tenido hoy. Yo creo que antes que pastillas cualquier cosa, aunque sea alcohol, &iquest;y vosotros?
+Es una conversación extra&ntilde;a que he tenido hoy. Yo creo que antes que pastillas cualquier cosa, aunque sea alcohol, ¿y vosotros?

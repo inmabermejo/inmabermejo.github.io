@@ -13,4 +13,4 @@ Me gustaría saber qué es esto:
   <img class="imgcentro" src="http://www.chavalina.net/imagenes/fotos/maquina.jpg" alt="Máquina misteriosa del siglo pasado" />
 </p>
 
-&iquest;Lo sabéis?
+¿Lo sabéis?

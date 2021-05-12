@@ -14,7 +14,7 @@ Rollyo es una sencilla aplicación que permite crear motores de búsqueda especi
 Me ha gustado mucho que el registro es uno de los más rápidos y fáciles de los que he encontrado, puedes estar creando tu primer motor en unos segundos. También es muy fácil de usar e intuitivo. El único problemilla (que no es un problema una vez que te das cuenta) con el que me he topado es que la **gestión de los motores** se encuentra bajo el elemento de menú <strong lang="en" title="Perfil">Profile</strong> en lugar de en <strong lang="en" title="Herramientas">Tools</strong>, donde están todas las utilidades y cositas que podemos hacer con los motores de búsqueda creados.
 
 <img class="imgizqda" src="/imagenes/fotos/mi-motor-rollyo.PNG" alt="Motor de búsqueda de Rollyo integrado en Firefox" />  
-&iquest;La mejor?  
+¿La mejor?  
 Bueno, tiene varias cosas interesantes. La que a mi me ha gustado más es la posibilidad de **a&ntilde;adir los motores a Firefox**, muy muy cómodo para usarlos en un click. 
 
 Como veis en la imagen, las **&ntilde;** no le caen bien![emo](/imagenes/emoticonos/triste.gif) 

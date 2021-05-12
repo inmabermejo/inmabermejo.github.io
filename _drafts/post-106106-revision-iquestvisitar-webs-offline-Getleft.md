@@ -1,6 +1,6 @@
 ---
 id: 1497
-title: '&iquest;visitar webs offline? Getleft'
+title: '¿visitar webs offline? Getleft'
 date: 2004-05-02T09:55:07+02:00
 author: Chavalina
 layout: revision

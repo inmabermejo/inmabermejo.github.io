@@ -1,6 +1,6 @@
 ---
 id: 1505
-title: '&iquest;Un emulador universal?'
+title: '¿Un emulador universal?'
 date: 2004-09-15T12:28:18+02:00
 author: Chavalina
 layout: revision
@@ -13,6 +13,6 @@ Mi querido y ausente <span class="alguien">Alfonso</span> me envió hoy por mail
 
 > QuickTransit software allows software applications that have been compiled for one processor and operating system to run on another processor and operating system without any source code or binary changes.
 
-Así que parece ser que será un emulador totalmente transparente y que perjudicará mínimamente el rendimiento. Ante esto, qué menos que ser escéptico, &iquest;no? yo al menos hasta que no lo vea no me lo creo. Simplemente no lo veo muy viable, demasiado bonito.
+Así que parece ser que será un emulador totalmente transparente y que perjudicará mínimamente el rendimiento. Ante esto, qué menos que ser escéptico, ¿no? yo al menos hasta que no lo vea no me lo creo. Simplemente no lo veo muy viable, demasiado bonito.
 
 Pero como sea verdad…

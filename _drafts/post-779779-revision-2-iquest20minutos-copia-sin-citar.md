@@ -1,6 +1,6 @@
 ---
 id: 2667
-title: '&iquest;20minutos copia sin citar?'
+title: '¿20minutos copia sin citar?'
 date: 2008-12-21T21:54:10+02:00
 author: Chavalina
 layout: revision

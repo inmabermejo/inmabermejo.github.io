@@ -10,7 +10,7 @@ permalink: /2006/01/19/615-revision/
 Necesito tiempo… necesito más tiempo.  
 Para pensar, aclarar mis ideas, para hacer lo que me gusta, para vivir…
 
-<a href="http://www.chavalina.net/comentar.php?idpost=615#c6334" target="_blank">AOH/Rasczak</a> me ha leído el pensamiento… en efecto estoy leyendo _Momo_. Me hace reflexionar mucho, porque últimamente creo que he puesto un Hombre Gris en mi vida, que me sigue a todas partes y no me deja disfrutar. Parece que trabajo más para… &iquest;para qué?
+<a href="http://www.chavalina.net/comentar.php?idpost=615#c6334" target="_blank">AOH/Rasczak</a> me ha leído el pensamiento… en efecto estoy leyendo _Momo_. Me hace reflexionar mucho, porque últimamente creo que he puesto un Hombre Gris en mi vida, que me sigue a todas partes y no me deja disfrutar. Parece que trabajo más para… ¿para qué?
 
 Siempre tengo algo que hacer, trabajo, prácticas, el dichoso y tan odiado <acronym title="Curso de Adaptación Pedagógica">CAP</acronym>, estudiar (_empezar_ a estudiar![emo](/imagenes/emoticonos/triste.gif) ), preparar materiales… y siempre tengo la sensación de que se me olvida hacer algo importante!
 

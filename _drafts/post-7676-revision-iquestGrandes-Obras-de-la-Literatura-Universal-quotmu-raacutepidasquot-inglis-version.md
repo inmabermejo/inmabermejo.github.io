@@ -1,6 +1,6 @@
 ---
 id: 1166
-title: '&iquest;Grandes Obras de la Literatura Universal &quot;mu rápidas&quot; inglis version?'
+title: '¿Grandes Obras de la Literatura Universal &quot;mu rápidas&quot; inglis version?'
 date: 2004-04-07T17:25:06+02:00
 author: Chavalina
 layout: revision

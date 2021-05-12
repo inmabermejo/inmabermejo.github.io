@@ -11,7 +11,7 @@ Como diría si estuviera en <a href="http://formulamania.com/news/index.php" tar
 
 Enhorabuena a los premiados, y otra vez será a los no premiados, como yo, por ejemplo, acabó por no gustarme el concurso, por los <a href="http://www.domestikalien.com/2005/06/06/20-blogs/" target="_blank">mismos motivos que Fran</a>. Bueno, al final la cosa parece que acaba bien, y que todos han quedado contentos, aunque me hubiera gustado que los ganara GaBuBu jeje.
 
-&iquest;Lo mejor?  
+¿Lo mejor?  
 Los blogs que he descubierto entre los finalistas y ganadores:
 
 <a href="http://www.elsentidodelavida.net/" target="_blank">El sentido de la vida</a>, ganador por votación popular (3000
