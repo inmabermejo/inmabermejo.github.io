@@ -1,6 +1,6 @@
 ---
 id: 1398
-title: 'M&uacute;sica House, Google y cr&eacute;ditos'
+title: 'M&uacute;sica House, Google y créditos'
 date: 2004-01-04T05:48:12+02:00
 author: Chavalina
 layout: revision
@@ -9,15 +9,15 @@ permalink: /2004/01/04/16-revision/
 ---
 &iquest;Tiene algo que ver una cosa con la otra? Pues no, pero desde aqu&iacute;  
 quiero recomendar dos sesiones de house de usuarios de Gsmspain (de nuevo![emo](/imagenes/emoticonos/risa.gif) )  
-<span class="alguien">X-RIDING</span> y <span class="alguien">BadzMindz</span>, ya se las pas&eacute; a mis amigos y han gustado  
-bastante, por eso tambi&eacute;n lo pongo aqu&iacute;, espero que no os  
-moleste&#8230; y si no, pues r&aacute;pido lo quito, no hay problema.
+<span class="alguien">X-RIDING</span> y <span class="alguien">BadzMindz</span>, ya se las pasé a mis amigos y han gustado  
+bastante, por eso también lo pongo aqu&iacute;, espero que no os  
+moleste… y si no, pues rápido lo quito, no hay problema.
 
-Adem&aacute;s he incluido en la parte de la derecha el buscador Google  
-<a href="#creditos" target="_self">y los cr&eacute;ditos al final de la<br /> p&aacute;gina</a>, poco a poco la p&aacute;gina se va llenando&#8230;jeje  
+Además he incluido en la parte de la derecha el buscador Google  
+<a href="#creditos" target="_self">y los créditos al final de la<br /> página</a>, poco a poco la página se va llenando…jeje  
 ![emo](/imagenes/emoticonos/gafas.gif) 
 
   * <a href="http://www.friky.com/BaDz/BaDz_Best_Of_2k3_Part1.mp3" target="_blank">Badz<br /> Best of 2k3 Part I</a>
   * <a href="http://www.friky.com/x-riding/Dj_Dario_-_Latin_House_Session_Vol_VIII_Diciembre_2003.mp3" target="_blank">Dj<br /> Dario Latin House Session Vol VIII Diciembre 2003</a> 
 
-  * <a href="#creditos" target="_self">P&aacute;gina de cr&eacute;ditos</a>
+  * <a href="#creditos" target="_self">Página de créditos</a>

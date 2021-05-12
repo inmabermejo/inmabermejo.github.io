@@ -7,7 +7,7 @@ layout: revision
 guid: http://www.chavalina.net/2015/11/15/3396-revision-v1/
 permalink: /2015/11/15/3396-revision-v1/
 ---
-Dicen que antes de la tempestad viene la calma&#8230; pero a mi siempre me suele pasar al revés. 
+Dicen que antes de la tempestad viene la calma… pero a mi siempre me suele pasar al revés. 
 
 <blockquote class="instagram-media" data-instgrm-captioned data-instgrm-version="5" style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:658px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);">
   <div style="padding:8px;">
@@ -28,7 +28,7 @@ Dicen que antes de la tempestad viene la calma&#8230; pero a mi siempre me suele
 
 
 
-Cuando tengo un par de semanas tranquilas&#8230; sé que algo se está gestando en algún sitio, y enseguida vendrá a por mi.
+Cuando tengo un par de semanas tranquilas… sé que algo se está gestando en algún sitio, y enseguida vendrá a por mi.
 
 Dos **fines de semana muy diferentes**, el primero lo aproveché mucho, visitando el pueblo, viendo a amigos y familia, y haciendo muchas fotos. Y éste que acaba, **trabajando días extra** para poder llegar a los Premios Xataka, y perdiéndome un par de eventos que tenía a la vista desde hace tiempo 🙁
 
@@ -55,7 +55,7 @@ Sábado y domingo pasados aproveché las mañanas para ir a hacer fotos por la <
 
 Teniendo que trabajar de más la última semana, **del nuevo horario, ni flores**. Dejé de ir al gimnasio, y, me sorprende, pero lo he echado de menos. Otras veces cuando he faltado lo he notado poco, pero la combinación de inactividad con tantas horas sentada **me ha hecho cisco la espalda**. A ver si mañana hago el ánimo de volver, antes de que le coja el gusto a no ir.
 
-Sólo pude sacar tiempo para acompañar a un buen amigo en su cumpleaños, y me descubrieron un nuevo bar que espero visitar a menudo en adelante, y para tener una _cita de negocios_, en interesante compañía, aunque sin resultado positivo. **Uno de mis proyectos personales hace aguas** tal y como lo concebía, a no ser que se produzca un giro inesperado&#8230; Pero no soy optimista.
+Sólo pude sacar tiempo para acompañar a un buen amigo en su cumpleaños, y me descubrieron un nuevo bar que espero visitar a menudo en adelante, y para tener una _cita de negocios_, en interesante compañía, aunque sin resultado positivo. **Uno de mis proyectos personales hace aguas** tal y como lo concebía, a no ser que se produzca un giro inesperado… Pero no soy optimista.
 
 Lo raro es que no se ha resentido la lectura. Ha caído un nuevo libro de [Wallander](http://www.amazon.es/gp/product/8483835231/ref=as_li_ss_tl?ie=UTF8&camp=3626&creative=24822&creativeASIN=8483835231&linkCode=as2&tag=chavadiari-21) en un santiamén. También [Thinking with type](http://thinkingwithtype.com/). Ya lo tenía medio leído porque está gratis online, pero ahora ya lo cogí en serio, que tengo la edición en papel y muy bien. Y hace unos días he empezado [Cita con Rama](http://www.amazon.es/gp/product/8435021521/ref=as_li_ss_tl?ie=UTF8&camp=3626&creative=24822&creativeASIN=8435021521&linkCode=as2&tag=chavadiari-21), un clásico de ciencia ficción que no recuerdo quién me lo recomendó, pero me está gustando mucho por ahora.
 

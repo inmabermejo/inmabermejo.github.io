@@ -13,6 +13,6 @@ Mi querido y ausente <span class="alguien">Alfonso</span> me envi&oacute; hoy po
 
 > QuickTransit software allows software applications that have been compiled for one processor and operating system to run on another processor and operating system without any source code or binary changes.
 
-As&iacute; que parece ser que ser&aacute; un emulador totalmente transparente y que perjudicar&aacute; m&iacute;nimamente el rendimiento. Ante esto, qu&eacute; menos que ser esc&eacute;ptico, &iquest;no? yo al menos hasta que no lo vea no me lo creo. Simplemente no lo veo muy viable, demasiado bonito.
+As&iacute; que parece ser que será un emulador totalmente transparente y que perjudicará m&iacute;nimamente el rendimiento. Ante esto, qué menos que ser escéptico, &iquest;no? yo al menos hasta que no lo vea no me lo creo. Simplemente no lo veo muy viable, demasiado bonito.
 
-Pero como sea verdad&#8230;
+Pero como sea verdad…

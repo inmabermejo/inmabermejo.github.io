@@ -7,17 +7,17 @@ layout: revision
 guid: http://www.chavalina.net/2014/05/30/3167-revision-v1/
 permalink: /2014/05/30/3167-revision-v1/
 ---
-No sólo escribiendo tarde, sino que&#8230; **se me había olvidado el resumen semanal**! Me acordé ayer mismo, inocente de mi, con esa sensación de que te has dejado algo en algún sitio&#8230; y era esto. Bueno, ahora ración doble.
+No sólo escribiendo tarde, sino que… **se me había olvidado el resumen semanal**! Me acordé ayer mismo, inocente de mi, con esa sensación de que te has dejado algo en algún sitio… y era esto. Bueno, ahora ración doble.
 
 
 
-Como la ración de [caldero con corvina del Mar Menor](http://www.regmurcia.com/servlet/s.Sl?sit=c,543,m,2067,&r=ReP-4335-DETALLE_REPORTAJES) que me he zampado hoy, que me ha salido y sentado tan bien que no puedo dejar de contarlo. Receta típica de Murcia, con pocos ingredientes y toda la esencia del mar&#8230; Imperdible, probadlo si podéis.
+Como la ración de [caldero con corvina del Mar Menor](http://www.regmurcia.com/servlet/s.Sl?sit=c,543,m,2067,&r=ReP-4335-DETALLE_REPORTAJES) que me he zampado hoy, que me ha salido y sentado tan bien que no puedo dejar de contarlo. Receta típica de Murcia, con pocos ingredientes y toda la esencia del mar… Imperdible, probadlo si podéis.
 
-Móvil partido, y dos semanas sin Instagram&#8230; útil para darme cuenta de que es **la única red que echo de menos**. Ya creo que es la única que me gusta.
+Móvil partido, y dos semanas sin Instagram… útil para darme cuenta de que es **la única red que echo de menos**. Ya creo que es la única que me gusta.
 
 Y, por otro lado, mi [alta fidelidad a Nokia](http://www.chavalina.net/2004/06/16/post-141/) en la cuerda floja. Después del castigo que me dio conseguir mi último móvil, me ha durado dos meses. Y sigo arrepintiéndome de no haber comprado aquel iPhone absurdamente barato y caro.
 
-¿Pasaré página? El lunes hay evento de Apple&#8230;
+¿Pasaré página? El lunes hay evento de Apple…
 
 Esta semana en **WSL** principalmente he estado trabajando en **la tarea R**. Respecto al diseño de la **visualización**, el feedback fue muy bueno, y me dediqué añadir algunas formas de navegación (todo es navegable!), y también surgió una oportunidad de hacer un cambio de más alcance. 
 

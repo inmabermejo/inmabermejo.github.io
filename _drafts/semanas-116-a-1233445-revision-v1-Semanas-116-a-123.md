@@ -97,7 +97,7 @@ Desde el principio **he huido del procesado**, o _revelado_ de fotografía digit
 
 Creo que mi rechazo viene de haber visto «fotos» demasiado procesadas, irreales, que para mi no deberían llamarse fotos, sino «imágenes», así que si me animo, tendré que esforzarme en no caer en eso, y mantener la naturalidad todo lo posible.
 
-A pesar de los malos resultados, me ha divertido cambiar el registro y encontrar nuevos retos. Hacer fotos que hasta el año que viene no podré volver a intentar&#8230; Así que he empezado un nuevo **cuaderno** de mis experiencias haciendo fotos, los fallos, lo que hubiera hecho distinto&#8230; cuando el año que viene llegue la Semana Santa y las fiestas de Primavera, espero que me sirva para no cometer los mismos errores.
+A pesar de los malos resultados, me ha divertido cambiar el registro y encontrar nuevos retos. Hacer fotos que hasta el año que viene no podré volver a intentar… Así que he empezado un nuevo **cuaderno** de mis experiencias haciendo fotos, los fallos, lo que hubiera hecho distinto… cuando el año que viene llegue la Semana Santa y las fiestas de Primavera, espero que me sirva para no cometer los mismos errores.
 
 <blockquote class="instagram-media" data-instgrm-captioned data-instgrm-version="6" style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:658px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);">
   <div style="padding:8px;">
@@ -120,7 +120,7 @@ A pesar de los malos resultados, me ha divertido cambiar el registro y encontrar
 
 Y es que últimamente me ha dado por **documentarlo casi todo** (menos lo que debería: el código). 
 
-Con las lecturas, también lo estoy haciendo. Ahora cada artículo que leo, lo resumo, apunto las ideas que me han llamado la atención y lo que ha significado para mi, lo que yo opino respecto al tema que se trata&#8230; Algo que si dentro de seis meses quiero volver sobre ello, me ponga en contexto rápidamente, y me ahorre volver a leer si no quiero, a la vez que me ayuda a fijar mejor lo que he leído.
+Con las lecturas, también lo estoy haciendo. Ahora cada artículo que leo, lo resumo, apunto las ideas que me han llamado la atención y lo que ha significado para mi, lo que yo opino respecto al tema que se trata… Algo que si dentro de seis meses quiero volver sobre ello, me ponga en contexto rápidamente, y me ahorre volver a leer si no quiero, a la vez que me ayuda a fijar mejor lo que he leído.
 
 En mi propósito de simplificación de la vida, tras la purga que he hecho de mis fuentes de redes sociales, guardo menos lecturas para luego, y las consumo con más frecuencia. Y ya **no comparto nada que no haya leído**. También como muestra de respeto a los que me tienen a mi como fuente. Tampoco es que lo hiciera muchísimo, pero ahora es la norma.
 
@@ -128,11 +128,11 @@ He empezado una **lectura nueva**, en realidad la revisión de una traducción a
 
 No he dedicado mucho más tiempo a _la ilustración_, estoy muy distraída persiguiendo otros **proyectos que no terminan de salir**, que cuando parece que lo rozas con los dedos, se escapa un poco. Y veremos si no acabo mandándolo a tomar viento. ¿Por qué es tan escasa en estos días la claridad, la honestidad, el ir de frente y con las cartas boca arriba?
 
-Aunque me entretengo con aperitivos, como reorganizar mi terraza -este año creo que no habrá cosecha-, o haciendo limpieza de documentos, analógicos y digitales -tirando agendas desde 2007-, hasta que no zanje ese otro proyecto, me va a costar descansar&#8230;
+Aunque me entretengo con aperitivos, como reorganizar mi terraza -este año creo que no habrá cosecha-, o haciendo limpieza de documentos, analógicos y digitales -tirando agendas desde 2007-, hasta que no zanje ese otro proyecto, me va a costar descansar…
 
 <blockquote class="twitter-tweet" data-lang="en">
   <p lang="es" dir="ltr">
-    La espera, la incertidumbre&#8230; &#x1f601;
+    La espera, la incertidumbre… &#x1f601;
   </p>
   
   <p>
@@ -142,9 +142,9 @@ Aunque me entretengo con aperitivos, como reorganizar mi terraza -este año creo
 
 
 
-En el trabajo hay bastantes novedades, pero poco que se pueda comentar todavía. Hemos preparado las versiones **AMP** de nuestras páginas para que Google pueda mostrarlas en su búsqueda en móvil. En mi opinión, este tipo de cosas no son beneficiosas. Al final, es un código propietario, y si el HTML se usara con las mismas restricciones, no causaría los problemas de rendimiento que se supone que ataja esta versión. Al final cada gigante -Google, Apple, Facebook- va a intentar imponer su versión para algo que ya funcionaría bien con el estándar si nosotros mismos no abusáramos&#8230;
+En el trabajo hay bastantes novedades, pero poco que se pueda comentar todavía. Hemos preparado las versiones **AMP** de nuestras páginas para que Google pueda mostrarlas en su búsqueda en móvil. En mi opinión, este tipo de cosas no son beneficiosas. Al final, es un código propietario, y si el HTML se usara con las mismas restricciones, no causaría los problemas de rendimiento que se supone que ataja esta versión. Al final cada gigante -Google, Apple, Facebook- va a intentar imponer su versión para algo que ya funcionaría bien con el estándar si nosotros mismos no abusáramos…
 
-He continuado la tarea de rediseño de otra parte de nuestro front-end, con **diseño de un sistema** que nos permita escalar y ser flexibles. Parece que vamos bien, se observan rigurosamente los objetivos impuestos, y está convenciendo bastante a los equipos, pero está llevando más tiempo del que queríamos. Hay que apretar, pero para ello también haría falta bloquear más recursos para esto&#8230; empecé trabajando con mi compañero Javi y nuestro director creativo Óscar, pero pronto me he quedado sola con esta tarea, y me apena que siempre vayamos tan cortos.
+He continuado la tarea de rediseño de otra parte de nuestro front-end, con **diseño de un sistema** que nos permita escalar y ser flexibles. Parece que vamos bien, se observan rigurosamente los objetivos impuestos, y está convenciendo bastante a los equipos, pero está llevando más tiempo del que queríamos. Hay que apretar, pero para ello también haría falta bloquear más recursos para esto… empecé trabajando con mi compañero Javi y nuestro director creativo Óscar, pero pronto me he quedado sola con esta tarea, y me apena que siempre vayamos tan cortos.
 
 Además, tengo las tareas _pequeñas_ de siempre, soporte de nuestro CMS y a desarrolladores, que he tenido que reducir bastante, a una hora o poco más al día, porque si no, no llego con la tarea gorda. Por ahora lo vamos llevando, pero se acumulan algunas cosas y me preocupa también. Pero me alegro de que al menos sigo **respetando mi horario** y no caigo en antiguos malos hábitos.
 

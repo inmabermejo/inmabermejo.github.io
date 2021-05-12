@@ -7,11 +7,11 @@ layout: revision
 guid: http://www.wp.chavalina.net/2004/05/24/124-revision/
 permalink: /2004/05/24/124-revision/
 ---
-Juan Piernas es un profesor de la Facultad de Inform&aacute;tica de la Universidad de Murcia.
+Juan Piernas es un profesor de la Facultad de Informática de la Universidad de Murcia.
 
-Y este profesor me impresion&oacute; un d&iacute;a resolvi&eacute;ndome una duda de mis pr&aacute;cticas de Redes. Y hoy vuelve a impresionarme un art&iacute;culo de la <a href="http://www.revistaecho.com/" target="_blank">revista {echo}</a> (n&uacute;mero 16) de la facultad de Inform&aacute;tica de la Universidad, presentando un sistema de ficheros desarrollado por &eacute;l. 
+Y este profesor me impresion&oacute; un d&iacute;a resolviéndome una duda de mis prácticas de Redes. Y hoy vuelve a impresionarme un art&iacute;culo de la <a href="http://www.revistaecho.com/" target="_blank">revista {echo}</a> (n&uacute;mero 16) de la facultad de Informática de la Universidad, presentando un sistema de ficheros desarrollado por él. 
 
-> ## DualFS en la pr&aacute;ctica
+> ## DualFS en la práctica
 > 
 > La versi&oacute;n que tuve la oportunidad de probar es todav&iacute;a experimental, por lo que hay  
 > que considerar los resultados con cautela. Lo primero que hice fue compilarme un kernel 2.4.19,  
@@ -24,18 +24,18 @@ Y este profesor me impresion&oacute; un d&iacute;a resolvi&eacute;ndome una duda
 > de metadatos y datos es tan sencillo como el cualquier otro sistema de ficheros, la &uacute;nica  
 > diferencia es que hay que indicar dos dispositivos en lugar de uno, simplemente escribir: mkdualfs  
 > dispositivo\_metadatos dispositivo\_datos para formatear con todas las opciones por defecto. El  
-> montaje tambi&eacute;n es igual salvo que se debe indicar el dispositivo de metadatos como dispositivo a  
+> montaje también es igual salvo que se debe indicar el dispositivo de metadatos como dispositivo a  
 > montar.
 > 
-> Prob&eacute; a hacer algunas operaciones con DualFS para compararlas con los sistemas de  
-> ficheros con journaling: xfs, reiserfs, jfs y ext3. Las pruebas las cronometr&eacute; y pese a que realic&eacute;  
+> Probé a hacer algunas operaciones con DualFS para compararlas con los sistemas de  
+> ficheros con journaling: xfs, reiserfs, jfs y ext3. Las pruebas las cronometré y pese a que realicé  
 > las pruebas con las dos particiones adyacentes en el mismo disco duro, los resultados son positivos:  
 > DualFS destac&oacute; en las operaciones con metadatos, en concreto en borrados y una prueba que  
 > combinaba recorrido de directorios con lectura de algunos archivos. Todos los datos con estas  
-> pruebas pod&eacute;is encontrarlos en <a href="http://webs.ono.com/virginiogl_web" target="_blank">http://webs.ono.com/virginiogl_web</a>
+> pruebas podéis encontrarlos en <a href="http://webs.ono.com/virginiogl_web" target="_blank">http://webs.ono.com/virginiogl_web</a>
 > 
 > <p class="cita">
->   Fuente: Virginio Garc&iacute;a L&oacute;pez,<a href="http://www.revistaecho.com/" target="_blank"> n&uacute;mero 16, revista {echo}</a> de la Facultad de Inform&aacute;tica de la UM
+>   Fuente: Virginio Garc&iacute;a L&oacute;pez,<a href="http://www.revistaecho.com/" target="_blank"> n&uacute;mero 16, revista {echo}</a> de la Facultad de Informática de la UM
 > </p>
 
-Aqu&iacute; ten&eacute;is el art&iacute;culo completo para quien no quiera bajar la revista&#8230; quer&iacute;a poner un emoticono pero no s&eacute; cu&aacute;l poner.
+Aqu&iacute; tenéis el art&iacute;culo completo para quien no quiera bajar la revista… quer&iacute;a poner un emoticono pero no sé cuál poner.

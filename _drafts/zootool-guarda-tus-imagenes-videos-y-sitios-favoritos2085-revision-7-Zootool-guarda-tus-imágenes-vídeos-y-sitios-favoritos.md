@@ -11,7 +11,7 @@ permalink: /2010/10/17/2085-revision-7/
 
 **Zootool** es un servicio de **marcadores** que te permite guardar cualquier imagen, vídeo, o una imagen de la página que estás viendo. 
 
-Por supuesto también puedes categorizar el contenido, etiquetarlo, agruparlo, compartirlo en tus sitios sociales favoritos, añadir contactos&#8230; en fin, todas las funcionalidades que se pueden esperar hoy día de un servicio web 🙂
+Por supuesto también puedes categorizar el contenido, etiquetarlo, agruparlo, compartirlo en tus sitios sociales favoritos, añadir contactos… en fin, todas las funcionalidades que se pueden esperar hoy día de un servicio web 🙂
 
 Descubrí esta herramienta gracias a [Kemie en twitter](http://twitter.com/kemie/statuses/25033713156), y la estoy utilizando para guardar los sitios e imágenes que me inspiran, que me parecen bellos o simplemente que tienen algún detalle que me ha llamado la atención.
 

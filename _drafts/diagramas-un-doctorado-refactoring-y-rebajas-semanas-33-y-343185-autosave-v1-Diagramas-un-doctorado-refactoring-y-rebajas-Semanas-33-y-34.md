@@ -25,7 +25,7 @@ También empecé una tarea que llevaba tiempo pendiente: **refactorizar** el CSS
 
 Así que, como la arquitectura está muy definida en este momento, he empezado a **hacer limpieza y a crear módulos reutilizables** pero extensibles, para, por ejemplo, tener una definición base de botones, y luego sólo tener que ajustar las mínimas propiedades necesarias para adaptarlo a móviles o tablets (ej. tamaño del área pulsable, o del texto), todo a través de LESS. Así tendremos un código más sencillo, modular, con menos sitio para errores, y más fácil de mantener.
 
-Botones, iconos, formularios, colores&#8230; es lo básico que he abordado esta emana, pero aun queda la mayor parte, que seguiré haciendo poco a poco. Después además quiero construir una **guía del estilo** de la de [Mapbox](https://www.mapbox.com/base/styling/components/) o [Heroku](http://sfdc-styleguide.herokuapp.com/) que permita a front-ends y desarrolladores usar los componentes fácilmente, y respetando el estilo.
+Botones, iconos, formularios, colores… es lo básico que he abordado esta emana, pero aun queda la mayor parte, que seguiré haciendo poco a poco. Después además quiero construir una **guía del estilo** de la de [Mapbox](https://www.mapbox.com/base/styling/components/) o [Heroku](http://sfdc-styleguide.herokuapp.com/) que permita a front-ends y desarrolladores usar los componentes fácilmente, y respetando el estilo.
 
 También he empezado a preparar una escala tipográfica nueva, que no será tan sencilla de incorporar en esta refactorización como el resto de componentes. Necesita mucho más trabajo de diseño previo, pero es necesario también.
 

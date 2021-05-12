@@ -8,7 +8,7 @@ guid: http://www.chavalina.net/2008/12/24/11-revision-2/
 permalink: /2008/12/24/11-revision-2/
 ---
 <p align="left">
-  El compa&ntilde;ero <span class="alguien">P&iacute;ramo</span> de GsmSpain me ha hecho algunos comentarios sobre las utilidades m&aacute;s<br /> generales de Javascript:
+  El compa&ntilde;ero <span class="alguien">P&iacute;ramo</span> de GsmSpain me ha hecho algunos comentarios sobre las utilidades más<br /> generales de Javascript:
 </p>
 
 > <p align="left">
@@ -20,11 +20,11 @@ permalink: /2008/12/24/11-revision-2/
 > </p>
 
 <p align="left">
-  Esto &uacute;ltimo sobre Microsoft&#8230; <img src="./imagenes/emoticonos/confuso.gif"  alt="emo" />
+  Esto &uacute;ltimo sobre Microsoft… <img src="./imagenes/emoticonos/confuso.gif"  alt="emo" />
 </p>
 
 <p align="left">
-  En fin, por ahora dejo algo muy b&aacute;sico (solo 96 p&aacute;ginas)<br /> por si alguien quiere echarle un vistazo.
+  En fin, por ahora dejo algo muy básico (solo 96 páginas)<br /> por si alguien quiere echarle un vistazo.
 </p>
 
-  * <a href="ficheros/ficheros.php#javascript" target="_blank">Manuales b&aacute;sicos de JavaScript</a>
+  * <a href="ficheros/ficheros.php#javascript" target="_blank">Manuales básicos de JavaScript</a>

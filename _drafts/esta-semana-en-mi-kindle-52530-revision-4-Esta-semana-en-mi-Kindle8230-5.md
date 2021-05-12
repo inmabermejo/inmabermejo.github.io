@@ -1,13 +1,13 @@
 ---
 id: 2544
-title: 'Esta semana en mi Kindle&#8230; (5)'
+title: 'Esta semana en mi Kindle… (5)'
 date: 2011-06-11T17:11:37+02:00
 author: Chavalina
 layout: revision
 guid: http://www.chavalina.net/2011/06/11/2530-revision-4/
 permalink: /2011/06/11/2530-revision-4/
 ---
-Es verdad que la semana pasada fue la primera que di palo, sí&#8230; pero aquí va mi recopilación de enlaces, ración doble incluyendo los guardados la semana anterior:
+Es verdad que la semana pasada fue la primera que di palo, sí… pero aquí va mi recopilación de enlaces, ración doble incluyendo los guardados la semana anterior:
 
 **Política, economía, vida y el mundo en general:**
 
@@ -38,4 +38,4 @@ Es verdad que la semana pasada fue la primera que di palo, sí&#8230; pero aquí
       * <a href="http://webdesign.about.com/od/colorcharts/l/bl_colorculture.htm" target="_blank">Visual Color Symbolism Chart by Culture &#8211; Cultural Color Symbolism Chart</a>
       * <a href="http://www.ivoserrano.com/diseno-web/el-uso-del-color-y-su-significado-en-el-diseno-web/#more-506" target="_blank">El uso del color y su significado en el diseño web &#8211; Ivan Serrano Regol | www.ivoserrano.com</a>
 
-Buen fin de semana a todos, haced algo especial, y ya sabéis&#8230; <a href="http://www.google.es/url?sa=t&source=web&cd=1&ved=0CCIQFjAA&url=http%3A%2F%2Fes.wikipedia.org%2Fwiki%2FMovimiento_slow&rct=j&q=slow&ei=e5PzTbaDDJCzhAe98NXmBg&usg=AFQjCNFn_v4PQCR1Q331BJgRY3RrnX-r8w&cad=rja" target="_blank"><em>take it slow!</em></a>
+Buen fin de semana a todos, haced algo especial, y ya sabéis… <a href="http://www.google.es/url?sa=t&source=web&cd=1&ved=0CCIQFjAA&url=http%3A%2F%2Fes.wikipedia.org%2Fwiki%2FMovimiento_slow&rct=j&q=slow&ei=e5PzTbaDDJCzhAe98NXmBg&usg=AFQjCNFn_v4PQCR1Q331BJgRY3RrnX-r8w&cad=rja" target="_blank"><em>take it slow!</em></a>

@@ -7,4 +7,4 @@ layout: revision
 guid: http://www.wp.chavalina.net/2008/12/25/707-autosave/
 permalink: /2008/12/25/707-autosave/
 ---
-<a href="http://www.processblack.com/weblog/a-vueltas-con-mi-ibook" target="_blank">Pantallas azules en un iBook</a>, el de Miguel, para más señas, y <a href="http://www.alt1040.com/archivo/2006/06/15/lista-de-problemas-que-he-tenido-con-apple-en-los-ultimos-dos-anos/" target="_blank">a Eduardo tampoco le ha ido mucho mejor</a>. Si es que los Macs tientan mucho pero en todas partes cuecen habas&#8230;
+<a href="http://www.processblack.com/weblog/a-vueltas-con-mi-ibook" target="_blank">Pantallas azules en un iBook</a>, el de Miguel, para más señas, y <a href="http://www.alt1040.com/archivo/2006/06/15/lista-de-problemas-que-he-tenido-con-apple-en-los-ultimos-dos-anos/" target="_blank">a Eduardo tampoco le ha ido mucho mejor</a>. Si es que los Macs tientan mucho pero en todas partes cuecen habas…

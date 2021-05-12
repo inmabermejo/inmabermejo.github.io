@@ -1,6 +1,6 @@
 ---
 id: 1437
-title: 'G&aacute;nate el respeto que deseas'
+title: 'Gánate el respeto que deseas'
 date: 2008-01-19T11:09:21+02:00
 author: Chavalina
 layout: revision
@@ -10,5 +10,5 @@ permalink: /2008/01/19/832-revision/
 Me ha encantado la campa&ntilde;a de la &oacute;ptica Oogmerk, la he visto en <a href="http://blog.magnoliart.com/2008/01/17/oogmerk-ganate-el-respeto-que-deseas/" target="_blank">el blog de Magnoliart</a> 
 
 <p class="imgcentro">
-  <img src="/imagenes/fotos/oogmerk.jpg" alt="Campa&ntilde;a gr&aacute;fica de la &oacute;ptica Oogmerk" />
+  <img src="/imagenes/fotos/oogmerk.jpg" alt="Campa&ntilde;a gráfica de la &oacute;ptica Oogmerk" />
 </p>

@@ -31,7 +31,7 @@ Además, en cuanto a lo económico, **tampoco es gratis**:
   * Hay que guardar lo descargado en algún sitio, así que compramos (o comprábamos) CDs y DVDs en grandes cantidades, discos duros de alta capacidad.
   * Aparte del precio de los soportes, se agrega <a href="http://www.rtve.es/noticias/20101021/tribunal-ue-declara-ilegal-canon-digital-aplicado-espana/363681.shtml" target="_blank">el canon, recientemente declarado ilegal</a>, y no barato precisamente, aunque no uses los soportes para descargar contenidos.
   * Hay gente que paga un precio anual a páginas como Megaupload o Rapidshare para poder descargar a más velocidad.
-  * Otros incluso llegan a contratar servicios de <a href="http://www.anexom.es/tecnologia/mi-conexion/vpn-%C2%BFque-es-y-para-que-sirve/" target="_blank">VPN (redes privadas virtuales)</a> para poder <a href="http://walhez.com/2009/12/guia-definitiva-para-tener-hulu-netflix-spotify-y-vevo-fuera-de-eua/" target="_blank">acceder a servicios de distribución de contenidos en otros países</a> (como Hulu, Netflix&#8230;).
+  * Otros incluso llegan a contratar servicios de <a href="http://www.anexom.es/tecnologia/mi-conexion/vpn-%C2%BFque-es-y-para-que-sirve/" target="_blank">VPN (redes privadas virtuales)</a> para poder <a href="http://walhez.com/2009/12/guia-definitiva-para-tener-hulu-netflix-spotify-y-vevo-fuera-de-eua/" target="_blank">acceder a servicios de distribución de contenidos en otros países</a> (como Hulu, Netflix…).
   * Estos servicios de distribución de contenidos, también se pagan o bien tienen publicidad.
 
 O sea, que no es que no se quiera pagar. Hay gente dispuesta a ello. Entre ellos, yo misma.

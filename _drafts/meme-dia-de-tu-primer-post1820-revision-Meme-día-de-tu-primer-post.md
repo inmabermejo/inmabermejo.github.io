@@ -13,4 +13,4 @@ Así que aquí está, mi primer post en este blog, [«Puesta en marcha»](http:/
 
 Desde luego es una buena muestra de que hace más el que quiere que el que puede, ya que en esos momentos este blog era solo un grupo de páginas estáticas, sin base de datos siquiera, y después incluso me atreví a desarrollar mi propio sistema de gestión de contenidos, como David y otros tantos _pioneros_ (me permito la licencia jeje).
 
-Y ahora, con tantas facilidades, WordPress, Flickr, Twitter&#8230;
+Y ahora, con tantas facilidades, WordPress, Flickr, Twitter…

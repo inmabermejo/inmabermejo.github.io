@@ -11,6 +11,6 @@ permalink: /2007/02/11/783-revision/
 
 Creo que merece la pena hacerlo, las tres mayoritarias, Vodafone, Movistar y Orange, suben los precios para recuperar lo que perder&iacute;an al comenzar a facturar por segundos.
 
-Yo me hice un contrato en diciembre y creo que lo voy a rescindir, para pasar a prepago al menos, y despu&eacute;s ya veremos, Yoigo tiene buena pinta, pero tengo miedo de la penalizaci&oacute;n, como todo el mundo.
+Yo me hice un contrato en diciembre y creo que lo voy a rescindir, para pasar a prepago al menos, y después ya veremos, Yoigo tiene buena pinta, pero tengo miedo de la penalizaci&oacute;n, como todo el mundo.
 
-Si quer&eacute;is m&aacute;s informaci&oacute;n, en esa misma web la ten&eacute;is, en <a href="http://www.gsmspain.com/foros/f6_Operadores.html" target="_blank">los foros de Operadores de Gsmspain</a> tambi&eacute;n pod&eacute;is resolver dudas.
+Si queréis más informaci&oacute;n, en esa misma web la tenéis, en <a href="http://www.gsmspain.com/foros/f6_Operadores.html" target="_blank">los foros de Operadores de Gsmspain</a> también podéis resolver dudas.

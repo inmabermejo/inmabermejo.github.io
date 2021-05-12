@@ -7,7 +7,7 @@ layout: revision
 guid: http://www.chavalina.net/2016/11/07/3473-revision-v1/
 permalink: /2016/11/07/3473-revision-v1/
 ---
-Como decíamos ayer&#8230;
+Como decíamos ayer…
 
 <blockquote class="instagram-media" data-instgrm-captioned data-instgrm-version="7" style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:658px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);">
   <div style="padding:8px;">
@@ -110,9 +110,9 @@ Y menos mal que en el viaje le di un poco a la cámara, porque con el dichoso Po
 
 Aparte del viaje, no me he aburrido este mes, casi a fiesta por semana, entre cumpleaños y comidas. Dos de mis mejores amigas, que suelen celebrarlo juntas, pero esta vez no pudo ser —las cosas cambian—, pues nada, dos fiestas en vez de una :-). Y el 40 cumpleaños de la hermana de una de ellas, que tuvo el detalle de invitarnos también. Y tengo que agradecérselo de verdad, porque menudo evento se marcaron, al nivel de algunas fiestas patronales 😀
 
-Y otra muy buena amiga está de enhorabuena&#8230; pero aún no lo sabe todo el mundo, así que shhhh&#8230; ya lo celebraremos 🙂
+Y otra muy buena amiga está de enhorabuena… pero aún no lo sabe todo el mundo, así que shhhh… ya lo celebraremos 🙂
 
-Mis aventuras inmobiliarias siguen su curso. Esta semana será decisiva&#8230; pero mientras, de **paseo por los bancos** sólo para ver que inutilidad, condescendencia y pillería es una mezcla tan habitual que me pregunto si no serán asignaturas de algún MBA. Ni siquiera teniendo las cosas muy claras, y pidiéndolas tal cual es posible tener una conversación _profesional_, y hay que aguantar que te traten como si no supieras ni sumar. Vamos, que un poco más y hasta me ofrecen la vajilla, pero no saben decirme a qué valores del IBEX se referencia un producto. Y luego que por qué tienen los días contados&#8230; porque es que ya no es que no aporten, es que restan.
+Mis aventuras inmobiliarias siguen su curso. Esta semana será decisiva… pero mientras, de **paseo por los bancos** sólo para ver que inutilidad, condescendencia y pillería es una mezcla tan habitual que me pregunto si no serán asignaturas de algún MBA. Ni siquiera teniendo las cosas muy claras, y pidiéndolas tal cual es posible tener una conversación _profesional_, y hay que aguantar que te traten como si no supieras ni sumar. Vamos, que un poco más y hasta me ofrecen la vajilla, pero no saben decirme a qué valores del IBEX se referencia un producto. Y luego que por qué tienen los días contados… porque es que ya no es que no aporten, es que restan.
 
 <blockquote class="instagram-media" data-instgrm-captioned data-instgrm-version="7" style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:658px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);">
   <div style="padding:8px;">
@@ -139,9 +139,9 @@ El primer cambio que hicimos fue añadir una sección de contenidos _importantes
 
 Y esta semana cambiamos la estructura y diseño del <em lang="en">river of news</em>, el listado de noticias en orden cronológico inverso. Teníamos contenidos muy grandes, con mucho texto, el típico formato de listado de blog, que permite consumir mucho contenido ahí mismo. Pero el objetivo de nuestra portada es dirigir tráfico, y ahora tenemos un listado más escaneable y corto, incluso habiendo doblado el número de noticias en la lista.
 
-Además, he diseñado distintos formatos para los distintos tipos de contenido. Artículos más trabajados, <em lang="en">longforms</em>, guías de compra&#8230; tendrán ahora un aspecto distinto y reconocible desde la portada, cuando antes eran todos iguales.
+Además, he diseñado distintos formatos para los distintos tipos de contenido. Artículos más trabajados, <em lang="en">longforms</em>, guías de compra… tendrán ahora un aspecto distinto y reconocible desde la portada, cuando antes eran todos iguales.
 
-A ver qué resultados obtenemos en esta iteración. Por ahora, menos comentarios negativos de lo que me esperaba, pero algunos, claro. Y mientras ya está en el horno la siguiente&#8230;
+A ver qué resultados obtenemos en esta iteración. Por ahora, menos comentarios negativos de lo que me esperaba, pero algunos, claro. Y mientras ya está en el horno la siguiente…
 
 Este proceso está siendo muy intensivo para mi. Tengo que trabajar por delante del equipo de desarrollo, y además de UX, diseño visual y front-end, estoy asumiendo una parte de lo que hacía nuestra directora de producto. Y no me queda nada de tiempo para la documentación, que me había propuesto llevar al día.
 

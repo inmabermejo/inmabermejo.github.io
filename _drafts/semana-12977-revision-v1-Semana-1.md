@@ -13,13 +13,13 @@ Ya había visto este tipo de posts semanales en otros sitios, como [Linking Path
 
 <img class="aligncenter size-large wp-image-2978" alt="Premios Xataka en el Teatro Goya" src="http://www.chavalina.net/imagenes/2013/11/NWP_131121_0000-650x115.jpg" width="625" height="110" srcset="http://www.chavalina.net/imagenes/2013/11/NWP_131121_0000-650x115.jpg 650w, http://www.chavalina.net/imagenes/2013/11/NWP_131121_0000-300x53.jpg 300w, http://www.chavalina.net/imagenes/2013/11/NWP_131121_0000-624x110.jpg 624w" sizes="(max-width: 625px) 100vw, 625px" /> 
 
-Esta semana ha sido un poco especial&#8230;. [Premios Xataka](http://www.xataka.com/tag/premios-xataka-2013), reencuentros, [#postpv4](https://twitter.com/search?q=%23postpv4)&#8230;
+Esta semana ha sido un poco especial…. [Premios Xataka](http://www.xataka.com/tag/premios-xataka-2013), reencuentros, [#postpv4](https://twitter.com/search?q=%23postpv4)…
 
 En cuanto al trabajo, de sideprojects, ninguno porque estoy con dos freelances.
 
 Por un lado, estoy ayudando con la UX a una startup relacionada con la moda. Ya tienen su sitio funcionando y hago pequeñas colaboraciones para definir funcionalidades nuevas. Me gusta el proyecto y además me permite aplicar bastante lo aprendido en el [Programa Vostok](http://www.vostokstudio.com/formacion/).
 
-Y el otro proyecto, un rediseño del visual de un directorio bancario. No suena muy excitante pero es un proyecto bonito donde podremos medir finamente los resultados. Esto a la vez me gusta&#8230; y me da un poco de miedo ¿escénico?
+Y el otro proyecto, un rediseño del visual de un directorio bancario. No suena muy excitante pero es un proyecto bonito donde podremos medir finamente los resultados. Esto a la vez me gusta… y me da un poco de miedo ¿escénico?
 
 En Weblogs SL estuve arreglando pequeños bugs en las **[nuevas galerías de fotos](http://www.motorpasionfuturo.com/galeria/presentacion-lexus-rc-coupe-en-el-salon-de-tokio)**. He estado trabajando este otoño rediseñando esta sección y el resultado creo que es bueno en la estructura, aunque no hemos metido cambios de imagen y le falta &#8216;polish&#8217;. Espero ver resultados pronto.
 
@@ -39,6 +39,6 @@ Por si faltara algo, esta tarde tenemos [#postpv4](https://twitter.com/search?sr
 
 En lo que ha sido desastrosa esta semana ha sido en mis objetivos deportivos 🙁 el frío me ha echado para atrás para correr a las 7 de la mañana, y cambiarlo a las 12 no me funciona. Así que el lunes me enfrento al amanecer de nuevo. Y lo que parece que no me está disgustando son las pesas! Gracias [@inmamartinez](https://twitter.com/inMacCom).
 
-Y por último, un momento remember: no sé cómo saltó con Jesús el tema, pero acabé buscando vídeos de Bioman, y ahora veremos la serie xD&#8230; espero no acabar como cuando era pequeña tirándome rulando por las cuestas imitando a estos «superhéroes».
+Y por último, un momento remember: no sé cómo saltó con Jesús el tema, pero acabé buscando vídeos de Bioman, y ahora veremos la serie xD… espero no acabar como cuando era pequeña tirándome rulando por las cuestas imitando a estos «superhéroes».
 
 Buen fin de semana!

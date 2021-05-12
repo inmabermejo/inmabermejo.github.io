@@ -19,7 +19,7 @@ Y lo peor, ni una explicaci&oacute;n.
 > Saludos
 
 ![emo](/imagenes/emoticonos/pensativo.gif)  
-No me gusta la manera en que han llevado esto los encargados de mi hosting, pero supongo que me tocar&aacute; darles un voto de confianda (ya que lo tengo pagado&#8230;) y esperar a ver si me hacen alguna pirula m&aacute;s hasta febrero.
+No me gusta la manera en que han llevado esto los encargados de mi hosting, pero supongo que me tocará darles un voto de confianda (ya que lo tengo pagado…) y esperar a ver si me hacen alguna pirula más hasta febrero.
 
-Creo que nunca he tenido tantas cosillas para escribir (sobre todo personales) como esta semana (quiz&aacute; me alegro de haber tenido el blog ca&iacute;do jeje) y ahora la mente en blanco. Pero bueno, poco a poco recuperar&eacute; el ritmo&#8230;  
-**reloading&#8230;**
+Creo que nunca he tenido tantas cosillas para escribir (sobre todo personales) como esta semana (quizá me alegro de haber tenido el blog ca&iacute;do jeje) y ahora la mente en blanco. Pero bueno, poco a poco recuperaré el ritmo…  
+**reloading…**

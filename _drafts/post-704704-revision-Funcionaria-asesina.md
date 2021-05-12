@@ -7,4 +7,4 @@ layout: revision
 guid: http://www.wp.chavalina.net/2006/06/10/704-revision/
 permalink: /2006/06/10/704-revision/
 ---
-Tanto tiempo escuchando esta canci&oacute;n&#8230;
+Tanto tiempo escuchando esta canci&oacute;n…

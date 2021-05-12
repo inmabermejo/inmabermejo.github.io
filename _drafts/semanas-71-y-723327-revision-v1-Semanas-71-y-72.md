@@ -7,7 +7,7 @@ layout: revision
 guid: http://www.chavalina.net/2015/04/06/3327-revision-v1/
 permalink: /2015/04/06/3327-revision-v1/
 ---
-Vacaciones, caramelos, monas, procesiones&#8230; cómo no me va a gustar la Semana Santa. Y más este año que el tiempo ha dado tregua, y estamos disfrutando de unos días realmente estupendos.
+Vacaciones, caramelos, monas, procesiones… cómo no me va a gustar la Semana Santa. Y más este año que el tiempo ha dado tregua, y estamos disfrutando de unos días realmente estupendos.
 
 <blockquote class="instagram-media" data-instgrm-version="4" style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:658px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);">
   <div style="padding:8px;">
@@ -28,7 +28,7 @@ He aprovechado los días en Murcia para asistir a dos procesiones, la del [Viern
 
 Algunos que me conocen se sorprenden de que me guste mucho ver las procesiones a pesar de mi agnosticismo, pero yo creo que mis creencias o no creencias no ponen ni quitan para apreciar [la belleza de las imágenes](https://www.flickr.com/photos/109568567@N03/13980388935/) y de [algunos rituales](https://www.flickr.com/photos/109568567@N03/sets/72157644202606066), como puede ser una procesión del Silencio. También apenarme cuando veo el poco respeto que se tiene en general por la procesión.
 
-En Murcia [es costumbre dar caramelos, monas, dulces&#8230; al público](http://gastronomiaycuriosidades.blogspot.com.es/2014/04/los-caramelos-y-la-semana-santa-de.html). El problema viene cuando la gente despliega **el afán** -también típico de cabalgatas de Reyes, Bando de la Huerta y todo tipo de desfiles- y en lugar de respetar el paso, se meten en las filas, gritan, interrumpen la procesión pidiendo caramelos. Niños y padres, y lo que es peor, padres azuzando a sus niños. En ese sentido envidio un poco las procesiones más serias, y me pregunto si no será posible conseguir algo más solemne sin renunciar a esta tradición de las golosinas.
+En Murcia [es costumbre dar caramelos, monas, dulces… al público](http://gastronomiaycuriosidades.blogspot.com.es/2014/04/los-caramelos-y-la-semana-santa-de.html). El problema viene cuando la gente despliega **el afán** -también típico de cabalgatas de Reyes, Bando de la Huerta y todo tipo de desfiles- y en lugar de respetar el paso, se meten en las filas, gritan, interrumpen la procesión pidiendo caramelos. Niños y padres, y lo que es peor, padres azuzando a sus niños. En ese sentido envidio un poco las procesiones más serias, y me pregunto si no será posible conseguir algo más solemne sin renunciar a esta tradición de las golosinas.
 
 <blockquote class="instagram-media" data-instgrm-captioned data-instgrm-version="4" style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:658px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);">
   <div style="padding:8px;">

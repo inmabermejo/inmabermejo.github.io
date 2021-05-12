@@ -4,7 +4,7 @@ email: jcl@vmslabs.com
 avatar: https://www.gravatar.com/avatar/8456a86ecbf630f98cb902a032318fc5?r=pg&d=retro
 url: http://unknown.scenesp.org/jcl/blog/
 date: 2005-03-20 09:55:35
-message: "[QUOTE]Es normal que te vaya m&aacute;s r&aacute;pido en una m&aacute;quina que no es muy potente, debido a que la mayor&iacute;a de las librer&iacute;as que <acronym title=\"Internet Explorer\">IE</acronym> necesita para funcionar se cargan con Windows.[~QUOTE] <br />
-No s&oacute;lo es el tiempo de carga. Explorer en lineas generales consume menos recursos que FireFox y el motor de rendering est&aacute; bastante m&aacute;s optimizado. Por otro lado, es bastente normal, al ser muy muy espec&iacute;fico de Win32 (el MacIE no tiene nada que ver con el <acronym title=\"Internet Explorer\">IE</acronym> de Windows) y no tener que generalizar cosas en c&oacute;digo para la portabilidad.<br />
+message: "[QUOTE]Es normal que te vaya más rápido en una máquina que no es muy potente, debido a que la mayor&iacute;a de las librer&iacute;as que <acronym title=\"Internet Explorer\">IE</acronym> necesita para funcionar se cargan con Windows.[~QUOTE] <br />
+No s&oacute;lo es el tiempo de carga. Explorer en lineas generales consume menos recursos que FireFox y el motor de rendering está bastante más optimizado. Por otro lado, es bastente normal, al ser muy muy espec&iacute;fico de Win32 (el MacIE no tiene nada que ver con el <acronym title=\"Internet Explorer\">IE</acronym> de Windows) y no tener que generalizar cosas en c&oacute;digo para la portabilidad.<br />
 <br />
 Y yo no soy pro-IE (ya que repito, yo mismo uso FireFox casi siempre), pero tampoco soy anti-IE... especialmente desde la versi&oacute;n 6.0SP2, que funciona de maravilla."

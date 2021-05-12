@@ -7,4 +7,4 @@ layout: revision
 guid: http://www.wp.chavalina.net/2005/06/17/497-revision/
 permalink: /2005/06/17/497-revision/
 ---
-M&aacute;s enlaces, <a href="http://openrico.org/home.page" target="_blank">Rico</a>, una librer&iacute;a open source de Javascript para hacer <acronym title="AJAX (pino)">cosas de esas que est&aacute;n de moda</acronym> y tal. Mejor no abusar de esto en web, &iquest;eh? via <a href="http://www.criteriondg.info/wordpress/archives/2005/06/17/rico/" target="_blank">Criterion</a>
+Más enlaces, <a href="http://openrico.org/home.page" target="_blank">Rico</a>, una librer&iacute;a open source de Javascript para hacer <acronym title="AJAX (pino)">cosas de esas que están de moda</acronym> y tal. Mejor no abusar de esto en web, &iquest;eh? via <a href="http://www.criteriondg.info/wordpress/archives/2005/06/17/rico/" target="_blank">Criterion</a>

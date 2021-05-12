@@ -4,5 +4,5 @@ email: obokaman@obokaman.com
 avatar: https://www.gravatar.com/avatar/9a674668eb31442fc0ffab5d91bb855c?r=pg&d=retro
 url: http://www.obokaman.com
 date: 2005-01-05 00:20:27
-message: "A mi me carga por defecto en Windows con Firefox 1.0 la p&aacute;gina sin ning&uacute;n estilo. He echado un vistazo por encima al c&oacute;digo, y creo que usando la misma funci&oacute;n de los botones para cambiar de estilo en el onLoad de la etiqueta BODY podr&iacute;as forzar la carga de la hoja de estilos que quisieras, y ahorrarte as&iacute; el tema. Ser&iacute;a algo como . <br />
-Por cierto, yo tambi&eacute;n me quedo con el &uacute;ltimo. ;) Un saludo."
+message: "A mi me carga por defecto en Windows con Firefox 1.0 la página sin ning&uacute;n estilo. He echado un vistazo por encima al c&oacute;digo, y creo que usando la misma funci&oacute;n de los botones para cambiar de estilo en el onLoad de la etiqueta BODY podr&iacute;as forzar la carga de la hoja de estilos que quisieras, y ahorrarte as&iacute; el tema. Ser&iacute;a algo como . <br />
+Por cierto, yo también me quedo con el &uacute;ltimo. ;) Un saludo."

@@ -1,6 +1,6 @@
 ---
 id: 1347
-title: 'Mejorando un poquito&#8230; pero poco'
+title: 'Mejorando un poquito… pero poco'
 date: 2004-05-30T02:57:36+02:00
 author: Chavalina
 layout: revision
@@ -19,11 +19,11 @@ permalink: /2004/05/30/126-revision/
       </table>
       
       <p>
-        Bueno, he colocado un peque&ntilde;o buscador en la <a href="archivos.php">secci&oacute;n de archivos</a> que admite los operadores <em>and</em> y <em>or</em> no es mucho pero menos da una piedra, a ver si lo puedo hacer un poco m&aacute;s avanzado y arreglo unas cuantas cosas m&aacute;s de la web, como validar los comentarios con javascript (me da rabia, son cosas que estoy haciendo todos los d&iacute;as y &eacute;sto lo tengo abandonado, en casa del herrero&#8230;)
+        Bueno, he colocado un peque&ntilde;o buscador en la <a href="archivos.php">secci&oacute;n de archivos</a> que admite los operadores <em>and</em> y <em>or</em> no es mucho pero menos da una piedra, a ver si lo puedo hacer un poco más avanzado y arreglo unas cuantas cosas más de la web, como validar los comentarios con javascript (me da rabia, son cosas que estoy haciendo todos los d&iacute;as y ésto lo tengo abandonado, en casa del herrero…)
       </p>
       
       <p>
-        Muchas gracias a todos los que me envi&aacute;is correos, intento contestarlos a todos, pero &uacute;ltimamente ando bastante ocupada, ex&aacute;menes, pr&aacute;cticas, trabajo&#8230; uf, vaya rollo os estoy metiendo.
+        Muchas gracias a todos los que me enviáis correos, intento contestarlos a todos, pero &uacute;ltimamente ando bastante ocupada, exámenes, prácticas, trabajo… uf, vaya rollo os estoy metiendo.
       </p>
       
       <p>
@@ -31,7 +31,7 @@ permalink: /2004/05/30/126-revision/
       </p>
       
       <p>
-        Hoy tenemos carrera, el GP de Europa (no de Francia, como yo dije hace una semana fi&aacute;ndome de los comentaristas de T5) a ver que tal se les da.
+        Hoy tenemos carrera, el GP de Europa (no de Francia, como yo dije hace una semana fiándome de los comentaristas de T5) a ver que tal se les da.
       </p>
     </td>
   </tr>

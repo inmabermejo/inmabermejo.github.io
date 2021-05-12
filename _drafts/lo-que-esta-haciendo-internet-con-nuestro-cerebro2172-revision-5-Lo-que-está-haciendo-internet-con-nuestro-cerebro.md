@@ -23,7 +23,7 @@ Parece que nos importa más la novedad y la cantidad que la calidad.
 
 > Cuando leemos en Red, explica Carr, nuestro cerebro está demasiado ocupado decidiendo si pincha o no en los enlaces, ignorando los anuncios y valorando el interés de los otros titulares para prestar atención a lo que lee, sin mencionar la interrupción constante de nuestros avisos de actualización (RSS, correo, SMS, etc). Al segundo párrafo nos impacientamos porque el navegador nos recompensa con deliciosas endorfinas cada vez que descubrimos algo nuevo, aunque sea irrelevante.
 
-Mmmm&#8230; vale, y ¿por qué esto es importante? Porque perdemos la práctica (si es que alguna vez la tuvimos) en profundizar, analizar, reflexionar&#8230; ¿Soy la misma persona que hacía comentarios de textos de Unamuno con éxito? Pues creo que no, y lo lamento.
+Mmmm… vale, y ¿por qué esto es importante? Porque perdemos la práctica (si es que alguna vez la tuvimos) en profundizar, analizar, reflexionar… ¿Soy la misma persona que hacía comentarios de textos de Unamuno con éxito? Pues creo que no, y lo lamento.
 
 Puedo haber ganado agilidad a la hora de buscar e identificar lo que me interesa, pero ¿cómo lo utilizo luego? ¿Para qué me sirve ser tan ágil en internet? Me puede servir para mucho, pero me quedo con esta cita del artículo de Carr:
 

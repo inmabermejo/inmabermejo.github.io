@@ -1,6 +1,6 @@
 ---
 id: 2610
-title: 'A ver qué nos trae el 2012&#8230;'
+title: 'A ver qué nos trae el 2012…'
 date: 2012-01-01T13:36:07+02:00
 author: Chavalina
 layout: revision

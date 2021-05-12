@@ -15,28 +15,28 @@ Como Nicolas Cage en Living las Vegas
 Soy el invierno contra tu primavera,  
 Un <a href="http://www.chavalina.net/comentar.php?idpost=56" target="_self">Dorian Gray</a> sin pasado ni patria ni bandera 
 
-Ser&aacute; tu voz, ser&aacute; el licor,  
-Ser&aacute;n las luces de esta habitaci&oacute;n  
-Ser&aacute; el poder de una canci&oacute;n,  
+Será tu voz, será el licor,  
+Serán las luces de esta habitaci&oacute;n  
+Será el poder de una canci&oacute;n,  
 Pero esta noche morir&iacute;a por vos  
-Ser&aacute; el champagne, ser&aacute; el color de tus ojos verdes  
+Será el champagne, será el color de tus ojos verdes  
 De ciencia ficci&oacute;n,  
 La &uacute;ltima cena para los dos  
 Pero esta noche morir&iacute;a por vos 
 
 Como Nicolas Cage en Living las Vegas  
-No tengo planes m&aacute;s all&aacute; de esta cena,  
+No tengo planes más allá de esta cena,  
 Es un misterio hacia d&oacute;nde la noche nos lleva 
 
 Como Nicolas Cage en Living las Vegas  
 Vamos, mi ni&ntilde;o, a perder la cabeza  
 Como si fuera nuestro &uacute;ltimo d&iacute;a en la Tierra
 
-Ser&aacute; tu voz, ser&aacute; el licor  
-Ser&aacute;n las luces de esta habitaci&oacute;n  
-Ser&aacute; que suena Marquee Moon  
+Será tu voz, será el licor  
+Serán las luces de esta habitaci&oacute;n  
+Será que suena Marquee Moon  
 Pero esta noche morir&iacute;a por vos  
-Ser&aacute; el <a href="http://www.artlebedev.ru/studio/posters/champagne/champagne-1024x768.jpg" target="_blank">champagne</a>, ser&aacute; <a href="varios/ojos.htm" target="_self">el color de tus ojos verdes <br /> De ciencia ficci&oacute;n</a>  
+Será el <a href="http://www.artlebedev.ru/studio/posters/champagne/champagne-1024x768.jpg" target="_blank">champagne</a>, será <a href="varios/ojos.htm" target="_self">el color de tus ojos verdes <br /> De ciencia ficci&oacute;n</a>  
 La ultima cena para los dos  
 Pero esta noche morir&iacute;a por vos 
 

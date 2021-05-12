@@ -11,7 +11,7 @@ categories:
 tags:
   - semanal
 ---
-Se va haciendo costumbre publicar cada dos semanas&#8230; si es que no me puedo dejar sola&#8230;
+Se va haciendo costumbre publicar cada dos semanas… si es que no me puedo dejar sola…
 
 <iframe src="//instagram.com/p/q19utMtskG/embed/" width="612" height="710" frameborder="0" scrolling="no" allowtransparency="true"></iframe>
 

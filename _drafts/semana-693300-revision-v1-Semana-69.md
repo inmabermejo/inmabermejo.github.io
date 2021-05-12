@@ -26,13 +26,13 @@ Fin de semana relajado tras el trabajo duro para poner las plantas en condicione
 
 Y tras el esfuerzo, sábado acabando el libro de febrero -que ahora me falta comentar por aquí- y maratón hasta terminar [**«The Wire»**](http://www.imdb.com/title/tt0306414/) que estaba viendo en [Yomvi](http://yomvi.plus.es/), el servicio de vídeo bajo demanda de Canal+.
 
-**No puedo dejar de recomendar «The Wire»**. Es una de las mejores series que he visto, creo que en mi top 3 sin duda. Una historia contada de forma **realista** -o al menos convincente- sobre droga, violencia, gángsters y policías en Baltimore, una historia dura pero elegante -como «Stringer» Bell-. Aunque esta descripción no le hace justicia en absoluto. Si te gusta el cine negro, el drama policial&#8230; te gustará. Para mi, una buenísima película serializada.
+**No puedo dejar de recomendar «The Wire»**. Es una de las mejores series que he visto, creo que en mi top 3 sin duda. Una historia contada de forma **realista** -o al menos convincente- sobre droga, violencia, gángsters y policías en Baltimore, una historia dura pero elegante -como «Stringer» Bell-. Aunque esta descripción no le hace justicia en absoluto. Si te gusta el cine negro, el drama policial… te gustará. Para mi, una buenísima película serializada.
 
 Sobre **Yomvi**, estoy probando por ahora gratis el servicio [Play](http://tienda.plus.es/abonateacanalplus/recomendador?origen=webplayer&tematicawp=yomviplay&utm_campaign=yomvi_pluses&utm_source=home_webplayer&utm_medium=boton_yomviplay_webplayer_yomvi_pluses&utm_content=captacion_yomvi&utm_channel=pluses&utm_theme=pluses&utm_term=tno), que ofrece series y algo de cine por 6€/mes. Tienen una promoción por la que te regalan 2 meses al darte de alta, suficiente para probar y ver alguna serie. Luego tienes que darte de baja para que no te cobren el mes siguiente, pero realmente el servicio está bien, y cuando quiera ver otra serie que tengan, lo pagaré, me parece un precio adecuado.
 
 Por otro lado, y en cosas que estoy pensando dejar atrás, **me dormí durante el regreso de la Fórmula 1**. Últimamente me estaba aburriendo a ratos. Siempre que hay un equipo tan sobresaliente y el campeonato está vendido, pierdo totalmente el interés. Espero que este año cambien las tornas.
 
-En cuanto al trabajo, **he empezado a llevar un diario**, [copiando la idea de Hugo](http://infa.me/diario-de-trabajo/) -bueno, él también la copió je, je-. Sencillamente una libreta de Evernote donde apunto al final de cada día lo que ha sido relevante, en qué he trabajado, si he aprendido algo nuevo, si he tenido reuniones&#8230; más detallado y técnico que este resumen semanal.
+En cuanto al trabajo, **he empezado a llevar un diario**, [copiando la idea de Hugo](http://infa.me/diario-de-trabajo/) -bueno, él también la copió je, je-. Sencillamente una libreta de Evernote donde apunto al final de cada día lo que ha sido relevante, en qué he trabajado, si he aprendido algo nuevo, si he tenido reuniones… más detallado y técnico que este resumen semanal.
 
 He estado dedicándome casi toda la semana al diseño visual del **módulo H**. Para ello, en los primeros días me dedique a organizar y trillar los recursos para inspirarme que había recopilado. Además casualmente una aplicación que usaba, [Inboard](http://www.inboardapp.com/), salió de beta y la compré. Me gusta por su sencillez y el diseño discreto de su interfaz, aunque tiene carencias serias. Para mi la peor, que es sólo para Mac. Uso también [Pinterest](https://www.pinterest.com/chavalina/pins/) y Evernote para recopilar, y mi ideal sería una mezcla de las tres, pero todavía no lo he encontrado.
 
@@ -48,4 +48,4 @@ Por otro lado, con mi compañero Ravinder empezamos a investigar el soporte para
 
 La semana siguiente, ya ésta por el retraso de esta publicación, toca el front-end del módulo H, y presentarlo después.
 
-Así que hoy habrá que darse un pequeño homenaje de pan de longaniza&#8230; hay que coger energía para la semana!
+Así que hoy habrá que darse un pequeño homenaje de pan de longaniza… hay que coger energía para la semana!

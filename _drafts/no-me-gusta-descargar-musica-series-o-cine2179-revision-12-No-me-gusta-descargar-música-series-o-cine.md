@@ -12,10 +12,10 @@ Cualquiera lo diría viendo mis entradas sobre [cómo escuchar música gratis](h
 Pero es así. Y no creo que a todo el mundo le guste. Hay diferentes procesos para descargar contenidos, pero básicamente en casi todos **tienes que molestarte muchísimo**:
 
   * Instalar programas que consumen recursos en tu ordenador.
-  * Arriesgarte a que esos programas incluyan algún regalito en forma de spyware, backdoors&#8230;
+  * Arriesgarte a que esos programas incluyan algún regalito en forma de spyware, backdoors…
   * Estar buscando y buscando los archivos que te interesan, teniendo que descartar diferentes versiones, idiomas, calidades que no te interesan.
   * Luego hay que esperar lo tuyo, en caso de que, como yo, no tengas una cuenta premium de una web de alojamiento de archivos, tipo Megaupload.
-  * Cuando se ha descargado, aún pueden venir las sorpresas, en forma de virus, fakes (pr0n!), calidad inferior a lo esperado, problemas con el sonido&#8230;
+  * Cuando se ha descargado, aún pueden venir las sorpresas, en forma de virus, fakes (pr0n!), calidad inferior a lo esperado, problemas con el sonido…
   * En su caso, hay que buscar los subtítulos por otro lado.
   * Una vez descargado algo en una calidad aceptable, siempre da pena borrarlo! pues al final acabas con el disco duro lleno.
 

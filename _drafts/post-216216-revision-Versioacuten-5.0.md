@@ -7,16 +7,16 @@ layout: revision
 guid: http://www.wp.chavalina.net/2004/09/12/216-revision/
 permalink: /2004/09/12/216-revision/
 ---
-Lo m&aacute;s destacable es el dise&ntilde;o con div en lugar de tablas. Al final no me cost&oacute; tanto con unos cuantos trucos que encontr&eacute; muy &uacute;tiles, cuando tenga tiempo (ahora mismo deber&iacute;a estar estudiando, no s&eacute; ni qu&eacute; hago actualizando esto) recopilar&eacute; los enlaces de los que me he valido para que todos puedan aprender como yo.
+Lo más destacable es el dise&ntilde;o con div en lugar de tablas. Al final no me cost&oacute; tanto con unos cuantos trucos que encontré muy &uacute;tiles, cuando tenga tiempo (ahora mismo deber&iacute;a estar estudiando, no sé ni qué hago actualizando esto) recopilaré los enlaces de los que me he valido para que todos puedan aprender como yo.
 
-Luego tambi&eacute;n otras cositas, como los iconitos de Bullet Madness (tambi&eacute;n pasar&eacute; enlace), la cookie, los enlaces y blockquotes en los comentarios, enlace permanente a cada comentario, y no me acuerdo de qu&eacute; m&aacute;s. Ahora mismo tambi&eacute;n estoy actualizando el curr&iacute;culum (enlace a la izquierda) pero tardar&aacute; un ratillo en subirse todo&#8230;
+Luego también otras cositas, como los iconitos de Bullet Madness (también pasaré enlace), la cookie, los enlaces y blockquotes en los comentarios, enlace permanente a cada comentario, y no me acuerdo de qué más. Ahora mismo también estoy actualizando el curr&iacute;culum (enlace a la izquierda) pero tardará un ratillo en subirse todo…
 
 Como siempre, bugs, cr&iacute;ticas, elogios y proposiciones indecentes se agradecen.
 
 Editado:  
   
 A&ntilde;ado algunos enlaces que he consultado.  
-Gracias tambi&eacute;n a la gente de #bitacoras, a David Mart&iacute;nez (siempre te estoy dando el foll&oacute;n), y a todos los que me han ayudado con esto.
+Gracias también a la gente de #bitacoras, a David Mart&iacute;nez (siempre te estoy dando el foll&oacute;n), y a todos los que me han ayudado con esto.
 
   * <a href="http://www.webestilo.com/javascript/" target="_blank">Javascript en Webestilo</a>
   * <a href="http://html.conclase.net/tutorial/html/5/1" target="_blank">Hojas de estilo en cascada en <acronym title="HyperText Markup Language">HTML</acronym> con clase </a>

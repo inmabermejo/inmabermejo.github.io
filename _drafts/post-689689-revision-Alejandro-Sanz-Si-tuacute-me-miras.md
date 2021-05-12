@@ -7,4 +7,4 @@ layout: revision
 guid: http://www.wp.chavalina.net/2006/05/27/689-revision/
 permalink: /2006/05/27/689-revision/
 ---
-Y lo que ha cambiado este chico desde entonces&#8230;
+Y lo que ha cambiado este chico desde entonces…

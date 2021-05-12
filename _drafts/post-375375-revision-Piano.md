@@ -11,6 +11,6 @@ permalink: /2005/03/22/375-revision/
   <img src="/imagenes/fotos/piano.jpg" alt="Piano" />
 </p>
 
-No s&eacute; por qu&eacute; este instrumento me ha parecido siempre tan fascinante. Tan concreto, tan misterioso.  
+No sé por qué este instrumento me ha parecido siempre tan fascinante. Tan concreto, tan misterioso.  
 Me encanta su sonido. Me dice casi tanto como una voz, por ejemplo cuando toca Elton John.  
 Pero no he conocido a muchos pianistas.

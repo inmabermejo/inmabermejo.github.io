@@ -1,6 +1,6 @@
 ---
 id: 1439
-title: 'Enjuto Mojamuto en&#8230; Publicidad'
+title: 'Enjuto Mojamuto en… Publicidad'
 date: 2008-12-24T16:58:03+02:00
 author: Chavalina
 layout: revision

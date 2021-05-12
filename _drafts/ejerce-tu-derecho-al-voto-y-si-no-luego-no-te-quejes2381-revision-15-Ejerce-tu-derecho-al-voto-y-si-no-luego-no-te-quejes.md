@@ -19,7 +19,7 @@ Como todas las generalizaciones, ésta es injusta, pero lo cierto es que en luga
 
 Algunos nos planteamos _castigar_ de alguna manera en las próximas elecciones, y se han puesto en marcha algunas campañas en la red, como la conocida como <a href="http://www.nolesvotes.com/" target="_blank">No les votes</a>, que propone evitar votar a los partidos que apoyaron la ley Sinde.
 
-Quizá es un poco _ingenuo_ cabrearse tanto por esto, y tan poco por otras cosas, como las **inyecciones de dinero a los bancos**, el desmesurado **gasto en asesores**, **recortes sociales**, **paro del 20%**&#8230; pero al menos es una iniciativa, mejor que el conformismo y pasividad de la mayoría.
+Quizá es un poco _ingenuo_ cabrearse tanto por esto, y tan poco por otras cosas, como las **inyecciones de dinero a los bancos**, el desmesurado **gasto en asesores**, **recortes sociales**, **paro del 20%**… pero al menos es una iniciativa, mejor que el conformismo y pasividad de la mayoría.
 
 ## El desconocido voto en blanco
 

@@ -15,7 +15,7 @@ Desde luego es una buena muestra de que **hace más el que quiere que el que pue
 
 En esos momentos este blog era solo un grupo de **páginas estáticas**, sin base de datos siquiera, y después incluso me atreví a desarrollar mi propio sistema de gestión de contenidos, como David y otros tantos _pioneros_ (me permito la licencia jeje).
 
-Y ahora, con tantas facilidades, WordPress, Flickr, Twitter&#8230; lo tengo tan abandonado&#8230; 🙁
+Y ahora, con tantas facilidades, WordPress, Flickr, Twitter… lo tengo tan abandonado… 🙁
 
 [<img class="aligncenter size-medium wp-image-1849" title=".- Mi pagina de inicio - Weblog de Chavalina - chavalina.tk -._1273327093141" src="imagenes/2010/05/Mi-pagina-de-inicio-Weblog-de-Chavalina-chavalina.tk-._1273327093141-300x196.png" alt="Captura del aspecto de Chavalina.Diario en 2003" width="300" height="196" srcset="http://www.chavalina.net/imagenes/2010/05/Mi-pagina-de-inicio-Weblog-de-Chavalina-chavalina.tk-._1273327093141-300x196.png 300w, http://www.chavalina.net/imagenes/2010/05/Mi-pagina-de-inicio-Weblog-de-Chavalina-chavalina.tk-._1273327093141.png 795w" sizes="(max-width: 300px) 100vw, 300px" />](imagenes/2010/05/Mi-pagina-de-inicio-Weblog-de-Chavalina-chavalina.tk-._1273327093141.png)
 

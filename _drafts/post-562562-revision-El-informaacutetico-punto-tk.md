@@ -1,6 +1,6 @@
 ---
 id: 976
-title: 'El inform&aacute;tico punto tk'
+title: 'El informático punto tk'
 date: 2005-10-11T09:38:31+02:00
 author: Chavalina
 layout: revision

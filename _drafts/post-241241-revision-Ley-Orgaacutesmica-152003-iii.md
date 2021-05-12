@@ -1,6 +1,6 @@
 ---
 id: 1081
-title: 'Ley Org&aacute;smica 15/2003 (iii)'
+title: 'Ley Orgásmica 15/2003 (iii)'
 date: 2004-10-16T02:53:14+02:00
 author: Chavalina
 layout: revision

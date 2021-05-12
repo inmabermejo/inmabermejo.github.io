@@ -9,7 +9,7 @@ permalink: /2008/12/26/768-revision-3/
 ---
 Mi primer post patrocinado. Me han mandado a revisar la página de la revista <a href="http://www.deviajes.es/" target="_blank">deviajes</a> y aprovechando que tengo un viaje en mente, a Valencia poco después de fin de año, a ver si encuentro información de qué puedo ver por ahí.
 
-La web tiene un enfoque que no me ha recordado mucho a la revista, que conocía de antes, sin entrar ya en el diseño, sino a una agencia de viajes, por aquello de ofertas, destinos tarifas&#8230; y porque el enlace a la hemeroteca no está muy visible que digamos (zona inferior izquierda). Un error me ha parecido esto, porque en mi búsqueda me he dado cuenta de que en el archivo de pdfs están todos los números de la revista, accesibles por artículos, y con un buscador mucho más avanzado que el principal de la web.
+La web tiene un enfoque que no me ha recordado mucho a la revista, que conocía de antes, sin entrar ya en el diseño, sino a una agencia de viajes, por aquello de ofertas, destinos tarifas… y porque el enlace a la hemeroteca no está muy visible que digamos (zona inferior izquierda). Un error me ha parecido esto, porque en mi búsqueda me he dado cuenta de que en el archivo de pdfs están todos los números de la revista, accesibles por artículos, y con un buscador mucho más avanzado que el principal de la web.
 
 En mi opinión, deberían unificar contenidos y el buscador, ya que si no te das cuenta y profundizas un poco más, puedes perder mucha información valiosa. Si buscáis información aquí, **no olvidéis mirar la hemeroteca**.
 

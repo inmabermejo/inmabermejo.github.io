@@ -37,4 +37,4 @@ No lo he presentado antes -en fase de bocetos y wireframes- porque el diseño vi
 
 En el **proyecto bancario** empecé el trabajo en la siguiente página del rediseño, aunque no la terminé completamente.
 
-Después de dos semanas desordenadas, empiezo ésta con _los deberes_ hechos, el post escrito, la planificación -realista- de la semana, tanto de trabajo como de vida doméstica. ¿Me permitirá eso que sea un paseo? Seguro que algo surge&#8230;
+Después de dos semanas desordenadas, empiezo ésta con _los deberes_ hechos, el post escrito, la planificación -realista- de la semana, tanto de trabajo como de vida doméstica. ¿Me permitirá eso que sea un paseo? Seguro que algo surge…

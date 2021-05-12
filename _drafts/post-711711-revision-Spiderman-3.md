@@ -7,4 +7,4 @@ layout: revision
 guid: http://www.wp.chavalina.net/2006/06/28/711-revision/
 permalink: /2006/06/28/711-revision/
 ---
-<a href="http://www.alt1040.com/archivo/2006/06/27/ya-esta-el-primer-teaser-trailer-de-spiderman-3-en-alta-calidad/" target="_blank">Ya podemos comenzar a saborear lo que ser&aacute; Spiderman 3</a>. En efecto, parece que <a href="http://chavalina.net/comentar.php?idpost=637" target="_blank">ser&aacute; Venom</a> el enemigo a batir.
+<a href="http://www.alt1040.com/archivo/2006/06/27/ya-esta-el-primer-teaser-trailer-de-spiderman-3-en-alta-calidad/" target="_blank">Ya podemos comenzar a saborear lo que será Spiderman 3</a>. En efecto, parece que <a href="http://chavalina.net/comentar.php?idpost=637" target="_blank">será Venom</a> el enemigo a batir.

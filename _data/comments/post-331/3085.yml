@@ -3,7 +3,7 @@ name: Pasaba por aquí
 date: 2005-01-20 12:50:51
 message: "posavasos: la idea es que los spammers entiendan que sus links SIEMPRE van a tener el \"nofollow\" puesto, y que no les compesa ni un poquito ponerlos.<br />
 <br />
-Es absurdo poner el nofollow despu&eacute;s porque lo que se hace es borrar el mensaje-spam, no ponerle un nofollow.<br />
+Es absurdo poner el nofollow después porque lo que se hace es borrar el mensaje-spam, no ponerle un nofollow.<br />
 <br />
 A ver si me explico:<br />
 a) un mensaje con spam es posteado. Se le aplica el nofollow por defecto. Al d&iacute;a siguiente el admin lo borrar...  El mensaje no ha tenido ninguna utilidad para el spammer.<br />
@@ -14,4 +14,4 @@ b) un mensaje leg&iacute;timo es posteado, Se le aplica el nofollow por defecto.
 Los spammers se mueven en &iacute;ndices muy bajos: envian 1 mill&oacute;n de correos para vender 4 cajas de viagra y les sale rentable.<br />
 Los spammers saben que sus comentarios son borrados por los admins, pero les da igual porque con que el mensaje aparezca durante un rato posteado ya consiguen su objetivo.<br />
 <br />
-Con este m&eacute;todo se elimina ese peque&ntilde;o porcentaje del que se benefician los spammers... &iquest; me he explicado mejor ahora?"
+Con este método se elimina ese peque&ntilde;o porcentaje del que se benefician los spammers... &iquest; me he explicado mejor ahora?"

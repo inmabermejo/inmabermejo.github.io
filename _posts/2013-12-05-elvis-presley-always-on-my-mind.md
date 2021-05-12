@@ -9,7 +9,7 @@ permalink: /2013/12/05/elvis-presley-always-on-my-mind/
 categories:
   - Música
 ---
-Maravillosa canción&#8230;
+Maravillosa canción…
 
 <iframe src="//player.vimeo.com/video/27367010?byline=0"" width="640" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 

@@ -1,13 +1,13 @@
 ---
 id: 2542
-title: 'Esta semana en mi Kindle&#8230; (5)'
+title: 'Esta semana en mi Kindle… (5)'
 date: 2011-06-11T17:08:52+02:00
 author: Chavalina
 layout: revision
 guid: http://www.chavalina.net/2011/06/11/2530-revision-2/
 permalink: /2011/06/11/2530-revision-2/
 ---
-Es verdad que la semana pasada fue la primera que di palo, sí&#8230; pero aquí va mi recopilación de enlaces, ración doble incluyendo los guardados la semana anterior:
+Es verdad que la semana pasada fue la primera que di palo, sí… pero aquí va mi recopilación de enlaces, ración doble incluyendo los guardados la semana anterior:
 
 Vida freelance, productividad, gestión personal:
 

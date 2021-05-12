@@ -7,11 +7,11 @@ layout: revision
 guid: http://www.chavalina.net/2009/01/19/1788-revision-6/
 permalink: /2009/01/19/1788-revision-6/
 ---
-Sabéis que me gusta la música. Y [si es gratis](http://http://www.chavalina.net/2006/10/20/post-748/), [mucho mejor](http://www.chavalina.net/2006/10/26/post-751/), ¿no? Pues todo lo que había probado hasta ahora (AllofMP3, Pandora, Lastfm&#8230;) _se queda en mantillas_ al lado de mi nueva aplicación favorita: Spotify.
+Sabéis que me gusta la música. Y [si es gratis](http://http://www.chavalina.net/2006/10/20/post-748/), [mucho mejor](http://www.chavalina.net/2006/10/26/post-751/), ¿no? Pues todo lo que había probado hasta ahora (AllofMP3, Pandora, Lastfm…) _se queda en mantillas_ al lado de mi nueva aplicación favorita: Spotify.
 
 Esta anotación es ya _viejuna_ para mis _coleguillas_ de la red, pero creo que mis _lectores de la calle_ me lo agradecerán.
 
-Para no ser prolija, y como muchos blogs ya han hablado largo y tendido sobre esto, lo explicaré sencillamente: es un reproductor de música bajo demanda. Es decir, tú buscas música y al momento la puedes escuchar. Sin esperar mucho, sin tener que descargar, sin ocupar espacio en tu ordenador, con una calidad aceptable (al menos para mí), pudiendo hacer listas de reproducción como en cualquier reproductor&#8230;
+Para no ser prolija, y como muchos blogs ya han hablado largo y tendido sobre esto, lo explicaré sencillamente: es un reproductor de música bajo demanda. Es decir, tú buscas música y al momento la puedes escuchar. Sin esperar mucho, sin tener que descargar, sin ocupar espacio en tu ordenador, con una calidad aceptable (al menos para mí), pudiendo hacer listas de reproducción como en cualquier reproductor…
 
 Es como una radio donde elijes las canciones.
 
@@ -19,7 +19,7 @@ Es como una radio donde elijes las canciones.
 
 Para empezar, no está disponible para todo el mundo. Por ahora sólo se puede usar en España, Francia, Reino Unido, Suecia, Finlandia y Noruega.
 
-Seguimos, funciona con invitaciones, es decir, no se puede registrar quien quiera libremente&#8230; eeeeeerror! el [registro está abierto ahora por un periodo limitado](https://www.spotify.com/en/get-started/). Después, con las invitaciones, no son difíciles de conseguir.
+Seguimos, funciona con invitaciones, es decir, no se puede registrar quien quiera libremente… eeeeeerror! el [registro está abierto ahora por un periodo limitado](https://www.spotify.com/en/get-started/). Después, con las invitaciones, no son difíciles de conseguir.
 
 Tiene algo de publicidad. Esto me lo han dicho, a mi todavía no me ha salido así que no puedo opinar.
 

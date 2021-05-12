@@ -16,10 +16,10 @@ Cualquiera lo diría viendo mis entradas sobre [cómo escuchar música gratis](h
 Pero es así. Y no creo que a todo el mundo le guste. Hay diferentes procesos para descargar contenidos, pero básicamente en casi todos **tienes que molestarte muchísimo**:
 
   * Instalar programas que consumen recursos en tu ordenador.
-  * Arriesgarte a que esos programas incluyan algún regalito en forma de spyware, backdoors&#8230;
+  * Arriesgarte a que esos programas incluyan algún regalito en forma de spyware, backdoors…
   * Estar buscando y buscando los archivos que te interesan, teniendo que descartar diferentes versiones, idiomas, calidades que no te interesan.
   * Luego hay que esperar lo tuyo, en caso de que, como yo, no tengas una cuenta premium de una web de alojamiento de archivos, tipo Megaupload.
-  * Cuando se ha descargado, aún pueden venir las sorpresas, en forma de virus, fakes (pr0n!), calidad inferior a lo esperado, problemas con el sonido&#8230;
+  * Cuando se ha descargado, aún pueden venir las sorpresas, en forma de virus, fakes (pr0n!), calidad inferior a lo esperado, problemas con el sonido…
   * En su caso, hay que buscar los subtítulos por otro lado.
   * Una vez descargado algo en una calidad aceptable, siempre da pena borrarlo! pues al final acabas con el disco duro lleno.
 
@@ -31,7 +31,7 @@ Además, en cuanto a lo económico, **tampoco es gratis**:
   * Hay que guardar lo descargado en algún sitio, así que compramos (o comprábamos) CDs y DVDs en grandes cantidades, discos duros de alta capacidad.
   * Aparte del precio de los soportes, se agrega <a href="http://www.rtve.es/noticias/20101021/tribunal-ue-declara-ilegal-canon-digital-aplicado-espana/363681.shtml" target="_blank">el canon, recientemente declarado ilegal</a>, y no barato precisamente, aunque no uses los soportes para descargar contenidos.
   * Esto ya depende de cada uno, pero hay gente que paga un precio anual a páginas como Megaupload o Rapidshare para poder descargar a más velocidad.
-  * Otros incluso llegan a contratar servicios de <a href="http://www.anexom.es/tecnologia/mi-conexion/vpn-%C2%BFque-es-y-para-que-sirve/" target="_blank">VPN (redes privadas virtuales)</a> para poder acceder a servicios de distribución de contenidos en otros países (como Hulu, Netflix&#8230;).
+  * Otros incluso llegan a contratar servicios de <a href="http://www.anexom.es/tecnologia/mi-conexion/vpn-%C2%BFque-es-y-para-que-sirve/" target="_blank">VPN (redes privadas virtuales)</a> para poder acceder a servicios de distribución de contenidos en otros países (como Hulu, Netflix…).
   * Estos servicios de distribución de contenidos, también se pagan.
 
 O sea, que no es que no se quiera pagar. Hay gente dispuesta a ello. Entre ellos, yo misma.

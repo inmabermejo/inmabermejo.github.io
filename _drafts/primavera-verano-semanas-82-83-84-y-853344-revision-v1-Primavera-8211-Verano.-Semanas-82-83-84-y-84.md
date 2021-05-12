@@ -7,7 +7,7 @@ layout: revision
 guid: http://www.chavalina.net/2015/07/05/3344-revision-v1/
 permalink: /2015/07/05/3344-revision-v1/
 ---
-Últimas semanas de primavera y yo&#8230; Volviendo al verano, volviendo a la playa, volviendo a Blanca y volviendo a Madrid.
+Últimas semanas de primavera y yo… Volviendo al verano, volviendo a la playa, volviendo a Blanca y volviendo a Madrid.
 
 <blockquote class="instagram-media" data-instgrm-captioned data-instgrm-version="4" style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:658px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);">
   <div style="padding:8px;">

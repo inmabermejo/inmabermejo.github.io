@@ -15,7 +15,7 @@ Parece que la fiesta termin&oacute;,
   
 perdidos en el t&uacute;nel del amor.  
   
-Y dicen las hojas del libro que m&aacute;s leo yo  
+Y dicen las hojas del libro que más leo yo  
   
 que esta vez el esclavo se escap&oacute;.
 
@@ -29,7 +29,7 @@ Estoy vencido porque el cuerpo de los dos es
   
 mi debilidad, esta vez el dolor va a terminar.
 
-Del &aacute;rbol una hoja se cay&oacute;,  
+Del árbol una hoja se cay&oacute;,  
   
 en mi boca la manzana se fundi&oacute;.  
   

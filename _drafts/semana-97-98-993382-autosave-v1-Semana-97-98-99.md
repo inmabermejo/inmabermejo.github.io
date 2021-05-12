@@ -7,7 +7,7 @@ layout: revision
 guid: http://www.chavalina.net/2015/10/20/3382-autosave-v1/
 permalink: /2015/10/21/3382-autosave-v1/
 ---
-No es que no haya tenido nada que contar en tres semanas&#8230; no.
+No es que no haya tenido nada que contar en tres semanas… no.
 
 <blockquote class="instagram-media" data-instgrm-captioned data-instgrm-version="5" style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:658px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);">
   <div style="padding:8px;">
@@ -28,7 +28,7 @@ No es que no haya tenido nada que contar en tres semanas&#8230; no.
 
 
 
-Un viaje, un concierto, dos cumpleaños, una boda, una gran _release_, un nuevo proyecto&#8230; mucho que contar, a ver quién se cansa antes, si la que firma o quien me lee.
+Un viaje, un concierto, dos cumpleaños, una boda, una gran _release_, un nuevo proyecto… mucho que contar, a ver quién se cansa antes, si la que firma o quien me lee.
 
 Cosas que he aprendido en la **primera semana haciendo fotos intensivamente**:
 
@@ -52,7 +52,7 @@ Y no me dio tiempo a mucho más. He tenido que **devolver la A6000 por una manch
 
 Pensé tomarme un tiempo antes de volver a comprar la cámara, ver si me convenía más solo el cuerpo y un objetivo de focal fija, e incluso dudo con la **Fuji X-T10**. Es una cámara diferente, considero que superior, y muy tentadora por el tipo de controles muy accesibles, pero creo que el conjunto sería muy muy muy caro (la A6000 solo muy caro).
 
-Es curioso cuando te pones a investigar, dar vueltas y pensar más y más en el gadget que te vas a comprar  **lo fácil que es ir subiendo de precio límite** (si es un límite autoimpuesto). Empecé en 300€ y casi me llego a ir a la Fuji de 1100€&#8230; pero me contengo y vuelvo a comprar la A6000, que creo que le sacaré el mismo partido.
+Es curioso cuando te pones a investigar, dar vueltas y pensar más y más en el gadget que te vas a comprar  **lo fácil que es ir subiendo de precio límite** (si es un límite autoimpuesto). Empecé en 300€ y casi me llego a ir a la Fuji de 1100€… pero me contengo y vuelvo a comprar la A6000, que creo que le sacaré el mismo partido.
 
 Esta vez no compré el pack de Fnac, no me resultó útil la funda que llevaba, y he pedido aparte una [bolsa de Case Logic mucho más práctica](http://www.amazon.es/gp/product/B007Y4NWTQ/ref=as_li_ss_tl?ie=UTF8&camp=3626&creative=24822&creativeASIN=B007Y4NWTQ&linkCode=as2&tag=chavadiari-21), donde además de la cámara me cabe hasta un teleobjetivo, y es mucho más fácil meter y sacar todo. La funda de Sony que venía con el pack ocupaba casi el mismo volumen y era muy incómoda.
 
@@ -79,7 +79,7 @@ Ley de Murphy, como siempre, ahora mismo hay una **muy buena oferta** del [pack 
 
 Y qué pena que no tenía la cámara de fotos la semana siguiente. Vacaciones, viaje a la [sierra de Cazorla](https://www.google.com/maps/place/23478+Arroyo+Frio,+Ja%C3%A9n,+Espa%C3%B1a/@37.947564,-2.927472,16z/data=!3m1!4b1!4m2!3m1!1s0xd6f081c0786044b:0x4751ee5df5a3acdd), en Jaén. Estuvimos en un [hotel con casas-nido muy chulas](http://www.crsantamaria.com/los-nidos/). Me hace pensar que podría vivir en un espacio muy pequeño si el exterior acompaña.
 
-Vimos **ciervos, jabalíes, cabras**&#8230; algunos se acercaban a comer restos que les dejaban a los alrededores del hotel. Luego, en la reserva que hay en la zona, el [Parque Cinegético Collado del Almendral](http://www.turismoencazorla.com/dondeiryquever/monumentosycentros/parquecinegetico.php). Es interesante porque puedes verlos muy cerca, ya que hay visitas guiadas donde les dan de comer, pero es una visita **un poco triste desde mi punto de vista**: los animales están ahí en un ambiente _semidoméstico_, y tienen una zona de _retiro_ para aves rapaces que no pueden volver a la naturaleza por haber sido criadas en cautividad desde su nacimiento 🙁
+Vimos **ciervos, jabalíes, cabras**… algunos se acercaban a comer restos que les dejaban a los alrededores del hotel. Luego, en la reserva que hay en la zona, el [Parque Cinegético Collado del Almendral](http://www.turismoencazorla.com/dondeiryquever/monumentosycentros/parquecinegetico.php). Es interesante porque puedes verlos muy cerca, ya que hay visitas guiadas donde les dan de comer, pero es una visita **un poco triste desde mi punto de vista**: los animales están ahí en un ambiente _semidoméstico_, y tienen una zona de _retiro_ para aves rapaces que no pueden volver a la naturaleza por haber sido criadas en cautividad desde su nacimiento 🙁
 
 Total, que me dio bastante lástima. Me hizo mucha más ilusión ver, aunque sea desde mucho más lejos, los gamos **salvajes de verdad**. Un jabalí que nos encontramos durante una caminata, que menos mal que echó a correr hacia el lado contrario a los dos segundos, porque me dio bastante impresión. Una pequeña piara con 7 u 8 crías. Y hasta unas cabras montesas atrevidas cuando íbamos en coche [desde Tranco hacia Pontones](https://www.google.com/maps/dir/38.1759323,-2.7958583/Pontones,+Calle+Urb.+la+Peguera+1,+13,+23291,+Ja%C3%A9n/@38.1739384,-2.8025593,12z/data=!3m1!4b1!4m8!4m7!1m0!1m5!1m1!1s0xd6f71d80b27f3d7:0xb47beb0d1a706ae8!2m2!1d-2.669773!2d38.1173381), por carretera de montaña.
 
@@ -106,7 +106,7 @@ Lluvia y mucho tiempo libre en las vacaciones me han hecho acabar en un par de d
 
 Ahora he empezado _El mar_, de John Banville, pero no le cojo el ritmo. Me está _calentando la cabeza_ demasiado, y ahora no me apetece, así que lo dejo por otra de mis novelas ligeras de intriga, que me ayuda más a coger el sueño, y me entretiene. No se puede ser sesudo todo el día.
 
-A la vuelta de las vacaciones, **concierto de Raphael** en la plaza de toros de Murcia. Muy diferente de los -muchos- en los que había estado antes, pues en esta gira lleva orquesta sinfónica, y la verdad es que sonaba excelente. No tenía mucha apetencia por ir, pero al final, **lo disfruté muchísimo**. Por cierto, que el atrezzo&#8230; mejorable. _¿Silla de oficina, Raphael? ¿silla de oficina otra vez?_
+A la vuelta de las vacaciones, **concierto de Raphael** en la plaza de toros de Murcia. Muy diferente de los -muchos- en los que había estado antes, pues en esta gira lleva orquesta sinfónica, y la verdad es que sonaba excelente. No tenía mucha apetencia por ir, pero al final, **lo disfruté muchísimo**. Por cierto, que el atrezzo… mejorable. _¿Silla de oficina, Raphael? ¿silla de oficina otra vez?_
 
 <blockquote class="twitter-tweet" lang="en">
   <p lang="es" dir="ltr">
@@ -139,10 +139,10 @@ Por ahora solo hemos publicado la página de post individual. Es un poco raro te
 
 En el **proyecto W**, he estado adaptando el front-end para usar nuestra nueva versión responsive. Antes trabajábamos con un framework de terceros pero el código era muy caótico. Ahora es más limpio y sencillo, con un sistema modular adaptado exactamente a lo que necesitamos, y mucho más reducido. Aunque también más complejo de entender.
 
-Esta semana se ha incorporado mi compañero Diego al equipo para empezar a conocer el método que usamos para dos desarrollos propios y poder echarnos una mano. Además, está documentando todos los procesos (bendito Diego) y entre los dos creo que podremos hacer un manual adecuado. Si no me mata en el proceso&#8230;
+Esta semana se ha incorporado mi compañero Diego al equipo para empezar a conocer el método que usamos para dos desarrollos propios y poder echarnos una mano. Además, está documentando todos los procesos (bendito Diego) y entre los dos creo que podremos hacer un manual adecuado. Si no me mata en el proceso…
 
 Además, tengo una nueva tarea, que es la de probar y probar en el proyecto W, y ahora con un **caso de uso real**. Esto nos permitirá identificar las funcionalidades que más nos van a hacer falta, y no dedicar esfuerzos a cosas que _creemos_ que son importantes pero que luego no se usan nunca.
 
 Tras la vuelta de las vacaciones la semana fue muy caótica, acabé trabajando de más casi todos los días. Ya llevaba tiempo pensándolo, y he decidido **cambiar mi horario de nuevo**, porque las nuevas reuniones me han trastocado el que tenía, y que me funcionaba bastante bien. Ahora tendré que trabajar más tardes a la semana, pero no iré estresada y pensando que tengo que trabajar también por la tarde cuando ya tengo cumplida mi jornada.
 
-Y también porque un proyecto personal que estaba en la nevera ya casi congelado vuelve a surgir, y esta vez parece que es la buena&#8230;
+Y también porque un proyecto personal que estaba en la nevera ya casi congelado vuelve a surgir, y esta vez parece que es la buena…

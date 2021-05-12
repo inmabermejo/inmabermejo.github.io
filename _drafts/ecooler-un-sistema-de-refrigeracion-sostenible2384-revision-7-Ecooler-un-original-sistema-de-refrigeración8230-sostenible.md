@@ -1,6 +1,6 @@
 ---
 id: 2451
-title: 'Ecooler, un original sistema de refrigeración&#8230; sostenible'
+title: 'Ecooler, un original sistema de refrigeración… sostenible'
 date: 2011-05-08T17:59:45+02:00
 author: Chavalina
 layout: revision
@@ -15,7 +15,7 @@ Pues en este mecanismo se basa **<a href="http://ecooler.yolasite.com/" target="
 
 <img class="aligncenter size-full wp-image-2445" title="Ecooler" src="http://www.chavalina.net/imagenes/2011/05/ecooler.jpg" alt="Ecooler" width="600" height="378" srcset="http://www.chavalina.net/imagenes/2011/05/ecooler.jpg 600w, http://www.chavalina.net/imagenes/2011/05/ecooler-300x189.jpg 300w, http://www.chavalina.net/imagenes/2011/05/ecooler-500x315.jpg 500w" sizes="(max-width: 600px) 100vw, 600px" /> 
 
-Se trata de una estructura de **cerámica**, con piezas huecas unidas por pequeños empalmes metálicos. El agua discurre por el interior y se enfría con el mismo mecanismo que el botijo. Esto permite enfriar estancias **sin electricidad**, sin ruido&#8230; La cantidad de agua que consume no es demasiada, aunque depende del número de módulos que se utilicen, claro, y además está que es un elemento decorativo, aunque me gustaba más cuando pensaba que era más pequeño:
+Se trata de una estructura de **cerámica**, con piezas huecas unidas por pequeños empalmes metálicos. El agua discurre por el interior y se enfría con el mismo mecanismo que el botijo. Esto permite enfriar estancias **sin electricidad**, sin ruido… La cantidad de agua que consume no es demasiada, aunque depende del número de módulos que se utilicen, claro, y además está que es un elemento decorativo, aunque me gustaba más cuando pensaba que era más pequeño:
 
 <img title="Pieza de Ecooler en su molde" src="http://www.chavalina.net/imagenes/2011/05/4.jpg.opt343x227o00s343x227-300x198.jpg" alt="Pieza de Ecooler en su molde, 33x33 cm" width="300" height="198" /><img title="Molde de una pieza de Ecooler" src="http://www.chavalina.net/imagenes/2011/05/3.jpg.opt340x225o00s340x225-300x198.jpg" alt="Molde de una pieza de Ecooler" width="300" height="198" /> 
 

@@ -6,6 +6,6 @@ url: http://toad.bitacoras.com/
 date: 2004-09-18 07:52:56
 message: "No hace falta que lo pongas en CDATA.<br />
 <br />
-Lo correcto es sustitu&iacute;r los &lt; y &gt; del <acronym title=\"eXtended HyperText Markup Language\">XHTML</acronym> por &amp;lt; y &amp;gt; respectivamente... entonces los parseadores de Feeds ya lo interpretar&aacute;n como <acronym title=\"eXtended HyperText Markup Language\">XHTML</acronym> y no como feed...<br />
+Lo correcto es sustitu&iacute;r los &lt; y &gt; del <acronym title=\"eXtended HyperText Markup Language\">XHTML</acronym> por &amp;lt; y &amp;gt; respectivamente... entonces los parseadores de Feeds ya lo interpretarán como <acronym title=\"eXtended HyperText Markup Language\">XHTML</acronym> y no como feed...<br />
 <br />
 Saludos <img src=\"/imagenes/emoticonos/sonrisa.gif\" alt=\":-)\" />  "

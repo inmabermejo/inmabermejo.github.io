@@ -15,7 +15,7 @@ tags:
 ---
 Aunque enero y septiembre son los meses con mayor densidad de buenos propósitos y nuevos objetivos, para mi fue marzo pasado, hace un año ya, el momento en que decidí ponerme en forma.
 
-Sedentarismo 100%, aumento del consumo de alcohol, comidas y cenas fuera&#8230; Sucede a veces cuando aumenta la estabilidad laboral y personal, y llegué sin darme cuenta a acercarme peligrosamente al sobrepeso.
+Sedentarismo 100%, aumento del consumo de alcohol, comidas y cenas fuera… Sucede a veces cuando aumenta la estabilidad laboral y personal, y llegué sin darme cuenta a acercarme peligrosamente al sobrepeso.
 
 No era por una cuestión de estética, sino de salud. Con un trabajo que me tiene pegada a una silla gran parte del día y un ocio basado en cuidar plantas, ver series y hacer repostería, no es raro que **hasta me costara subir las escaleras hasta mi casa**.
 
@@ -30,7 +30,7 @@ Ya había intentado muchas veces añadir el ejercicio a mi rutina diaria, pero s
 
 **Correr**. Durante unos meses lo hice con relativa estabilidad, pero era una de las peores opciones. Muy duro mentalmente al ir a primera hora de la mañana, pero la única forma de hacerlo en Murcia en verano. Me quitaba mis horas más productivas en el trabajo. Y también físicamente: sin tener técnica es fácil lesionarse. Un ejercicio de **alto impacto** que además no podía realizar todos los días, y eso me llevó a perder la constancia y no tener resultados, y a dejarlo.
 
-**Bici**. Me gustaba muchísimo, es mucho más seguro por el tema de lesiones, más divertido&#8230; pero al mudarme y tener más lejos un carril bici donde me encontrara cómoda y sin estrés de tráfico para poder practicar, también acabé por dejarlo.
+**Bici**. Me gustaba muchísimo, es mucho más seguro por el tema de lesiones, más divertido… pero al mudarme y tener más lejos un carril bici donde me encontrara cómoda y sin estrés de tráfico para poder practicar, también acabé por dejarlo.
 
 **Andar**, el _ejercicio universal_. Lo practiqué durante un verano, con mi hermana, pero, por un lado, no conseguimos mantener la constancia, y por otro, es un ejercicio muy poco intenso, y no obtuvimos resultados.
 
@@ -46,7 +46,7 @@ La teoría la sabemos todos: si quieres adelgazar hay que gastar más de lo que 
 
 Pero **es frecuente fallar al llevarlo a la práctica**. Hay que hacer las cuentas. Yo no sabía la cantidad que ingería, ni cuánta necesitaba, ni cuánta gastaba con ninguna de las actividades físicas que intenté realizar, ni cuál era el balance normal de mi rutina sedentaria.
 
-También me enseñó la importancia de saber distinguir entre **perder peso** (líquidos, grasa, masa muscular&#8230;) y **perder grasa**, que es el objetivo para estar más delgado manteniendo un cuerpo fuerte y sano.
+También me enseñó la importancia de saber distinguir entre **perder peso** (líquidos, grasa, masa muscular…) y **perder grasa**, que es el objetivo para estar más delgado manteniendo un cuerpo fuerte y sano.
 
 ### El ejercicio
 
@@ -88,15 +88,15 @@ Es un tipo de dieta flexible, donde no se limita el tipo de alimentos que puedes
 
 Primero, valoras cuál es tu necesidad de calorías y de cada tipo de macronutriente (proteínas, hidratos de carbono y grasas) diario. Este cálculo lo hizo Sergio por mi, pero en este artículo podéis encontrar herramientas para calcularlo y saber más de este tipo de dieta: [¿Qué es el IIFYM?](http://blog.hsnstore.com/que-es-el-iifym/)
 
-Aunque sea una dieta flexible, no es lo mismo comer bollicaos que lentejas. Se pueden comer ambas cosas planificándolo un poco. Se miran los macronutrientes que aporta la cantidad del alimento que vas a tomar y se van sumando hasta llegar a tu necesidad, y hay que **ser responsable** para conseguir también suficiente **fibra y micronutrientes** (vitaminas, minerales&#8230;), que son esenciales.
+Aunque sea una dieta flexible, no es lo mismo comer bollicaos que lentejas. Se pueden comer ambas cosas planificándolo un poco. Se miran los macronutrientes que aporta la cantidad del alimento que vas a tomar y se van sumando hasta llegar a tu necesidad, y hay que **ser responsable** para conseguir también suficiente **fibra y micronutrientes** (vitaminas, minerales…), que son esenciales.
 
 Más información de este tipo de dieta:
 
-  * [IIFYM (Si se ajusta a tus macros&#8230;): ¿la antidieta?](http://www.vitonica.com/dietas/iifym-si-se-ajusta-a-tus-macros-la-antidieta)
+  * [IIFYM (Si se ajusta a tus macros…): ¿la antidieta?](http://www.vitonica.com/dietas/iifym-si-se-ajusta-a-tus-macros-la-antidieta)
   * [Guia IIFYM: Dieta flexible. Parte I](http://blog.hsnstore.com/guia-iifym-dieta-flexible-parte/) y [Parte II](http://blog.hsnstore.com/guia-iifym-dieta-flexible/) </ul> 
     Parece _la dieta del país de la piruleta_ pero el gran inconveniente es que **hay que cuantificarlo todo**. Todo. Hay que pesar, en crudo, cada cosa que vas a comer e ir contabilizando. Sergio me enseñó la aplicación [My Fitness Pal](http://myfitnesspal.com/), un gestor y base de datos magnífico que sirve perfectamente para llevar a _contabilidad_ de la dieta. 
     
-    A pesar de esta flexibilidad y de la gran ayuda que es la aplicación, el día a día haciendo dieta es duro, sobre todo al principio. Cada día pesarlo todo, **lo que comes y lo que bebes**, cocinar con apenas aceite, tener que comer una cantidad de proteínas grande y pocos hidratos de carbono, que es lo más disponible&#8230;
+    A pesar de esta flexibilidad y de la gran ayuda que es la aplicación, el día a día haciendo dieta es duro, sobre todo al principio. Cada día pesarlo todo, **lo que comes y lo que bebes**, cocinar con apenas aceite, tener que comer una cantidad de proteínas grande y pocos hidratos de carbono, que es lo más disponible…
     
     Hay que tener muy claro que quieres hacerlo, y **plantearlo como un objetivo diario** para no quemarse con ello. Si un día te pasas, no se compensa al día siguiente, no sirve hacerlo.
     
@@ -112,7 +112,7 @@ Más información de este tipo de dieta:
   
   Es más difícil controlarlo cuando sales fuera a comer, aunque siempre se pueden **hacer elecciones mejores** que otras, por ejemplo unos berberechos al vapor frente a un calamar a la romana o unas bravas. Y es muy importante controlar el alcohol.
   
-  Aquí es donde he puesto a prueba la disciplina, la paciencia, y los nervios. Y no sólo los míos&#8230; sino los de los que me rodean. Y donde he invertido más tiempo hasta ahora.
+  Aquí es donde he puesto a prueba la disciplina, la paciencia, y los nervios. Y no sólo los míos… sino los de los que me rodean. Y donde he invertido más tiempo hasta ahora.
   
   Me he sorprendido a mi misma por haber conseguido seguir la dieta. Mi motivación era muy baja y aunque **poder comer los alimentos que quisiera me ha ayudado mucho**, he pasado momentos de querer mandarlo a tomar morcilla si tenía que pesar una patata más. No por no poder comer, sino **por tener que pesar**.
   
@@ -120,7 +120,7 @@ Más información de este tipo de dieta:
   
   Así que todavía la sigo, con diferentes parámetros (para no perder ni ganar peso). Cuando has perdido la grasa que necesitas y no tienes que estar en déficit de calorías, se vuelve más flexible aún.
   
-  ## Todo esto suena muy bien pero&#8230; ¿El resultado?
+  ## Todo esto suena muy bien pero… ¿El resultado?
   
   ¿Es sostenible? ¿Merece la pena?
   
@@ -131,8 +131,8 @@ No hay resultados sin esfuerzo. Este sistema tiene ventajas, pero también requi
 
 **Merece la pena**. Aparte de los resultados estéticos, que a mi tampoco eran lo que más me importaba, lo que me ha impresionado es lo que he mejorado en rendimiento.
 
-Me di cuenta al coger la bici tras un año y pico y poder hacer un recorrido que ni en mis mejores tiempos de ciclista habitual hubiera podido. Y a partir de ahí me fijé en otras cosas pequeñas, como poder subir las escaleras de mis siete pisos sin problema, poder agacharme y levantarme sin esfuerzo&#8230; 
+Me di cuenta al coger la bici tras un año y pico y poder hacer un recorrido que ni en mis mejores tiempos de ciclista habitual hubiera podido. Y a partir de ahí me fijé en otras cosas pequeñas, como poder subir las escaleras de mis siete pisos sin problema, poder agacharme y levantarme sin esfuerzo… 
 
-Cuando ves que no te cansas, que tienes fuerza, que no te quedas sin aliento, que puedes más&#8230; es cuando ves que merece la pena.
+Cuando ves que no te cansas, que tienes fuerza, que no te quedas sin aliento, que puedes más… es cuando ves que merece la pena.
 
 Al final, si sabes cómo, es más fácil conseguir resultados a la primera que si vas probando sin saber. Y este sistema al final no son más que matemáticas aplicadas. No desperdicias esfuerzo, pero hay que esforzarse. **Todo depende de cuánto lo quieras**. Y yo, lo quiero.

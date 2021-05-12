@@ -29,7 +29,7 @@ Parece que nos importa más la novedad y la cantidad que la calidad. ¿Por qué?
 
 > Cuando leemos en Red, explica Carr, nuestro cerebro está demasiado ocupado decidiendo si pincha o no en los enlaces, ignorando los anuncios y valorando el interés de los otros titulares para prestar atención a lo que lee, sin mencionar la interrupción constante de nuestros avisos de actualización (RSS, correo, SMS, etc). Al segundo párrafo nos impacientamos porque el navegador nos recompensa con deliciosas endorfinas cada vez que descubrimos algo nuevo, aunque sea irrelevante.
 
-Mmmm&#8230; vale, y ¿por qué esto es importante? Nuestro cerebro se acostumbra a tener muchos estímulos, y perdemos la práctica (si es que alguna vez la tuvimos) en profundizar, analizar, reflexionar&#8230;que nos dan una menor recompensa _a corto plazo_.
+Mmmm… vale, y ¿por qué esto es importante? Nuestro cerebro se acostumbra a tener muchos estímulos, y perdemos la práctica (si es que alguna vez la tuvimos) en profundizar, analizar, reflexionar…que nos dan una menor recompensa _a corto plazo_.
 
 ¿Soy la misma persona que hacía comentarios de textos de Unamuno con éxito? Pues creo que no, y lo lamento.
 
@@ -45,7 +45,7 @@ Es gracioso que precisamente en <a href="http://www.theatlantic.com/magazine/arc
 
 Es algo que ahora puede que sólo nos afecte a los que usamos internet intensivamente, pero con el tiempo probablemente se extienda, ganaremos unas habilidades y perderemos otras.
 
-Así que si te ves reflejado en alguna de estas situaciones: multitarea, pérdida de atención, pérdida de la capacidad de concentración, pasas horas saltando de enlace en enlace&#8230; **estás avisado**.
+Así que si te ves reflejado en alguna de estas situaciones: multitarea, pérdida de atención, pérdida de la capacidad de concentración, pasas horas saltando de enlace en enlace… **estás avisado**.
 
 Yo por ahora voy a intentar ejercitar un poco lo que tengo oxidado.
 
@@ -57,4 +57,4 @@ Intentar concentrarme bien en lo que leo, también en internet. <a href="http://
 
 Sobre todo, intentar tener una sola aplicación o ventana abierta a la vez!
 
-Y lo digo yo que he llegado a tener 80 pestañas de Firefox abiertas&#8230; ya veremos cómo acabo.
+Y lo digo yo que he llegado a tener 80 pestañas de Firefox abiertas… ya veremos cómo acabo.

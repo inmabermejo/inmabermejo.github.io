@@ -7,4 +7,4 @@ layout: revision
 guid: http://www.wp.chavalina.net/2004/12/18/296-revision/
 permalink: /2004/12/18/296-revision/
 ---
-S&eacute; que a muchos os debo correos electr&oacute;nicos, pero es que ahora mismo no puedo.
+Sé que a muchos os debo correos electr&oacute;nicos, pero es que ahora mismo no puedo.

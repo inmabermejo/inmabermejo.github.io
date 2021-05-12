@@ -7,4 +7,4 @@ layout: revision
 guid: http://www.wp.chavalina.net/2005/01/22/337-revision/
 permalink: /2005/01/22/337-revision/
 ---
-Conseguir&aacute; <a href="http://www.skype.com" target="_blank">skype</a> lo que no hicieron jabber, icq y dem&aacute;s? o sea, sustituir a MSN? yo creo que s&iacute;.
+Conseguirá <a href="http://www.skype.com" target="_blank">skype</a> lo que no hicieron jabber, icq y demás? o sea, sustituir a MSN? yo creo que s&iacute;.

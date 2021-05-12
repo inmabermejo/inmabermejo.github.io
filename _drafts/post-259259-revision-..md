@@ -7,11 +7,11 @@ layout: revision
 guid: http://www.wp.chavalina.net/2004/11/06/259-revision/
 permalink: /2004/11/06/259-revision/
 ---
-En <a href="http://labellezadeldesencanto.blogspot.com/" target="_blank">La Belleza del Desencanto</a> encontr&eacute; por en&eacute;sima vez <a href="http://www.bbspot.com/News/2004/10/extension_quiz.php" target="_blank">este «divertido» aunque curioso test</a> para saber qu&eacute; tipo de extensi&oacute;n eres, y por fin me decid&iacute; a hacerlo.
+En <a href="http://labellezadeldesencanto.blogspot.com/" target="_blank">La Belleza del Desencanto</a> encontré por enésima vez <a href="http://www.bbspot.com/News/2004/10/extension_quiz.php" target="_blank">este «divertido» aunque curioso test</a> para saber qué tipo de extensi&oacute;n eres, y por fin me decid&iacute; a hacerlo.
 
 El resultado no me sorprende en absoluto.  
 [<img src="http://www.bbspot.com/Images/News_Features/2004/10/file_extensions/star.jpg" width="300" height="90" border="0" alt="You are .*	 You are a wildcard.  You are everything to everybody.  You can&prime;t make up your mind as to what you want to be." />  
 Which File Extension are You?](http://www.bbspot.com/News/2004/10/extension_quiz.php)
 
-Soy cualquier extensi&oacute;n. Esto concuerda muy bien con lo desorientada que estoy &uacute;ltimamente. Es muy cierto lo que me dice, no puedo decidir qu&eacute; quiero ser. Este test me ha llegado dentro jajaja&#8230;  
-Al menos me queda el consuelo de que puede ser la cadena de texto que m&aacute;s haya utilizado en mis b&uacute;squedas&#8230;
+Soy cualquier extensi&oacute;n. Esto concuerda muy bien con lo desorientada que estoy &uacute;ltimamente. Es muy cierto lo que me dice, no puedo decidir qué quiero ser. Este test me ha llegado dentro jajaja…  
+Al menos me queda el consuelo de que puede ser la cadena de texto que más haya utilizado en mis b&uacute;squedas…

@@ -9,6 +9,6 @@ permalink: /2010/05/18/1868-autosave/
 ---
 [![Verde, un color muy inspirador](/imagenes/2010/05/DSC_01351-560x372.jpg "Verde")](/imagenes/2010/05/DSC_01351.jpg)
 
-Primavera&#8230; Inspirador.
+Primavera… Inspirador.
 
 Visto en [el nuevo blog de Mango](http://keepthebeat.mango.com/?p=635&lang=es).

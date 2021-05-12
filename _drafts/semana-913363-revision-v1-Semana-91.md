@@ -40,7 +40,7 @@ Tras terminar _Viaje al centro de la tierra_, y recuperar el gusanillo por ir a 
 
 En el trabajo, sigo repartiendo mi tiempo entre el **front-end de nuestra nueva versión responsive**, y el proyecto W. Esta semana, mucho arreglo de bugs y crear plantillas para el tipo de post [_slideshow_](http://www.trendencias.com/tendencias/el-ante-planea-su-invasion-y-estos-11-looks-te-ayudaran-a-saber-como-lucirlo) y para los [espacios de contenidos](http://www.decoesfera.com/planesdeverano) que las marcas tienen en nuestros sitios.
 
-En esto, tengo la problemática de automatizar la elección del color de texto para que sea «legible» sobre los colores que se personalizan para algunos elementos, como las cabeceras, _disclaimers_&#8230; pues no quiero añadir complejidad al código que usan mis compañeros para preparar estas personalizaciones.
+En esto, tengo la problemática de automatizar la elección del color de texto para que sea «legible» sobre los colores que se personalizan para algunos elementos, como las cabeceras, _disclaimers_… pues no quiero añadir complejidad al código que usan mis compañeros para preparar estas personalizaciones.
 
 Así que empiezo a investigar, sin mucha fé, pues no esperaba encontrar algo para LESS, y me encuentro algo para [calcular automáticamente un color con contraste adecuado con SASS](http://thesassway.com/intermediate/dynamically-change-text-color-based-on-its-background-with-sass). Por suerte sigo buscando, y veo que alguien ha encontrado [algo similar para LESS](http://stackoverflow.com/questions/8036580/using-less-jquery-to-switch-body-text-color-dependent-on-background-color) usando «ifs», o _guardas_. esto nos va a solucionar bastantes casos.
 
@@ -48,7 +48,7 @@ Y en esa búsqueda, doy con un interesante artículo sobre [qué función de con
 
 Para el **proyecto W** tuve varias sesiones de chat con los compañeros de desarrollo para ver cuáles eran las dificultades con las que se habían encontrado hasta ahora (yo me acabo de incorporar) y cómo podía ayudar.
 
-Y con mi jefe convocamos una reunión para el viernes discutirlo todo. Yo tan tranquila&#8230; no pensé que esa reunión incluiría a nuestro equipo de desarrollo de India y que sería una videoconferencia **en inglés**. Lo que me acordé entonces de mi amiga Carmen y la oportunidad que dejé pasar de practicar la conversación en clases con ella.
+Y con mi jefe convocamos una reunión para el viernes discutirlo todo. Yo tan tranquila… no pensé que esa reunión incluiría a nuestro equipo de desarrollo de India y que sería una videoconferencia **en inglés**. Lo que me acordé entonces de mi amiga Carmen y la oportunidad que dejé pasar de practicar la conversación en clases con ella.
 
 <q>Es que no me va a servir de nada practicar la conversación una temporada si luego no lo utilizo, pues voy a acabar igual que estoy</q> <cite>Yo misma, siempre tan clarividente</cite>
 

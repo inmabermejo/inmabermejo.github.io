@@ -55,7 +55,7 @@ Asi pues, ahora el proceso por lotes será más cómodo porque ahorramos un paso
 
 Después empecé con una nueva parte de **La Tarea**. El **módulo P**, que es uno de los más grandes y que tengo que planificar bien para ir haciendo por fases. 
 
-Así que lo primero, me hice la planificación, y después empecé a **investigar** sobre ella: recopilar ejemplos de competidores y de otros sitios que, aunque no lo sean, tienen algo interesante al respecto. En estos casos siempre intento hacer una lista bien enriquecida. Además del ejemplo en si, anotar lo que me interesa, lo que me gusta como resuelven, lo que creo que no funciona&#8230; detallar el caso para luego poder volver sobre él fácilmente.
+Así que lo primero, me hice la planificación, y después empecé a **investigar** sobre ella: recopilar ejemplos de competidores y de otros sitios que, aunque no lo sean, tienen algo interesante al respecto. En estos casos siempre intento hacer una lista bien enriquecida. Además del ejemplo en si, anotar lo que me interesa, lo que me gusta como resuelven, lo que creo que no funciona… detallar el caso para luego poder volver sobre él fácilmente.
 
 Tras hacer esta recopilación, lo presenté a mis jefes en una reunión el viernes, donde pudimos comentarlas y priorizar. La semana que viene empezaré a hacer los bocetos y wireframes, y a preparar un _moodboard_ que me sirva de guía para orientar el diseño visual.
 

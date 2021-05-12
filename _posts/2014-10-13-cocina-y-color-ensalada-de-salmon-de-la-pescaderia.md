@@ -20,7 +20,7 @@ Cuatro ingredientes nada más:
 &#8211; Rúcula, no escatimar con ella!  
 &#8211; Queso parmesano, rallado por encima.
 
-Aliñar con pimienta y aceite de oliva. Antes de ponerle sal&#8230; probadla. El parmesano ya sala lo suyo.
+Aliñar con pimienta y aceite de oliva. Antes de ponerle sal… probadla. El parmesano ya sala lo suyo.
 
 Parece poca cosa, pero la combinación de sabores me sorprendió.
 

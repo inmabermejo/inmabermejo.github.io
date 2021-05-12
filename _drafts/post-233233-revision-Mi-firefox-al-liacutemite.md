@@ -8,13 +8,13 @@ guid: http://www.wp.chavalina.net/2004/10/08/233-revision/
 permalink: /2004/10/08/233-revision/
 ---
 <p align="center">
-  <img class="imgcentro" src="http://www.chavalina.net/imagenes/fotos/firefox300m.gif" alt="Firefox ocupando m&aacute;s de 300 MB de memoria" />
+  <img class="imgcentro" src="http://www.chavalina.net/imagenes/fotos/firefox300m.gif" alt="Firefox ocupando más de 300 MB de memoria" />
 </p>
 
-Con s&oacute;lo 5 pesta&ntilde;as de navegaci&oacute;n abiertas he acabado teniendo que «matar» a mi muy querido <a href="http://www.mozilla.org/products/firefox/" target="_blank">firefox</a> si no quer&iacute;a sufrir males mayores. No est&aacute; bien ocupar 663 MB de memoria cuando s&oacute;lo tienes 512&#8230;
+Con s&oacute;lo 5 pesta&ntilde;as de navegaci&oacute;n abiertas he acabado teniendo que «matar» a mi muy querido <a href="http://www.mozilla.org/products/firefox/" target="_blank">firefox</a> si no quer&iacute;a sufrir males mayores. No está bien ocupar 663 MB de memoria cuando s&oacute;lo tienes 512…
 
 No es la primera vez que <a href="http://www.mozilla.org/products/firefox/" target="_blank">este navegador</a>, que creo que es lo mejor que hay por ahora, todo sea dicho, se me vuelve loco. Recuerdo que nunca pude instalar ninguna 0.9 porque los tabs vibraban literalmente, parec&iacute;a aquello el baile de San Vito.
 
-Pero esto me ha molestado m&aacute;s.  
-Y lo que me resulta curioso&#8230; ha ocurrido mientras visitaba una p&aacute;gina hecha (**muy bien hecha**) por completo en <a href="http://www.macromedia.com/software/flash/&prime;" target="_blank">Flash</a>, concretamente una galer&iacute;a de fotos que envidio sobremanera.  
+Pero esto me ha molestado más.  
+Y lo que me resulta curioso… ha ocurrido mientras visitaba una página hecha (**muy bien hecha**) por completo en <a href="http://www.macromedia.com/software/flash/&prime;" target="_blank">Flash</a>, concretamente una galer&iacute;a de fotos que envidio sobremanera.  
 Sin acritud, &iquest;eh?![emo](/imagenes/emoticonos/sonrisa.gif)

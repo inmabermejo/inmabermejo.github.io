@@ -51,7 +51,7 @@ Pero una **bici plegable eléctrica** es una gran alternativa a una moto para mo
 
 
 
-Bastante sin escribir el resumen semanal, y me parecen ahora tan lejanas algunas cosas que quiero contar&#8230; Como el **concierto de Silvio Rodríguez** en el que estuve. No es que sea mi músico favorito, fui mas bien de acompañante, pero oye, al final, estuvo muy bien y, como me suele pasar con la música en directo, me ha hecho volver a incluir al artista en mis selecciones cotidianas.
+Bastante sin escribir el resumen semanal, y me parecen ahora tan lejanas algunas cosas que quiero contar… Como el **concierto de Silvio Rodríguez** en el que estuve. No es que sea mi músico favorito, fui mas bien de acompañante, pero oye, al final, estuvo muy bien y, como me suele pasar con la música en directo, me ha hecho volver a incluir al artista en mis selecciones cotidianas.
 
 El **proyecto personal del que nunca hablo** está teniendo más idas y venidas que nunca. Yo sólo quiero encontrar una casa en el pueblo donde paso los fines de semana, y parece que no hay forma.
 
@@ -74,7 +74,7 @@ El **proyecto personal del que nunca hablo** está teniendo más idas y venidas 
 
 
 
-Terrenos a precios de Gran Vía madrileña, casas en ruina que se autodenominan _mansiones_, reformas _para entrar a vivir_ que parecen el pasaje del terror&#8230; Todo muy mírame y no me toques, siempre. Claramente, **Blanca tiene un microclima inmobiliario propio**, y o te adaptas o no haces nada. Olvídate de [algo diferente](http://www.hgtv.com/shows/tiny-house-hunters).
+Terrenos a precios de Gran Vía madrileña, casas en ruina que se autodenominan _mansiones_, reformas _para entrar a vivir_ que parecen el pasaje del terror… Todo muy mírame y no me toques, siempre. Claramente, **Blanca tiene un microclima inmobiliario propio**, y o te adaptas o no haces nada. Olvídate de [algo diferente](http://www.hgtv.com/shows/tiny-house-hunters).
 
 Así que cada fin de semana voy vagando por el casco antiguo y el barrio nuevo, buscando _prospects_, con errático resultado.
 
@@ -105,7 +105,7 @@ Acabó The Good Wife y me dejó fría, y ahora ya no tengo series que seguir. Pe
 
 <blockquote class="twitter-tweet" data-lang="en">
   <p lang="es" dir="ltr">
-    Pues el final de <a href="https://twitter.com/hashtag/thegoodwife?src=hash">#thegoodwife</a>, no sé no sé&#8230; &#x1f648;
+    Pues el final de <a href="https://twitter.com/hashtag/thegoodwife?src=hash">#thegoodwife</a>, no sé no sé… &#x1f648;
   </p>
   
   <p>
@@ -157,9 +157,9 @@ En los últimos días he descubierto a Tristan Harris, que denuncia algo que úl
 
 ¿Estamos robando tiempo a la gente para aumentar el engagement? Claramente. ¿Cuál es la postura ética al respecto? Muy interesantes [sus artículos en Medium](https://medium.com/swlh/how-technology-hijacks-peoples-minds-from-a-magician-and-google-s-design-ethicist-56d62ef5edf3#.3ok5jxds5).
 
-También tengo que recomendar el diario en Medium de [Danny Saltaren](https://medium.com/@dsaltaren/). Este chico siempre es muy generoso y no escatima en contar su proceso, y sus sensaciones, para que otros podamos aprender. Sobre fotografía, inspiración, diseño&#8230; se puede empezar por uno de sus primeros artículos, sobre [encontrar la mirada](https://medium.com/@dsaltaren/mi-primera-clase-la-mirada-93a997739aae#.fyqe9vkts) en fotografía, pero yo los recomiendo todos.
+También tengo que recomendar el diario en Medium de [Danny Saltaren](https://medium.com/@dsaltaren/). Este chico siempre es muy generoso y no escatima en contar su proceso, y sus sensaciones, para que otros podamos aprender. Sobre fotografía, inspiración, diseño… se puede empezar por uno de sus primeros artículos, sobre [encontrar la mirada](https://medium.com/@dsaltaren/mi-primera-clase-la-mirada-93a997739aae#.fyqe9vkts) en fotografía, pero yo los recomiendo todos.
 
-Y ha salido de nuevo el [Programa Vostok](http://programavostok.com/), el curso de Javier Cañada. Justamente donde conocí a Danny, y que, si pudiera, **volvería a hacer con los ojos cerrados**. Si podéis y os interesa el diseño&#8230; de lo mejor.
+Y ha salido de nuevo el [Programa Vostok](http://programavostok.com/), el curso de Javier Cañada. Justamente donde conocí a Danny, y que, si pudiera, **volvería a hacer con los ojos cerrados**. Si podéis y os interesa el diseño… de lo mejor.
 
 <blockquote class="twitter-tweet" data-lang="en">
   <p lang="es" dir="ltr">

@@ -31,13 +31,13 @@ Y también del panel, dando soporte a desarrolladores para **probar y volver a p
 
 Hubo una tarea inesperada, para la que tuve que preparar un **widget de producto** en muy poco tiempo. No estoy 100% contenta con el diseño, a mi vuelta veremos los resultados que da, e iteraré sobre él. 
 
-Lo malo es que hay poca materia prima. Fotos de calidad muy mejorable, sin poder procesarlas (es para una producción automatizada y por lotes), la información disponible para cada producto no es homogénea&#8230; Pero puedo dejar esta primera versión para que se implemente en mi ausencia, y luego estudiar los datos.
+Lo malo es que hay poca materia prima. Fotos de calidad muy mejorable, sin poder procesarlas (es para una producción automatizada y por lotes), la información disponible para cada producto no es homogénea… Pero puedo dejar esta primera versión para que se implemente en mi ausencia, y luego estudiar los datos.
 
 Tuvimos la siguiente **reunión de status del departamento**, ya en formato estandarizado con lo que decidimos en la anterior. Más corta y bastante eficaz. Y por mi parte, pedí a mi jefe hacer una reunión para que me diera la **valoración de mi rendimiento** en lo que llevamos de año.
 
 El año pasado, entre viajes por el curso y más cosas, había bajado mi nivel, y este año quería dar un buen empujón. De lo que me ha comentado, coincidimos bastante en mi punto débil: **la estética y la creatividad**. Literalmente, me dice que funciono muy bien cuando hay una tarea muy definida, pero que cuando hay más libertad, me quedo muy corta.
 
-Hay una parte _relativamente fácil_ de resolver, la más técnica, tipografía, color, composición&#8230; que ya he ido mejorando un poco, y sigo estudiando. Pero la parte de las ideas es la que más me cuesta.
+Hay una parte _relativamente fácil_ de resolver, la más técnica, tipografía, color, composición… que ya he ido mejorando un poco, y sigo estudiando. Pero la parte de las ideas es la que más me cuesta.
 
 Yo también lo creo, siempre lo he visto como mi mayor limitación, incluso en los ejercicios del curso del año pasado. Y recuerdo lo que me decía mi compañero [Danny](https://dribbble.com/dsaltaren), <q>«hay que mirar, mirar y mirar»</q>. Él es una de las personas con más talento para el visual que he conocido en persona, y además gracias a él conocí también a [Marta Romero](https://dribbble.com/cayeromero), cuyo estilo también me parece de un buen gusto y equilibrio excelentes.
 
@@ -53,4 +53,4 @@ Y en el ocio, estoy en una etapa extraña. Hace mucho que perdí el interés en 
 
 Pero en los últimos días he vuelto a tener _sensaciones_ con sendas [Dune](http://www.imdb.com/title/tt0087182/) y [Blue Velvet](http://www.imdb.com/title/tt0090756/). Pese a que no son lo primero que veo de [David Lynch](http://www.imdb.com/name/nm0000186/?ref_=tt_ov_dr), son películas extrañas, y traen sensaciones extrañas, buenas y malas. Pero sensaciones al fin y al cabo.
 
-Lo único malo de Lynch es que luego necesitas el antídoto&#8230;
+Lo único malo de Lynch es que luego necesitas el antídoto…

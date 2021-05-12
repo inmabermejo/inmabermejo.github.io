@@ -17,7 +17,7 @@ Y lo primero que pensé fue **¿es que esto no es lo usual?**.
 
 Nunca he sido muy amiga de los frameworks para mi desgracia, tienen muchas ventajas pero me parecen _moles_, grandes monstruos generalistas, así que intento coger partes y **quedarme sólo con lo que me interesa** para la producción real.
 
-Y una de las razones es la que mencionan en este artículo: la **deuda** que asumes en el HTML si lo construyes directamente sobre un framework. Por bueno que sea, puedes acabar con código poco semántico, con cosas como `class="span-8"`, que, meses después, cuando alguien tenga que volver a trabajar sobre ese código, no será fácil de comprender de un vistazo. Además de estar vendido si el framework deja de ser actualizado&#8230;
+Y una de las razones es la que mencionan en este artículo: la **deuda** que asumes en el HTML si lo construyes directamente sobre un framework. Por bueno que sea, puedes acabar con código poco semántico, con cosas como `class="span-8"`, que, meses después, cuando alguien tenga que volver a trabajar sobre ese código, no será fácil de comprender de un vistazo. Además de estar vendido si el framework deja de ser actualizado…
 
 Tras años dando la lata con la importancia del **HTML semántico**, la independencia del contenido y aspecto, CSS Zen garden y demás, no es cuestión de olvidarse de ello tan rápidamente. Porque el HTML semántico son los elementos, pero también las clases, los id, y hasta los comentarios. Y también es importante el **estilo del código**, que sea sencillo, breve y elegante o código que ni tú mismo quieres leer.
 
@@ -105,7 +105,7 @@ border-radius:4px;
 }
 </pre>
 
-Aparte de no tener que aparecer clases como `"icon-comment"` directamente en nuestro HTML, tenemos la ventaja de poder reutilizar, centralización para cambios posteriores&#8230; qué os voy a contar que no sepáis.
+Aparte de no tener que aparecer clases como `"icon-comment"` directamente en nuestro HTML, tenemos la ventaja de poder reutilizar, centralización para cambios posteriores… qué os voy a contar que no sepáis.
 
 Igual que con estos iconos, con el resto de cosas. Por ejemplo, clases «tipo» para definir los estilos de la tipografía y luego extenderlos en todo el sitio. Y lo mismo para cualquier otro elemento del diseño.
 

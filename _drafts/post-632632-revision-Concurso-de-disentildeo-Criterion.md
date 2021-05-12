@@ -7,4 +7,4 @@ layout: revision
 guid: http://www.wp.chavalina.net/2006/02/14/632-revision/
 permalink: /2006/02/14/632-revision/
 ---
-<a href="http://www.criteriondg.info/wordpress/archives/2006/02/15/concurso-criterion/" target="_blank">Skeku</a> nos invita a participar en <a href="http://www.criteriondg.info/wordpress/concurso-criterion/" target="_blank">el concurso de dise&ntilde;o que organiza</a>. El tema: **fantas&iacute;a**. Qu&eacute; bonito. Ten&eacute;is hasta el 31 de marzo.
+<a href="http://www.criteriondg.info/wordpress/archives/2006/02/15/concurso-criterion/" target="_blank">Skeku</a> nos invita a participar en <a href="http://www.criteriondg.info/wordpress/concurso-criterion/" target="_blank">el concurso de dise&ntilde;o que organiza</a>. El tema: **fantas&iacute;a**. Qué bonito. Tenéis hasta el 31 de marzo.

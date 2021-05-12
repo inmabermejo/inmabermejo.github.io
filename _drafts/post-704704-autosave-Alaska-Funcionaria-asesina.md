@@ -7,4 +7,4 @@ layout: revision
 guid: http://www.chavalina.net/2009/01/21/704-autosave/
 permalink: /2009/01/21/704-autosave/
 ---
-Tanto tiempo escuchando esta canción&#8230;
+Tanto tiempo escuchando esta canción…

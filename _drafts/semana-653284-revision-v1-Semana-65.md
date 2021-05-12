@@ -7,13 +7,13 @@ layout: revision
 guid: http://www.chavalina.net/2015/02/15/3284-revision-v1/
 permalink: /2015/02/15/3284-revision-v1/
 ---
-Fin de semana de reencuentros con amigos, familia&#8230; ya me hacía mucha falta, un mes es demasiado sin juntarnos!
+Fin de semana de reencuentros con amigos, familia… ya me hacía mucha falta, un mes es demasiado sin juntarnos!
 
 
 
-Muchas ideas para disfrazarnos que, como casi siempre, quedaron en nada, pero&#8230; ¿y lo que nos reímos con los disfraces de matanza, Semana Santa, 50 sombras o Atina Turner?
+Muchas ideas para disfrazarnos que, como casi siempre, quedaron en nada, pero… ¿y lo que nos reímos con los disfraces de matanza, Semana Santa, 50 sombras o Atina Turner?
 
-Y con noticias de una pareja de queridos amigos que se embarcan en un nuevo proyecto&#8230; y que me da mucha envidia. Sana, eso sí. A ver si me dejan _negocierear_ a mis anchas, que es un tema que me gusta mucho.
+Y con noticias de una pareja de queridos amigos que se embarcan en un nuevo proyecto… y que me da mucha envidia. Sana, eso sí. A ver si me dejan _negocierear_ a mis anchas, que es un tema que me gusta mucho.
 
 Por fin volví a ver a mi hermana tras su época de exámenes _a la vejez_ y pudimos hacer un montón de planes, sobre todo los que implican ropa, rebajas, casas y decoración, y comida, nuestros temas favoritos.
 

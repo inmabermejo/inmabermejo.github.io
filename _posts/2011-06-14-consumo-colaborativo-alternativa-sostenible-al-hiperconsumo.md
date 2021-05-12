@@ -28,7 +28,7 @@ A través de <a href="http://inteligenciaetica.com/2011/05/consumo-colaborativo-
 
 Ejemplos ilustrativos y esperanzadores, pero que intentando imaginar cómo se podrían desarrollar en España, me generan más dudas que otra cosa.
 
-Este sistema se basa en la **reputación** y la **confianza**, y viendo lo presente que sigue estando la picaresca aquí&#8230; habría que andarse con bastante cuidado.
+Este sistema se basa en la **reputación** y la **confianza**, y viendo lo presente que sigue estando la picaresca aquí… habría que andarse con bastante cuidado.
 
 Aquí la charla, solo 15 minutos, y, aunqe está en inglés, se pueden activar los subtítulos en español:
 

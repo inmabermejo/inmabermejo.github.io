@@ -16,19 +16,19 @@ permalink: /2004/08/08/188-revision/
 </table>
 
 Ya empiezan otra vez las fiestas de <acronym title="Blanca">mi pueblo</acronym>.  
-Tengo tan presentes a&uacute;n las del a&ntilde;o pasado que parece que fue ayer&#8230; supongo que me hago mayor, o que el a&ntilde;o transcurre cada vez m&aacute;s r&aacute;pido y la monoton&iacute;a y la vida sedentaria contribuyen a privarme de recuerdos que intercalar entre uno y otro verano, as&iacute; que tengo esta peque&ntilde;a sensaci&oacute;n de vac&iacute;o.
+Tengo tan presentes a&uacute;n las del a&ntilde;o pasado que parece que fue ayer… supongo que me hago mayor, o que el a&ntilde;o transcurre cada vez más rápido y la monoton&iacute;a y la vida sedentaria contribuyen a privarme de recuerdos que intercalar entre uno y otro verano, as&iacute; que tengo esta peque&ntilde;a sensaci&oacute;n de vac&iacute;o.
 
-Este es un art&iacute;culo personal y sin m&aacute;s inter&eacute;s, que conste.  
-Y es que es en estos acontecimientos, cuando vuelvo a ver a gente que no esperaba, se recuperan viejas amistades y tambi&eacute;n viejas rencillas, ocurren «casos» (no es a m&iacute; a la &uacute;nica que trastorna el verano), y veo tantas barbaridades que pierdo la capacidad de sorprenderme y me da por pararme a pensar, ya que mi querido <acronym title="el hijo de perra de mi perro">Harpo</acronym> no me deja pegar ojo.
+Este es un art&iacute;culo personal y sin más interés, que conste.  
+Y es que es en estos acontecimientos, cuando vuelvo a ver a gente que no esperaba, se recuperan viejas amistades y también viejas rencillas, ocurren «casos» (no es a m&iacute; a la &uacute;nica que trastorna el verano), y veo tantas barbaridades que pierdo la capacidad de sorprenderme y me da por pararme a pensar, ya que mi querido <acronym title="el hijo de perra de mi perro">Harpo</acronym> no me deja pegar ojo.
 
 Casi sin querer, vienen recuerdos que se convierten en reflexiones.
 
-Tampoco puedo quejarme, subiendo la cuesta que me encontr&eacute; hace exactamente un a&ntilde;o parece que al final se ha impuesto la vida y el Carpe Diem a mi pesimismo cr&oacute;nico, a costa de tirar por tierra algunos de mis principios m&aacute;s arraigados, mis valores m&aacute;s preciados, los que vengo alimentando desde que tengo uso de raz&oacute;n con la excusa de preservar mi inocencia y sentirme bien conmigo misma.
+Tampoco puedo quejarme, subiendo la cuesta que me encontré hace exactamente un a&ntilde;o parece que al final se ha impuesto la vida y el Carpe Diem a mi pesimismo cr&oacute;nico, a costa de tirar por tierra algunos de mis principios más arraigados, mis valores más preciados, los que vengo alimentando desde que tengo uso de raz&oacute;n con la excusa de preservar mi inocencia y sentirme bien conmigo misma.
 
 Pero va a ser que no.  
 Menuda careta.  
-Resulta que todo es mucho m&aacute;s sencillo y que un cambio de mentalidad, relajarse, adoptar una actitud m&aacute;s abierta ante la vida no implica perder lo que cre&iacute;a estar atesorando hasta ahora. Es m&aacute;s, con esta nueva actitud todo tiene menos _peso_ para bien y para mal, lo que a mi me interesa es que ahora cualquier decepci&oacute;n ser&aacute; menos traum&aacute;tica, cualquier satisfacci&oacute;n menos cegadora. Etapa reflexiva y quiz&aacute; hasta filos&oacute;fica.
+Resulta que todo es mucho más sencillo y que un cambio de mentalidad, relajarse, adoptar una actitud más abierta ante la vida no implica perder lo que cre&iacute;a estar atesorando hasta ahora. Es más, con esta nueva actitud todo tiene menos _peso_ para bien y para mal, lo que a mi me interesa es que ahora cualquier decepci&oacute;n será menos traumática, cualquier satisfacci&oacute;n menos cegadora. Etapa reflexiva y quizá hasta filos&oacute;fica.
 
-&iquest;Ser&aacute; que ha sido necesario este cambio en mi forma de ver la vida para darme cuenta de que de cualquier experiencia, buena o mala, se puede sacar algo en claro?
+&iquest;Será que ha sido necesario este cambio en mi forma de ver la vida para darme cuenta de que de cualquier experiencia, buena o mala, se puede sacar algo en claro?
 
 Pero tampoco voy a mortificarme por eso, a <acronym title="23">mi edad</acronym> todav&iacute;a estoy en proceso de construcci&oacute;n y puedo permitirme estos lujos. Si tengo que cambiar de nuevo, bienvenido sea.

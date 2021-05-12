@@ -8,7 +8,7 @@ guid: http://www.wp.chavalina.net/2003/12/04/10-revision/
 permalink: /2003/12/04/10-revision/
 ---
 <p align="left">
-  No pensaba actualizar nada hasta que consiguiera montar un poco esto en<br /> PHP, pero estoy viendo que esto va a ser m&aacute;s largo de lo que pensaba,<br /> sobre todo para encontrar un poco de espacio donde pueda usarlo <img src="/imagenes/emoticonos/llorar.gif" alt="emo" /><br /> asi que a falta de ganas de seguir hoy voy a comentar mis primeros pasos<br /> en estos menesteres.
+  No pensaba actualizar nada hasta que consiguiera montar un poco esto en<br /> PHP, pero estoy viendo que esto va a ser más largo de lo que pensaba,<br /> sobre todo para encontrar un poco de espacio donde pueda usarlo <img src="/imagenes/emoticonos/llorar.gif" alt="emo" /><br /> asi que a falta de ganas de seguir hoy voy a comentar mis primeros pasos<br /> en estos menesteres.
 </p>
 
 <p align="left">
@@ -16,23 +16,23 @@ permalink: /2003/12/04/10-revision/
 </p>
 
 <p align="left">
-  En cuanto a MySQL, es una base de datos relacional basada<br /> en el est&aacute;ndar SQL-92, aunque, para los que conozc&aacute;is otras<br /> bases de datos como Oracle, no tiene las mismas caracter&iacute;sticas<br /> (por ejemplo no implementa la integridad referencial, aunque se puede<br /> simular) pero a cambio es de libre distribuci&oacute;n y est&aacute; en<br /> desarrollo <img src="/imagenes/emoticonos/risa.gif" alt="emo" />
+  En cuanto a MySQL, es una base de datos relacional basada<br /> en el estándar SQL-92, aunque, para los que conozcáis otras<br /> bases de datos como Oracle, no tiene las mismas caracter&iacute;sticas<br /> (por ejemplo no implementa la integridad referencial, aunque se puede<br /> simular) pero a cambio es de libre distribuci&oacute;n y está en<br /> desarrollo <img src="/imagenes/emoticonos/risa.gif" alt="emo" />
 </p>
 
 <p align="left">
-  En cuanto a Apache, pues prefiero no hablar mucho<br /> para no meter la pata. S&oacute;lo os digo que es un software de<br /> servidor de libre distribuci&oacute;n, os permitir&aacute; usar<br /> vuestro ordenador como un servidor y as&iacute; poder "probar"<br /> vuestros progresos con php en el ordenador personal sin conectaros<br /> a un servidor remoto, s&oacute;lo iniciando Apache en vuestro ordenador.
+  En cuanto a Apache, pues prefiero no hablar mucho<br /> para no meter la pata. S&oacute;lo os digo que es un software de<br /> servidor de libre distribuci&oacute;n, os permitirá usar<br /> vuestro ordenador como un servidor y as&iacute; poder "probar"<br /> vuestros progresos con php en el ordenador personal sin conectaros<br /> a un servidor remoto, s&oacute;lo iniciando Apache en vuestro ordenador.
 </p>
 
 <p align="left">
-  Y como yo soy muuuuy mala profesora, os dejar&eacute;<br /> un par de buenos tutoriales: el de <a href="http://www.programacion.com/php/tutorial/php/" target="_blank">programacion.com</a><br /> y <a href="http://www.rinconastur.com/php/" target="_blank">este<br /> que encontr&eacute; de casualidad</a> y que es con el que he conseguido<br /> hacer algo por fin, porque el chico lo explica todo para que se<br /> entienda, no como algunos manuales que lo &uacute;nico que ense&ntilde;an<br /> es la pedanter&iacute;a del autor.
+  Y como yo soy muuuuy mala profesora, os dejaré<br /> un par de buenos tutoriales: el de <a href="http://www.programacion.com/php/tutorial/php/" target="_blank">programacion.com</a><br /> y <a href="http://www.rinconastur.com/php/" target="_blank">este<br /> que encontré de casualidad</a> y que es con el que he conseguido<br /> hacer algo por fin, porque el chico lo explica todo para que se<br /> entienda, no como algunos manuales que lo &uacute;nico que ense&ntilde;an<br /> es la pedanter&iacute;a del autor.
 </p>
 
 <p align="left">
-  En fin, que ah&iacute; podr&eacute;is encontrar mucha informaci&oacute;n,<br /> y yo ir&eacute; colgando los manuales m&aacute;s interesantes que pasen<br /> por mis manos (gracias especialmente a <span class="alguien">kreach</span><br /> de GsmSpain <img src="/imagenes/emoticonos/guino.gif" alt="emo" />)<br /> en la secci&oacute;n de <a href="ficheros/ficheros.php#php" target="_blank">Ficheros</a><br /> de esta web, as&iacute; como los puntos de este proceso que m&aacute;s<br /> me costaron y los programas que recomiendo.
+  En fin, que ah&iacute; podréis encontrar mucha informaci&oacute;n,<br /> y yo iré colgando los manuales más interesantes que pasen<br /> por mis manos (gracias especialmente a <span class="alguien">kreach</span><br /> de GsmSpain <img src="/imagenes/emoticonos/guino.gif" alt="emo" />)<br /> en la secci&oacute;n de <a href="ficheros/ficheros.php#php" target="_blank">Ficheros</a><br /> de esta web, as&iacute; como los puntos de este proceso que más<br /> me costaron y los programas que recomiendo.
 </p>
 
 <p align="left">
-  La cuesti&oacute;n es que tenga tiempo&#8230;
+  La cuesti&oacute;n es que tenga tiempo…
 </p>
 
   * <a href="http://www.php.net/" target="_blank">PHP.NET</a>
@@ -40,4 +40,4 @@ permalink: /2003/12/04/10-revision/
   * [apache.org](http://www.apache.org/)
   * <a href="http://www.programacion.com/php/tutorial/php/" target="_blank">Tutorial<br /> de <acronym title="Hypertext PreProcessor">PHP</acronym> &#8211; MySQL de programacion.com</a>
   * <a href="http://www.rinconastur.com/php/" target="_blank">Memorias<br /> de un aprendiz de PHP</a>
-  * <a href="ficheros/ficheros.php#php" target="_blank">Alg&uacute;n<br /> manual&#8230;</a>
+  * <a href="ficheros/ficheros.php#php" target="_blank">Alg&uacute;n<br /> manual…</a>

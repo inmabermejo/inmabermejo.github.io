@@ -37,9 +37,9 @@ Y hemos añadido un **sistema de notificaciones**, aparte de los _mensajes de es
 
 Continuamos con las reuniones periódicas del departamento técnico, y ahora además tenemos una nueva convocatoria de lo que se podría calificar de _reunión de directivos_. Están resultando muy valiosas, la verdad. Dan mucha visibilidad de temas que antes me llegaban _tarde_, y me dan una visión global que antes construía uniendo puntos.
 
-Además, **un nuevo cambio se aproxima**&#8230; He estado haciendo algunos experimentos por mi propia iniciativa que espero que lleguen a buen puerto y sean un éxito. 
+Además, **un nuevo cambio se aproxima**… He estado haciendo algunos experimentos por mi propia iniciativa que espero que lleguen a buen puerto y sean un éxito. 
 
-En el proceso de esta tarea he recuperado espontáneamente una forma de trabajar que no usaba desde&#8230; la universidad por lo menos. **Escribir**. Lo había cambiado por bocetar directamente, pero, en esta ocasión, no sé por qué me ha dado por volver a hacerlo, y ha resultado un gran éxito. Es verdad que me pasé un montón de tiempo escribiendo y reescribiendo, pero me ha funcionado tan bien, que creo que lo voy a incorporar al día a día.
+En el proceso de esta tarea he recuperado espontáneamente una forma de trabajar que no usaba desde… la universidad por lo menos. **Escribir**. Lo había cambiado por bocetar directamente, pero, en esta ocasión, no sé por qué me ha dado por volver a hacerlo, y ha resultado un gran éxito. Es verdad que me pasé un montón de tiempo escribiendo y reescribiendo, pero me ha funcionado tan bien, que creo que lo voy a incorporar al día a día.
 
 En el fondo, es verbalizar el pensamiento lo que creo que ha funcionado. En lugar de intentar directamente plasmar en bocetos, escribir, y de ahí, bocetar. **Me ha resultado más fácil reordenar las ideas como palabras que como dibujo**. Un poco raro esto, quizá.
 

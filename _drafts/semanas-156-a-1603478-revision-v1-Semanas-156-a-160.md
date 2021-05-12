@@ -9,7 +9,7 @@ permalink: /2016/12/12/3478-revision-v1/
 ---
 Más de un mes sin escribir, casi un mes griposa. ¿Será un castigo?
 
-Y con la **gripe**, desde mitad de noviembre sin ir al gimnasio&#8230; con lo bien que iba, ahora me toca coger el hábito otra vez. Al menos sí he seguido cuidando la alimentación y &#8230;
+Y con la **gripe**, desde mitad de noviembre sin ir al gimnasio… con lo bien que iba, ahora me toca coger el hábito otra vez. Al menos sí he seguido cuidando la alimentación y …
 
 <blockquote class="instagram-media" data-instgrm-captioned data-instgrm-version="7" style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:658px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);">
   <div style="padding:8px;">
@@ -32,11 +32,11 @@ Y con la **gripe**, desde mitad de noviembre sin ir al gimnasio&#8230; con lo bi
 
 Jajaja, no tengo ni valor para ponerlo por escrito. Si casi ha sido **Navidad** antes en mi casa que en El Corte Inglés. Y en cuanto los supermercados han empezado a sacar los turrones, he hecho un buen acopio, creo que no lo voy a acabar en todo el año.
 
-Y además, de regalo el día de la Inmaculada recibí una excelente caja de mis donuts favoritos—¡si es que con un regalo así nunca se falla!—, que creo recordar que hacía meses y meses que no probaba&#8230; 
+Y además, de regalo el día de la Inmaculada recibí una excelente caja de mis donuts favoritos—¡si es que con un regalo así nunca se falla!—, que creo recordar que hacía meses y meses que no probaba… 
 
 Otra mentira cochina, me compré uno cuando fui al banco el mes pasado.
 
-Sigo avanzando en el proyecto inmobiliario, más despacio de lo que me gustaría, pero más vale hacer las cosas bien y no tener prisa. Hay ya mucho atado, pero no lo suficiente&#8230; Dos pasos más, y quizá me atreva ya a poner algún plano por aquí.
+Sigo avanzando en el proyecto inmobiliario, más despacio de lo que me gustaría, pero más vale hacer las cosas bien y no tener prisa. Hay ya mucho atado, pero no lo suficiente… Dos pasos más, y quizá me atreva ya a poner algún plano por aquí.
 
 <blockquote class="instagram-media" data-instgrm-captioned data-instgrm-version="7" style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:658px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);">
   <div style="padding:8px;">
@@ -76,17 +76,17 @@ Sigo avanzando en el proyecto inmobiliario, más despacio de lo que me gustaría
 
 
 
-Pocas fotos y paseos. Aunque sí aproveché los días que me encontraba mejor para salir _de marcha_ un par de veces _como en los viejos tiempos_. Más que nada para darme cuenta de que estar en una discoteca donde no se puede ni hablar ya no es lo mío —creo que nunca lo fue — , me conformaré con dejarlo para contadas ocasiones. Una fiesta privada, una comida en el campo que se alarga&#8230; tengo que promover más planes de esos.
+Pocas fotos y paseos. Aunque sí aproveché los días que me encontraba mejor para salir _de marcha_ un par de veces _como en los viejos tiempos_. Más que nada para darme cuenta de que estar en una discoteca donde no se puede ni hablar ya no es lo mío —creo que nunca lo fue — , me conformaré con dejarlo para contadas ocasiones. Una fiesta privada, una comida en el campo que se alarga… tengo que promover más planes de esos.
 
 En otras novedades, aproveché los buenos descuentos de noviembre para hacerme con un **Macbook Pro** del año pasado y algún accesorio. Mi Sony se había roto recientemente, no se puede cerrar y estaba sin portátil portable. Ver los nuevos Mac con la poca conectividad que traen me ha forzado a adelantar la compra.
 
-Sí, sí, con el propósito del minimalismo, y me compro otro ordenador. Pero bueno, eso no es lo más grave&#8230; aunque resistí al Black Friday —que cansino todo, por favor —, no fue así a la nueva temporada de ropa, y han caído un par de cosas que podrían haber sido evitadas perfectamente. Veremos si aún no vuelven por donde vinieron&#8230;
+Sí, sí, con el propósito del minimalismo, y me compro otro ordenador. Pero bueno, eso no es lo más grave… aunque resistí al Black Friday —que cansino todo, por favor —, no fue así a la nueva temporada de ropa, y han caído un par de cosas que podrían haber sido evitadas perfectamente. Veremos si aún no vuelven por donde vinieron…
 
 En el **trabajo**, tras los cambios en el _river of news_ de la portada de Xataka **no pudimos medir correctamente** los resultados porque hay otras circunstancias, la actualidad editorial, y han influido tanto en el comportamiento de los lectores de portada que han enmascarado los cambios del nuevo diseño con el sistema que teníamos para medir. Debimos haberlo previsto, nuestra forma de medir no ha sido apropiada y ahora tenemos que hacerlo de otra forma para los siguientes cambios.
 
 Se celebraron los Premios Xataka y aunque me apetecía mucho, no pude ir porque justo ese día teníamos que estrenar el [nuevo diseño](http://www.xataka.com/xataka/estrenamos-rediseno-bienvenidos-a-la-xataka-del-futuro) del sitio y no me daba tiempo a llegar a Madrid.
 
-Fundamentalmente en la web ha sido un **cambio de look&feel**, tipografía, colores, forma&#8230; pero la principal diferencia es que vamos a unificar todos nuestros canales (vídeo, redes sociales&#8230;) con la misma identidad. También estamos preparando un sistema de pictogramas para apoyar algunos contenidos muy recurrentes, y pronto empezaremos a expandir el sistema a otros sitios.
+Fundamentalmente en la web ha sido un **cambio de look&feel**, tipografía, colores, forma… pero la principal diferencia es que vamos a unificar todos nuestros canales (vídeo, redes sociales…) con la misma identidad. También estamos preparando un sistema de pictogramas para apoyar algunos contenidos muy recurrentes, y pronto empezaremos a expandir el sistema a otros sitios.
 
 La respuesta ha sido buena, nos han felicitado y no sólo crucificado con un cambio —aunque ya se sabe que las malas opiniones suelen hacer más ruido siempre — . Algunos se han extrañado de la elección de la tipografía serif. La intención ha sido mejorar la legibilidad (aunque no está demostrado tan claramente en pantallas) y mantener el tono neutro con la tipografía del cuerpo del texto, y dar más personalidad con la de titulares.
 

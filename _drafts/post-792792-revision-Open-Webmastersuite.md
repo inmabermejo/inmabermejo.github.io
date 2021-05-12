@@ -7,4 +7,4 @@ layout: revision
 guid: http://www.wp.chavalina.net/2007/04/24/792-revision/
 permalink: /2007/04/24/792-revision/
 ---
-Hace mucho que no pruebo un nuevo editor de HTML. Alma Fern&aacute;ndez rese&ntilde;a [Open Webmastersuite](http://www.webmasterlibre.com/2007/04/23/open-webmastersuite-una-suite-completa-y-multiplataforma/), con muy buena pinta **pero** hecho en Java![emo](/imagenes/emoticonos/triste.gif) habr&aacute; que probarlo antes de juzgar&#8230;
+Hace mucho que no pruebo un nuevo editor de HTML. Alma Fernández rese&ntilde;a [Open Webmastersuite](http://www.webmasterlibre.com/2007/04/23/open-webmastersuite-una-suite-completa-y-multiplataforma/), con muy buena pinta **pero** hecho en Java![emo](/imagenes/emoticonos/triste.gif) habrá que probarlo antes de juzgar…

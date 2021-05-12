@@ -7,20 +7,20 @@ layout: revision
 guid: http://www.chavalina.net/2008/12/21/623-revision-2/
 permalink: /2008/12/21/623-revision-2/
 ---
-<a href="http://www.criteriondg.info/wordpress/archives/2006/02/06/meme-again-de-4-en-4/" target="_blank">Me han vuelto a pasar un marr&oacute;n</a>, pero es lo que tiene ser bloggah&#8230;
+<a href="http://www.criteriondg.info/wordpress/archives/2006/02/06/meme-again-de-4-en-4/" target="_blank">Me han vuelto a pasar un marr&oacute;n</a>, pero es lo que tiene ser bloggah…
 
 **Cuatro trabajos que he tenido** 
 
   * Ayudante de jugueter&iacute;a
   * Ayudante de ferreter&iacute;a
   * Oreja (s&iacute;, as&iacute; como suena)![emo](/imagenes/emoticonos/risa.gif) 
-  * Programador y dise&ntilde;ador web</ulQu&eacute; aprend&iacute; de mis trabajos: no trabajes para la familia
+  * Programador y dise&ntilde;ador web</ulQué aprend&iacute; de mis trabajos: no trabajes para la familia
   
 **Cuatro pel&iacute;culas que puedo ver una y otra vez** </p> 
 
   * Eduardo Manostijeras
   * Casablanca
-  * Lo que el viento se llev&oacute; (esta tiene m&eacute;rito, eh?)
+  * Lo que el viento se llev&oacute; (esta tiene mérito, eh?)
   * Rebeca
 
 **Cuatro series que me encantan** 
@@ -40,7 +40,7 @@ permalink: /2008/12/21/623-revision-2/
 **Cuatro sitios en los que he estado de vacaciones** 
 
   * Alemania (Baviera)
-  * Inglaterra (Oxford, Londres&#8230;)
+  * Inglaterra (Oxford, Londres…)
   * La playa (no recuerdo todas!)
   * Salamanca
 
@@ -49,7 +49,7 @@ permalink: /2008/12/21/623-revision-2/
   * Arroz a la cubana (pero no con huevo frito, con la fritura de carne que hago yo y sus platanitos fritos)
   * La merlucita al horno que hace mi madre
   * Chorizos a la sidra mmmmmmm
-  * &iquest;Cuentan los postres? Helado de chocolate, o de pl&aacute;tano
+  * &iquest;Cuentan los postres? Helado de chocolate, o de plátano
 
 **Cuatro sitios en los que te gustar&iacute;a estar ahora mismo** 
 
@@ -58,4 +58,4 @@ permalink: /2008/12/21/623-revision-2/
   * En Bolonia, visitando a mi amiga Isa
   * En Islandia, de vacaciones
 
-Jeje, y ahora viene lo bueno, a qui&eacute;n se lo paso?
+Jeje, y ahora viene lo bueno, a quién se lo paso?

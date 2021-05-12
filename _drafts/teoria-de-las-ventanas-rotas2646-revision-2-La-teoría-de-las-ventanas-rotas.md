@@ -11,6 +11,6 @@ permalink: /2012/03/04/2646-revision-2/
 
 Una idea muy interesante que además es aplicable a distintas escalas, desde la ciudad de Nueva York, hasta la persona que esto escribe.
 
-Me quedo con esa escala, la personal. Hay que cuidarse, cultivarse. En cada aspecto: físico, mental, personal, profesional&#8230; porque cuando empiezas a descuidarte, poco a poco le vas dando menos importancia y te descuidas más. Que cierta es esta teoría de las ventanas rotas.
+Me quedo con esa escala, la personal. Hay que cuidarse, cultivarse. En cada aspecto: físico, mental, personal, profesional… porque cuando empiezas a descuidarte, poco a poco le vas dando menos importancia y te descuidas más. Que cierta es esta teoría de las ventanas rotas.
 
 Visto en <a href="http://pseudopodo.wordpress.com/2011/12/07/tres-historias-ejemplares-iii-la-teoria-de-las-ventanas-rotas/" target="_blank">Pseudópodo</a>.

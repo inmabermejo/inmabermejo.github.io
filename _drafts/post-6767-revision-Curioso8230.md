@@ -1,6 +1,6 @@
 ---
 id: 1017
-title: 'Curioso&#8230;'
+title: 'Curioso…'
 date: 2004-03-31T09:48:44+02:00
 author: Chavalina
 layout: revision

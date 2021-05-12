@@ -13,6 +13,6 @@ Pero es así. Y no creo que a mucha gente le guste. Hay diferentes procesos para
 
 Tienes que instalarte programas que consumen recursos de tu ordenador.
 
-Tienes que estar buscando y buscando los archivos que te interesan, diferentes versiones, idiomas, calidades&#8230;
+Tienes que estar buscando y buscando los archivos que te interesan, diferentes versiones, idiomas, calidades…
 
 Tienes que esperar lo tuyo, en caso de que, como yo, no tengas una cuenta premium de una web de alojamiento de archivos, tipo Megaupload.

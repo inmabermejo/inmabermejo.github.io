@@ -8,11 +8,11 @@ guid: http://www.wp.chavalina.net/2003/11/22/2-revision/
 permalink: /2003/11/22/2-revision/
 ---
 <p align="left">
-  Toda clase de tutoriales enfocados a la publicaci&oacute;n en Internet,<br /> sencillos, para empezar con HTML, PHP, ASP, javascript&#8230; y otros<br /> enfocados m&aacute;s a la promoci&oacute;n de webs, generadores<br /> de etiquetas META para tu web, plantillas de c&oacute;digo para<br /> libros de visitas si usas <acronym title="Hypertext PreProcessor">PHP</acronym> con MySQL, y muchos enlaces a otras<br /> p&aacute;ginas por supuesto.
+  Toda clase de tutoriales enfocados a la publicaci&oacute;n en Internet,<br /> sencillos, para empezar con HTML, PHP, ASP, javascript… y otros<br /> enfocados más a la promoci&oacute;n de webs, generadores<br /> de etiquetas META para tu web, plantillas de c&oacute;digo para<br /> libros de visitas si usas <acronym title="Hypertext PreProcessor">PHP</acronym> con MySQL, y muchos enlaces a otras<br /> páginas por supuesto.
 </p>
 
 <p align="left">
-  Hay que registrarse pero no mandan mucha basura al<br /> correo, s&oacute;lo los boletines de novedades si lo pides, est&aacute;<br /> bien, yes recomendable para empezar, tiene manuales muy b&aacute;sicos,<br /> desde 0.
+  Hay que registrarse pero no mandan mucha basura al<br /> correo, s&oacute;lo los boletines de novedades si lo pides, está<br /> bien, yes recomendable para empezar, tiene manuales muy básicos,<br /> desde 0.
 </p>
 
   * <a href="http://www.desarrolloweb.com" target="_blank">Desarrollo Web</a>

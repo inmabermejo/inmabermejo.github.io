@@ -1,14 +1,14 @@
 ---
 id: 1446
-title: 'Port&aacute;til financiado con publicidad'
+title: 'Portátil financiado con publicidad'
 date: 2006-11-23T04:45:07+02:00
 author: Chavalina
 layout: revision
 guid: http://www.wp.chavalina.net/2006/11/23/761-revision/
 permalink: /2006/11/23/761-revision/
 ---
-No recuerdo qui&eacute;n&#8230; alguien me dijo hace tiempo que pensaba que de aqu&iacute; a unos a&ntilde;os casi cualquier cosa podr&iacute;a financiarse con publicidad. 
+No recuerdo quién… alguien me dijo hace tiempo que pensaba que de aqu&iacute; a unos a&ntilde;os casi cualquier cosa podr&iacute;a financiarse con publicidad. 
 
-Y bueno, aqu&iacute; tenemos otro ejemplo. Despu&eacute;s de ver gente que «alquilaba» partes de su cuerpo para hacer publicidad, <a href="http://chuddup.com/laser-etched-laptop/" target="_blank">esta chica financia su ordenador port&aacute;til con publicidad</a>, o al menos lo intenta. La filosof&iacute;a de la p&aacute;gina del mill&oacute;n de d&oacute;lares a peque&ntilde;a escala, y funcionando. &iquest;Habr&aacute; tenido algo que ver que la zagala est&eacute; de buen ver, como comentaban en Meneame?
+Y bueno, aqu&iacute; tenemos otro ejemplo. Después de ver gente que «alquilaba» partes de su cuerpo para hacer publicidad, <a href="http://chuddup.com/laser-etched-laptop/" target="_blank">esta chica financia su ordenador portátil con publicidad</a>, o al menos lo intenta. La filosof&iacute;a de la página del mill&oacute;n de d&oacute;lares a peque&ntilde;a escala, y funcionando. &iquest;Habrá tenido algo que ver que la zagala esté de buen ver, como comentaban en Meneame?
 
-La verdad es que me parece una idea _simp&aacute;tica_&#8230; a mi la verdad es que no me molestar&iacute;a hacer lo mismo, de hecho me gusta como le ha quedado el ordenador. Claro que, como se suele decir, estas cosas pasan solo en Estados Unidos. Aqu&iacute; es que nos cuesta m&aacute;s rascarnos el bolsillo para ciertas cosas.
+La verdad es que me parece una idea _simpática_… a mi la verdad es que no me molestar&iacute;a hacer lo mismo, de hecho me gusta como le ha quedado el ordenador. Claro que, como se suele decir, estas cosas pasan solo en Estados Unidos. Aqu&iacute; es que nos cuesta más rascarnos el bolsillo para ciertas cosas.

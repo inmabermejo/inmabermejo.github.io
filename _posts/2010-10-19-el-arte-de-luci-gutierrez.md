@@ -30,7 +30,7 @@ A través de un tweet sobre [el fallecimiento de eRNieB](http://www.domestika.or
   <a href="http://www.chavalina.net/imagenes/2010/10/imagen01.jpg"><img class="size-full wp-image-2118  aligncenter" title="imagen01" src="http://www.chavalina.net/imagenes/2010/10/imagen01.jpg" alt="" width="450" height="450" srcset="http://www.chavalina.net/imagenes/2010/10/imagen01.jpg 450w, http://www.chavalina.net/imagenes/2010/10/imagen01-150x150.jpg 150w, http://www.chavalina.net/imagenes/2010/10/imagen01-300x300.jpg 300w" sizes="(max-width: 450px) 100vw, 450px" /></a>
 </p>
 
-Ella es una ilustradora de Barcelona, y publica en libros, revistas&#8230; con un estilo muy personal. Colores planos y formas limpias. Me encanta! Y me encantaría que comercializara camisetas, seguro que tendrían éxito&#8230; [virgen santa](http://ex7.org/exposiciones/luci-gutierrez/imagen5.html)!
+Ella es una ilustradora de Barcelona, y publica en libros, revistas… con un estilo muy personal. Colores planos y formas limpias. Me encanta! Y me encantaría que comercializara camisetas, seguro que tendrían éxito… [virgen santa](http://ex7.org/exposiciones/luci-gutierrez/imagen5.html)!
 
 <p style="text-align: center;">
   <a href="http://www.chavalina.net/imagenes/2010/10/imagen05.jpg"><img class="size-full wp-image-2116  aligncenter" title="imagen05" src="http://www.chavalina.net/imagenes/2010/10/imagen05.jpg" alt="" width="450" height="450" srcset="http://www.chavalina.net/imagenes/2010/10/imagen05.jpg 450w, http://www.chavalina.net/imagenes/2010/10/imagen05-150x150.jpg 150w, http://www.chavalina.net/imagenes/2010/10/imagen05-300x300.jpg 300w" sizes="(max-width: 450px) 100vw, 450px" /></a>

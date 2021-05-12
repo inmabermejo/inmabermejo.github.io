@@ -1,6 +1,6 @@
 ---
 id: 1539
-title: '&iquest;Por qu&eacute; no escribo n&aacute; &uacute;ltimamente?'
+title: '&iquest;Por qué no escribo ná &uacute;ltimamente?'
 date: 2006-08-08T02:58:24+02:00
 author: Chavalina
 layout: revision

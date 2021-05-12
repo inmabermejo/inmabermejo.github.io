@@ -15,6 +15,6 @@ Desde luego es una buena muestra de que **hace más el que quiere que el que pue
 
 En esos momentos este blog era solo un grupo de **páginas estáticas**, sin base de datos siquiera, y después incluso me atreví a desarrollar mi propio sistema de gestión de contenidos, como David y otros tantos _pioneros_ (me permito la licencia jeje).
 
-Y ahora, con tantas facilidades, WordPress, Flickr, Twitter&#8230; lo tengo tan abandonado&#8230; 🙁
+Y ahora, con tantas facilidades, WordPress, Flickr, Twitter… lo tengo tan abandonado… 🙁
 
 Para los nostálgicos, unas imágenes de los estilos que usaba, y <a href="http://web.archive.org/web/20040329085832/http://www.chavalina.net/" target="_blank">la copia que mantienen en archive.org</a> 🙂

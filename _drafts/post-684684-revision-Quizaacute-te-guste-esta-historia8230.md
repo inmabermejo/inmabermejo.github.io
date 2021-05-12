@@ -1,6 +1,6 @@
 ---
 id: 1481
-title: 'Quiz&aacute; te guste esta historia&#8230;'
+title: 'Quizá te guste esta historia…'
 date: 2006-05-24T00:12:09+02:00
 author: Chavalina
 layout: revision

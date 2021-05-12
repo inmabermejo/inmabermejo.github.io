@@ -9,4 +9,4 @@ permalink: /2004/07/03/155-revision/
 ---
 <img src="/imagenes/fotos/alonsohr.jpg" alt="Fernando Alonso" border="1" />
 
-Ma&ntilde;ana, a las 13.30, no os perd&aacute;is la salida del Gran Premio de Francia. Fernando Alonso y Michael Schumacher.
+Ma&ntilde;ana, a las 13.30, no os perdáis la salida del Gran Premio de Francia. Fernando Alonso y Michael Schumacher.

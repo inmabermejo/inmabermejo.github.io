@@ -19,7 +19,7 @@ permalink: /2004/06/24/148-revision/
       </table>
       
       <p>
-        "Summertime&#8230; and the living is easy&#8230;"
+        "Summertime… and the living is easy…"
       </p>
       
       <p>
@@ -27,7 +27,7 @@ permalink: /2004/06/24/148-revision/
       </p>
       
       <p>
-        La sangre, demasiado ocupada manteniendo la temperatura, ya no presta atenci&oacute;n al cerebro, que se va relajando, se ablanda la voluntad y deja al cuerpo m&aacute;s libre, te invade la pereza, y los sentidos se disparan, est&aacute;s preparado para percibir. El mejor momento para dejarse llevar, experimentar nuevas sensaciones. Vamos, &eacute;chale imaginaci&oacute;n y disfruta cuanto puedas, no digas "lo har&eacute; ma&ntilde;ana". Yo no pienso perder ni un minuto, &eacute;ste es mi verano y lo voy a aprovechar.
+        La sangre, demasiado ocupada manteniendo la temperatura, ya no presta atenci&oacute;n al cerebro, que se va relajando, se ablanda la voluntad y deja al cuerpo más libre, te invade la pereza, y los sentidos se disparan, estás preparado para percibir. El mejor momento para dejarse llevar, experimentar nuevas sensaciones. Vamos, échale imaginaci&oacute;n y disfruta cuanto puedas, no digas "lo haré ma&ntilde;ana". Yo no pienso perder ni un minuto, éste es mi verano y lo voy a aprovechar.
       </p>
       
       <p>

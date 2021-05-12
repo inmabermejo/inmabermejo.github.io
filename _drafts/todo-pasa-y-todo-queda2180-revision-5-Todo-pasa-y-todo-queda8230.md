@@ -1,6 +1,6 @@
 ---
 id: 2185
-title: 'Todo pasa y todo queda&#8230;'
+title: 'Todo pasa y todo queda…'
 date: 2010-12-31T16:17:18+02:00
 author: Chavalina
 layout: revision
@@ -19,9 +19,9 @@ Así mis planes para 2011 serían, en la típica lista:
   * **Cuidar mi mente**: estudiar, hacerme una buena biblioteca de artículos y documentación del trabajo, y hacer un curso de usabilidad/UX, qué pena que no pudiera ser el <a href="http://www.vostok.es/formacion/" target="_blank">programa Vostok</a>, que es el que quería 🙁
   * **Tener alguna afición**: todas han quedado desterradas por falta de tiempo, tanto el dibujo como la fotografía, como este mismo blog, y necesito una para despejarme.
   * **Trabajar menos**: sí! menos! es muy goloso el freelance porque puedes trabajar más y ganas más, pero de ahí a ser un <a href="http://es.wikipedia.org/wiki/Workah%C3%B3lico" target="_blank"><em>workaholic</em> </a>hay poco y no quiero instalarme ahí.
-  * **Montar un negocio**: ¿incompatible con la anterior? quizá&#8230; pero es que quiero hacerlo! ya sea en la web u offline, ser freelance no es lo mismo, aunque posiblemente sea éste el propósito que no se cumpla.
-  * **Mejorar las relaciones sociales**: cada vez se relegan más al fin de semana, tanto familia como amigos&#8230;
+  * **Montar un negocio**: ¿incompatible con la anterior? quizá… pero es que quiero hacerlo! ya sea en la web u offline, ser freelance no es lo mismo, aunque posiblemente sea éste el propósito que no se cumpla.
+  * **Mejorar las relaciones sociales**: cada vez se relegan más al fin de semana, tanto familia como amigos…
 
 Objetivos muy generalistas, y por eso mismo difíciles de cumplir. Por eso voy a atacar mes a mes. Hasta ahora, desde septiembre, cumplí todos mis propósitos mensuales menos uno. Pues a seguir por este camino.
 
-¿Enero? pues pongamos el de la bici. Madre mía, en enero&#8230; pero es lo que hay!
+¿Enero? pues pongamos el de la bici. Madre mía, en enero… pero es lo que hay!

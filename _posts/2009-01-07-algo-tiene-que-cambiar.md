@@ -17,6 +17,6 @@ Dando una vuelta por los [foros de Burbuja Inmobiliaria](http://www.burbuja.info
 
 <object width="400" height="326" data="http://video.google.es/googleplayer.swf?docid=5175465760297779420&amp;hl=es&amp;fs=true" type="application/x-shockwave-flash"><param name="id" value="VideoPlayback" /><param name="src" value="http://video.google.es/googleplayer.swf?docid=5175465760297779420&amp;hl=es&amp;fs=true" /><param name="allowfullscreen" value="true" /></object>
 
-Y sean o no exactas las cifras, es una realidad que está pasando cada día, no hay desarrollo sostenible y son cosas que no pensamos, o al menos yo no lo pienso, cuando me compro un nuevo ordenador, una nueva agenda, unas botas, una falda&#8230;
+Y sean o no exactas las cifras, es una realidad que está pasando cada día, no hay desarrollo sostenible y son cosas que no pensamos, o al menos yo no lo pienso, cuando me compro un nuevo ordenador, una nueva agenda, unas botas, una falda…
 
-Así que tengo que añadir uno más a [mis propósitos/deseos de nuevo año](http://www.chavalina.net/2008/12/31/deseos-para-2009/)&#8230; **consumir menos**. Lo justo y menos para [un estilo de vida simple](http://desencadenado.com/2008/12/un-estilo-de-vida-simpl.html).
+Así que tengo que añadir uno más a [mis propósitos/deseos de nuevo año](http://www.chavalina.net/2008/12/31/deseos-para-2009/)… **consumir menos**. Lo justo y menos para [un estilo de vida simple](http://desencadenado.com/2008/12/un-estilo-de-vida-simpl.html).

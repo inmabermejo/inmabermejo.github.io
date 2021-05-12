@@ -3,6 +3,6 @@ name: sildur
 email: sildurin@gmail.com
 avatar: https://www.gravatar.com/avatar/19ce77a3d638fd31203549ad334e8ac1?r=pg&d=retro
 date: 2005-02-02 07:02:18
-message: "Puedes mostrar un texto y un select. El texto contedr&aacute; una palabra de una lista de 100 y el select 10 de una lista tambi&eacute;n de 100.<br />
-El usuario deber&aacute; elegir la palabra del select que sea sin&oacute;nimo de la que se muestra en el texto.<br />
-Ese es un test que puede resolver cualquiera que sepa castellano, que es complejo para una m&aacute;quina (las palabras las eliges t&uacute;, hay millones y puedes usar argot) y que un usuario que acceda con un navegador de texto (o alguien con visibilidad limitada) tambi&eacute;n puede resolver."
+message: "Puedes mostrar un texto y un select. El texto contedrá una palabra de una lista de 100 y el select 10 de una lista también de 100.<br />
+El usuario deberá elegir la palabra del select que sea sin&oacute;nimo de la que se muestra en el texto.<br />
+Ese es un test que puede resolver cualquiera que sepa castellano, que es complejo para una máquina (las palabras las eliges t&uacute;, hay millones y puedes usar argot) y que un usuario que acceda con un navegador de texto (o alguien con visibilidad limitada) también puede resolver."

@@ -24,7 +24,7 @@ Han sido meses muy intensos en varios frentes, y no he podido adaptarme al ritmo
 
 En **WSL** pasaron los **Premios Xataka** y finalmente tuve que faltar. Me dio mucha pena, también porque me hubiera gustado ver a otros amigos de Madrid, pero a veces hay que saber dejar ir las cosas, no se puede estar a todo.
 
-Como hace tanto que no escribo, tenemos tantos avances que no sé por dónde contar. En general, estoy trabajando mucho con temas _responsive_, diseño para móviles, la nueva organización del equipo, la visibilidad del trabajo&#8230; 
+Como hace tanto que no escribo, tenemos tantos avances que no sé por dónde contar. En general, estoy trabajando mucho con temas _responsive_, diseño para móviles, la nueva organización del equipo, la visibilidad del trabajo… 
 
 Principalmente, la **Tarea** apenas ha avanzado, en su camino se han interpuesto otras y solamente hemos avanzado un poquito en una de sus partes. Pero demasiado poco para tres semanas, hay que tener cuidado con esto.
 
@@ -32,4 +32,4 @@ Estoy ayudando a preparar una **propuesta** para un cliente de empresas. Es bast
 
 También hemos terminado el **curso formación**. La última sesión me gustó bastante, sobre los perfiles profesionales, la gestión de conflictos y la motivación. Me ha salido que soy sobre todo **analítica y enérgica**. En fin, no puedo decir que me sorprenda, pero me parece interesante para conocer mis debilidades e intentar mejorar.
 
-Ah! y esta última semana me he dedicado sobre todo a&#8230; la semana que viene lo cuento.
+Ah! y esta última semana me he dedicado sobre todo a… la semana que viene lo cuento.

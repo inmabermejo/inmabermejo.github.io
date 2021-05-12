@@ -5,9 +5,9 @@ avatar: https://www.gravatar.com/avatar/0b7b5cd18bc343056cf377e5a1b94138?r=pg&d=
 url: http://www.tinet.org/~grangat
 date: 2005-01-09 11:53:48
 message: "[QUOTE]Sin embargo, mi index.php sigue siendo demasiado pesado.<br />
-Pens&eacute; en \"cortar\" los art&iacute;culos menos actuales (por ejemplo, los cinco m&aacute;s antiguos) de la portada dejando solo unas l&iacute;neas a modo de resumen (...)[~QUOTE]<br />
+Pensé en \"cortar\" los art&iacute;culos menos actuales (por ejemplo, los cinco más antiguos) de la portada dejando solo unas l&iacute;neas a modo de resumen (...)[~QUOTE]<br />
 <br />
-Bueno, pos yo pensaba que podr&iacute;as hacer una versi&oacute;n \"light\" o \"56kb\" y una versi&oacute;n \"hard\" o \"banda ancha\". Como veo que te gustan y dominas el tema cookies (a diferencia d mi <img src=\"/imagenes/emoticonos/llorar.gif\" alt=\":&prime;-(\" /> ) propongo que hagas un selector de versi&oacute;n aprovechando el selector de estilos. S&oacute;lo deber&iacute;as pasar un par&aacute;metro m&aacute;s a trav&eacute;s de GET. <br />
-Entonces, la primera vez que un usuario visite tu p&aacute;gina le fuerzas a escoger y que se guarde su elecci&oacute;n en una cookie permanente. Si ha escogido \"56kb\" pues que s&oacute;lo se carguen 5 posts y si ha escogido \"banda ancha\" pues 20... no s&eacute;, o algo por el estilo. Evidentemente con un link para que pueda cambiar esa cookie guardada.<br />
+Bueno, pos yo pensaba que podr&iacute;as hacer una versi&oacute;n \"light\" o \"56kb\" y una versi&oacute;n \"hard\" o \"banda ancha\". Como veo que te gustan y dominas el tema cookies (a diferencia d mi <img src=\"/imagenes/emoticonos/llorar.gif\" alt=\":&prime;-(\" /> ) propongo que hagas un selector de versi&oacute;n aprovechando el selector de estilos. S&oacute;lo deber&iacute;as pasar un parámetro más a través de GET. <br />
+Entonces, la primera vez que un usuario visite tu página le fuerzas a escoger y que se guarde su elecci&oacute;n en una cookie permanente. Si ha escogido \"56kb\" pues que s&oacute;lo se carguen 5 posts y si ha escogido \"banda ancha\" pues 20... no sé, o algo por el estilo. Evidentemente con un link para que pueda cambiar esa cookie guardada.<br />
 uhmmm... se me ha ido un poco la olla verdad? Sk <acronym title=\"Hypertext PreProcessor\">PHP</acronym> es lo que tiene, puedes hacer muchas cosas y te animas, animas... jejejej!<br />
 Bueno wapa, que corto el rollo ya. Gato-besos! <img src=\"/imagenes/emoticonos/beso.gif\" alt=\":-*\" /> "

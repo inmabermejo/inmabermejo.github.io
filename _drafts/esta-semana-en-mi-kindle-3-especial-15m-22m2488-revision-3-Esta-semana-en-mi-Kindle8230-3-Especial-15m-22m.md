@@ -1,6 +1,6 @@
 ---
 id: 2823
-title: 'Esta semana en mi Kindle&#8230; (3) Especial #15m #22m'
+title: 'Esta semana en mi Kindle… (3) Especial #15m #22m'
 date: 2011-05-21T00:17:23+02:00
 author: Chavalina
 layout: revision

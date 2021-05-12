@@ -1,6 +1,6 @@
 ---
 id: 2452
-title: 'Ecooler, un original sistema de refrigeración&#8230; sostenible'
+title: 'Ecooler, un original sistema de refrigeración… sostenible'
 date: 2011-05-08T18:05:23+02:00
 author: Chavalina
 layout: revision
@@ -15,7 +15,7 @@ Pues en este mecanismo se basa **<a href="http://ecooler.yolasite.com/" target="
 
 <img class="aligncenter size-full wp-image-2445" title="Ecooler" src="http://www.chavalina.net/imagenes/2011/05/ecooler.jpg" alt="Ecooler" width="600" height="378" srcset="http://www.chavalina.net/imagenes/2011/05/ecooler.jpg 600w, http://www.chavalina.net/imagenes/2011/05/ecooler-300x189.jpg 300w, http://www.chavalina.net/imagenes/2011/05/ecooler-500x315.jpg 500w" sizes="(max-width: 600px) 100vw, 600px" /> 
 
-Se trata de una estructura de **cerámica**, con piezas huecas unidas por pequeños empalmes metálicos. El agua discurre por el interior y se enfría con el mismo mecanismo que el botijo. Esto permite enfriar estancias **sin electricidad**, sin ruido&#8230; La cantidad de agua que consume no es demasiada, aunque depende del número de módulos que se utilicen, claro, vuelve al ambiente por evaporación. <a href="http://ecooler.yolasite.com/how.php" target="_blank">Más detalles del funcionamiento de Ecooler</a>.
+Se trata de una estructura de **cerámica**, con piezas huecas unidas por pequeños empalmes metálicos. El agua discurre por el interior y se enfría con el mismo mecanismo que el botijo. Esto permite enfriar estancias **sin electricidad**, sin ruido… La cantidad de agua que consume no es demasiada, aunque depende del número de módulos que se utilicen, claro, vuelve al ambiente por evaporación. <a href="http://ecooler.yolasite.com/how.php" target="_blank">Más detalles del funcionamiento de Ecooler</a>.
 
 Además es un bonito elemento decorativo para el estilo mediterráneo, adaptable a otros también claro, con algunas líneas más angulosas. Aunque me gustaba más cuando pensaba que era más pequeño:
 
@@ -25,6 +25,6 @@ Una idea que me parece muy buena, y que creo que por el **clima de Murcia sería
 
 En estos momentos en que la energía es uno de los mayores quebraderos de cabeza, es importante tener en cuenta sistemas como éste para la refrigeración.
 
-Ahora sólo me faltaría encontrar a alguien capaz de ejecutarlo aquí&#8230; seguiré investigando.
+Ahora sólo me faltaría encontrar a alguien capaz de ejecutarlo aquí… seguiré investigando.
 
 Visto en <a href="http://www.decoesfera.com/complementos/ecooler-sistema-ecologico-de-refrigeracion-natural" target="_blank">Decoesfera</a>.

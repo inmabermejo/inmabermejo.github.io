@@ -7,7 +7,7 @@ layout: revision
 guid: http://www.chavalina.net/2016/04/20/3449-revision-v1/
 permalink: /2016/04/20/3449-revision-v1/
 ---
-Como si me costara poco publicar, esta semana Dreamhost me la ha jugado&#8230; toca investigar nuevos servicios de hosting en el horizonte.
+Como si me costara poco publicar, esta semana Dreamhost me la ha jugado… toca investigar nuevos servicios de hosting en el horizonte.
 
 <blockquote class="instagram-media" data-instgrm-captioned data-instgrm-version="6" style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:658px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);">
   <div style="padding:8px;">
@@ -17,7 +17,7 @@ Como si me costara poco publicar, esta semana Dreamhost me la ha jugado&#8230; t
     </div>
     
     <p style=" margin:8px 0 0 0; padding:0 4px;">
-      <a href="https://www.instagram.com/p/BD7jhkTNsqV/" style=" color:#000; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none; word-wrap:break-word;" target="_blank">Reutilizar los folios de la facultad&#8230; Mejorable?</a>
+      <a href="https://www.instagram.com/p/BD7jhkTNsqV/" style=" color:#000; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none; word-wrap:break-word;" target="_blank">Reutilizar los folios de la facultad… Mejorable?</a>
     </p>
     
     <p style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;">
@@ -28,13 +28,13 @@ Como si me costara poco publicar, esta semana Dreamhost me la ha jugado&#8230; t
 
 
 
-La calma llega tras las fiestas, recogimiento y poner al día la casa, como buenos marujos. Empezando por la terraza. Cambiamos de huerto urbano y plantas frondosas a jardín de **cactus y suculentas**, más sostenible en Murcia, menos riego, menos preocupaciones&#8230; algo tuvo que ver también el «incidente» de este verano, por el que casi acabamos perdiendo casi todos los bonsais.
+La calma llega tras las fiestas, recogimiento y poner al día la casa, como buenos marujos. Empezando por la terraza. Cambiamos de huerto urbano y plantas frondosas a jardín de **cactus y suculentas**, más sostenible en Murcia, menos riego, menos preocupaciones… algo tuvo que ver también el «incidente» de este verano, por el que casi acabamos perdiendo casi todos los bonsais.
 
 Mi minimalismo se va al garete con mis **compras** de ropa. Zapatos que llevan dos años en mi lista, por fin han caído, por miedo a que los quiten. Y una chaqueta para sustituir a otra rota, esto sí que me dio pena de verdad, era mi chaqueta favorita, aunque estoy pendiente de si se puede arreglar. En la mayoría de talleres me han dicho que no, pero me queda uno por llevarla a ver si es posible.
 
-Tras un duro catarro -postvacacional, por suerte- vuelvo al **gimnasio** con más ganas, y probando la máquina de dominadas asistidas por primera vez. Mi amiga Inma me recomendó que si quería conseguirlo, esto me vendría mejor para progresar que solamente hacer jalón&#8230; por ahora, lo que no me gusta de la máquina son las alturas, pero las sensaciones no están mal, hasta me duelen partes que antes no sabía ni que tenía.
+Tras un duro catarro -postvacacional, por suerte- vuelvo al **gimnasio** con más ganas, y probando la máquina de dominadas asistidas por primera vez. Mi amiga Inma me recomendó que si quería conseguirlo, esto me vendría mejor para progresar que solamente hacer jalón… por ahora, lo que no me gusta de la máquina son las alturas, pero las sensaciones no están mal, hasta me duelen partes que antes no sabía ni que tenía.
 
-Este fin de semana dimos el **regalo de cumpleaños adelantado** de mi madre: un ordenador de poco más de 200€. ¿Es posible que sea suficiente para ella? Espero que sí&#8230; lo veremos pronto. Es algo más que un netbook, aunque limitado, pero no va nada mal.
+Este fin de semana dimos el **regalo de cumpleaños adelantado** de mi madre: un ordenador de poco más de 200€. ¿Es posible que sea suficiente para ella? Espero que sí… lo veremos pronto. Es algo más que un netbook, aunque limitado, pero no va nada mal.
 
 También he empezado un [curso de cómo elegir tipografías](http://www.domestika.org/es/courses/91-como-elegir-tipografias) de la comunidad de diseñadores Domestika. Por ahora, impresión buenísima.
 

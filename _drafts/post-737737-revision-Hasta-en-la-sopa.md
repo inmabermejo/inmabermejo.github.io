@@ -7,4 +7,4 @@ layout: revision
 guid: http://www.wp.chavalina.net/2006/09/08/737-revision/
 permalink: /2006/09/08/737-revision/
 ---
-&iquest;Ser&aacute; verdad que <a href="http://www.20minutos.es/noticia/149858/0/gran/hermano/ecologico/" target="_blank">han metido blogs hasta en Gran Hermano</a>? Y tambi&eacute;n tienen <a href="http://www.yotambiensoybea.com/diariodeunafea/" target="_blank">el de la fea</a>. Digan lo que digan **est&aacute; de moda**![emo](/imagenes/emoticonos/pensativo.gif)
+&iquest;Será verdad que <a href="http://www.20minutos.es/noticia/149858/0/gran/hermano/ecologico/" target="_blank">han metido blogs hasta en Gran Hermano</a>? Y también tienen <a href="http://www.yotambiensoybea.com/diariodeunafea/" target="_blank">el de la fea</a>. Digan lo que digan **está de moda**![emo](/imagenes/emoticonos/pensativo.gif)

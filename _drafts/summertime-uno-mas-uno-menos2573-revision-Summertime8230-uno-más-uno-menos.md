@@ -1,6 +1,6 @@
 ---
 id: 2574
-title: 'Summertime&#8230; uno más, uno menos'
+title: 'Summertime… uno más, uno menos'
 date: 2011-09-24T15:05:50+02:00
 author: Chavalina
 layout: revision

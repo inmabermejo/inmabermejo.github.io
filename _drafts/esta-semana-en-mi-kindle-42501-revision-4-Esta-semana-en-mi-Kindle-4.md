@@ -12,7 +12,7 @@ Una semana más, vamos con algunos enlaces de interés:
 [Un poquito de respeto, por favor :&nbsp;AlbertoAndreu.com](http://www.albertoandreu.com/articulos/un-poquito-de-respeto-por-favor/){.tableViewCellTitleLink} &#8211; Tan necesario para las relaciones como frecuente es su ausencia 🙁  
 [Pobreza e&nbsp;injusticia](http://desencadenado.com/2011/05/pobreza-e-injusticia.html){.tableViewCellTitleLink} &#8211; Una visión diferente de las diferencias sociales y económicas, que comparto en cierta manera.  
 [Un Nuevo Sistema Electoral para España &mdash; Nada es&nbsp;Gratis](http://www.fedeablogs.net/economia/?p=11819){.tableViewCellTitleLink}  
-[Borja Mateo: Tendremos pisos en España para 15 ó 17 años. Noticias en&nbsp;Invertia](http://www.invertia.com/noticias/articulo-final.asp?idNoticia=2523749){.tableViewCellTitleLink} &#8211; Crisis, crisis, crisis&#8230; inmobiliaria.
+[Borja Mateo: Tendremos pisos en España para 15 ó 17 años. Noticias en&nbsp;Invertia](http://www.invertia.com/noticias/articulo-final.asp?idNoticia=2523749){.tableViewCellTitleLink} &#8211; Crisis, crisis, crisis… inmobiliaria.
 
 Productividad y vida freelance:  
 [Deberes y&nbsp;metas](http://desencadenado.com/2011/05/deberes-y-metas.html){.tableViewCellTitleLink} &#8211; Hay que distinguir en qué merece la pena esforzarse, y cuándo hay que ser práctico. Muy importante ser práctico en tu trabajo para no quemarte en tareas de poca relevancia.  
@@ -22,5 +22,5 @@ Productividad y vida freelance:
 
 Diseño, UX y desarrollo web:  
 [Social Design Strategy | UX&nbsp;Magazine](http://uxmag.com/strategy/social-design-strategy){.tableViewCellTitleLink}  
-[20 Inspiring TED Videos for Graphic and Web Designers |&nbsp;inspirationfeed.com](http://inspirationfeed.com/2011/01/20-inspiring-ted-videos-for-graphic-and-web-designers/){.tableViewCellTitleLink} &#8211; Las TED son charlas muy interesantes de diversas temáticas, pero con ideas siempre inspiradoras. Tengo que hablar de ellas en el futuro&#8230;  
+[20 Inspiring TED Videos for Graphic and Web Designers |&nbsp;inspirationfeed.com](http://inspirationfeed.com/2011/01/20-inspiring-ted-videos-for-graphic-and-web-designers/){.tableViewCellTitleLink} &#8211; Las TED son charlas muy interesantes de diversas temáticas, pero con ideas siempre inspiradoras. Tengo que hablar de ellas en el futuro…  
 [Simplicidad, UX y curación de contenido |&nbsp;sortega](http://www.sortega.com/blog/simplicidad-ux-y-curacion-de-contenido/){.tableViewCellTitleLink}

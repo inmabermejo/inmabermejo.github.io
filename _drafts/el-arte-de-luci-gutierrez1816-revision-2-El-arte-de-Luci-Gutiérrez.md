@@ -13,6 +13,6 @@ Recuerdo que conocí el trabajo de Luci Gutiérrez un poco de casualidad, siguie
 
 Un tweet anunciaba [la muerte de eRNieB](http://www.domestika.org/foros/939-off_topic/hilos/76670-ernesto_frias_nuestro_amigo_nos_ha_dejado), Ernesto Frías, diseñador y compañero de Domestika, hace ya año y medio. Y buceando en su web, [ex7](http://ex7.org/index.html), llegué a [la exposición de Luci Gutiérrez](http://ex7.org/exposiciones/luci-gutierrez/index.html), con ilustraciones parte de una edición del Kamasutra (por [Artichoque](http://www.artichoque.es/)).
 
-Ella es una ilustradora de Barcelona, y publica en libros, revistas&#8230; con un estilo muy personal. Colores planos y formas limpias. Me encanta. Y me encantaría que comercializara algunas camisetas, [virgen santa](http://ex7.org/exposiciones/luci-gutierrez/imagen5.html)!
+Ella es una ilustradora de Barcelona, y publica en libros, revistas… con un estilo muy personal. Colores planos y formas limpias. Me encanta. Y me encantaría que comercializara algunas camisetas, [virgen santa](http://ex7.org/exposiciones/luci-gutierrez/imagen5.html)!
 
 Tras el salto os dejo algunas de las ilustraciones de esta exposición, y aquí su portfolio.

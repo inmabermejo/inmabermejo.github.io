@@ -1,6 +1,6 @@
 ---
 id: 2032
-title: 'Summertime&#8230; is over!'
+title: 'Summertime… is over!'
 date: 2010-09-22T13:56:10+02:00
 author: Chavalina
 layout: revision
@@ -11,6 +11,6 @@ permalink: /2010/09/22/2028-revision-3/
 
 Una constante en mi blog cuando solía escribirlo eran [los posts dedicados al verano](http://www.chavalina.net/?s=summertime&submit=Search).
 
-Que justamente se acabaron el año que empecé a _trabajar de verdad_&#8230; 2007. Qué distinto es un verano de universitaria, aunque trabajara en mis cosillas, a un verano de trabajadora.
+Que justamente se acabaron el año que empecé a _trabajar de verdad_… 2007. Qué distinto es un verano de universitaria, aunque trabajara en mis cosillas, a un verano de trabajadora.
 
 Ya no hay dos meses completos de vacaciones, a lo sumo dos semanas seguidas y

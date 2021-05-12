@@ -3,7 +3,7 @@ name: nadie
 date: 2005-08-03 12:14:29
 message: "Miente creativamente. <br />
 Hay varias posibilidades:<br />
-* Darles su propia <acronym title=\"Internet Protocol\">IP</acronym> (Ping a su web y ya est&aacute;)<br />
+* Darles su propia <acronym title=\"Internet Protocol\">IP</acronym> (Ping a su web y ya está)<br />
 * Darles una <acronym title=\"Internet Protocol\">IP</acronym> local 127.0.0.1 (De ah&iacute; a la 127.244.244.244)<br />
 * Darles una de los proxys de<a href=\"http://tor.eff.org/\">Tor</a> o <a href=\"http://www.megaproxy.com/\">Megaproxy</a> <br />
 Y decir que el internauta en cuesti&oacute;n sab&iacute;a cubrir sus huellas <img src=\"/imagenes/emoticonos/guino.gif\" alt=\";-)\" /> "

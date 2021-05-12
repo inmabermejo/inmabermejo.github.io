@@ -77,7 +77,7 @@ También hemos hecho avances en nuestro **proyecto de casa**. Hemos dado los úl
 
 <blockquote class="twitter-tweet" data-lang="en">
   <p lang="es" dir="ltr">
-    Una técnica muy interesante, la he incluido en mi workflow, aunque hay que tener cuidado. Un gran poder conlleva una gran responsabilidad&#8230; <a href="https://t.co/DnSYbpLwHT">https://t.co/DnSYbpLwHT</a>
+    Una técnica muy interesante, la he incluido en mi workflow, aunque hay que tener cuidado. Un gran poder conlleva una gran responsabilidad… <a href="https://t.co/DnSYbpLwHT">https://t.co/DnSYbpLwHT</a>
   </p>
   
   <p>

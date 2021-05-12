@@ -7,4 +7,4 @@ layout: revision
 guid: http://www.wp.chavalina.net/2005/05/02/417-revision/
 permalink: /2005/05/02/417-revision/
 ---
-Lo siento por el re-reboot, pero ya sab&eacute;is que soy una persona con inquietudes![emo](/imagenes/emoticonos/risa.gif)
+Lo siento por el re-reboot, pero ya sabéis que soy una persona con inquietudes![emo](/imagenes/emoticonos/risa.gif)

@@ -7,6 +7,6 @@ layout: revision
 guid: http://www.wp.chavalina.net/2004/04/10/80-revision/
 permalink: /2004/04/10/80-revision/
 ---
-En su segundo aniversario descubro <a href="http://www.juliobonis.com/solteros/" target="_blank">el weblog "Casa de solteros"</a>, que ya est&aacute; presente en mis favoritos. Como deber&iacute;a de estarlo en los de cualquier estudiante o "rodr&iacute;guez" que viva solo o lo intente&#8230;
+En su segundo aniversario descubro <a href="http://www.juliobonis.com/solteros/" target="_blank">el weblog "Casa de solteros"</a>, que ya está presente en mis favoritos. Como deber&iacute;a de estarlo en los de cualquier estudiante o "rodr&iacute;guez" que viva solo o lo intente…
 
 Aunque algunas cosas parezcan exageraciones c&oacute;micas, doy fe de que NO LO SON.

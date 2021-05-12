@@ -9,6 +9,6 @@ permalink: /2010/10/17/2085-revision-6/
 ---
 [<img class="aligncenter size-large wp-image-2086" title="Zootool" src="http://www.chavalina.net/imagenes/2010/10/Zootool_1287334465404-500x264.png" alt="Zootool" width="500" height="264" srcset="http://www.chavalina.net/imagenes/2010/10/Zootool_1287334465404-500x264.png 500w, http://www.chavalina.net/imagenes/2010/10/Zootool_1287334465404-300x158.png 300w, http://www.chavalina.net/imagenes/2010/10/Zootool_1287334465404.png 786w" sizes="(max-width: 500px) 100vw, 500px" />](http://zootool.com)
 
-Zootool es un servicio de marcadores sociales que te permite guardar cualquier imagen, vídeo, o una imagen de la página que estás viendo. Por supuesto también puedes categorizar el contenido, agruparlo, compartirlo en tus sitios sociales favoritos, añadir contactos&#8230; todas las carac
+Zootool es un servicio de marcadores sociales que te permite guardar cualquier imagen, vídeo, o una imagen de la página que estás viendo. Por supuesto también puedes categorizar el contenido, agruparlo, compartirlo en tus sitios sociales favoritos, añadir contactos… todas las carac
 
 Descubrí esta herramienta gracias a [Kemie en twitter](http://twitter.com/kemie/statuses/25033713156),

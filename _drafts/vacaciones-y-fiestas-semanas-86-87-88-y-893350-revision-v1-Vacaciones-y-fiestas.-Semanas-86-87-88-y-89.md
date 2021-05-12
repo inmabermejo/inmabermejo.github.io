@@ -100,7 +100,7 @@ Tendría que haberles dado más apoyo, pues cuando fui de vacaciones y siguieron
 
 Voy a proponerles usar lo que en arquitectura es el [**parti**](https://en.wikipedia.org/wiki/Parti_pris), un concepto que conocí en el libro [101 cosas que aprendí en la escuela de arquitectura](http://www.chavalina.net/2014/02/10/101-cosas-que-aprendi-en-la-escuela-de-arquitectura/) y que cada vez me parece más importante usar trabajando en diseño. 
 
-Básicamente es **la gran idea** que da cohesión a un diseño, casa, jardín&#8230; lo que sea. Lo importante, _lo que lo distingue de otros_. Y a la vez, una herramienta para que el equipo esté siempre en la misma página. [Más sobre qué es el parti](https://ldvalidate.wordpress.com/2010/10/05/the-design-parti-%E2%80%93-a-communication-tool/) referido al diseño paisajístico, pero tal y como lo explica, es aplicable a muchas áreas, recomendada lectura.
+Básicamente es **la gran idea** que da cohesión a un diseño, casa, jardín… lo que sea. Lo importante, _lo que lo distingue de otros_. Y a la vez, una herramienta para que el equipo esté siempre en la misma página. [Más sobre qué es el parti](https://ldvalidate.wordpress.com/2010/10/05/the-design-parti-%E2%80%93-a-communication-tool/) referido al diseño paisajístico, pero tal y como lo explica, es aplicable a muchas áreas, recomendada lectura.
 
 Tras tres semanas, agradezco que la vuelta al trabajo haya sido un aterrizaje suave: puesta al día, revisión del trabajo de mi compañero con el HTML de nuestra nueva versión responsive, revisión de las otras expansiones a móvil de nuestros sitios, y un nuevo proyecto para mejorar nuestro panel de edición. Mucho trabajo, pero pocos frentes.
 

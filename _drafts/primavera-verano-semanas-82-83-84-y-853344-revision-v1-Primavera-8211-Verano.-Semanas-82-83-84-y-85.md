@@ -7,7 +7,7 @@ layout: revision
 guid: http://www.chavalina.net/2015/07/05/3344-revision-v1/
 permalink: /2015/07/05/3344-revision-v1/
 ---
-Últimas semanas de primavera y yo&#8230; Volviendo al verano, volviendo a la playa, volviendo a Blanca y volviendo a Madrid.
+Últimas semanas de primavera y yo… Volviendo al verano, volviendo a la playa, volviendo a Blanca y volviendo a Madrid.
 
 <blockquote class="instagram-media" data-instgrm-captioned data-instgrm-version="4" style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:658px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);">
   <div style="padding:8px;">
@@ -65,7 +65,7 @@ Y la semana siguiente una más, también a [La Manga](http://www.panoramio.com/m
 
 
 
-Una carrera en bus digna de [Speed](https://www.youtube.com/watch?v=4L8oe9awqKk) por Alfonso XII, y luego mi récord personal en los 400 metros lisos para al fin conseguir llegar al tren, más justa imposible. Casi subo en marcha. Un divertido recuerdo que me llevo del día, junto con alguna cosa más&#8230;
+Una carrera en bus digna de [Speed](https://www.youtube.com/watch?v=4L8oe9awqKk) por Alfonso XII, y luego mi récord personal en los 400 metros lisos para al fin conseguir llegar al tren, más justa imposible. Casi subo en marcha. Un divertido recuerdo que me llevo del día, junto con alguna cosa más…
 
 <blockquote class="instagram-media" data-instgrm-captioned data-instgrm-version="4" style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:658px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);">
   <div style="padding:8px;">
@@ -90,7 +90,7 @@ Fue un viaje muy productivo, también pude apañármelas para **quedar con Pau y
 
 Y desde ahí, todos los fines de semana _trabajando_. Pero trabajo analógico. Tras una crisis de mi madre con el huerto de casa -con gatos de por medio- nos hemos puesto todos manos a la obra para intentar reducir al mínimo el mantenimento que necesita. Básicamente, **tirar, tirar y tirar**, ejercicio de minimalismo. El síndrome de Diógenes debería llamarse de Mari Ángeles en honor a mi madre, porque no he visto una cosa igual de acumulación de trastos de todo tipo _para usar algún día_.
 
-Así que tras un mes sacando casi 20 años de trastos acumulados, podar árboles, fumigar hierbas, pintar&#8230; la cosa va tomando forma, aunque aún queda mucho. Lo malo es que nosotros hemos perdido ya el fuelle y cada vez nos apetece más entregarnos a otras cosas más apetecibles.
+Así que tras un mes sacando casi 20 años de trastos acumulados, podar árboles, fumigar hierbas, pintar… la cosa va tomando forma, aunque aún queda mucho. Lo malo es que nosotros hemos perdido ya el fuelle y cada vez nos apetece más entregarnos a otras cosas más apetecibles.
 
 <blockquote class="instagram-media" data-instgrm-captioned data-instgrm-version="4" style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:658px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);">
   <div style="padding:8px;">
@@ -127,4 +127,4 @@ Y también estuve trabajando con mi compañera Esther en la integración para el
 
 Tendremos que correr un poco, pues yo empiezo mis vacaciones el día 13 y esta semana tengo mucho por cerrar. Por suerte creo que hoy he cogido bastante energía, espero que no se me acabe mañana.
 
-Un vídeo dejo esta semana: René Redzepi, el propietario del restaurante Noma, de los mejores del mundo, se entrevista con Jiro Ono (sí, el mismo de [Jiro Dreams of Sushi]()), y éste le cuenta sobre su **actitud ante el trabajo**, admirable, pero no sé si la querría para mi&#8230;no sé si me entregaría tanto al trabajo.
+Un vídeo dejo esta semana: René Redzepi, el propietario del restaurante Noma, de los mejores del mundo, se entrevista con Jiro Ono (sí, el mismo de [Jiro Dreams of Sushi]()), y éste le cuenta sobre su **actitud ante el trabajo**, admirable, pero no sé si la querría para mi…no sé si me entregaría tanto al trabajo.

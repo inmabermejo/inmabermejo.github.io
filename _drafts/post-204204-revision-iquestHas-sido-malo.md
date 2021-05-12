@@ -7,9 +7,9 @@ layout: revision
 guid: http://www.wp.chavalina.net/2004/08/30/204-revision/
 permalink: /2004/08/30/204-revision/
 ---
-En el foro de Gsmspain he encontrado un link a un test bastante curioso, <a href="http://www.4degreez.com/misc/dante-inferno-test.mv" target="_blank">a qu&eacute; nivel del infierno de Dante ir&iacute;as</a> (&iquest;record&aacute;is «La Divina Comedia»?). 
+En el foro de Gsmspain he encontrado un link a un test bastante curioso, <a href="http://www.4degreez.com/misc/dante-inferno-test.mv" target="_blank">a qué nivel del infierno de Dante ir&iacute;as</a> (&iquest;recordáis «La Divina Comedia»?). 
 
-Me ha sorprendido mi resultado, soy m&aacute;s mala de lo que cre&iacute;a:
+Me ha sorprendido mi resultado, soy más mala de lo que cre&iacute;a:
 
 > Sixth Level of Hell &#8211; The City of Dis
 > 

@@ -11,6 +11,6 @@ permalink: /2011/02/20/2378-revision-4/
 
 ¡Qué cierto es!
 
-Las redes sociales copan nuestro tiempo de ocio&#8230; este fin de semana adelgacé un poco mis cuentas, y creo que seguiré haciéndolo un poco más&#8230; quizá hasta el cierre, pero nunca se sabe.
+Las redes sociales copan nuestro tiempo de ocio… este fin de semana adelgacé un poco mis cuentas, y creo que seguiré haciéndolo un poco más… quizá hasta el cierre, pero nunca se sabe.
 
 Visto en <a href="http://failbook.failblog.org/2011/02/09/funny-facebook-fails-why-i-need-to-delete-facebook/" target="_blank">Failblog</a>, llegué a través de twitter no recuerdo de quién 🙁

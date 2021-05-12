@@ -1,6 +1,6 @@
 ---
 id: 1268
-title: 'Usabilidad, Documentaci&oacute;n y bit&aacute;coras en Zaragoza (Ibersid�06)'
+title: 'Usabilidad, Documentaci&oacute;n y bitácoras en Zaragoza (Ibersid�06)'
 date: 2008-12-22T00:07:30+02:00
 author: Chavalina
 layout: revision
@@ -29,4 +29,4 @@ Cito a <a href="http://usalo.es/165/usabilidad-documentacion-y-bitacoras-en-zara
 > 
 > Más información: [Ibersid 2006. XI Encuentros Internacionales sobre Sistemas de Información y Documentación](http://ibersid.net/)
 
-Pues eso, allí estaremos, si os apetece&#8230; ya sabéis.
+Pues eso, allí estaremos, si os apetece… ya sabéis.

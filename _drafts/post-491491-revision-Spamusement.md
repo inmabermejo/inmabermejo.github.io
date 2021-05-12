@@ -7,4 +7,4 @@ layout: revision
 guid: http://www.wp.chavalina.net/2005/06/06/491-revision/
 permalink: /2005/06/06/491-revision/
 ---
-<a href="http://spamusement.com/" target="_blank">Spamusement</a>, tiras c&oacute;micas sobre el spam. Hay que tom&aacute;rselo con humor![emo](/imagenes/emoticonos/guino.gif)
+<a href="http://spamusement.com/" target="_blank">Spamusement</a>, tiras c&oacute;micas sobre el spam. Hay que tomárselo con humor![emo](/imagenes/emoticonos/guino.gif)

@@ -20,11 +20,11 @@ permalink: /2010/07/27/1974-revision-8/
 </p>
 
 <p style="text-align: left;">
-  Playas con poca gente, sin servicios pero con tranquilidad y relax, naturaleza&#8230; Me dio la sensación de que era un sitio ideal para ir con la bici, a ver si me animo a volver y me la llevo.
+  Playas con poca gente, sin servicios pero con tranquilidad y relax, naturaleza… Me dio la sensación de que era un sitio ideal para ir con la bici, a ver si me animo a volver y me la llevo.
 </p>
 
 <p style="text-align: left;">
-  Visitamos <a href="http://maps.google.es/maps?f=q&source=s_q&hl=en&geocode=&q=Cala+Blanca,+Lorca&sll=40.396764,-3.713379&sspn=8.246774,19.555664&ie=UTF8&hq=&hnear=Cala+Blanca,+30800+Lorca,+Murcia&ll=37.483424,-1.462619&spn=0.004197,0.009549&t=h&z=17" target="_self">Cala Blanca</a> (en la foto superior), perteneciente a las playas de Lorca. Virgen, con unas curiosas cuevas y muy poca gente. Nos costó llegar, gracias a unas indicaciones de los dueños del hotel, si no&#8230; estamos todavía dando vueltas por ahí!
+  Visitamos <a href="http://maps.google.es/maps?f=q&source=s_q&hl=en&geocode=&q=Cala+Blanca,+Lorca&sll=40.396764,-3.713379&sspn=8.246774,19.555664&ie=UTF8&hq=&hnear=Cala+Blanca,+30800+Lorca,+Murcia&ll=37.483424,-1.462619&spn=0.004197,0.009549&t=h&z=17" target="_self">Cala Blanca</a> (en la foto superior), perteneciente a las playas de Lorca. Virgen, con unas curiosas cuevas y muy poca gente. Nos costó llegar, gracias a unas indicaciones de los dueños del hotel, si no… estamos todavía dando vueltas por ahí!
 </p>
 
 <p style="text-align: left;">
@@ -37,7 +37,7 @@ permalink: /2010/07/27/1974-revision-8/
 
 <p style="text-align: left;">
   <p style="text-align: left;">
-    Y por último fuimos a <a href="http://maps.google.es/maps?f=q&source=s_q&hl=en&geocode=&q=Ba%C3%B1o+de+las+Mujeres,+Lorca&sll=37.507071,-1.405938&sspn=0.268537,0.611115&g=Ba%C3%B1o+de+las+Mujeres,+Lorca&ie=UTF8&hq=&hnear=Ba%C3%B1o+de+las+Mujeres,+30800+Lorca,+Murcia&t=h&layer=c&cbll=37.507002,-1.415949&cbp=11,0,,0,5&photoid=po-1080397&ll=37.507002,-1.415949&spn=0.000949,0.004774&z=18" target="_blank">Calnegre</a>. Ésta se llena más, sobre todo porque tiene chiringuito, pero también muy poco comparado con La Manga, San Juan&#8230; donde hay una sombrilla por metro cuadrado. En Calnegre te puedes bañar bien ancho, hay arena para todos y 🙂
+    Y por último fuimos a <a href="http://maps.google.es/maps?f=q&source=s_q&hl=en&geocode=&q=Ba%C3%B1o+de+las+Mujeres,+Lorca&sll=37.507071,-1.405938&sspn=0.268537,0.611115&g=Ba%C3%B1o+de+las+Mujeres,+Lorca&ie=UTF8&hq=&hnear=Ba%C3%B1o+de+las+Mujeres,+30800+Lorca,+Murcia&t=h&layer=c&cbll=37.507002,-1.415949&cbp=11,0,,0,5&photoid=po-1080397&ll=37.507002,-1.415949&spn=0.000949,0.004774&z=18" target="_blank">Calnegre</a>. Ésta se llena más, sobre todo porque tiene chiringuito, pero también muy poco comparado con La Manga, San Juan… donde hay una sombrilla por metro cuadrado. En Calnegre te puedes bañar bien ancho, hay arena para todos y 🙂
   </p>
   
   <p style="text-align: left;">
@@ -45,7 +45,7 @@ permalink: /2010/07/27/1974-revision-8/
   </p>
   
   <p style="text-align: left;">
-    También merece una mención el sitio donde nos quedamos, el <a href="http://11870.com/pro/hotel-mayari" target="_blank">hotel Mayarí en Calabardina</a>, con unas bonitas vistas del pueblo y buen acceso, nos sorprendió sobre todo el buen trato que nos dieron. Muy atentos, nos ayudaron con indicaciones para llegar donde queríamos, nos ofrecieron bicis&#8230; la verdad es que hasta ahora es el mejor trato que nos han dado por aquí,
+    También merece una mención el sitio donde nos quedamos, el <a href="http://11870.com/pro/hotel-mayari" target="_blank">hotel Mayarí en Calabardina</a>, con unas bonitas vistas del pueblo y buen acceso, nos sorprendió sobre todo el buen trato que nos dieron. Muy atentos, nos ayudaron con indicaciones para llegar donde queríamos, nos ofrecieron bicis… la verdad es que hasta ahora es el mejor trato que nos han dado por aquí,
   </p>
   
   <p style="text-align: left;">

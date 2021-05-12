@@ -1,6 +1,6 @@
 ---
 id: 1647
-title: 'Mi &quot;inal&aacute;mbrica&quot; (ii)'
+title: 'Mi &quot;inalámbrica&quot; (ii)'
 date: 2004-06-12T06:37:23+02:00
 author: Chavalina
 layout: revision
@@ -13,21 +13,21 @@ permalink: /2004/06/12/137-revision/
       <table border="0" cellspacing="5" cellpadding="10" width="1" align="left">
         <tr>
           <td>
-            <a href="imagenes/fotos/inalambrica2.jpg" target="_blank"><img src="/imagenes/fotos/thumbs/inalambrica2.jpg" alt="inal&aacute;mbrica" width="183" height="300" border="0" /></a>
+            <a href="imagenes/fotos/inalambrica2.jpg" target="_blank"><img src="/imagenes/fotos/thumbs/inalambrica2.jpg" alt="inalámbrica" width="183" height="300" border="0" /></a>
           </td>
         </tr>
       </table>
       
       <p>
-        Tras varias semanas de prueba con pat&eacute;ticos resultados por fin hemos conseguido que mi inal&aacute;mbrica (por cortes&iacute;a de <a href="http://www.infoblanca.net" target="_blank">infoblanca.net</a>) funcione decentemente.
+        Tras varias semanas de prueba con patéticos resultados por fin hemos conseguido que mi inalámbrica (por cortes&iacute;a de <a href="http://www.infoblanca.net" target="_blank">infoblanca.net</a>) funcione decentemente.
       </p>
       
       <p>
-        Aunque tengo un ordenador port&aacute;til con la tecnolog&iacute;a Intel Centrino (wifi integrado) y con &eacute;l consigo coger todas las redes inal&aacute;mbricas que se me cruzan (tanto las de la universidad como las que furtivamente cazo en mi piso, ya que nadie se encarga de protegerlas) &eacute;sta que es la que m&aacute;s falta me hac&iacute;a no hab&iacute;a manera, la se&ntilde;al era deficiente y muy poco estable.
+        Aunque tengo un ordenador portátil con la tecnolog&iacute;a Intel Centrino (wifi integrado) y con él consigo coger todas las redes inalámbricas que se me cruzan (tanto las de la universidad como las que furtivamente cazo en mi piso, ya que nadie se encarga de protegerlas) ésta que es la que más falta me hac&iacute;a no hab&iacute;a manera, la se&ntilde;al era deficiente y muy poco estable.
       </p>
       
       <p>
-        Y la soluci&oacute;n ha pasado por algo tan simple como colocar la antena en el lugar adecuado, no es tan importante la orientaci&oacute;n como la altura. Una antena artesanal y tan simple como una barra met&aacute;lica con algunas arandelas de pl&aacute;stico sujeta dentro de un bote de patatas (como pod&eacute;is ver en la foto, junto a las cortinas de mi sal&oacute;n comedor xD) y poner otra tarjeta inal&aacute;mbrica por PCMCIA.
+        Y la soluci&oacute;n ha pasado por algo tan simple como colocar la antena en el lugar adecuado, no es tan importante la orientaci&oacute;n como la altura. Una antena artesanal y tan simple como una barra metálica con algunas arandelas de plástico sujeta dentro de un bote de patatas (como podéis ver en la foto, junto a las cortinas de mi sal&oacute;n comedor xD) y poner otra tarjeta inalámbrica por PCMCIA.
       </p>
       
       <p>
@@ -35,7 +35,7 @@ permalink: /2004/06/12/137-revision/
       </p>
       
       <p>
-        Hombre, las cosas como son, inal&aacute;mbrica es, peeeero&#8230; ten&iacute;a m&aacute;s movilidad con el cable de tel&eacute;fono!
+        Hombre, las cosas como son, inalámbrica es, peeeero… ten&iacute;a más movilidad con el cable de teléfono!
       </p>
       
       <p>
@@ -55,7 +55,7 @@ permalink: /2004/06/12/137-revision/
       </ul>
       
       <p>
-        "Heterog&eacute;neo". Gracias a Roque y a Javi de <a href="http://www.infoblanca.net" target="_blank">infoblanca.net</a>
+        "Heterogéneo". Gracias a Roque y a Javi de <a href="http://www.infoblanca.net" target="_blank">infoblanca.net</a>
       </p>
     </td>
   </tr>

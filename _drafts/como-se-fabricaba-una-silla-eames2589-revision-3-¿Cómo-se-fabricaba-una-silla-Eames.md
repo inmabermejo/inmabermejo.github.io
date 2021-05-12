@@ -9,9 +9,9 @@ permalink: /2011/12/17/2589-revision-3/
 ---
 Mucho tiempo sin pasar por aquí!
 
-Esta semana <a href="https://twitter.com/#!/alexD_v/status/146802278190415872" target="_blank">me lo recordaron en Twitter</a>, y también un par de veces offline&#8230; y es que ni me acordé de celebrar [el aniversario del blog, **8 años ya**](http://www.chavalina.net/2003/11/22/post-1/), y cada vez escribiendo menos!
+Esta semana <a href="https://twitter.com/#!/alexD_v/status/146802278190415872" target="_blank">me lo recordaron en Twitter</a>, y también un par de veces offline… y es que ni me acordé de celebrar [el aniversario del blog, **8 años ya**](http://www.chavalina.net/2003/11/22/post-1/), y cada vez escribiendo menos!
 
-Trabajo y otras obligaciones no me dejan tiempo&#8230; bla bla bla&#8230; **menos excusas y más [vídeos de gatos](http://procatinator.com/)!**
+Trabajo y otras obligaciones no me dejan tiempo… bla bla bla… **menos excusas y más [vídeos de gatos](http://procatinator.com/)!**
 
 O vídeos curiosos como el que traigo hoy: **el proceso de fabricación clásico de las sillas Eame**s. Ya no se fabrican así, claro, pero da gusto verlo
 

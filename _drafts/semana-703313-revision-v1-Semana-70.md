@@ -24,7 +24,7 @@ La primavera ha llegado junto con unos días de lluvia con tierra, así que la m
 
 
 
-Esta semana me sorprendió el festivo, no sabía que me correspondía -líos de trabajar deslocalizada, nunca sé qué fiestas tengo y cuáles no-, así que aproveché para experimentar con las [galletas de cardamomo](http://www.directoalpaladar.com/postres/galletas-de-cardamomo-y-canela-receta). Lo había comprado para hacer bollos, pero para las masas fermentadas necesito más planificación, así que cogí esa receta, hice un par de cambios y&#8230; _mmm_. Repetiré pronto.
+Esta semana me sorprendió el festivo, no sabía que me correspondía -líos de trabajar deslocalizada, nunca sé qué fiestas tengo y cuáles no-, así que aproveché para experimentar con las [galletas de cardamomo](http://www.directoalpaladar.com/postres/galletas-de-cardamomo-y-canela-receta). Lo había comprado para hacer bollos, pero para las masas fermentadas necesito más planificación, así que cogí esa receta, hice un par de cambios y… _mmm_. Repetiré pronto.
 
 También aproveché esa tarde para darle un **pequeño cambio de aspecto al blog**. Había experimentado un poco probando [Typekit](https://typekit.com/) para las tipografías y he creado una nueva plantilla basada en [Underscores](http://underscores.me/) que me recomendaron para desarrollar sobre ella (la verdad es que es bastante limpio). La verdad que no he puesto mucho más, poco a poco iré mejorándolo.
 
@@ -57,7 +57,7 @@ Tuve también una reunión con mi compañera Esther para revisar las nuevas **ta
 
 El fin de semana parecía que iba a ser gris, aunque hoy el tiempo nos ha dado un respiro y hemos podido podar los bonsais (este año no toca transplante) y descubrir que el pequeño bonsai albaricoquero que me regalaron mis amigos intenta **cuajar frutos** por primera vez. 
 
-Además de una **extraña flor** que me cuenta mi _dealer_ que es muy rara, algún tipo de engendro&#8230; quizá producido por el [ácaro de las maravillas](http://es.wikipedia.org/wiki/Aceria_sheldoni). Espero que no le haga daño!
+Además de una **extraña flor** que me cuenta mi _dealer_ que es muy rara, algún tipo de engendro… quizá producido por el [ácaro de las maravillas](http://es.wikipedia.org/wiki/Aceria_sheldoni). Espero que no le haga daño!
 
 <blockquote class="instagram-media" data-instgrm-captioned data-instgrm-version="4" style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:658px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);">
   <div style="padding:8px;">
@@ -67,7 +67,7 @@ Además de una **extraña flor** que me cuenta mi _dealer_ que es muy rara, alg�
     </div>
     
     <p style=" margin:8px 0 0 0; padding:0 4px;">
-      <a href="https://instagram.com/p/0gDVTLtso1/" style=" color:#000; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none; word-wrap:break-word;" target="_top">Y de aquí&#8230; A ver qué sale!</a>
+      <a href="https://instagram.com/p/0gDVTLtso1/" style=" color:#000; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none; word-wrap:break-word;" target="_top">Y de aquí… A ver qué sale!</a>
     </p>
     
     <p style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;">

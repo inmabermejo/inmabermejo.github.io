@@ -17,4 +17,4 @@ Y hoy especialmente lo recojo aquí porque llevo todo el día con un tic, no sé
 
 Aunque todas las noches intento que tengan un poco de esto, estaría bien tener todo un día. Seguro que a ti también te apetece.
 
-Pero si eres tan adicto a la tecnología como yo&#8230; lo tenemos más difícil! viciosos es lo que somos!
+Pero si eres tan adicto a la tecnología como yo… lo tenemos más difícil! viciosos es lo que somos!

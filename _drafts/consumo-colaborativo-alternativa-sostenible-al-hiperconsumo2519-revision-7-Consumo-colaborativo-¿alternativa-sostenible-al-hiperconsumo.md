@@ -15,7 +15,7 @@ Gracias a la hiperconexión que internet y las redes sociales nos proporcionan, 
 
 A través de <a href="http://inteligenciaetica.com/2011/05/consumo-colaborativo-vida-apoyando-vida/" target="_blank">Inteligencia Ética</a>, nuevo blog en mis feeds, llego a este vídeo de TED con la charla de Rachel Botsman, que cuenta algunos casos de consumo colaborativo en Estados Unidos.
 
-Ejemplos ilustrativos y esperanzadores, pero que intentando imaginar cómo se podrían desarrollar en España, me generan más dudas que otra cosa. Este sistema se basa en la **reputación** y la **confianza**, y viendo lo presente que sigue estando la picaresca aquí&#8230; habría que andarse con bastante cuidado.
+Ejemplos ilustrativos y esperanzadores, pero que intentando imaginar cómo se podrían desarrollar en España, me generan más dudas que otra cosa. Este sistema se basa en la **reputación** y la **confianza**, y viendo lo presente que sigue estando la picaresca aquí… habría que andarse con bastante cuidado.
 
 Aquí la charla, solo 15 minutos, y, aunqe está en inglés, se pueden activar los subtítulos en español:
 

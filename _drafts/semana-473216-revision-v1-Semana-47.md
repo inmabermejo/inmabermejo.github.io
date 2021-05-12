@@ -43,7 +43,7 @@ Además, propuse _preparar con un poco de amor el envío_ a los jefes: crear una
 
 <blockquote class="twitter-tweet" lang="en">
   <p>
-    Imprescindible si presentas a clientes (o compañeros! jefes&#8230;) <a href="https://t.co/TytFbLUDvM">https://t.co/TytFbLUDvM</a> me recordó lo que aprendí en <a href="https://twitter.com/hashtag/PV4?src=hash">#PV4</a> via <a href="https://twitter.com/adrianmg">@adrianmg</a>
+    Imprescindible si presentas a clientes (o compañeros! jefes…) <a href="https://t.co/TytFbLUDvM">https://t.co/TytFbLUDvM</a> me recordó lo que aprendí en <a href="https://twitter.com/hashtag/PV4?src=hash">#PV4</a> via <a href="https://twitter.com/adrianmg">@adrianmg</a>
   </p>
   
   <p>

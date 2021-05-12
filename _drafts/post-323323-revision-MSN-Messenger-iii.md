@@ -7,13 +7,13 @@ layout: revision
 guid: http://www.wp.chavalina.net/2005/01/10/323-revision/
 permalink: /2005/01/10/323-revision/
 ---
-Pong&aacute;monos en situaci&oacute;n, _busco un consejo_ soy yo, y _«&#8230;el problema se&ntilde;or, sigue siendo sembrar amor&#8230;»_ mi hermana la fil&oacute;sofa:
+Pongámonos en situaci&oacute;n, _busco un consejo_ soy yo, y _«…el problema se&ntilde;or, sigue siendo sembrar amor…»_ mi hermana la fil&oacute;sofa:
 
-«&#8230;el problema se&ntilde;or, sigue siendo sembrar amor&#8230;» dice:
+«…el problema se&ntilde;or, sigue siendo sembrar amor…» dice:
 :   tu quieres un consejo, no?
 
 busco un consejo dice:
 :   s&iacute;
 
-«&#8230;el problema se&ntilde;or, sigue siendo sembrar amor&#8230;» dice:
+«…el problema se&ntilde;or, sigue siendo sembrar amor…» dice:
 :   pues pideselo al consejal

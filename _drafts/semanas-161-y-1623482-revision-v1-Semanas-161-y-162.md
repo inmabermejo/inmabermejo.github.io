@@ -17,7 +17,7 @@ Felices fiestas!
     </div>
     
     <p style=" margin:8px 0 0 0; padding:0 4px;">
-      <a href="https://www.instagram.com/p/BOcZkULFdr5/" style=" color:#000; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none; word-wrap:break-word;" target="_blank">Cuatro horas y un gran fail más tarde&#8230; ❤️</a>
+      <a href="https://www.instagram.com/p/BOcZkULFdr5/" style=" color:#000; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none; word-wrap:break-word;" target="_blank">Cuatro horas y un gran fail más tarde… ❤️</a>
     </p>
     
     <p style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;">
@@ -34,7 +34,7 @@ Y para ayudar a estirar la percepción de fiesta, me dedico a buscar tareas que 
 
 Pero bueno, perseveramos y ahora ya están en la panza. Estas navidades amenazan como nunca con subidas de azúcar que rompen el gráfico. Obertura con donuts, primer acto de galletas, segundo, sin parada, tronco, y cerramos con roscón. Voy a tener mucho trabajo en el gimnasio estos días.
 
-Vamos a acabar el año sin dar un paso clave para mi **proyecto inmobiliario**. Los planos van poco a poco. Estoy impaciente, es la primera vez que me hacen planos y no tengo con qué comparar, pero aquí está la cuestión de la relatividad del tiempo otra vez&#8230; Mañana tenemos reunión, y aunque el arquitecto quería pedir licencia antes de 2017, no lo veo muy claro&#8230;
+Vamos a acabar el año sin dar un paso clave para mi **proyecto inmobiliario**. Los planos van poco a poco. Estoy impaciente, es la primera vez que me hacen planos y no tengo con qué comparar, pero aquí está la cuestión de la relatividad del tiempo otra vez… Mañana tenemos reunión, y aunque el arquitecto quería pedir licencia antes de 2017, no lo veo muy claro…
 
 En el trabajo, estamos cerrando el año, así que hay muchas reuniones, planificación y evaluación de lo que hemos hecho. De trabajo técnico, cosas pequeñas, tareas bastante acotadas que se pueden acabar antes de que pongamos las líneas de acción para el año que viene y podamos priorizar.
 

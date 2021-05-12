@@ -7,7 +7,7 @@ layout: revision
 guid: http://www.chavalina.net/2016/06/25/3459-autosave-v1/
 permalink: /2016/06/25/3459-autosave-v1/
 ---
-Montaña rusa de propuestas, avances, retrocesos y fracasos&#8230;
+Montaña rusa de propuestas, avances, retrocesos y fracasos…
 
 <blockquote class="instagram-media" data-instgrm-captioned data-instgrm-version="7" style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:658px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);">
   <div style="padding:8px;">
@@ -30,7 +30,7 @@ Montaña rusa de propuestas, avances, retrocesos y fracasos&#8230;
 
 Por un lado, me han hecho una propuesta muy interesante, una inversión que me apetece mucho. A falta de los detalles, _I&#8217;m in_, espero que todo salga bien y pueda contarlo pronto.
 
-Pero otro de mis proyectos, la nueva casa que planificaba con mi hermana, ha tenido un revés duro, y no sé si podremos seguir adelante&#8230; aunque lo intentaremos. En poco tiempo pueden torcerse las cosas, pero ¿por qué no volver a darles la vuelta?
+Pero otro de mis proyectos, la nueva casa que planificaba con mi hermana, ha tenido un revés duro, y no sé si podremos seguir adelante… aunque lo intentaremos. En poco tiempo pueden torcerse las cosas, pero ¿por qué no volver a darles la vuelta?
 
 En el Día de la Región, las Salar van de primer día de **playa**, mejillones y Estrella de Levante, como ya es tradición.
 

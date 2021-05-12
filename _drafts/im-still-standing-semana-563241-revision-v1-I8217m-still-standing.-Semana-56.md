@@ -7,7 +7,7 @@ layout: revision
 guid: http://www.chavalina.net/2014/12/14/3241-revision-v1/
 permalink: /2014/12/14/3241-revision-v1/
 ---
-Semana corta y con viaje relámpago, que casi me acabó de rematar&#8230; pero sigo aquí al pie del cañón, en estado lamentable.
+Semana corta y con viaje relámpago, que casi me acabó de rematar… pero sigo aquí al pie del cañón, en estado lamentable.
 
 
 

@@ -7,4 +7,4 @@ layout: revision
 guid: http://www.wp.chavalina.net/2005/05/08/424-revision/
 permalink: /2005/05/08/424-revision/
 ---
-La princesa Letizia, embarazada. Tengo curiosidad por c&oacute;mo recuperar&aacute; su figura en octubre&#8230;
+La princesa Letizia, embarazada. Tengo curiosidad por c&oacute;mo recuperará su figura en octubre…

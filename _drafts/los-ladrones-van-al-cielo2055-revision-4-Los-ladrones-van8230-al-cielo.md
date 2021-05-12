@@ -1,6 +1,6 @@
 ---
 id: 2061
-title: 'Los ladrones van&#8230; al cielo'
+title: 'Los ladrones van… al cielo'
 date: 2010-10-12T15:59:42+02:00
 author: Chavalina
 layout: revision

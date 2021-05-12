@@ -7,4 +7,4 @@ layout: revision
 guid: http://www.chavalina.net/2008/12/21/471-revision-2/
 permalink: /2008/12/21/471-revision-2/
 ---
-Nos van a hacer sufrir un poquito m&aacute;s con <a href="http://www.bitacoras.com/premios/" target="_blank">los premios</a>&#8230;
+Nos van a hacer sufrir un poquito más con <a href="http://www.bitacoras.com/premios/" target="_blank">los premios</a>…

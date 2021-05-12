@@ -65,9 +65,9 @@ Take me away from this big bad world
 And agree to marry me  
 So we can start all over again
 
-Oh&#8230;we could start over again  
-Oh&#8230;we could start over again  
-Oh&#8230;we could start over again  
-Oh&#8230;we could start over again
+Oh…we could start over again  
+Oh…we could start over again  
+Oh…we could start over again  
+Oh…we could start over again
 
 <a href="http://www.milkyfan.com/" target="_blank">Y Milky tiene su propia página</a>, no me extraña, con lo mono que es jeje (gracias <a href="http://www.chochitopelao.com/" target="_blank">Gallego</a>)

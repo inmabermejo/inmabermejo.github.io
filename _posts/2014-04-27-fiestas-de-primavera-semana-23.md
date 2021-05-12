@@ -15,7 +15,7 @@ Cerrando las fiestas de primavera, vuelta a la rutina con energías renovadas. Y
 
 <iframe src="//instagram.com/p/nP6_1ZNskm/embed/" width="612" height="710" frameborder="0" scrolling="no" allowtransparency="true"></iframe>
 
-Ha pasado muy rápida esta semana, no he tenido tiempo de aburrirme entre obligaciones y devociones. Un poco más corta de lo habitual por las **Fiestas de Primavera** en Blanca y Murcia, Bando de la Huerta, Romería, el trabajo y los ya tradicionales imprevistos de siempre. Si al final los echaría de menos&#8230; 
+Ha pasado muy rápida esta semana, no he tenido tiempo de aburrirme entre obligaciones y devociones. Un poco más corta de lo habitual por las **Fiestas de Primavera** en Blanca y Murcia, Bando de la Huerta, Romería, el trabajo y los ya tradicionales imprevistos de siempre. Si al final los echaría de menos… 
 
 En **WSL** empecé la semana parando un poco el **proyecto V**. Decidí _dejar dormir_ las propuestas que tenía mientras me dedicaba al resto de tareas, para poder mirarlas con otros ojos. Como tiene mucha visibilidad, hay que tener especial cuidado. Ahora toca retomar y volver a evaluar.
 
@@ -35,4 +35,4 @@ Dediqué más intensidad a la **red social de moda**, ya tenemos el caso más fr
 
 También empecé ya con la rama del segundo caso más frecuente, y queda por hacer el desarrollo de éste, y el último caso, que es más sencillo porque es más corto pero hay que tener especial cuidado en la comunicación para redireccionar desde allí.
 
-Ahora que terminan las fiestas, vienen las sensaciones y reacciones al tiempo. Parece mentira que haya pasado ya **casi medio año**&#8230; hay que revisar objetivos.
+Ahora que terminan las fiestas, vienen las sensaciones y reacciones al tiempo. Parece mentira que haya pasado ya **casi medio año**… hay que revisar objetivos.

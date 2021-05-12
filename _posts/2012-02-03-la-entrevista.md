@@ -12,7 +12,7 @@ categories:
 tags:
   - Reflexiones
 ---
-Un corto que me ha impactado, solo 3 minutos&#8230;
+Un corto que me ha impactado, solo 3 minutos…
 
 <iframe id="flumotion_iframe_player" name="flumotion_iframe_player" src="http://play.lafabrica.webtv.flumotion.com/play/player?pod=14351&amp;player=1" frameborder="0" scrolling="no" width="640px" height="480px"></iframe>
 

@@ -1,6 +1,6 @@
 ---
 id: 2556
-title: '12 pasos&#8230; Recovering Lazyholic'
+title: '12 pasos… Recovering Lazyholic'
 date: 2011-06-11T18:28:56+02:00
 author: Chavalina
 layout: revision

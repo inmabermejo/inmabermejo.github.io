@@ -7,4 +7,4 @@ layout: revision
 guid: http://www.wp.chavalina.net/2004/12/07/285-revision/
 permalink: /2004/12/07/285-revision/
 ---
-<a href="http://www.mozilla.org/press/mozilla-2004-12-7.html" target="_blank">Hoy ha sido anunciado</a>, ya tenemos aqu&iacute; el <a href="http://www.mozilla.org/products/thunderbird/" target="_blank">Mozilla Thunderbird 1.0</a>, aunque me parece que se han dado poco tiempo con la RC&#8230; a ver qu&eacute; tal sale![emo](/imagenes/emoticonos/pensativo.gif)
+<a href="http://www.mozilla.org/press/mozilla-2004-12-7.html" target="_blank">Hoy ha sido anunciado</a>, ya tenemos aqu&iacute; el <a href="http://www.mozilla.org/products/thunderbird/" target="_blank">Mozilla Thunderbird 1.0</a>, aunque me parece que se han dado poco tiempo con la RC… a ver qué tal sale![emo](/imagenes/emoticonos/pensativo.gif)

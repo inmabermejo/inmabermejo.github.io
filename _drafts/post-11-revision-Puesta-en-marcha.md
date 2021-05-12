@@ -12,7 +12,7 @@ permalink: /2003/11/22/1-revision/
 </p>
 
 <p align="left">
-  Esta p&aacute;gina contiene todos los enlaces que normalmente uso, tutoriales y manuales que me han gustado.
+  Esta página contiene todos los enlaces que normalmente uso, tutoriales y manuales que me han gustado.
 </p>
 
 <p align="left">

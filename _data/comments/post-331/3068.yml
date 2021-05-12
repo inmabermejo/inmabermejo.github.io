@@ -7,8 +7,8 @@ Soluci&oacute;n c&oacute;moda para aplicar el rel=\"nofollow\" s&oacute;lo a los
 <br />
 A ver que os parece.<br />
 <br />
-B&aacute;sicamente es aplicar nofollow por defecto a todos los comentarios, y luego el admin (cuando va a comentar o borrar spam) lo desactiva marcando una casilla en los comentarios normales.<br />
+Básicamente es aplicar nofollow por defecto a todos los comentarios, y luego el admin (cuando va a comentar o borrar spam) lo desactiva marcando una casilla en los comentarios normales.<br />
 <br />
-As&iacute; consigues que el spam siempre est&eacute; marcado con nofollow y los comentarios \"normales\" s&oacute;lo durante un rato (si por casualidad justo han pasado las ara&ntilde;as de los buscadores cuando estaba el \"nofollow\", cuando vuelvan a pasar lo \"indizir&aacute;n\")<br />
+As&iacute; consigues que el spam siempre esté marcado con nofollow y los comentarios \"normales\" s&oacute;lo durante un rato (si por casualidad justo han pasado las ara&ntilde;as de los buscadores cuando estaba el \"nofollow\", cuando vuelvan a pasar lo \"indizirán\")<br />
 <br />
 No es nada complicado de implementar en los CMS y el admin s&oacute;lo pierde 10 segundos en pinchar las casillas."

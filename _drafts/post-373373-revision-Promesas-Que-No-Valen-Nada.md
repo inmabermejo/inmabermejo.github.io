@@ -7,23 +7,23 @@ layout: revision
 guid: http://www.wp.chavalina.net/2005/03/21/373-revision/
 permalink: /2005/03/21/373-revision/
 ---
-Momento «remember»&#8230;![emo](/imagenes/emoticonos/pensativo.gif) 
+Momento «remember»…![emo](/imagenes/emoticonos/pensativo.gif) 
 
 <p align="right">
-  <img class="imgizqda" src="/imagenes/fotos/piratas-primera-parte.jpg" alt="Piratas - Fin de la primera parte" />Prometo no mandar m&aacute;s cartas y no pasar por aqu&iacute;<br /> Prometo no llamarte m&aacute;s y no inventar ni mentir
+  <img class="imgizqda" src="/imagenes/fotos/piratas-primera-parte.jpg" alt="Piratas - Fin de la primera parte" />Prometo no mandar más cartas y no pasar por aqu&iacute;<br /> Prometo no llamarte más y no inventar ni mentir
 </p>
 
 Prometo no seguir viviendo as&iacute;  
 Prometo no pensar en ti  
 Prometo dedicarme solamente a m&iacute;
 
-Prometo que a partir de ahora luchar&eacute; por cambiar  
-Prometo que no me ver&aacute;s, que no voy a molestar
+Prometo que a partir de ahora lucharé por cambiar  
+Prometo que no me verás, que no voy a molestar
 
 Y sabes que lo digo de verdad  
 que no voy a fallarte en nada  
 Que tengo mucha fuerza de voluntad  
-que no te fallar&eacute; en nada
+que no te fallaré en nada
 
 Prometo no seguir as&iacute;  
 Prometo que no voy a pensar en ti  
@@ -31,14 +31,14 @@ Prometo dedicarme solamente a m&iacute;
 
 Y el aire que me sobre alrededor  
 y el tiempo que se quede en nada  
-nunca m&aacute;s escuchar&eacute; tu voz  
+nunca más escucharé tu voz  
 de energ&iacute;a nunca liberada  
-Promesas que se perder&aacute;n en estas cuatro paredes  
-como l&aacute;grimas en la lluvia se ir&aacute;n
+Promesas que se perderán en estas cuatro paredes  
+como lágrimas en la lluvia se irán
 
 Siempre que no tengo sue&ntilde;o  
 y no puedo descansar  
-invento m&aacute;s de mil palabras  
+invento más de mil palabras  
 y busco una verdad  
 Intento que suenen de forma genial  
 intento que no digan nada  
@@ -59,17 +59,17 @@ Promesas que no valen nada, nada, nada, nada
 
 Y el aire que me sobre alrededor  
 y el tiempo que se quede en nada, nada  
-nunca m&aacute;s escuchar&eacute; tu voz  
+nunca más escucharé tu voz  
 de energ&iacute;a nunca liberada  
-Promesas que se perder&aacute;n en estas cuatro paredes  
-como l&aacute;grimas en la lluvia se ir&aacute;n
+Promesas que se perderán en estas cuatro paredes  
+como lágrimas en la lluvia se irán
 
-Se ir&aacute;n&#8230; como l&aacute;grimas en la lluvia, se ir&aacute;n  
-Se ir&aacute;n se perder&aacute;n, se ir&aacute;n se perder&aacute;n  
-se ir&aacute;n se perder&aacute;n, se ir&aacute;n se perder&aacute;n  
-Se ir&aacute;n se perder&aacute;n  
-como l&aacute;grimas en la lluvia
+Se irán… como lágrimas en la lluvia, se irán  
+Se irán se perderán, se irán se perderán  
+se irán se perderán, se irán se perderán  
+Se irán se perderán  
+como lágrimas en la lluvia
 
 &iquest;D&oacute;nde estabas entonces  
-cuando tanto te necesit&eacute;?  
-Te **necesit&eacute;**
+cuando tanto te necesité?  
+Te **necesité**

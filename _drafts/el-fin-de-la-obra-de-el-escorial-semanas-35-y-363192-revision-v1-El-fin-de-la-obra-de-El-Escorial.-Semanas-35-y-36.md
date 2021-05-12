@@ -7,7 +7,7 @@ layout: revision
 guid: http://www.chavalina.net/2014/07/25/3192-revision-v1/
 permalink: /2014/07/25/3192-revision-v1/
 ---
-Se va haciendo costumbre publicar cada dos semanas&#8230; si es que no me puedo dejar sola&#8230;
+Se va haciendo costumbre publicar cada dos semanas… si es que no me puedo dejar sola…
 
 
 

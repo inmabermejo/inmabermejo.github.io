@@ -1,6 +1,6 @@
 ---
 id: 2139
-title: 'La Capilla Sixtina&#8230; online'
+title: 'La Capilla Sixtina… online'
 date: 2010-11-02T16:05:19+02:00
 author: Chavalina
 layout: post

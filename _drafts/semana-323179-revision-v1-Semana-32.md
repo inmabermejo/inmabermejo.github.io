@@ -31,6 +31,6 @@ Aunque siempre intento tratar como me gustaría que me tratasen, y he desarrolla
 
 Bueno, pues para ver qué tal nos va con los posibles fichajes, hemos pensado **trabajar con ellos en modo freelance para proyectos concretos y así conocernos**. _Tengamos una cita, sin compromiso_. Suena muy romántico pero en realidad es cubrirse las espaldas.
 
-Por último, algunos pequeños retoques a las especificaciones de la **tarea R**, ya en manos del equipo de desarrollo que necesitaron algunas aclaraciones. Y ahora viene una fase dura&#8230; presentación a equipos de ventas y editorial. A coger carrerilla!
+Por último, algunos pequeños retoques a las especificaciones de la **tarea R**, ya en manos del equipo de desarrollo que necesitaron algunas aclaraciones. Y ahora viene una fase dura… presentación a equipos de ventas y editorial. A coger carrerilla!
 
 Por fin pude dedicar un poco de tiempo a desatascar el **proyecto personal M**, y, visto lo visto, me lancé a simplificar. Es la única forma de ponerlo en marcha en algún momento antes de que deje de parecerme interesante!

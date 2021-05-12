@@ -7,7 +7,7 @@ layout: revision
 guid: http://www.chavalina.net/2010/10/11/2041-autosave/
 permalink: /2010/10/14/2041-autosave/
 ---
-**Actualización 2**: de nuevo retiraron el vídeo&#8230; añadido otro.
+**Actualización 2**: de nuevo retiraron el vídeo… añadido otro.
 
 **Actualización**: parece que lo han retirado de Youtube, lo he añadido de Vimeo, espero que dure un poco más. Muchas gracias por el aviso, **Jose**!
 

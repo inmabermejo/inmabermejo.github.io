@@ -7,6 +7,6 @@ layout: revision
 guid: http://www.chavalina.net/2011/05/20/2466-revision/
 permalink: /2011/05/20/2466-revision/
 ---
-Sorprendente final&#8230;
+Sorprendente final…
 
 Me lo pasó mi amiga Patri, del Mundo R

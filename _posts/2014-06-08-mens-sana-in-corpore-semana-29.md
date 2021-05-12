@@ -1,6 +1,6 @@
 ---
 id: 3171
-title: 'Mens sana in corpore&#8230; Semana #29'
+title: 'Mens sana in corpore… Semana #29'
 date: 2014-06-08T12:59:50+02:00
 author: Chavalina
 layout: post

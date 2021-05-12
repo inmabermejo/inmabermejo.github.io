@@ -28,7 +28,7 @@ Que me han dado para mucho. Densas en el trabajo, y densas en el ocio. Así esto
 
 
 
-Empecé el fin de semana de fiesta con amigos. Cumpleaños. Lo de siempre&#8230; **¿qué regalar?** Ahora, a no ser que tenga 100% claro que alguien necesita alguna cosa, regalo _consumibles_, cosas que no puedan acabar en un rincón cogiendo polvo.
+Empecé el fin de semana de fiesta con amigos. Cumpleaños. Lo de siempre… **¿qué regalar?** Ahora, a no ser que tenga 100% claro que alguien necesita alguna cosa, regalo _consumibles_, cosas que no puedan acabar en un rincón cogiendo polvo.
 
 En este caso, vino, [albariño que me sorprendió gratamente para su precio](https://soysuper.com/p/vino-blanco-albarino-d-o-rias-baixas-luzada-75-cl), sardinas ahumadas y una curiosidad: pieles de bacalao fritas. Mi amigo Pablo es que para esto es como yo, _gourmets de delicias de la tercera edad_, y creo que todo le gustará.
 
@@ -36,11 +36,11 @@ Y domingo por la mañana de aburrimiento, sin planes, me hizo volver a echar de 
 
 Al principio me planteé comprar [otra compacta](http://www.amazon.es/gp/product/B00CHLW7MY/ref=as_li_ss_tl?ie=UTF8&camp=3626&creative=24822&creativeASIN=B00CHLW7MY&linkCode=as2&tag=chavadiari-21) pero luego conocí el concepto **EVIL** y me fui a la liga superior. A pesar de la diferencia de precio, poder usar todo tipo de objetivos en una cámara de tamaño asequible creo que es una combinación ganadora.
 
-Me estuve informando en [El blog del fotógrafo](http://www.blogdelfotografo.com/), una web muy muy didáctica. Me ha encantado porque explica las cosas muy bien, con ejemplos, con símiles&#8230; y se pueden entender de forma fácil conceptos que pueden parecer complejos al principio. Twitter también es una gran herramienta en estos casos, una forma de _preguntar a mucha gente_ rápido, y sin molestar mucho.
+Me estuve informando en [El blog del fotógrafo](http://www.blogdelfotografo.com/), una web muy muy didáctica. Me ha encantado porque explica las cosas muy bien, con ejemplos, con símiles… y se pueden entender de forma fácil conceptos que pueden parecer complejos al principio. Twitter también es una gran herramienta en estos casos, una forma de _preguntar a mucha gente_ rápido, y sin molestar mucho.
 
 <blockquote class="twitter-tweet" lang="en">
   <p lang="es" dir="ltr">
-    Lo malo, que cuanto más sabes&#8230; más quieres. Ahora a lo difícil, decidir lo imprescindible para empezar y la pasta que voy a soltar
+    Lo malo, que cuanto más sabes… más quieres. Ahora a lo difícil, decidir lo imprescindible para empezar y la pasta que voy a soltar
   </p>
   
   <p>
@@ -52,7 +52,7 @@ Me estuve informando en [El blog del fotógrafo](http://www.blogdelfotografo.com
 
 Estaba casi decidida por la [Sony A5000](http://www.amazon.es/gp/product/B00HH8A60C/ref=as_li_ss_tl?ie=UTF8&camp=3626&creative=24822&creativeASIN=B00HH8A60C&linkCode=as2&tag=chavadiari-21), que tiene muy buenas características para su precio, unos 300€. Pero me echó para atrás la falta de visor. Para hacer fotos en exteriores no quiero depender solamente de una pantalla que vete a saber cómo se verá bajo el sol.
 
-Así que seguí buscando e investigando, y al final me he quedado con el modelo superior **Sony A6000**, que, aunque es bastante más cara, pero que creo que voy a aprovechar durante más tiempo. Tuve suerte que encontré la [A6000 en pack en oferta en fnac](http://www.fnac.es/Camara-EVIL-Sony-A6000-16-50-mm-Black-Pack-Camara-fotos-digital-Camaras-EVIL/a1106372), y aun así me lo pensé mucho mucho&#8230; es un dineral, pero creo que merecerá la pena.
+Así que seguí buscando e investigando, y al final me he quedado con el modelo superior **Sony A6000**, que, aunque es bastante más cara, pero que creo que voy a aprovechar durante más tiempo. Tuve suerte que encontré la [A6000 en pack en oferta en fnac](http://www.fnac.es/Camara-EVIL-Sony-A6000-16-50-mm-Black-Pack-Camara-fotos-digital-Camaras-EVIL/a1106372), y aun así me lo pensé mucho mucho… es un dineral, pero creo que merecerá la pena.
 
 Este fin de semana estuve dando algunas vueltas por ahí intentando hacer algo, aunque en modo manual saco fotos peores que las del iPhone. Seguiré el consejo que me han dado de centrarme en mejorar una cosa tras otra, y no abarcarlo todo a la vez.
 
@@ -81,7 +81,7 @@ Fin de semana siguiente, **bautizo**. Lo pasamos muy bien, con gente que no veo 
 
 En estos días he acabado [_Interacción del color_](http://www.amazon.es/gp/product/8420664618/ref=as_li_ss_tl?ie=UTF8&camp=3626&creative=24822&creativeASIN=8420664618&linkCode=as2&tag=chavadiari-21) de Josef Albers. Un libro muy interesante, porque está enfocado de un modo práctico, tal y como llevaba sus clases. En cada capítulo hay ejercicios que realizaban los alumnos, y que se proponen al lector.
 
-No es tan fácil hacerlos cada uno solo en su casa: en clase coleccionaban papel de color para tener material de trabajo y una persona sola se desanimaría fácilmente para hacer lo mismo&#8230; pero hay una [aplicación que es el propio libro con plantillas](https://itunes.apple.com/us/app/interaction-color-by-josef/id664296461?mt=8) para poder realizar los ejercicios propuestos! He usado solo la versión gratuita -un capítulo- y tiene una pinta estupenda. Cuesta $14 pero permite hacer los ejercicios, y tiene el contenido del libro, en inglés.
+No es tan fácil hacerlos cada uno solo en su casa: en clase coleccionaban papel de color para tener material de trabajo y una persona sola se desanimaría fácilmente para hacer lo mismo… pero hay una [aplicación que es el propio libro con plantillas](https://itunes.apple.com/us/app/interaction-color-by-josef/id664296461?mt=8) para poder realizar los ejercicios propuestos! He usado solo la versión gratuita -un capítulo- y tiene una pinta estupenda. Cuesta $14 pero permite hacer los ejercicios, y tiene el contenido del libro, en inglés.
 
 Porque me doy cuenta de que tengo que centrarme en cada faceta del diseño que quiero aprender durante más tiempo, no saltar de tipografía a color y de ahí a composición o UX alegremente. Así que me planteo centrarme en tipografía hasta final del año, y volver al color releyendo este libro después, y haciendo los ejercicios comprando la aplicación. Empezar a hacer un **plan de I+D personal**, como decían aquí:
 
@@ -111,11 +111,11 @@ Hemos definido ya los mínimos necesarios para la primera versión, hemos listad
 
 En el **nuevo diseño responsive**, junto con el equipo de desarrollo acabamos de reparar los que había surgido en la ronda anterior de reuniones, tuvimos una nueva y ahora nos encargamos de algunas cosas más que han salido. Pero de unos 30 y pico reportes hemos pasado a 5 o 6, así que hemos avanzado bastante.
 
-He empezado a trabajar, acompañada en esto por mi compañero Javi, en la adaptación del resto de páginas para poder publicar el diseño pronto. Esto es: la portada, nuestra página de evento en directo, las Respuestas, contacto, staff&#8230; y algunas más. En estos casos solamente vamos a **adaptar lo que ya tenemos**, para después empezar a estudiar las mejoras que queremos hacer en cada una, mientras que ya recibimos datos para evaluar el impacto de la nueva página de post, donde hemos puesto todo el trabajo hasta ahora.
+He empezado a trabajar, acompañada en esto por mi compañero Javi, en la adaptación del resto de páginas para poder publicar el diseño pronto. Esto es: la portada, nuestra página de evento en directo, las Respuestas, contacto, staff… y algunas más. En estos casos solamente vamos a **adaptar lo que ya tenemos**, para después empezar a estudiar las mejoras que queremos hacer en cada una, mientras que ya recibimos datos para evaluar el impacto de la nueva página de post, donde hemos puesto todo el trabajo hasta ahora.
 
 Para que Javi pudiera trabajar más o menos cómodo, hice **documentación básica** de cómo usar el CSS que he realizado para la nueva página. Al estar basado en [la guía de CSS de Trello](https://gist.github.com/bobbygrace/9e961e8982f42eb91b80), tenía gran parte hecho, pero también había que documentar las librerías. Por ahora lo he hecho con listados, por la premura, pero quiero hacer una página de referencias visuales para que sea más fácil comprender cada componente.
 
-Y con mi compañera Laura también empezamos a documentar los cambios que supone el nuevo diseño para el equipo de Ventas. Aunque no hay muchos en cuanto a las posiciones publicitarias, hay que rehacer los catálogos, explicarles la importancia del responsive en los anuncios&#8230; aunque ahí tenemos, como todos los medios ahora, el [problema de Adblock](http://www.xataka.com/aplicaciones/un-editor-frente-al-bloqueo-de-anuncios-en-internet).
+Y con mi compañera Laura también empezamos a documentar los cambios que supone el nuevo diseño para el equipo de Ventas. Aunque no hay muchos en cuanto a las posiciones publicitarias, hay que rehacer los catálogos, explicarles la importancia del responsive en los anuncios… aunque ahí tenemos, como todos los medios ahora, el [problema de Adblock](http://www.xataka.com/aplicaciones/un-editor-frente-al-bloqueo-de-anuncios-en-internet).
 
 No me he pronunciado mucho sobre este tema, pero creo que al final es un problema de _black hat UX_ (desde el punto de vista de que trabajo para un medio creador de contenidos): cuando instalas un bloqueador, al menos en los más populares, **bloquea los anuncios por defecto** en todas las páginas que visitas. Tienes que tener una intención fuerte para **tomarte la molestia** de desactivar el bloqueador en las páginas que no quieres penalizar.
 

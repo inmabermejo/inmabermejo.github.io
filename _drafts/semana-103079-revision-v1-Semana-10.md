@@ -19,7 +19,7 @@ En **Weblogs SL** de nuevo trabajé en el panel de edición. Tuve una reunión c
 
 Esta tarea la estoy enfocando partiendo de la base de que tenemos **usuarios expertos y _básicos_**. Dar toda la potencia que unos necesitan, consiguiendo una experiencia óptima para los otros, que son mayoría. Para esto reviso el tema de modelos mentales que vimos en el Programa Vostok, pero tengo que **buscar más bibliografía y ejemplos**. 
 
-Tengo en consideración a Gmail, Google analytics, Trello&#8230; pero tengo que buscar más, enfocados al mundo editorial. Por un lado está Medium como buena referencia para usuarios básicos, y para los expertos, he pensado en los editores de código como Espresso o Coda. Al final, se trata de vista código vs. WYSIWYG, **control o comodidad**. Con unos buenos accesos rápidos y sistemas como [Markdown](http://es.wikipedia.org/wiki/Markdown), la vista código bate al WYSIWYG. La semana que viene seguiré investigando por aquí y haciendo algunas pruebas con un prototipo.
+Tengo en consideración a Gmail, Google analytics, Trello… pero tengo que buscar más, enfocados al mundo editorial. Por un lado está Medium como buena referencia para usuarios básicos, y para los expertos, he pensado en los editores de código como Espresso o Coda. Al final, se trata de vista código vs. WYSIWYG, **control o comodidad**. Con unos buenos accesos rápidos y sistemas como [Markdown](http://es.wikipedia.org/wiki/Markdown), la vista código bate al WYSIWYG. La semana que viene seguiré investigando por aquí y haciendo algunas pruebas con un prototipo.
 
 En el experimento «C» no hemos hecho nuevas pruebas, aunque por mi parte he estado diseñando la siguiente fase, con nuevas posiciones y combinaciones de las que mejor nos han funcionado en el experimento actual. Sin nuevo diseño visual en esta iteración.
 
@@ -55,4 +55,4 @@ Y al llegar a casa, después de tres horas de trabajo y doce de fiesta, no se me
 
 Me recordó a esos momentos del sábado en la madrugada cuando llegas envalentonado y coges el móvil cuando no debes 🙂 Al menos comprar dominios es barato y sin muchas consecuencias. Y así de rebote me entero que Google Apps for Domains ya no es gratuito! probaré con [Outlook](http://domains.live.com/) esta vez.
 
-Hoy domingo, para qué descansar, comida familiar de nuevo, con algún que otro personajillo suelto por ahí, hacer este resumen&#8230; Y mañana lunes 🙂
+Hoy domingo, para qué descansar, comida familiar de nuevo, con algún que otro personajillo suelto por ahí, hacer este resumen… Y mañana lunes 🙂

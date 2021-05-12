@@ -19,27 +19,27 @@ permalink: /2004/04/03/71-revision/
       </table>
       
       <p>
-        Un circuito nuevo. Una sorpresa esperada. Ahora mismo se corre la clasificaci&oacute;n para el GP de Bahrain, Jenson Button marc&oacute; ayer el mejor tiempo y Honda parece que vuelve a la carga. Por ahora se coloca tercero, tras Barrichello y Sato, su compa&ntilde;ero de equipo, veremos cuando acabe de escribir&#8230;
+        Un circuito nuevo. Una sorpresa esperada. Ahora mismo se corre la clasificaci&oacute;n para el GP de Bahrain, Jenson Button marc&oacute; ayer el mejor tiempo y Honda parece que vuelve a la carga. Por ahora se coloca tercero, tras Barrichello y Sato, su compa&ntilde;ero de equipo, veremos cuando acabe de escribir…
       </p>
       
       <p>
-        Trulli, comienzo espectacular y un problemilla en el aler&oacute;n, ni que fueran principiantes, y Fernando Alonso pasado totalmente incluso se sale de la pista, &iquest;demasiado ansioso? acaban respectivamente cuarto y decimotercero por ahora, fiasco para el espa&ntilde;ol, ahora tendr&aacute; que arriesgar todo de nuevo en la salida.
+        Trulli, comienzo espectacular y un problemilla en el aler&oacute;n, ni que fueran principiantes, y Fernando Alonso pasado totalmente incluso se sale de la pista, &iquest;demasiado ansioso? acaban respectivamente cuarto y decimotercero por ahora, fiasco para el espa&ntilde;ol, ahora tendrá que arriesgar todo de nuevo en la salida.
       </p>
       
       <p>
-        Mientras Alonso alega su actuaci&oacute;n a un problema de frenos, Schumacher queda primero sacando 0.3 segs. a su compa&ntilde;ero de equipo, ahora segundo, y Raikkonnen de nuevo con problemas. Iceman, &eacute;ste no es tu a&ntilde;o. Parece que no ser&aacute; en 2004 cuando salga el supuesto jovencito sucesor del Kaiser.
+        Mientras Alonso alega su actuaci&oacute;n a un problema de frenos, Schumacher queda primero sacando 0.3 segs. a su compa&ntilde;ero de equipo, ahora segundo, y Raikkonnen de nuevo con problemas. Iceman, éste no es tu a&ntilde;o. Parece que no será en 2004 cuando salga el supuesto jovencito sucesor del Kaiser.
       </p>
       
       <p>
-        Montoya est&aacute; echando el resto, mejorando el tiempo de Schumacher en cada parcial, a punto de pasar la l&iacute;nea de meta&#8230; no pudo ser. Perdi&oacute; medio segundo en el &uacute;ltimo parcial y se r&iacute;en en Ferrari &iquest;cosa de brujas? Ralph Schumacher tambi&eacute;n empieza bien, pero todos lo tenemos calado ya&#8230; haga lo que haga hasta que no se de ma&ntilde;ana la salida no podremos decir si podr&aacute; hacer algo.
+        Montoya está echando el resto, mejorando el tiempo de Schumacher en cada parcial, a punto de pasar la l&iacute;nea de meta… no pudo ser. Perdi&oacute; medio segundo en el &uacute;ltimo parcial y se r&iacute;en en Ferrari &iquest;cosa de brujas? Ralph Schumacher también empieza bien, pero todos lo tenemos calado ya… haga lo que haga hasta que no se de ma&ntilde;ana la salida no podremos decir si podrá hacer algo.
       </p>
       
       <p>
-        Y parece ser que Raikkonnen no sali&oacute; no por problemas, sino por una estrategia tomada para s&oacute;lo hacer dos paradas ma&ntilde;ana, muy arriesgado, a Renault no le sali&oacute; bien anteriormente&#8230; as&iacute; acaba la clasificaci&oacute;n para ma&ntilde;ana, la pod&eacute;is ver en <a href="http://www.formula1.com/race/circuitmap/716.html" target="_blank">la p&aacute;gina oficial de F1</a>, y ma&ntilde;ana&#8230; yo creo que va a haber alguna sorpresa. S&oacute;lo nos quedan 23 horas y media para saberlo, paciencia <img src="/imagenes/emoticonos/guino.gif" alt="emo" />
+        Y parece ser que Raikkonnen no sali&oacute; no por problemas, sino por una estrategia tomada para s&oacute;lo hacer dos paradas ma&ntilde;ana, muy arriesgado, a Renault no le sali&oacute; bien anteriormente… as&iacute; acaba la clasificaci&oacute;n para ma&ntilde;ana, la podéis ver en <a href="http://www.formula1.com/race/circuitmap/716.html" target="_blank">la página oficial de F1</a>, y ma&ntilde;ana… yo creo que va a haber alguna sorpresa. S&oacute;lo nos quedan 23 horas y media para saberlo, paciencia <img src="/imagenes/emoticonos/guino.gif" alt="emo" />
       </p>
       
       <p>
-        Aqu&iacute; os dejo un par de enlaces curiosos, el <a href="http://f1.primera-clase.com/" target="_blank">primer weblog sobre F1</a> que conozco, y<a href="http://www.coopsf1.com/picks/" target="_blank"> otra p&aacute;gina</a>, en ingl&eacute;s, conocida a trav&eacute;s de este weblog, donde se puede aventurar sobre cada gran premio en una especie de liguilla. A probar suerte.
+        Aqu&iacute; os dejo un par de enlaces curiosos, el <a href="http://f1.primera-clase.com/" target="_blank">primer weblog sobre F1</a> que conozco, y<a href="http://www.coopsf1.com/picks/" target="_blank"> otra página</a>, en inglés, conocida a través de este weblog, donde se puede aventurar sobre cada gran premio en una especie de liguilla. A probar suerte.
       </p>
     </td>
   </tr>

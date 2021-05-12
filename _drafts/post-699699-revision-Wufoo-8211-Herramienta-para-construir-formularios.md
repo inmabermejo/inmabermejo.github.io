@@ -7,8 +7,8 @@ layout: revision
 guid: http://www.wp.chavalina.net/2006/06/07/699-revision/
 permalink: /2006/06/07/699-revision/
 ---
-Hace ya un tiempo que, en <a href="http://blog.codefront.net/archives/2006/03/26/wufoo-cool-ajax-form-builder/" target="_blank">redemption in a blog</a>, conoc&iacute; <a href="http://wufoo.com/demo/" target="_blank">la demo de Wufoo</a>. Es otra aplicaci&oacute;n de la famosa generaci&oacute;n Web 2.0 que sirve para construir formularios f&aacute;cilmente, y que pretende no s&oacute;lo ayudar a crear la interfaz, sino tambi&eacute;n la parte de atr&aacute;s, base de datos, c&oacute;digo de inserci&oacute;n&#8230; vamos, que parece que ahorrar&aacute; bastante trabajo. 
+Hace ya un tiempo que, en <a href="http://blog.codefront.net/archives/2006/03/26/wufoo-cool-ajax-form-builder/" target="_blank">redemption in a blog</a>, conoc&iacute; <a href="http://wufoo.com/demo/" target="_blank">la demo de Wufoo</a>. Es otra aplicaci&oacute;n de la famosa generaci&oacute;n Web 2.0 que sirve para construir formularios fácilmente, y que pretende no s&oacute;lo ayudar a crear la interfaz, sino también la parte de atrás, base de datos, c&oacute;digo de inserci&oacute;n… vamos, que parece que ahorrará bastante trabajo. 
 
-Planean tenerlo listo para finales de Junio, ya veremos, pero por ahora, se puede probar, a mi me ha resultado una experiencia bastante agradable, es f&aacute;cil de usar. A ver si queda tan bien como pinta.
+Planean tenerlo listo para finales de Junio, ya veremos, pero por ahora, se puede probar, a mi me ha resultado una experiencia bastante agradable, es fácil de usar. A ver si queda tan bien como pinta.
 
-**Actualizaci&oacute;n:** M&aacute;s <a href="http://www.tooler.com.ar/2006/03/19/herramientas-online-para-generar-formularios-web/" target="_blank">herramientas para generar formularios</a> en Tooler.
+**Actualizaci&oacute;n:** Más <a href="http://www.tooler.com.ar/2006/03/19/herramientas-online-para-generar-formularios-web/" target="_blank">herramientas para generar formularios</a> en Tooler.

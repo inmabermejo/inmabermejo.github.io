@@ -52,15 +52,15 @@ Así que haré una lista de herramientas y técnicas que yo estoy usando para in
 
 5. El _mute_ es tu mejor amigo.
 
-6. Ayudarse de los filtros para los mensajes que se tienen previstos/clasificados (newsletters, github&#8230;). O mejor aún, si no los vas a leer, borra esa suscripción.
+6. Ayudarse de los filtros para los mensajes que se tienen previstos/clasificados (newsletters, github…). O mejor aún, si no los vas a leer, borra esa suscripción.
 
 7. No me permito tener notificaciones de aplicaciones, en ningún dispositivo. No sólo las del email, también de redes sociales etc. Solamente tengo activas las de Whatsapp para los chats con contactos, ni siquiera grupos.
 
-8. **No usar el email para cosas que es mejor hacer de otra forma**. Ej. cosas urgentes, rondas de feedback, presentación de trabajos&#8230; lo he hecho mucho por email o sistemas de gestión como basecamp (al final es lo mismo) pero ahora lo presento, aunque sea en remoto, y todo va mejor y más rápido.
+8. **No usar el email para cosas que es mejor hacer de otra forma**. Ej. cosas urgentes, rondas de feedback, presentación de trabajos… lo he hecho mucho por email o sistemas de gestión como basecamp (al final es lo mismo) pero ahora lo presento, aunque sea en remoto, y todo va mejor y más rápido.
 
 9. Si nada de esto te sirve, echar 20cents. a una hucha cada vez que envías un email, como si fuera un sello, hará que lo uses con mesura.
 
-Lo que más echo de menos es un sistema estándar para dar la jerarquía, como en el correo ordinario&#8230; pero es más complejo y desde que aparezca, llevará su tiempo que se extienda y se respete.
+Lo que más echo de menos es un sistema estándar para dar la jerarquía, como en el correo ordinario… pero es más complejo y desde que aparezca, llevará su tiempo que se extienda y se respete.
 
 Todavía no he conseguido llegar a mi punto deseado: mirar el correo electrónico un par de veces al día, y evitar hacerlo porque _me apetezca_ o por inercia, pero he mejorado mucho de esta forma. 
 

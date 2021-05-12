@@ -11,6 +11,6 @@ Dando una vuelta por los [foros de Burbuja Inmobiliaria](http://www.burbuja.info
 
 
 
-Y sean o no exactas las cifras, es una realidad que está pasando cada día, no hay desarrollo sostenible y son cosas que no pensamos, o al menos yo no lo pienso, cuando me compro un nuevo ordenador, una nueva agenda, unas botas, una falda&#8230;
+Y sean o no exactas las cifras, es una realidad que está pasando cada día, no hay desarrollo sostenible y son cosas que no pensamos, o al menos yo no lo pienso, cuando me compro un nuevo ordenador, una nueva agenda, unas botas, una falda…
 
-Así que tengo que añadir uno más a [mis propósitos/deseos de nuevo año](http://www.chavalina.net/2008/12/31/deseos-para-2009/)&#8230; **consumir menos**. Lo justo y menos.
+Así que tengo que añadir uno más a [mis propósitos/deseos de nuevo año](http://www.chavalina.net/2008/12/31/deseos-para-2009/)… **consumir menos**. Lo justo y menos.

@@ -1,6 +1,6 @@
 ---
 id: 967
-title: 'Pero qu&eacute; monada'
+title: 'Pero qué monada'
 date: 2006-02-26T09:16:32+02:00
 author: Chavalina
 layout: revision

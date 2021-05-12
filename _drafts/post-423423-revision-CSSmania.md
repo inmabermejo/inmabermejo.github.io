@@ -7,4 +7,4 @@ layout: revision
 guid: http://www.wp.chavalina.net/2005/05/06/423-revision/
 permalink: /2005/05/06/423-revision/
 ---
-<a href="http://www.nv30.com/mt/blogomania/" target="_blank">Tantas p&aacute;ginas que ver</a> y tan poco tiempo&#8230;
+<a href="http://www.nv30.com/mt/blogomania/" target="_blank">Tantas páginas que ver</a> y tan poco tiempo…

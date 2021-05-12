@@ -12,11 +12,11 @@ permalink: /2010/05/22/1865-revision-8/
 </p>
 
 <p style="text-align: left;">
-  Tres años ya, y parece que fue ayer&#8230;
+  Tres años ya, y parece que fue ayer…
 </p>
 
 <p style="text-align: left;">
-  Hace unos días, mi compañero <a href="http://aurea.es/" target="_blank">Javi</a> me comentó que acababa de hacer un año colaborando en Weblogs SL, y caí en la cuenta de que mi <em>aniversario</em> también debía andar cerca&#8230;
+  Hace unos días, mi compañero <a href="http://aurea.es/" target="_blank">Javi</a> me comentó que acababa de hacer un año colaborando en Weblogs SL, y caí en la cuenta de que mi <em>aniversario</em> también debía andar cerca…
 </p>
 
 <p style="text-align: left;">

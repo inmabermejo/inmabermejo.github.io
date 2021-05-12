@@ -29,11 +29,11 @@ Naturaleza _amable_ pero también impresionante. Sobre todo **me gustó mucho la
 
 Había estado antes en Menorca y no esperaba una isla tan montañosa. En todas las zonas que visitamos, y especialmente en la zona de la Sierra de Tramuntana, al Oeste. También me pareció muy especial el ambiente y el tono de los pueblos, me recordaban más a las zonas del norte que conozco que al litoral mediterráneo.
 
-Y lo _montado_ que está para el turismo. Bello, cuidado&#8230; pero en todas partes tenías parking, un supermercado, varios restaurantes, máquinas expendedoras&#8230; me sorprendió.
+Y lo _montado_ que está para el turismo. Bello, cuidado… pero en todas partes tenías parking, un supermercado, varios restaurantes, máquinas expendedoras… me sorprendió.
 
 <blockquote class="twitter-tweet" lang="en">
   <p>
-    Torrents de Pareis, vaya carretera&#8230; <a href="http://t.co/oh6ribMFN0">pic.twitter.com/oh6ribMFN0</a>
+    Torrents de Pareis, vaya carretera… <a href="http://t.co/oh6ribMFN0">pic.twitter.com/oh6ribMFN0</a>
   </p>
   
   <p>
@@ -53,7 +53,7 @@ Los compañeros de desarrollo me necesitaron poco para soporte y _bugfix_ esta s
 
 Tuve varias reuniones con compañeros, para ponerme al día, y luego, la **reunión de status del departamento**. El equipo de diseño para Servicios a Empresas ha dado lo mejor de si mismos este verano. Enhorabuena a Javi y Diego por su gestión y trabajo, que se irán viendo pronto con los lanzamientos y rediseños que vamos a publicar. Por ahora el primero es el [blog de Lenovo](http://www.bloglenovo.es/).
 
-Luego otras noticias no tan buenas, algunas bajas y no podremos contar con mi excompañero Dani para un evento importante, pero habrá que sobreponerse. Si no soy optimista tras tres semanas de vacaciones&#8230; ¿cuándo lo seré?
+Luego otras noticias no tan buenas, algunas bajas y no podremos contar con mi excompañero Dani para un evento importante, pero habrá que sobreponerse. Si no soy optimista tras tres semanas de vacaciones… ¿cuándo lo seré?
 
 Y ya fuera del trabajo, estoy haciendo unos ejercicios y dedicando tiempo de calidad a **mejorar mi faceta de visual**. Mi querido compañero Danny Saltaren, tras leer mi último artículo, ha sido tan encantador de echarme una gran mano y ahora tengo un camino para probar. Le debo un mail y muchas cervezas.
 

@@ -23,7 +23,7 @@ Honestamente, es porque son los Reyes y mi cumpleaños, y **me regalan un montó
 
 
 
-La semana de año nuevo la acabé bastante tranquila, disfrutando el final de las vacaciones, leyendo, saliendo a comer y pensando en la mona pascua&#8230; hasta que me entró la _fiebre del roscón_ y empecé a hacer masas madre como una loca.
+La semana de año nuevo la acabé bastante tranquila, disfrutando el final de las vacaciones, leyendo, saliendo a comer y pensando en la mona pascua… hasta que me entró la _fiebre del roscón_ y empecé a hacer masas madre como una loca.
 
 Es una tarea que tiene su miga, esto del roscón. Puede ser muy **frustrante** porque es una masa muy pegajosa si no lo haces como se debe. Los dos primeros que hice me hicieron sufrir bastante, pero después encontré [este programa de Robin Food](http://www.telecinco.es/robinfood/temporada-01/t01xp54/Roscon-Reyes_0_1908900435.html), donde el amo del [foro del pan](http://www.elforodelpan.com/), **Ibán Yarza**, cuenta con todo detalle cómo hacer un roscón sin morir en el intento, y los dos siguientes no me dieron tanto castigo. 
 
@@ -46,7 +46,7 @@ Imprescindible si quieres intentarlo.
   </div>
 </blockquote>
 
-El resultado, bueno, de sabor estupendo, recibí muchísimas felicitaciones. Es una de esas cosas que **hasta que no pruebas uno casero**&#8230; no sabes lo que te pierdes. De _bollosidad_, mal, porque no subió lo suficiente, y uno de ellos se me pasó en el horno. Pero creo que el siguiente ya lo bordaré. Y no esperaré a Navidad otra vez para hacerlo.
+El resultado, bueno, de sabor estupendo, recibí muchísimas felicitaciones. Es una de esas cosas que **hasta que no pruebas uno casero**… no sabes lo que te pierdes. De _bollosidad_, mal, porque no subió lo suficiente, y uno de ellos se me pasó en el horno. Pero creo que el siguiente ya lo bordaré. Y no esperaré a Navidad otra vez para hacerlo.
 
 La vuelta al trabajo fue bastante suave, tres días en los que casi todos volvíamos de vacaciones y se pasaron volando. Lo serio empezó la semana siguiente.
 
@@ -77,7 +77,7 @@ En el trabajo, volví a hacer una pequeña tarea para **Digio**. Tenían que ada
 
 Visto lo que ha dicho el cliente al respecto, parece que apreciaban más de lo que yo pensaba el trabajo que había realizado con la de iOS. No hay mal que por bien no venga.
 
-Me dio que pensar un poco en los costes de adaptación de una app para todos los sistemas&#8230; Y creo que desde el punto de vista de _los informáticos_ y diseñadores a veces se nos olvida un poco. Nosotros queremos hacer nuestro trabajo bien, simplemente. Pero aunque las cosas se deben hacer bien si se hacen, cuando las limitaciones económicas no dan, no dan. 
+Me dio que pensar un poco en los costes de adaptación de una app para todos los sistemas… Y creo que desde el punto de vista de _los informáticos_ y diseñadores a veces se nos olvida un poco. Nosotros queremos hacer nuestro trabajo bien, simplemente. Pero aunque las cosas se deben hacer bien si se hacen, cuando las limitaciones económicas no dan, no dan. 
 
 Entonces, ¿es mejor no hacerlo? Cuando leí [El Manantial](http://www.amazon.es/gp/product/B00F9KQI5W/ref=as_li_ss_tl?ie=UTF8&camp=3626&creative=24822&creativeASIN=B00F9KQI5W&linkCode=as2&tag=chavadiari-21) (recomendado), también reflexionaba sobre esto. ¿Es mejor hacer esta aplicación para Windows Phone sin invertir suficiente en su diseño? Si fracasa, eso sería en gran parte causa, así que también se habría tirado dinero de desarrollo.
 
@@ -85,11 +85,11 @@ En **WSL** ya tuve una semana normal. Empecé haciendo investigación para otra 
 
 También me dediqué a la última fase del componente anterior de **La Tarea**, que es la de diseño visual. Creo que he conseguido una fluida interfaz, con un par de ideas útiles, pero ahora hay que ponerla bonita y me está costando horrores.
 
-Claro, como no he seguido en esta ocasión los consejos de **Danny**&#8230; voy perdida y dando tumbos. Pero el lunes empiezo de nuevo y con disciplina, tiro lo que tengo y lienzo limpio.
+Claro, como no he seguido en esta ocasión los consejos de **Danny**… voy perdida y dando tumbos. Pero el lunes empiezo de nuevo y con disciplina, tiro lo que tengo y lienzo limpio.
 
-Para la fase de definición de componentes, flujo&#8230; el prototipado, vamos, me va genial hacerlo con HTML en navegador, pero **para el diseño visual no me vale**. Mi empeño en hacerlo así también viene de que la tipografía nunca renderiza igual en programas como Sketch o Photoshop que en los navegadores, pero bueno, cuando tenga la tipo elegida, me vuelvo al software de diseño. A ver qué tal me resulta esta semana.
+Para la fase de definición de componentes, flujo… el prototipado, vamos, me va genial hacerlo con HTML en navegador, pero **para el diseño visual no me vale**. Mi empeño en hacerlo así también viene de que la tipografía nunca renderiza igual en programas como Sketch o Photoshop que en los navegadores, pero bueno, cuando tenga la tipo elegida, me vuelvo al software de diseño. A ver qué tal me resulta esta semana.
 
-Volvimos a las **reuniones**, la quincenal con los jefes, y la semanal de equipo. Sorprendentemente las había echado de menos estas semanas sin ellas&#8230; Imagino que es algo bueno, mientras las mantengamos así de contenidas.
+Volvimos a las **reuniones**, la quincenal con los jefes, y la semanal de equipo. Sorprendentemente las había echado de menos estas semanas sin ellas… Imagino que es algo bueno, mientras las mantengamos así de contenidas.
 
 En la de este último viernes, nuestro jefe nos comentó que vamos a **reorganizarnos** un poco en cuanto a funciones. Para mi, tendré menos gestión, y podré ocuparme más a tareas puramente de diseño. 
 

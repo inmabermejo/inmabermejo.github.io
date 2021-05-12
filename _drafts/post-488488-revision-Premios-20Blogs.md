@@ -7,4 +7,4 @@ layout: revision
 guid: http://www.wp.chavalina.net/2005/06/06/488-revision/
 permalink: /2005/06/06/488-revision/
 ---
-Qu&eacute; suerte, la gente no se cansa de hacer concursos en la blogocosa, y por &eacute;ste el premio son 3000
+Qué suerte, la gente no se cansa de hacer concursos en la blogocosa, y por éste el premio son 3000

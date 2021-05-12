@@ -1,6 +1,6 @@
 ---
 id: 2031
-title: 'Summertime&#8230; is over!'
+title: 'Summertime… is over!'
 date: 2010-09-22T13:47:22+02:00
 author: Chavalina
 layout: revision

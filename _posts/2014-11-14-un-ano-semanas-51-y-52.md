@@ -11,7 +11,7 @@ categories:
 ---
 Bonitos números para este recopilatorio semanal, o intento de tal.
 
-Es curioso que me de cuenta ahora de que **los números no cuadran**. La semana 52 debería ser la del 17 del mes&#8230; pero después de saltarme tantas, sobre todo últimamente, seré indulgente conmigo misma, y seguiré con la cuenta tal cual. Total, al menos duré más que [Daniel](http://www.torresburriel.com/weblog/2013/11/20/intentando-hacer-la-retro-semanal/), jeje, _mal de muchos&#8230;_
+Es curioso que me de cuenta ahora de que **los números no cuadran**. La semana 52 debería ser la del 17 del mes… pero después de saltarme tantas, sobre todo últimamente, seré indulgente conmigo misma, y seguiré con la cuenta tal cual. Total, al menos duré más que [Daniel](http://www.torresburriel.com/weblog/2013/11/20/intentando-hacer-la-retro-semanal/), jeje, _mal de muchos…_
 
 Parece que por ahora Noviembre me trata mejor que el sádico Octubre. 
 
@@ -34,10 +34,10 @@ Me ha sorprendido lo rápido que lo hemos puesto en marcha, y lo bien que creo q
 
 Seguimos también con el **curso de formación**, que aunque no estoy de acuerdo con algunas cosas que nos enseñan, sigue siendo muy interesante porque hay otras que son muy valiosas. 
 
-Mucho sobre gestión de personas&#8230; hay parte de esa _gestión_ que no me sentiría cómoda haciendo. Ingeniería social, inteligencia emocional&#8230; al final creo que son técnicas para llevar a la gente a la posición que tú quieres, y es un terreno gris en el que no me siento muy cómoda. Pero hay otras cosas, aprender a preguntar, actitud ante los conflictos&#8230; que veo muy útiles y practicaré todo lo que pueda.
+Mucho sobre gestión de personas… hay parte de esa _gestión_ que no me sentiría cómoda haciendo. Ingeniería social, inteligencia emocional… al final creo que son técnicas para llevar a la gente a la posición que tú quieres, y es un terreno gris en el que no me siento muy cómoda. Pero hay otras cosas, aprender a preguntar, actitud ante los conflictos… que veo muy útiles y practicaré todo lo que pueda.
 
 La **Tarea** la hemos pausado un poco con la implantación del nuevo sistema de trabajo. Hubo una subtarea que sí completamos, pero esta última semana no hemos avanzado en el diseño. Sí nuestro jefe en la especificación, así que imagino que la que viene será más intensa.
 
 Terminé la **tarea F** y la acogida ha sido buena por parte del _cliente_, y pronto la probaremos con los usuarios. Espero que la semana que viene ya esté en producción.
 
-Seguimos preparando los **Premios Xataka** y a estas alturas todavía no sé si podré ir. Con todos los líos en casa la verdad que se me hace más difícil, pero oye, parece que si todo sigue por buen camino, **es posible que la semana del 27 esté por Madrid**&#8230; si a alguien le apetece una cerveza y quiere quedar, será un motivo más para hacer el ánimo 🙂
+Seguimos preparando los **Premios Xataka** y a estas alturas todavía no sé si podré ir. Con todos los líos en casa la verdad que se me hace más difícil, pero oye, parece que si todo sigue por buen camino, **es posible que la semana del 27 esté por Madrid**… si a alguien le apetece una cerveza y quiere quedar, será un motivo más para hacer el ánimo 🙂

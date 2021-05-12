@@ -8,6 +8,6 @@ guid: http://www.wp.chavalina.net/2004/08/04/180-revision/
 permalink: /2004/08/04/180-revision/
 ---
 La ponen en un rato en TeleCinco.  
-Yo no la ver&eacute; porque me voy a jugar al **mus** pero os la recomiendo. A mi me gust&oacute; bastante, no s&eacute; si para darle **5** Oscar pero, viendo como est&aacute; el panorama, y sobre todo como estaba por entonces, en plena org&iacute;a de efectos especiales. Una buena historia y bien contada. Hasta me da rabia que sea americana&#8230;
+Yo no la veré porque me voy a jugar al **mus** pero os la recomiendo. A mi me gust&oacute; bastante, no sé si para darle **5** Oscar pero, viendo como está el panorama, y sobre todo como estaba por entonces, en plena org&iacute;a de efectos especiales. Una buena historia y bien contada. Hasta me da rabia que sea americana…
 
-<a href=http://www.dreamworks.com/ab/ target=&prime;_blank&prime;>Su web</a> tambi&eacute;n me gusta.
+<a href=http://www.dreamworks.com/ab/ target=&prime;_blank&prime;>Su web</a> también me gusta.

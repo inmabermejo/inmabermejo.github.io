@@ -14,8 +14,8 @@ Como ellos mismos se definen, es un sitio con recursos para obtener ingresos sin
 Ahora mismo tiene 4 partes:
 
   * <a href="http://notbythehour.com/part-1" target="_blank">venta de archivos de stock</a>, como hacen algunos en <a href="http://www.istockphoto.com" target="_blank">iStockPhoto</a> o <a href="http://www.stockxpert.com/" target="_blank">stockxpert</a>
-  * <a href="http://notbythehour.com/part-2" target="_blank">«hacer cosas»</a>, qu&eacute; gen&eacute;rico!, ya sea para recaudar donaciones (plugins, themes, un videojuego&#8230;) o para vender como merchandising, como hacen en la tienda de <a href="www.bottup.com" target="_blank">Bottup</a>
+  * <a href="http://notbythehour.com/part-2" target="_blank">«hacer cosas»</a>, qué genérico!, ya sea para recaudar donaciones (plugins, themes, un videojuego…) o para vender como merchandising, como hacen en la tienda de <a href="www.bottup.com" target="_blank">Bottup</a>
   * <a href="http://notbythehour.com/part-3" target="_blank">servicios con suscripci&oacute;n</a>, como vender hosting, o un servicio de alojamiento de blogs de pago
-  * <a href="http://notbythehour.com/part-4" target="_blank">montar un negocio con una web</a>, esto es muy gen&eacute;rico tambi&eacute;n, puede incluir desde redes de blogs hasta servicios como <a href="http://www.amigosfree.com/" target="_blank">amigosfree</a>
+  * <a href="http://notbythehour.com/part-4" target="_blank">montar un negocio con una web</a>, esto es muy genérico también, puede incluir desde redes de blogs hasta servicios como <a href="http://www.amigosfree.com/" target="_blank">amigosfree</a>
 
-Algunas buenas ideas para sacar un dinero extra, habr&aacute; que informarse bien de c&oacute;mo gestionarlo para que todo cumpla la legalidad vigente en el pa&iacute;s que nos encontremos.
+Algunas buenas ideas para sacar un dinero extra, habrá que informarse bien de c&oacute;mo gestionarlo para que todo cumpla la legalidad vigente en el pa&iacute;s que nos encontremos.

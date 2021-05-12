@@ -7,4 +7,4 @@ layout: revision
 guid: http://www.wp.chavalina.net/2005/12/03/591-revision/
 permalink: /2005/12/03/591-revision/
 ---
-<a href="http://proletarium.org/2005/12/02/la-edad-de-los-paises" target="_blank">La edad de los pa&iacute;ses</a> por Hern&aacute;n Casciari, via manu.
+<a href="http://proletarium.org/2005/12/02/la-edad-de-los-paises" target="_blank">La edad de los pa&iacute;ses</a> por Hernán Casciari, via manu.

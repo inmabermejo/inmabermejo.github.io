@@ -1,6 +1,6 @@
 ---
 id: 2444
-title: 'Ecooler, un original sistema de refrigeración&#8230; sostenible'
+title: 'Ecooler, un original sistema de refrigeración… sostenible'
 date: 2011-05-08T15:29:40+02:00
 author: Chavalina
 layout: revision

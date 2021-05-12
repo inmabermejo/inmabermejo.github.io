@@ -13,7 +13,7 @@ categories:
   - Cultura
   - Diseño
 ---
-**Actualización 2**: de nuevo retiraron el vídeo&#8230; añadido otro.
+**Actualización 2**: de nuevo retiraron el vídeo… añadido otro.
 
 **Actualización**: parece que lo han retirado de Youtube, lo he añadido de Vimeo, espero que dure un poco más. Muchas gracias por el aviso, **Jose**!
 

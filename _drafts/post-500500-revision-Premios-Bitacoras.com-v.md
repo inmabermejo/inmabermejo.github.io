@@ -7,4 +7,4 @@ layout: revision
 guid: http://www.wp.chavalina.net/2005/06/22/500-revision/
 permalink: /2005/06/22/500-revision/
 ---
-<a href="http://www.bitacoras.com/premios/" target="_blank">Ya est&aacute;n los premios!</a> y qued&eacute; finalista! Felicidades a los ganadores y gracias a los que me votaron, a ver si ma&ntilde;ana tengo m&aacute;s tiempo y puedo escribir un agradecimiento decente![emo](/imagenes/emoticonos/sonrisa.gif)
+<a href="http://www.bitacoras.com/premios/" target="_blank">Ya están los premios!</a> y quedé finalista! Felicidades a los ganadores y gracias a los que me votaron, a ver si ma&ntilde;ana tengo más tiempo y puedo escribir un agradecimiento decente![emo](/imagenes/emoticonos/sonrisa.gif)

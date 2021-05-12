@@ -7,7 +7,7 @@ layout: revision
 guid: http://www.chavalina.net/2013/12/04/2587-revision-v1/
 permalink: /2013/12/04/2587-revision-v1/
 ---
-Maravillosa canción&#8230;
+Maravillosa canción…
 
 
 

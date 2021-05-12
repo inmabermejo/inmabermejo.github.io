@@ -7,4 +7,4 @@ layout: revision
 guid: http://www.wp.chavalina.net/2005/03/18/367-revision/
 permalink: /2005/03/18/367-revision/
 ---
-**todo** arde si le aplicas la chispa adecuada&#8230;
+**todo** arde si le aplicas la chispa adecuada…

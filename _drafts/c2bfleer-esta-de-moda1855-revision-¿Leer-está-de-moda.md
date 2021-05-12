@@ -7,4 +7,4 @@ layout: revision
 guid: http://www.chavalina.net/2010/05/08/1855-revision/
 permalink: /2010/05/08/1855-revision/
 ---
-En estos tiempos de iPads, Kindles, móviles supersónicos&#8230; se agradecen iniciativas como este vídeo de <a href="http://leerestademoda.com/" target="_blank">Leer está de moda</a>.
+En estos tiempos de iPads, Kindles, móviles supersónicos… se agradecen iniciativas como este vídeo de <a href="http://leerestademoda.com/" target="_blank">Leer está de moda</a>.

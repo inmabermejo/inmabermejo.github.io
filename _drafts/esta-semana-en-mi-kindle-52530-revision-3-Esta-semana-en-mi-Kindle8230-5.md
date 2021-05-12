@@ -1,13 +1,13 @@
 ---
 id: 2543
-title: 'Esta semana en mi Kindle&#8230; (5)'
+title: 'Esta semana en mi Kindle… (5)'
 date: 2011-06-11T17:10:51+02:00
 author: Chavalina
 layout: revision
 guid: http://www.chavalina.net/2011/06/11/2530-revision-3/
 permalink: /2011/06/11/2530-revision-3/
 ---
-Es verdad que la semana pasada fue la primera que di palo, sí&#8230; pero aquí va mi recopilación de enlaces, ración doble incluyendo los guardados la semana anterior:
+Es verdad que la semana pasada fue la primera que di palo, sí… pero aquí va mi recopilación de enlaces, ración doble incluyendo los guardados la semana anterior:
 
 **Política, economía, vida y el mundo en general:**
 
@@ -38,4 +38,4 @@ Es verdad que la semana pasada fue la primera que di palo, sí&#8230; pero aquí
       * <a href="http://webdesign.about.com/od/colorcharts/l/bl_colorculture.htm" target="_blank">Visual Color Symbolism Chart by Culture &#8211; Cultural Color Symbolism Chart</a>
       * <a href="http://www.ivoserrano.com/diseno-web/el-uso-del-color-y-su-significado-en-el-diseno-web/#more-506" target="_blank">El uso del color y su significado en el diseño web &#8211; Ivan Serrano Regol | www.ivoserrano.com</a>
 
-Buen fin de semana a todos, y ya sabéis&#8230; _take it slow!_
+Buen fin de semana a todos, y ya sabéis… _take it slow!_

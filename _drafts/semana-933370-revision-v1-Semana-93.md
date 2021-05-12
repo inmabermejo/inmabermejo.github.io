@@ -7,9 +7,9 @@ layout: revision
 guid: http://www.chavalina.net/2015/09/04/3370-revision-v1/
 permalink: /2015/09/04/3370-revision-v1/
 ---
-Lamentablemente&#8230; septiembre sabe diferente.
+Lamentablemente… septiembre sabe diferente.
 
-Estoy tan cansada que se perfila un viaje a la playa el domingo&#8230; y ni siquiera me apetece 🙁 a veces uno solo quiere no hacer nada.
+Estoy tan cansada que se perfila un viaje a la playa el domingo… y ni siquiera me apetece 🙁 a veces uno solo quiere no hacer nada.
 
 Ha sido una semana totalmente **agotadora**, trabajando casi todas las tardes por reuniones con diferencia horaria, también muy temprano desde por la mañana, y bastante trabajo en casa también.
 

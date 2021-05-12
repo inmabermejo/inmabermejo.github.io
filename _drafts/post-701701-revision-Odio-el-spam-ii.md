@@ -7,4 +7,4 @@ layout: revision
 guid: http://www.wp.chavalina.net/2006/06/09/701-revision/
 permalink: /2006/06/09/701-revision/
 ---
-<a href="http://www.gistain.net/?p=1015" target="_blank">Una forma po&eacute;tica de maldecir el spam&#8230;</a>
+<a href="http://www.gistain.net/?p=1015" target="_blank">Una forma poética de maldecir el spam…</a>

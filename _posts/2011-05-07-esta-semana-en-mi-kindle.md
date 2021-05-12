@@ -1,6 +1,6 @@
 ---
 id: 2432
-title: 'Esta semana en mi Kindle&#8230;'
+title: 'Esta semana en mi Kindle…'
 date: 2011-05-07T12:31:50+02:00
 author: Chavalina
 layout: post
@@ -16,7 +16,7 @@ categories:
 ---
 Desde luego, que soy lo peor, tengo que admitirlo.
 
-Si mi sustento dependiera de este blog, no tendría que hacer la operación bikini para adelgazar, no. Dos meses, **¡dos meses!** sin escribir, con el buen ritmo que había cogido en invierno&#8230; no tengo excusa, aunque sí, el trabajo, que por suerte tengo mucho, y me deja sin ganas de acercarme al ordenador después 🙁
+Si mi sustento dependiera de este blog, no tendría que hacer la operación bikini para adelgazar, no. Dos meses, **¡dos meses!** sin escribir, con el buen ritmo que había cogido en invierno… no tengo excusa, aunque sí, el trabajo, que por suerte tengo mucho, y me deja sin ganas de acercarme al ordenador después 🙁
 
 Pero bueno, aquí estoy de nuevo, haciendo propósito de enmienda otra vez.
 

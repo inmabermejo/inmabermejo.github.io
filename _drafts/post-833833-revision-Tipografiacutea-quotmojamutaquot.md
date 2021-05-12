@@ -13,5 +13,5 @@ No es la fuente exacta, pero me ha hecho gracia encontrar esta fuente «esponjos
   <img src="/imagenes/fotos/mojamuta.jpg" alt="Chavalina Mojamuta" />
 </p>
 
-Es la <a href="http://www2.wind.ne.jp/maniackers/cloooud.html" target="_blank">Cloooud</a> y puede usarse libremente para uso personal, para uso comercial habr&aacute; que contactar con los <a href="http://www2.wind.ne.jp/maniackers/designfont.html" target="_blank">Maniackers</a>.  
+Es la <a href="http://www2.wind.ne.jp/maniackers/cloooud.html" target="_blank">Cloooud</a> y puede usarse libremente para uso personal, para uso comercial habrá que contactar con los <a href="http://www2.wind.ne.jp/maniackers/designfont.html" target="_blank">Maniackers</a>.  
 Encontrado en <a href="http://www.webintenta.com/coleccionar-fuentes.html" target="_blank">Intenta</a>![mundo](/imagenes/emoticonos/mundo.gif)

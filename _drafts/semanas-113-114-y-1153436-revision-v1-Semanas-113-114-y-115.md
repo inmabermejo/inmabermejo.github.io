@@ -51,7 +51,7 @@ Hace un par de fines de semana aproveché para salir a hacer fotos tras casi tod
 
 Y saqué un rato para ver [«Soylent Green»](http://www.imdb.com/title/tt0070723/?ref_=nv_sr_1). Conocí esta película porque es la que da nombre al [Soylent](https://www.soylent.com/), ese producto que facilita alimentarte a base de batidos. Me gustó bastante -la película, no el Soylent-, es una distopía en la que se ha producido algún tipo de accidente ecológico, y la comida tal y como la conocemos es algo prohibitivo. Y a la vez, está muy en la línea de lo que creo que pasará si seguimos tratando el planeta así.
 
-El domingo, celebré mi **cumpleaños** con retraso con una comida familiar. Algo sencillo. Me hubiera gustado hacer pan o algún postre, más entrantes&#8230; pero la verdad es que llevo un mes sin energías y esta vez me lo tomé con más calma. Y tampoco es tan grave, lo pasamos igual de bien.
+El domingo, celebré mi **cumpleaños** con retraso con una comida familiar. Algo sencillo. Me hubiera gustado hacer pan o algún postre, más entrantes… pero la verdad es que llevo un mes sin energías y esta vez me lo tomé con más calma. Y tampoco es tan grave, lo pasamos igual de bien.
 
 <blockquote class="instagram-media" data-instgrm-captioned data-instgrm-version="6" style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:658px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);">
   <div style="padding:8px;">
@@ -88,9 +88,9 @@ En el trabajo, volvimos a la normalidad tras el lanzamiento de nuestro [longform
 
 Una vez hecho esto, hemos pedido informes al departamento de analítica para contrastar lo que nos dicen los datos con lo que nos dicen las entrevistas, y mientras los envían, me dedico a analizar lo que hacen los competidores en esto que nos ocupa ahora, y a buscar buenas referencias que nos ayuden a encontrar la mejor solución.
 
-Necesitamos **diseñar un sistema** y estoy muy contenta de haber encontrado el ¿artículo «del año»? [Content patterns and display patterns](http://danielmall.com/articles/content-display-patterns/). Diseñar sistemas es difícil, yo todavía no he conseguido hacerlo bien&#8230; Este artículo me ha ayudado un poco más a encontrar una forma práctica de aproximarme a los problemas para construir un sistema que funcione. 
+Necesitamos **diseñar un sistema** y estoy muy contenta de haber encontrado el ¿artículo «del año»? [Content patterns and display patterns](http://danielmall.com/articles/content-display-patterns/). Diseñar sistemas es difícil, yo todavía no he conseguido hacerlo bien… Este artículo me ha ayudado un poco más a encontrar una forma práctica de aproximarme a los problemas para construir un sistema que funcione. 
 
-Además, estoy preparando la **documentación** de todo el trabajo _front-end_ que he realizado este año, y que no había ido haciendo poco a poco, como siempre, por la falta de tiempo. Y ahora eso dificulta que mis compañeros puedan trabajar de forma ágil con nuestro código propio. Es una tarea por la que siento amor y odio a la vez. Imagino que los programadores me entenderán&#8230;
+Además, estoy preparando la **documentación** de todo el trabajo _front-end_ que he realizado este año, y que no había ido haciendo poco a poco, como siempre, por la falta de tiempo. Y ahora eso dificulta que mis compañeros puedan trabajar de forma ágil con nuestro código propio. Es una tarea por la que siento amor y odio a la vez. Imagino que los programadores me entenderán…
 
 Tras asentarnos después de las vacaciones he vuelto a respetar mis horarios, y además, ahora con un 90% menos de email. **Amo Slack**.
 
@@ -108,7 +108,7 @@ Gracias a seguir estrictamente el horario de uso que me puse, y a unos consejos 
 
 
 
-En estas fechas toca la **evaluación** de mi trabajo. El año pasado había [dejado de gestionar al equipo](http://www.chavalina.net/2015/02/08/semana-64/) de diseño, así que ahora dependía solamente de mi trabajo técnico. Estoy bastante contenta porque me han felicitado, y yo misma ya me había dado cuenta de que me había ido mucho mejor. He estado más centrada y enfocada, he podido investigar más&#8230;
+En estas fechas toca la **evaluación** de mi trabajo. El año pasado había [dejado de gestionar al equipo](http://www.chavalina.net/2015/02/08/semana-64/) de diseño, así que ahora dependía solamente de mi trabajo técnico. Estoy bastante contenta porque me han felicitado, y yo misma ya me había dado cuenta de que me había ido mucho mejor. He estado más centrada y enfocada, he podido investigar más…
 
 Para mi no ha funcionado compaginar diseño y gestión, [quizá otros puedan](http://qz.com/549768/can-we-be-both-makers-and-managers/?utm_content=buffer59a0f&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer), pero no es mi caso. La [forma de trabajo de los _managers_](http://www.paulgraham.com/makersschedule.html) me pone en modo multitarea y me cuesta mucho cambiar al _modo hacer_.
 

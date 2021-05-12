@@ -30,7 +30,7 @@ Madre mía, qué pereza escribir el post semanal.
 
 Pero no me quiero volver a juntar con un mes. Tras la celebración del **cumpleaños de mi madre**, donde lo pasamos muy bien aunque mi abuela criticó duramente mi pan de olivas negras, pasé la semana entre limpieza general, de interiores y exteriores, y bastante bastante trabajo.
 
-<q>Este pan&#8230; No lo vuelvas a hacer</q> &#8211; <cite>Mi abuela</cite>
+<q>Este pan… No lo vuelvas a hacer</q> &#8211; <cite>Mi abuela</cite>
 
 Por cierto, **¿vosotros limpiáis personalmente o limpia alguien por vosotros?**. Siempre he tenido esa curiosidad por la gente de mi sector.
 
@@ -52,7 +52,7 @@ Una pena porque es tiempo perdido, cuando preparándolo con un poco de antelaci�
 
 Acabé la semana con muy buen sabor de boca, una charlita al final del día con mi compañero Javi. Estamos todos a tope de trabajo, y con el nuevo sistema de organización en el que no tengo que gestionar ya apenas coincidimos, y **hay pocas ocasiones para conversar** y contarnos qué tal en los proyectos que vamos llevando.
 
-Sigo incorporando mi rutina para optimizar el tiempo dedicado a _internet_. Menos navegar sin rumbo, límite de tiempo para redes sociales, reducción y relocalización de las personas a las que sigo&#8230; Y también reservar tiempo para ir consumiendo esos artículos, vídeos&#8230; que siempre van a [Readability](https://readability.com/chavalina/) y luego nunca se leen.
+Sigo incorporando mi rutina para optimizar el tiempo dedicado a _internet_. Menos navegar sin rumbo, límite de tiempo para redes sociales, reducción y relocalización de las personas a las que sigo… Y también reservar tiempo para ir consumiendo esos artículos, vídeos… que siempre van a [Readability](https://readability.com/chavalina/) y luego nunca se leen.
 
 De los que he consumido esta semana, me quedo con dos vídeos: 
 

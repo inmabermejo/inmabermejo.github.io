@@ -24,7 +24,7 @@ permalink: /2010/07/27/1974-revision-6/
 </p>
 
 <p style="text-align: left;">
-  Visitamos <a href="http://maps.google.es/maps?f=q&source=s_q&hl=en&geocode=&q=Cala+Blanca,+Lorca&sll=40.396764,-3.713379&sspn=8.246774,19.555664&ie=UTF8&hq=&hnear=Cala+Blanca,+30800+Lorca,+Murcia&ll=37.483424,-1.462619&spn=0.004197,0.009549&t=h&z=17" target="_self">Cala Blanca</a> (en la foto superior), perteneciente a las playas de Lorca. Totalmente virgen sin servicios pero con unas curiosas cuevas y muy poca gente. Nos costó llegar, gracias a unas indicaciones de los dueños del hotel, si no&#8230; estamos todavía dando vueltas por ahí!
+  Visitamos <a href="http://maps.google.es/maps?f=q&source=s_q&hl=en&geocode=&q=Cala+Blanca,+Lorca&sll=40.396764,-3.713379&sspn=8.246774,19.555664&ie=UTF8&hq=&hnear=Cala+Blanca,+30800+Lorca,+Murcia&ll=37.483424,-1.462619&spn=0.004197,0.009549&t=h&z=17" target="_self">Cala Blanca</a> (en la foto superior), perteneciente a las playas de Lorca. Totalmente virgen sin servicios pero con unas curiosas cuevas y muy poca gente. Nos costó llegar, gracias a unas indicaciones de los dueños del hotel, si no… estamos todavía dando vueltas por ahí!
 </p>
 
 <p style="text-align: left;">
@@ -33,7 +33,7 @@ permalink: /2010/07/27/1974-revision-6/
 
 <p style="text-align: left;">
   <p style="text-align: left;">
-    Y por último fuimos a Calnegre. Ésta sí que se llena más, sobre todo porque tiene chiringuito, pero también muy poco comparado con La Manga, San Juan&#8230; donde hay una sombrilla por metro cuadrado. En Calnegre te puedes bañar bien ancho y hay arena para todos 🙂
+    Y por último fuimos a Calnegre. Ésta sí que se llena más, sobre todo porque tiene chiringuito, pero también muy poco comparado con La Manga, San Juan… donde hay una sombrilla por metro cuadrado. En Calnegre te puedes bañar bien ancho y hay arena para todos 🙂
   </p>
   
   <p style="text-align: left;">

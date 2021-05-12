@@ -13,11 +13,11 @@ permalink: /2010/10/18/2085-autosave/
 
 **Zootool** es un servicio de **marcadores** que te permite guardar cualquier imagen, vídeo, o una imagen de la página que estás viendo.
 
-Por supuesto también puedes categorizar el contenido, etiquetarlo, agruparlo, compartirlo en tus sitios sociales favoritos, añadir contactos&#8230; en fin, todas las funcionalidades que se pueden esperar hoy día de un servicio web 🙂
+Por supuesto también puedes categorizar el contenido, etiquetarlo, agruparlo, compartirlo en tus sitios sociales favoritos, añadir contactos… en fin, todas las funcionalidades que se pueden esperar hoy día de un servicio web 🙂
 
 Descubrí esta herramienta gracias a [Kemie en twitter](http://twitter.com/kemie/statuses/25033713156), y la estoy utilizando para **guardar los sitios e imágenes que me inspiran**, que me parecen bellos o simplemente que tienen algún detalle que me ha llamado la atención.
 
-Antes usaba una combinación de marcadores y una carpeta para imágenes. Cómo me fastidiaba cuando guardaba un sitio que me gustaba en mis marcadores, volvía a él un mes después&#8230; y ¡había cambiado el diseño!
+Antes usaba una combinación de marcadores y una carpeta para imágenes. Cómo me fastidiaba cuando guardaba un sitio que me gustaba en mis marcadores, volvía a él un mes después… y ¡había cambiado el diseño!
 
 **Un gran fallo** que le encuentro a Zootool es que **guarda una captura de los sitios web a tamaño escalado** (ejemplo: [Coco Suites en mi Zootool](http://zootool.com/watch/47h)) y no a tamaño original, o al menos yo no lo he conseguido encontrar, que para el caso, es lo mismo.
 

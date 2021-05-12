@@ -7,7 +7,7 @@ layout: revision
 guid: http://www.chavalina.net/2015/11/29/3401-revision-v1/
 permalink: /2015/11/29/3401-revision-v1/
 ---
-Ya ha venido el frío, y aunque tiene sus ventajas -el otoño es delicioso-, no acompaña bien a la sensación de **vacío** que queda cuando un proyecto en el que has trabajado con mucha intensidad termina&#8230;
+Ya ha venido el frío, y aunque tiene sus ventajas -el otoño es delicioso-, no acompaña bien a la sensación de **vacío** que queda cuando un proyecto en el que has trabajado con mucha intensidad termina…
 
 <blockquote class="instagram-media" data-instgrm-captioned data-instgrm-version="6" style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:658px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);">
   <div style="padding:8px;">
@@ -53,7 +53,7 @@ Así que un fin de semana casi en blanco, pero éste ha sido más movido. Limpie
 
 
 
-Mi madre ha actuado en una **función benéfica** y fue una tarde movidita. No llegamos a tiempo de ayudarle a preparar los materiales, y acabamos haciéndolo a última hora, maquillando y acortando un vestido entre bambalinas. Otro pequeño drama con mi abuela, que se quería hacer la interesante con que no se iba a venir&#8230; pero que cuando vio que tardábamos en el teatro, casi hace a mi hermano ir a buscarnos. Y al llegar, nos querían dejar sin sitio&#8230; Pero al final todo salió bien, y ahora la _artista_ disfruta de su éxito.
+Mi madre ha actuado en una **función benéfica** y fue una tarde movidita. No llegamos a tiempo de ayudarle a preparar los materiales, y acabamos haciéndolo a última hora, maquillando y acortando un vestido entre bambalinas. Otro pequeño drama con mi abuela, que se quería hacer la interesante con que no se iba a venir… pero que cuando vio que tardábamos en el teatro, casi hace a mi hermano ir a buscarnos. Y al llegar, nos querían dejar sin sitio… Pero al final todo salió bien, y ahora la _artista_ disfruta de su éxito.
 
 Hoy quería aprovechar la tarde del domingo para volver a salir a hacer fotos, que me estoy oxidando. Además, he comprado [Photopills](http://es.photopills.com/), pero se me ha hecho tarde y apenas he podido aprovechar los últimos rayos de sol. De aquí a diciembre tendré que espabilarme, que la luz es muy bonita, pero se va enseguida!
 
@@ -90,7 +90,7 @@ No a tiempo, pero **en el trabajo** ya pudimos sacar el especial que hemos prepa
 
 
 
-Aproximadamente cuatro semanas de trabajo, que debieron haber sido cinco, pues la última tuvimos que apretar muchísimo para poder llegar. Trabajamos en ello principalmente [Marina Such](https://twitter.com/MissMacGuffin) en el contenido, coordinadora de [Vaya Tele](http://www.vayatele.com/), y por mi parte, diseño y maquetación, con la ayuda de mi compañera Esther. Álex Ferrero y Antonio Ortiz nos guiaron con el enfoque editorial, y nos espolearon para conseguir el mejor resultado (gracias), y Laura&#8230; Laura nos ayudó en todo, qué haríamos sin ti. Es lo que se llama una _facilitadora_ por naturaleza.
+Aproximadamente cuatro semanas de trabajo, que debieron haber sido cinco, pues la última tuvimos que apretar muchísimo para poder llegar. Trabajamos en ello principalmente [Marina Such](https://twitter.com/MissMacGuffin) en el contenido, coordinadora de [Vaya Tele](http://www.vayatele.com/), y por mi parte, diseño y maquetación, con la ayuda de mi compañera Esther. Álex Ferrero y Antonio Ortiz nos guiaron con el enfoque editorial, y nos espolearon para conseguir el mejor resultado (gracias), y Laura… Laura nos ayudó en todo, qué haríamos sin ti. Es lo que se llama una _facilitadora_ por naturaleza.
 
 <blockquote class="twitter-tweet" lang="en">
   <p lang="en" dir="ltr">
@@ -104,8 +104,8 @@ Aproximadamente cuatro semanas de trabajo, que debieron haber sido cinco, pues l
 
 
 
-Tras acabarlo, he preparado un _post-mortem_ en privado, y he propuesto al equipo escribir un caso de estudio para el sitio web de Social Media SL, contando el proceso, cómo hemos trabajado en equipo, cómo hemos conseguido los recursos&#8230; aunque no creo que lo hagamos antes de enero, si va adelante.
+Tras acabarlo, he preparado un _post-mortem_ en privado, y he propuesto al equipo escribir un caso de estudio para el sitio web de Social Media SL, contando el proceso, cómo hemos trabajado en equipo, cómo hemos conseguido los recursos… aunque no creo que lo hagamos antes de enero, si va adelante.
 
 Después estuve trabajando en algunas tareas pequeñas que se me habían acumulado las semanas anteriores, eché una mano a Esther y Diego con un microsite para un cliente de empresas, y empecé una nueva tarea de conceptualización para una nueva herramienta para nuestros editores, que será a lo que dedique más tiempo los próximos días.
 
-Y sigo lamentándome por no haber podido asistir a los Premios Xataka. Pero bueno, para mi, y para los que sintáis curiosidad, siempre quedará el streaming&#8230;
+Y sigo lamentándome por no haber podido asistir a los Premios Xataka. Pero bueno, para mi, y para los que sintáis curiosidad, siempre quedará el streaming…

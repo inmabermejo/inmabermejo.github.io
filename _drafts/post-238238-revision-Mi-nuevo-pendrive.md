@@ -12,4 +12,4 @@ permalink: /2004/10/12/238-revision/
 </p>
 
 Por cortes&iacute;a de Juan Carlos, Juan y Manolo.  
-Muchas gracias chicos, yo tambi&eacute;n os quiero![emo](/imagenes/emoticonos/guino.gif)
+Muchas gracias chicos, yo también os quiero![emo](/imagenes/emoticonos/guino.gif)

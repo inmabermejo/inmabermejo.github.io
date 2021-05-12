@@ -7,4 +7,4 @@ layout: revision
 guid: http://www.wp.chavalina.net/2005/02/26/355-revision/
 permalink: /2005/02/26/355-revision/
 ---
-estoy de semi-retiro&#8230; muy pronto de vuelta&#8230; espero&#8230;![emo](/imagenes/emoticonos/sonrisa.gif)
+estoy de semi-retiro… muy pronto de vuelta… espero…![emo](/imagenes/emoticonos/sonrisa.gif)

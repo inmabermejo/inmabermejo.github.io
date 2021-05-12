@@ -1,13 +1,13 @@
 ---
 id: 1911
-title: '&iquest;Qu&eacute; fue de&#8230; (ii)'
+title: '&iquest;Qué fue de… (ii)'
 date: 2008-12-24T16:16:24+02:00
 author: Chavalina
 layout: revision
 guid: http://www.chavalina.net/2008/12/24/426-revision-2/
 permalink: /2008/12/24/426-revision-2/
 ---
-<img class="imgizqda" src="/imagenes/fotos/cherrycoke.jpg" alt="Cherry Coke" /> &#8230; mis productos hipercalóricos favoritos? ¿las dulces tentaciones de mi adolescencia?  
+<img class="imgizqda" src="/imagenes/fotos/cherrycoke.jpg" alt="Cherry Coke" /> … mis productos hipercalóricos favoritos? ¿las dulces tentaciones de mi adolescencia?  
 No tienen consideración. Las grandes multinacionales. Los mayoristas. Los minoristas. El supermercado de la esquina. No tienen consideración. Me quitan todo lo que me gusta.
 
 Lo primero fue la **Cherry Coke**. Desde que la descubrí confundiéndola con una bebida de fresa cierto día en el Pryca (sí, todavía era Pryca) ya no pude dejar de beberla. Ese olor nauseabundo. Esas burbujas que no asustaban ni a un mosquito. Azúcar con un sabor indescriptible que pronto dejé de encontrar en el mostrador de mi supermercado favorito.
@@ -18,7 +18,7 @@ Mi siguiente descubrimiento revolucionario fueron los **Choco Corn Flakes** de K
 
 Pero también desaparecieron de las estanterías misteriosamente. Llegado este momento, ir al Pryca me causaba traumas tales que no pude volver hasta que fue Carrefour.
 
-Pero lo último&#8230; lo último sí que tiene delito. En uno de mis accesos de gula (seguramente derivado de una decepción amorosa) descubrí los **American Donuts rellenos de fresa**. Llamados erróneamente de fresa porque realmente saben a frambuesa. Sabor perfecto para combinar con el delicioso, increíblemente tierno y terriblemente azucarado bizcocho de Donuts, y el chocolate negro negro negro, casi amargo, que cubría esta maravilla de la bollería industrial.
+Pero lo último… lo último sí que tiene delito. En uno de mis accesos de gula (seguramente derivado de una decepción amorosa) descubrí los **American Donuts rellenos de fresa**. Llamados erróneamente de fresa porque realmente saben a frambuesa. Sabor perfecto para combinar con el delicioso, increíblemente tierno y terriblemente azucarado bizcocho de Donuts, y el chocolate negro negro negro, casi amargo, que cubría esta maravilla de la bollería industrial.
 
 <img class="imgizqda" src="/imagenes/fotos/minigominolas.jpg" alt="Mis gominolas de fin de semana" /> Capaz de comerme 4 de una sentada, sin mayor problema que mi conciencia, creo que era la única en 1km a la redonda que los compraba.
 

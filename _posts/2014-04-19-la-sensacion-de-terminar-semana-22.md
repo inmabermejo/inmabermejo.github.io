@@ -15,7 +15,7 @@ Llevaba unos meses tan ocupados que ni siquiera había podido ir a cortarme el p
 
 <iframe src="//instagram.com/p/m9_-g5NspE/embed/" width="612" height="710" frameborder="0" scrolling="no" allowtransparency="true"></iframe>
 
-Así que tras una semana más de muy alta actividad, por fin cerrando frentes, terminando, terminando&#8230; hacerlo es el símbolo perfecto, **hasta aquí hemos llegao**. Y hacer el resumen semanal, sorprendentemente, me apetece. 
+Así que tras una semana más de muy alta actividad, por fin cerrando frentes, terminando, terminando… hacerlo es el símbolo perfecto, **hasta aquí hemos llegao**. Y hacer el resumen semanal, sorprendentemente, me apetece. 
 
 Además, le robo a [Torresburriel](http://www.torresburriel.com/weblog/) la idea de resumir en una frase la semana. Lo ha incluido en sus títulos tras el rediseño y reconversión del blog (y web) de su estudio. Y probablemente no sea la única idea que le robe, porque le ha quedado de miedo!
 
@@ -27,7 +27,7 @@ En el trabajo en **WSL** se abrió un nuevo frente, **V**, que pese a presentart
 
 Estuve haciendo diversas pruebas y tengo un buen candidato, pero me he propuesto hacer una propuesta más _internamente_, planteándola de forma muy diferente, para sacarle más jugo.
 
-En el **experimento F** no hemos preparado aún el test para los prototipos que estaban listos. En su lugar, hemos hecho una iteración más, con cambios más profundos, que me pregunto cómo vamos a probar porque necesitarán desarrollo&#8230;
+En el **experimento F** no hemos preparado aún el test para los prototipos que estaban listos. En su lugar, hemos hecho una iteración más, con cambios más profundos, que me pregunto cómo vamos a probar porque necesitarán desarrollo…
 
 También estuve trabajando con nuestros compañeros de **Social Media SL** haciendo pruebas con piezas propias, y dando soporte a una compañera ausente.
 

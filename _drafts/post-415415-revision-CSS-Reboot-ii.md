@@ -7,13 +7,13 @@ layout: revision
 guid: http://www.wp.chavalina.net/2005/05/01/415-revision/
 permalink: /2005/05/01/415-revision/
 ---
-<img class="imgizqda" src="/imagenes/fotos/cssreboot.gif" alt="CSS Reboot" /> Bueno, pues ya est&aacute; aqu&iacute; el redise&ntilde;o.  
-Como siempre, sin terminar, supongo que al final acabar&eacute; quitando esa foto de ah&iacute;. Es uno de los m&aacute;s sencillos que he tenido, aunque en la parte de arriba se ve colorido (primaveral me parece a mi), lo que rodea a los art&iacute;culos, comentarios y trackbacks es bastante pobre, con pocos cambios respecto a los anteriores, m&aacute;s sencillo si cabe que el m&aacute;s sencillo que ten&iacute;a hasta ahora.
+<img class="imgizqda" src="/imagenes/fotos/cssreboot.gif" alt="CSS Reboot" /> Bueno, pues ya está aqu&iacute; el redise&ntilde;o.  
+Como siempre, sin terminar, supongo que al final acabaré quitando esa foto de ah&iacute;. Es uno de los más sencillos que he tenido, aunque en la parte de arriba se ve colorido (primaveral me parece a mi), lo que rodea a los art&iacute;culos, comentarios y trackbacks es bastante pobre, con pocos cambios respecto a los anteriores, más sencillo si cabe que el más sencillo que ten&iacute;a hasta ahora.
 
-Aunque en principio mi intenci&oacute;n era hacer una columna vertical, sin los &uacute;ltimos comentarios, sin buscador, sin enlaces&#8230; sin nada m&aacute;s que los art&iacute;culos, al final decid&iacute; que era informaci&oacute;n muy v&aacute;lida, a mi me gusta ver al entrar los nuevos comentarios, tener a mano el buscador y los enlaces que m&aacute;s uso. Algunas secciones como los ficheros tienen muchas papeletas para desaparecer pronto.
+Aunque en principio mi intenci&oacute;n era hacer una columna vertical, sin los &uacute;ltimos comentarios, sin buscador, sin enlaces… sin nada más que los art&iacute;culos, al final decid&iacute; que era informaci&oacute;n muy válida, a mi me gusta ver al entrar los nuevos comentarios, tener a mano el buscador y los enlaces que más uso. Algunas secciones como los ficheros tienen muchas papeletas para desaparecer pronto.
 
-Ahora se imponen otro tipo de cambios, internos, ya he hecho algunos, pero me falta mucho. Antes de que <a href="http://blackshell.usebox.net/" target="_blank">alguien</a> (o alg&uacute;n amigo de alguien![emo](/imagenes/emoticonos/risa.gif) ) me pregunte cu&aacute;ndo voy a liberar el CMS tengo que dejarlo bien, y ahora mismo est&aacute; hecho unos zorros.
+Ahora se imponen otro tipo de cambios, internos, ya he hecho algunos, pero me falta mucho. Antes de que <a href="http://blackshell.usebox.net/" target="_blank">alguien</a> (o alg&uacute;n amigo de alguien![emo](/imagenes/emoticonos/risa.gif) ) me pregunte cuándo voy a liberar el CMS tengo que dejarlo bien, y ahora mismo está hecho unos zorros.
 
 Otra cosa es el regreso de la publicidad a chavalina.net. Bien, es una peque&ntilde;a ayuda para <a href="http://www.formulamania.com/" target="_blank">Formulamania</a>, que tiene picos de audiencia pero no lo suficiente como para financiar los premios.
 
-Eso s&iacute;, sigo <a href="http://validator.w3.org/check?uri=www.chavalina.net" target="_blank">casi</a> <acronym title="eXtended HyperText Markup Language">XHTML</acronym> y <acronym title="Cascade Style Sheets">CSS</acronym> (y m&aacute;s ahora con las transparencias)![emo](/imagenes/emoticonos/sonrisa.gif)
+Eso s&iacute;, sigo <a href="http://validator.w3.org/check?uri=www.chavalina.net" target="_blank">casi</a> <acronym title="eXtended HyperText Markup Language">XHTML</acronym> y <acronym title="Cascade Style Sheets">CSS</acronym> (y más ahora con las transparencias)![emo](/imagenes/emoticonos/sonrisa.gif)

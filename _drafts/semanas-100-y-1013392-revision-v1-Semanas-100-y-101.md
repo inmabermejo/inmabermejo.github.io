@@ -7,7 +7,7 @@ layout: revision
 guid: http://www.chavalina.net/2015/11/01/3392-revision-v1/
 permalink: /2015/11/01/3392-revision-v1/
 ---
-Mira que no quería pasar el centenario sin publicar&#8230;
+Mira que no quería pasar el centenario sin publicar…
 
 <blockquote class="instagram-media" data-instgrm-captioned data-instgrm-version="5" style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:658px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);">
   <div style="padding:8px;">
@@ -70,7 +70,7 @@ El fin de semana pasado visité por primera vez la [fundación Pedro Cano](http:
 
 
 
-Avanzamos con el proyecto personal que estoy poniendo en marcha. Ahora mismo poniendo las bases, pensando en la marca, buscando empresa de logística, calculando precios, haciendo listas de tareas y aprendiendo con todo lo que se nos olvida, por ejemplo con este post donde mi paisano [Javilop cuenta su experiencia con su startup](http://javilop.com/startupea-inteligentemente/emprender-en-espana-sin-inversion-el-caso-de-erasmusu-com/), Erasmusu. Me ha venido muy bien, porque hay cosas que ni siquiera sabía que había que hacer&#8230; y aunque aún no sé cómo, ya las tengo en la lista.
+Avanzamos con el proyecto personal que estoy poniendo en marcha. Ahora mismo poniendo las bases, pensando en la marca, buscando empresa de logística, calculando precios, haciendo listas de tareas y aprendiendo con todo lo que se nos olvida, por ejemplo con este post donde mi paisano [Javilop cuenta su experiencia con su startup](http://javilop.com/startupea-inteligentemente/emprender-en-espana-sin-inversion-el-caso-de-erasmusu-com/), Erasmusu. Me ha venido muy bien, porque hay cosas que ni siquiera sabía que había que hacer… y aunque aún no sé cómo, ya las tengo en la lista.
 
 <blockquote class="twitter-tweet" lang="en">
   <p lang="es" dir="ltr">
@@ -90,7 +90,7 @@ Con Diego, estamos empezando a  **reorganizar nuestro sistema para usar git y gr
 
 En el **proyecto W**, con el caso real de uso ya hemos tenido dos reuniones y ya estamos trabajando en el planteamiento. Por mi parte, hasta que no lo tengamos sólo puedo avanzar en lo más básico, pero aprovecho para colaborar preparado los nuevos módulos que faltaban para poder usarlo en beta.
 
-El **nuevo horario** que probé estaba siendo un éxito&#8230; y entonces llegó el cambio de hora 🙁 me ha fastidiado bastante porque ahora si quiero seguir con ese planteamiento, tengo que reorganizar todo. Pero lo voy a volver a intentar esta semana, porque me mereció la pena&#8230;
+El **nuevo horario** que probé estaba siendo un éxito… y entonces llegó el cambio de hora 🙁 me ha fastidiado bastante porque ahora si quiero seguir con ese planteamiento, tengo que reorganizar todo. Pero lo voy a volver a intentar esta semana, porque me mereció la pena…
 
 <blockquote class="instagram-media" data-instgrm-captioned data-instgrm-version="5" style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:658px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);">
   <div style="padding:8px;">

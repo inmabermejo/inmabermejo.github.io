@@ -28,7 +28,7 @@ Dos semanas en las que puedo decir que he sido feliz.
 
 
 
-A diferencia de las estresantes semanas anteriores, estos días con poquito me he estado sintiendo muy bien. Ir a pasear, al gimnasio, comer un chocolate con churros, salir a tomar unas cervezas&#8230; es como si lo estuviera **disfrutando todo más**.
+A diferencia de las estresantes semanas anteriores, estos días con poquito me he estado sintiendo muy bien. Ir a pasear, al gimnasio, comer un chocolate con churros, salir a tomar unas cervezas… es como si lo estuviera **disfrutando todo más**.
 
 Una parte creo que es gracias a la fotografía. Me está enseñando detenerme a mirar, a tomarme el tiempo necesario para hacer la foto que quiero, a intentar buscar otros ángulos. Quizá es una tontería, o quizá no, pero por ahora creo que me está aportando mucho, y estoy encontrando rincones y luces de mi pueblo y mi ciudad que hasta ahora estaba pasando por alto.
 
@@ -65,7 +65,7 @@ Veremos si no acabo de gira con _la cabra_.
     </div>
     
     <p style=" margin:8px 0 0 0; padding:0 4px;">
-      <a href="https://www.instagram.com/p/_MTqimNshq/" style=" color:#000; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none; word-wrap:break-word;" target="_blank">Se empieza así, y luego vienen los madres mías&#8230;</a>
+      <a href="https://www.instagram.com/p/_MTqimNshq/" style=" color:#000; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none; word-wrap:break-word;" target="_blank">Se empieza así, y luego vienen los madres mías…</a>
     </p>
     
     <p style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;">
@@ -107,13 +107,13 @@ Y también estoy de apoyo y de nexo con el equipo de desarrollo para otra tarea 
 
 La semana que viene espero tomarla con el mismo buen ánimo que ésta, y sobre todo, esquivar en lo posible el ambiente de crispación debido a la política que he podido ver frecuentemente desde las pasadas elecciones. Para un rato vale, pero lo mucho, cansa.
 
-Ayer una amiga me preguntaba a quién votaría&#8230; ¿Qué quieres que te diga? Ojalá los programas electorales estuvieran construidos para favorecer que se lean. Eso podría ser un buen ejercicio de diseño, oye.
+Ayer una amiga me preguntaba a quién votaría… ¿Qué quieres que te diga? Ojalá los programas electorales estuvieran construidos para favorecer que se lean. Eso podría ser un buen ejercicio de diseño, oye.
 
 Pues aprovecho para recomendar una lectura que creo que puede responder un poco a esta amiga mía, a la que quizá no supe explicar mi posición: [El cristal roto](http://bastiat.org/es/lqsvylqnsv.html#cristal_roto). Justo hoy tuve un debate interesantísimo con mis hermanos sobre el liberalismo y los límites, que para mi los hay, pero deben ponerse basándose en el bien común, no en el puesto que esperas que te den en una gran empresa cuando te retires, como la mayoría de los líderes políticos de la democracia, tanto de un signo como de otro.
 
 <blockquote class="twitter-tweet" lang="en">
   <p lang="es" dir="ltr">
-    A la cola en energía solar, nuestros ingenieros se van, impuesto al sol&#8230; Gracias Gobierno, ¿podíais hacerlo peor? <a href="https://t.co/e1g7aQkQoL">https://t.co/e1g7aQkQoL</a>
+    A la cola en energía solar, nuestros ingenieros se van, impuesto al sol… Gracias Gobierno, ¿podíais hacerlo peor? <a href="https://t.co/e1g7aQkQoL">https://t.co/e1g7aQkQoL</a>
   </p>
   
   <p>

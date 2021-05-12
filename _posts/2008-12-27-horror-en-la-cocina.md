@@ -16,5 +16,5 @@ categories:
     <span style="font-size: 0.8em; margin-top: 0px;"><a href="http://www.flickr.com/photos/chavalina/2351299253/">Horror en la cocina</a>, originalmente cargada por <a href="http://www.flickr.com/people/chavalina/">inma bermejo</a>.</span></div> 
     
     <p>
-      La primera vez que hice magdalenas&#8230;<br /> Probando el envío de posts desde flickr!
+      La primera vez que hice magdalenas…<br /> Probando el envío de posts desde flickr!
     </p>

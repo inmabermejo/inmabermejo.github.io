@@ -2,5 +2,5 @@ id: 4678
 name: albert
 date: 2005-05-29 02:31:04
 message: "Por si a alguien le pasa lo mismo que a roberto, el problema viene de los permisos con los que se monta la partici&oacute;n donde est&agrave; el windows.<br />
-El usuario del thunderbird debe tener todos los derechos sobre el directorio del win donde est&eacute; la informaci&oacute;n del thunderbird.<br />
+El usuario del thunderbird debe tener todos los derechos sobre el directorio del win donde esté la informaci&oacute;n del thunderbird.<br />
 Si montas la partici&oacute;n al arrancar el sistema, por defecto queda propiedad de root. "

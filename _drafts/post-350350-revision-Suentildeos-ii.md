@@ -7,8 +7,8 @@ layout: revision
 guid: http://www.wp.chavalina.net/2005/02/07/350-revision/
 permalink: /2005/02/07/350-revision/
 ---
-Vaya racha m&aacute;s rara que llevo con esto de los sue&ntilde;os.  
-Desde el viernes he so&ntilde;ado con <a href="http://www.greensouth.net" target="_blank">Havoc</a>, con <a href="http://www.chavalina.net/comentar.php?idpost=206&#038;q=" target="_blank">Juan Pablo Montoya</a> y Fernando Alonso, y anoche con Arturo P&eacute;rez-Reverte.  
+Vaya racha más rara que llevo con esto de los sue&ntilde;os.  
+Desde el viernes he so&ntilde;ado con <a href="http://www.greensouth.net" target="_blank">Havoc</a>, con <a href="http://www.chavalina.net/comentar.php?idpost=206&#038;q=" target="_blank">Juan Pablo Montoya</a> y Fernando Alonso, y anoche con Arturo Pérez-Reverte.  
 ![emo](/imagenes/emoticonos/confuso.gif) 
 
 Creo que necesito un psicoanalista.

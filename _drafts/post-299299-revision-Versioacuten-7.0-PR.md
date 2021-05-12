@@ -7,5 +7,5 @@ layout: revision
 guid: http://www.wp.chavalina.net/2004/12/23/299-revision/
 permalink: /2004/12/23/299-revision/
 ---
-Probando, probando&#8230; Shhh, he dicho PR!![emo](/imagenes/emoticonos/pensativo.gif)  
+Probando, probando… Shhh, he dicho PR!![emo](/imagenes/emoticonos/pensativo.gif)  
 Demasiado «blanco»?

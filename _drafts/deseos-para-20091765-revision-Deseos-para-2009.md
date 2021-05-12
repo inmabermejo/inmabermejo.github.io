@@ -7,7 +7,7 @@ layout: revision
 guid: http://www.chavalina.net/2008/12/31/1765-revision/
 permalink: /2008/12/31/1765-revision/
 ---
-La verdad es que no me puedo quejar en absoluto de cómo me ha ido 2008, y con que 2009 fuera igual me daría por satisfecha. Sin embargo, después de tanto leer listas de propósitos en mis feeds, de escucharlas a mis amigos y demás&#8230; pues no puedo resistir la tentación y hago la mía, aunque corta.
+La verdad es que no me puedo quejar en absoluto de cómo me ha ido 2008, y con que 2009 fuera igual me daría por satisfecha. Sin embargo, después de tanto leer listas de propósitos en mis feeds, de escucharlas a mis amigos y demás… pues no puedo resistir la tentación y hago la mía, aunque corta.
 
 En lo personal:
 
@@ -17,9 +17,9 @@ En lo personal:
 
 Y en lo profesional:
 
-  * Experimentar más, como lo hacía cuando estaba empezando. Recuerdo mis pruebas con maquetación elástica, javascript, los png transparentes&#8230; y ahora ya no hago nada por falta de tiempo. Espero experimentar más y reflejarlo en este blog que intento retomar.
+  * Experimentar más, como lo hacía cuando estaba empezando. Recuerdo mis pruebas con maquetación elástica, javascript, los png transparentes… y ahora ya no hago nada por falta de tiempo. Espero experimentar más y reflejarlo en este blog que intento retomar.
   * Rediseñar y dar un impulso a [Formulamania](http://formulamania.com/). Gracias a [Jose](http://blogdeljose.blogspot.com/) sigue activa, y quiero impulsar la parte de comunidad, que creemos que lo puede distinguir del resto de webs de F1.
   * <span style="text-decoration: line-through;">Mantener el blog actualizado</span> bueno, esto mejor no lo prometo.
   * Crear mi imagen corporativa, rediseñar mi portfolio y convertirme en empresa _de verdad_.
 
-No quiero poner demasiado para intentar cumplirlo&#8230; ya veremos lo que
+No quiero poner demasiado para intentar cumplirlo… ya veremos lo que

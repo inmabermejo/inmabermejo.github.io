@@ -7,11 +7,11 @@ layout: revision
 guid: http://www.chavalina.net/2014/04/15/3140-revision-v1/
 permalink: /2014/04/15/3140-revision-v1/
 ---
-Sin excusas para el retraso&#8230; Venga, un esfuerzo más, queda poco para las vacaciones.
+Sin excusas para el retraso… Venga, un esfuerzo más, queda poco para las vacaciones.
 
 
 
-Sigo con el mismo ritmo de trabajo extra para finalizar los proyectos freelance que tenía comprometidos. **Ya veo la luz al final del túnel**&#8230; pero se está haciendo bastante duro. Después de pasar el tiempo _libre_ limpiando y arreglando la terraza de casa, no poder disfrutarla el resto de la semana porque el iMac me reclamaba. Lo primero es lo primero.
+Sigo con el mismo ritmo de trabajo extra para finalizar los proyectos freelance que tenía comprometidos. **Ya veo la luz al final del túnel**… pero se está haciendo bastante duro. Después de pasar el tiempo _libre_ limpiando y arreglando la terraza de casa, no poder disfrutarla el resto de la semana porque el iMac me reclamaba. Lo primero es lo primero.
 
 
 

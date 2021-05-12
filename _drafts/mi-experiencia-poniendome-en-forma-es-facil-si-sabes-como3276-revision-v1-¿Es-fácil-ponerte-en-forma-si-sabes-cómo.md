@@ -9,7 +9,7 @@ permalink: /2015/02/10/3276-revision-v1/
 ---
 Enero, el mes con mayor densidad de buenos propósitos y nuevos objetivos de media por ciudadano medio. Aunque para mi fue febrero pasado, hace un año ya, el mes que decidí **recuperar la forma _en serio_**.
 
-Ser sedentaria 100%, el aumento del consumo de alcohol, y comidas y cenas fuera&#8230; Sucede a veces cuando aumenta la estabilidad laboral y personal, y llegué sin darme cuenta a un punto en el que, para mi altura, me acercaba peligrosamente al sobrepeso.
+Ser sedentaria 100%, el aumento del consumo de alcohol, y comidas y cenas fuera… Sucede a veces cuando aumenta la estabilidad laboral y personal, y llegué sin darme cuenta a un punto en el que, para mi altura, me acercaba peligrosamente al sobrepeso.
 
 Había llegado a mi **peso máximo**, como dice una querida amiga.
 
@@ -19,7 +19,7 @@ Ya había intentado en muchas ocasiones añadir el ejercicio a mi rutina diaria,
 
 **Correr**. Durante unos meses lo hice con relativa estabilidad, pero era una de las peores opciones. Muy duro mentalmente al ir a primera hora de la mañana, pero la única forma de hacerlo en Murcia en verano. Me quitaba mis horas más productivas en el trabajo. Y también físicamente, ya que sin tener técnica es fácil lesionarse. Un ejercicio de **alto impacto** que además no podía realizar todos los días, y eso me llevó a **perder la constancia y no tener resultados**, y a dejarlo.
 
-**Bici**, también a primera hora. Me gustaba muchísimo, es mucho más seguro por el tema de lesiones, más divertido&#8230; pero al mudarme y tener menos accesible un carril bici donde me encontrara cómoda para poder practicar, también acabé por dejarlo.
+**Bici**, también a primera hora. Me gustaba muchísimo, es mucho más seguro por el tema de lesiones, más divertido… pero al mudarme y tener menos accesible un carril bici donde me encontrara cómoda para poder practicar, también acabé por dejarlo.
 
 **Andar**, el _ejercicio universal_. Lo practiqué durante un verano, con mi hermana, pero, de nuevo, no conseguimos mantener la constancia, y no obtuvimos resultados.
 
@@ -69,7 +69,7 @@ Hasta ahora me ha ido muy bien, he conseguido integrarlo en mi rutina diaria de 
 
 Aunque yo no quería hacer dieta, y mi objetivo principal no era adelgazar, sino tener actividad, Sergio me dijo que no perdería peso solamente con el ejercicio. Me sugirió hacer dieta hasta alcanzar una composición corporarl más sana, con menor porcentaje de grasa, y me recomendó el sistema **IIFYMIG**. 
 
-Es un tipo de dieta flexible, donde no se limitan los alimentos que puedes comer, pero sí a cantidad según los macronutrientes que aportan (proteínas, hidratos de carbono y grasas). Lo importante es **ser responsable**: hay que comer pescado, verdura, legumbres, fruta&#8230; para conseguir también suficiente **fibra y micronutrientes**, que no se contabilizan pero son esenciales.
+Es un tipo de dieta flexible, donde no se limitan los alimentos que puedes comer, pero sí a cantidad según los macronutrientes que aportan (proteínas, hidratos de carbono y grasas). Lo importante es **ser responsable**: hay que comer pescado, verdura, legumbres, fruta… para conseguir también suficiente **fibra y micronutrientes**, que no se contabilizan pero son esenciales.
 
 Por eso, aunque sea una dieta flexible, no es lo mismo comer bollicaos que lentejas. Aunque se pueden comer ambas cosas planificándolo un poco.
 
@@ -80,9 +80,9 @@ Para esto Sergio me recomendó la aplicación http://myfitnesspal.com/, una gran
 Más información de este tipo de dieta: 
 
   * [¿Qué es el IIFYM](http://blog.hsnstore.com/que-es-el-iifym/)
-  * [IIFYM (Si se ajusta a tus macros&#8230;): ¿la antidieta?](http://www.vitonica.com/dietas/iifym-si-se-ajusta-a-tus-macros-la-antidieta)
+  * [IIFYM (Si se ajusta a tus macros…): ¿la antidieta?](http://www.vitonica.com/dietas/iifym-si-se-ajusta-a-tus-macros-la-antidieta)
 
-## Todo esto suena muy bien pero&#8230; 
+## Todo esto suena muy bien pero… 
 
 ¿Es sostenible? ¿Merece la pena?
 
@@ -98,7 +98,7 @@ A pesar de esto, **cada día me sigue dando pereza ir al gimnasio**. Es algo que
 
 La clave está en el objetivo, y el mío es poder llegar a [ser mayor con buena calidad de vida](http://www.vitonica.com/prevencion/en-forma-a-los-102-anos). Y si no lo consigo, que al menos **no sea por no haber puesto de mi parte**. Algunos problemas de salud de un familiar y haber conocido cómo es ser dependiente de cerca hacen bastante también. 
 
-El tema de la dieta&#8230; eso es otro tema. Ahí es donde verdaderamente **he puesto a prueba la disciplina, la paciencia, y los nervios**. Y no sólo los míos&#8230; sino los de los que me rodean. Y donde he invertido más tiempo hasta ahora.
+El tema de la dieta… eso es otro tema. Ahí es donde verdaderamente **he puesto a prueba la disciplina, la paciencia, y los nervios**. Y no sólo los míos… sino los de los que me rodean. Y donde he invertido más tiempo hasta ahora.
 
 Mi motivación era muy baja, y aunque poder comer los alimentos que quisiera me ha ayudado mucho, he pasado momentos de querer mandarlo a tomar morcilla si tenía que pesar una patata más. No por no poder comer, sino por tener que pesar.
 
@@ -108,7 +108,7 @@ Y cuando has perdido ya la grasa que necesitas y no tienes que estar en déficit
 
 **Merece la pena**. Aparte de los resultados estéticos, que a mi tampoco eran lo que más me importaba, lo que me ha impresionado es lo que he mejorado en rendimiento. 
 
-Y me di cuenta al coger la bici tras un año y pico y poder hacer un recorrido que ni en mis mejores tiempos de ciclista habitual hubiera podido. Cuando ves que no te cansas, que tienes fuerza, que no te quedas sin aliento, **que puedes más&#8230; es cuando ves que merece la pena**.
+Y me di cuenta al coger la bici tras un año y pico y poder hacer un recorrido que ni en mis mejores tiempos de ciclista habitual hubiera podido. Cuando ves que no te cansas, que tienes fuerza, que no te quedas sin aliento, **que puedes más… es cuando ves que merece la pena**.
 
 Así que no es que sea fácil o difícil. **Si sabes cómo, es más fácil conseguir resultados a la primera** que si vas probando sin saber. 
 

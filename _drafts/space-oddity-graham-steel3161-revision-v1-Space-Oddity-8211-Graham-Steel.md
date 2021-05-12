@@ -7,4 +7,4 @@ layout: revision
 guid: http://www.chavalina.net/2014/05/15/3161-revision-v1/
 permalink: /2014/05/15/3161-revision-v1/
 ---
-Versión de la canción de David Bowie&#8230; grabada **en la Estación Espacial Internacional** 🙂
+Versión de la canción de David Bowie… grabada **en la Estación Espacial Internacional** 🙂
