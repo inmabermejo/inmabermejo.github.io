@@ -60,7 +60,7 @@ Y al fin hicimos una **comida en casa de mi padre**, que llevábamos en palabras
     </div>
     
     <p style=" margin:8px 0 0 0; padding:0 4px;">
-      <a href="https://www.instagram.com/p/BPjzOdwFazB/" style=" color:#000; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none; word-wrap:break-word;" target="_blank">Qué bien lo pasamos ayer! &#x1f37e;&#x1f382;❤️ gracias a todos!! &#x1f618;</a>
+      <a href="https://www.instagram.com/p/BPjzOdwFazB/" style=" color:#000; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none; word-wrap:break-word;" target="_blank">Qué bien lo pasamos ayer! 🍾🎂❤️ gracias a todos!! &#x1f618;</a>
     </p>
     
     <p style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;">

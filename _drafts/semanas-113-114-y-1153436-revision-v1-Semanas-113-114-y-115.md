@@ -74,7 +74,7 @@ El domingo, celebré mi **cumpleaños** con retraso con una comida familiar. Alg
 
 Y viernes 29 volví después de mucho tiempo en la Universidad de Murcia,para ver el acto de Santo Tomás, donde daban un **premio extraordinario de doctorado a mi hermana**. Además, un evento muy fotogénico. Los doctores con sus colorines me parecieron muy divertidos, y desde luego que parece que a la universidad le encanta este tipo de celebraciones para sacar las galas. Qué pena que no llegué con tiempo y me tuve que conformar con hacer cuatro fotos cuando «el cortejo» hizo entrada, y de la propia entrega.
 
-A pesar de ello, no aguantamos todo el acto y escapamos a celebrarlo tomando unas cañas con mi hermana y mi madre en la barra de [El Churra](http://www.elchurra.net/es/restaurante-el-churra-murcia/), uno de los sitios que tenía pendientes probar en Murcia. Me lo habían recomendado mucho, y &#x1f44c;
+A pesar de ello, no aguantamos todo el acto y escapamos a celebrarlo tomando unas cañas con mi hermana y mi madre en la barra de [El Churra](http://www.elchurra.net/es/restaurante-el-churra-murcia/), uno de los sitios que tenía pendientes probar en Murcia. Me lo habían recomendado mucho, y 👌
 
 He empezado **«House of Cards»**, me está encantando. Quería alguna serie para sustituir a «The Good Wife», la única serie que seguía en este momento y que ya termina, pero ni a eso voy a llegar. En el hiato de la Superbowl me he acabado la primera temporada, y ya voy a por la segunda. Muy adictiva.
 

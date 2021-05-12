@@ -31,7 +31,7 @@ Esto permite enfriar estancias **sin electricidad**, sin ruido… La cantidad de
 
 <img class="size-full wp-image-2449 alignright" style="float: right;" title="Molde de una pieza de Ecooler" src="http://www.chavalina.net/imagenes/2011/05/3.jpg.opt340x225o00s340x225.jpg" alt="Molde de una pieza de Ecooler" width="340" height="225" srcset="http://www.chavalina.net/imagenes/2011/05/3.jpg.opt340x225o00s340x225.jpg 340w, http://www.chavalina.net/imagenes/2011/05/3.jpg.opt340x225o00s340x225-300x198.jpg 300w" sizes="(max-width: 340px) 100vw, 340px" /> 
 
-Además es un bonito elemento decorativo para el estilo mediterráneo, aunque me gustaba más cuando pensaba que era más pequeño, por ejemplo de 12&#215;12 pero claro, hay que pensar más en la eficiencia que en la estética.
+Además es un bonito elemento decorativo para el estilo mediterráneo, aunque me gustaba más cuando pensaba que era más pequeño, por ejemplo de 12×12 pero claro, hay que pensar más en la eficiencia que en la estética.
 
 Sí que puede dar juego el diseño de la pieza para adecuarlo a otros estilos menos orgánicos, cumpliendo la misma función.
 
