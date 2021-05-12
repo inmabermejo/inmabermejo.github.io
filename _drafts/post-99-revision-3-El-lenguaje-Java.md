@@ -8,7 +8,7 @@ guid: http://www.chavalina.net/2008/12/26/9-revision-3/
 permalink: /2008/12/26/9-revision-3/
 ---
 <p align="left">
-  Creo que es la primera vez que en todo lo que llevo de carrera aprendo<br /> algo que me gusta y a la vez me va a ser útil, la Orientación<br /> a Objetos y en concreto el lenguaje Java ha sido todo un descubrimiento<br /> y me da que pensar… por qué me tiré un a&ntilde;o programando<br /> en Pascal y Modula-2?
+  Creo que es la primera vez que en todo lo que llevo de carrera aprendo<br /> algo que me gusta y a la vez me va a ser útil, la Orientación<br /> a Objetos y en concreto el lenguaje Java ha sido todo un descubrimiento<br /> y me da que pensar… por qué me tiré un año programando<br /> en Pascal y Modula-2?
 </p>
 
 <p align="left">

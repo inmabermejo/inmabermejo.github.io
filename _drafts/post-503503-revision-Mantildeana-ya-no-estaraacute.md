@@ -1,6 +1,6 @@
 ---
 id: 1117
-title: 'Ma&ntilde;ana ya no estará'
+title: 'Mañana ya no estará'
 date: 2005-06-26T07:20:08+02:00
 author: Chavalina
 layout: revision

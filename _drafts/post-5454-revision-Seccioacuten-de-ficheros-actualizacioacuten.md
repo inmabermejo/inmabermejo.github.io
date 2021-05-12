@@ -7,7 +7,7 @@ layout: revision
 guid: http://www.wp.chavalina.net/2004/03/13/54-revision/
 permalink: /2004/03/13/54-revision/
 ---
-Actualizada la sección de ficheros, he a&ntilde;adido un manual en espa&ntilde;ol de PHP, otro en inglés de MySQL y <acronym title="Hypertext PreProcessor">PHP</acronym> que está muy bien (un par de buenos tochos) y también uno de ASP, pero éste no sé cómo está, a ver si "lo pruebo", ahora no hay mucho humor.
+Actualizada la sección de ficheros, he añadido un manual en español de PHP, otro en inglés de MySQL y <acronym title="Hypertext PreProcessor">PHP</acronym> que está muy bien (un par de buenos tochos) y también uno de ASP, pero éste no sé cómo está, a ver si "lo pruebo", ahora no hay mucho humor.
 
 Y planeo subir algunas de las prácticas que he hecho hasta ahora en la carrera (Ingeniería Técnica en Informática de Gestión en la Universidad de Murcia) como material didáctico, por si a alguien le interesa. Pero primero tienen que salirme las notas, que tampoco voy a ponerlas si he suspendido![asqueado](/imagenes/emoticonos/asqueado.gif) 
 

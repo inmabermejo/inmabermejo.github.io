@@ -1,6 +1,6 @@
 ---
 id: 964
-title: 'Los ni&ntilde;os no deberían ver los Simpson'
+title: 'Los niños no deberían ver los Simpson'
 date: 2006-04-17T02:35:32+02:00
 author: Chavalina
 layout: revision

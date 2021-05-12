@@ -29,7 +29,7 @@ No tengo planes más allá de esta cena,
 Es un misterio hacia dónde la noche nos lleva 
 
 Como Nicolas Cage en Living las Vegas  
-Vamos, mi ni&ntilde;o, a perder la cabeza  
+Vamos, mi niño, a perder la cabeza  
 Como si fuera nuestro último día en la Tierra
 
 Será tu voz, será el licor  

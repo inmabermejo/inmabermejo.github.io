@@ -7,4 +7,4 @@ layout: revision
 guid: http://www.wp.chavalina.net/2006/02/26/638-revision/
 permalink: /2006/02/26/638-revision/
 ---
-<a href="http://www.flickr.com/photos/ninacuneo/sets/1089577/" target="_blank">Cómo hacer mu&ntilde;equitos de felpa</a>. Yo **quiero** hacer cosas de estas!
+<a href="http://www.flickr.com/photos/ninacuneo/sets/1089577/" target="_blank">Cómo hacer muñequitos de felpa</a>. Yo **quiero** hacer cosas de estas!

@@ -7,7 +7,7 @@ layout: revision
 guid: http://www.wp.chavalina.net/2004/09/20/224-revision/
 permalink: /2004/09/20/224-revision/
 ---
-En <a href="http://www.minid.net/archivos/categorias/accesibilidad/bloodyfingermail_correos_sangrientos_pa_todos.php" target="_blank">mini-d</a> he descubierto <a href="http://www.bloodyfingermail.com/" target="_blank">esta página</a> desde donde puedes enviar un mensaje de correo bastante peculiar, de vuestro pu&ntilde;o y letra, bueno, quise decir de vuestro dedo y sangre.
+En <a href="http://www.minid.net/archivos/categorias/accesibilidad/bloodyfingermail_correos_sangrientos_pa_todos.php" target="_blank">mini-d</a> he descubierto <a href="http://www.bloodyfingermail.com/" target="_blank">esta página</a> desde donde puedes enviar un mensaje de correo bastante peculiar, de vuestro puño y letra, bueno, quise decir de vuestro dedo y sangre.
 
 Más personal imposible.
 

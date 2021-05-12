@@ -52,7 +52,7 @@ permalink: /2005/10/07/559-revision/
   * widget: cacharro, aparatejo, “chintófano”
   * wireframes: esquema de página
 
-Yo a&ntilde;ado:
+Yo añado:
 
   * banner: gráfico publicitario
   * download: descarga

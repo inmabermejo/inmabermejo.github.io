@@ -1,6 +1,6 @@
 ---
 id: 1307
-title: 'Tocando peque&ntilde;os detalles'
+title: 'Tocando pequeños detalles'
 date: 2005-06-17T14:14:40+02:00
 author: Chavalina
 layout: revision

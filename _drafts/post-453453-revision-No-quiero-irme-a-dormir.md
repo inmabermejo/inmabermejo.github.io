@@ -7,4 +7,4 @@ layout: revision
 guid: http://www.wp.chavalina.net/2005/05/22/453-revision/
 permalink: /2005/05/22/453-revision/
 ---
-No tengo ganas de irme a dormir, no quiero que llegue ma&ntilde;ana.
+No tengo ganas de irme a dormir, no quiero que llegue mañana.

@@ -27,7 +27,7 @@ permalink: /2004/03/13/53-revision/
       </p>
       
       <p>
-        Muchas consignas, muchos aplausos pero también mucha impotencia. Estábamos unidos intentando dar nuestro apoyo a los madrile&ntilde;os, pero no puedo negar que se respiraba un ambiente algo confuso. La mayoría de las pancartas increpaban a ETA, había muchas manos blancas y las consignas iban todas contra ellos. También algunas más genéricas.
+        Muchas consignas, muchos aplausos pero también mucha impotencia. Estábamos unidos intentando dar nuestro apoyo a los madrileños, pero no puedo negar que se respiraba un ambiente algo confuso. La mayoría de las pancartas increpaban a ETA, había muchas manos blancas y las consignas iban todas contra ellos. También algunas más genéricas.
       </p>
       
       <p>
@@ -35,7 +35,7 @@ permalink: /2004/03/13/53-revision/
       </p>
       
       <p>
-        Toda Espa&ntilde;a ha acompa&ntilde;ado a Madrid, más de 11 millones de personas en la calle, además de manifestaciones por todo el mundo, en todas las capitales europeas.
+        Toda España ha acompañado a Madrid, más de 11 millones de personas en la calle, además de manifestaciones por todo el mundo, en todas las capitales europeas.
       </p>
       
       <p>

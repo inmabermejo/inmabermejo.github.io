@@ -23,7 +23,7 @@ permalink: /2004/06/05/130-revision/
       </p>
       
       <p>
-        La de la cena fue una noche un poco extra&ntilde;a para mí, la verdad es que lo pasé muy bien pero no deja de ser chocante ver como gente que en clase actúa como si no existieras de pronto se vuelven la alegría de la huerta y parece que te conocen de toda la vida. Como decían hace tiempo en "El Jueves", el aprecio que se tiene a una persona es directamente proporcional a las copas que llevas encima, pero no deja de ser gracioso, sobre todo cuando son los profesores los que se desinhiben (y eso que este a&ntilde;o no tuvimos, por desgracia, a cierto profesor de programación, que me han dicho que es todo un show en las cenas)
+        La de la cena fue una noche un poco extraña para mí, la verdad es que lo pasé muy bien pero no deja de ser chocante ver como gente que en clase actúa como si no existieras de pronto se vuelven la alegría de la huerta y parece que te conocen de toda la vida. Como decían hace tiempo en "El Jueves", el aprecio que se tiene a una persona es directamente proporcional a las copas que llevas encima, pero no deja de ser gracioso, sobre todo cuando son los profesores los que se desinhiben (y eso que este año no tuvimos, por desgracia, a cierto profesor de programación, que me han dicho que es todo un show en las cenas)
       </p>
       
       <p>

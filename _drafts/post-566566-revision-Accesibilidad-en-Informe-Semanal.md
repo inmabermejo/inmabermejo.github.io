@@ -7,7 +7,7 @@ layout: revision
 guid: http://www.wp.chavalina.net/2005/11/02/566-revision/
 permalink: /2005/11/02/566-revision/
 ---
-<a href="http://www.rtve.es/tve/informa/informesemanal/index.php" target="_blank">Informe Semanal</a> es un programa que me gusta. Lo veía desde peque&ntilde;a, ahora no tanto porque a esas horas siempre![cerveza](/imagenes/emoticonos/cerveza.gif) 
+<a href="http://www.rtve.es/tve/informa/informesemanal/index.php" target="_blank">Informe Semanal</a> es un programa que me gusta. Lo veía desde pequeña, ahora no tanto porque a esas horas siempre![cerveza](/imagenes/emoticonos/cerveza.gif) 
 
 Este sábado llegué a tiempo y vi un trozo de «La brecha digital», un reportaje sobre accesibilidad con motivo del <a href="http://www.diadeinternet.es/" target="_blank">Día de Internet</a> (por cierto, vaya web _accesible_![emo](/imagenes/emoticonos/confuso.gif) ), que nos mostraba tanto las dificultades que algunos usuarios encuentran para acceder a la información en la web, cómo un anciano o una persona ciega se mueven mientras navegan.
 

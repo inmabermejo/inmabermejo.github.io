@@ -13,7 +13,7 @@ permalink: /2004/02/01/29-revision/
 
 ![emo](/imagenes/emoticonos/pensativo.gif) Un día perfecto, el sol calienta, no hay viento ni una nube a  
 la vista, la calle muy tranquila, el día ideal para ir a dar un  
-paseo con los amigos o para tomar una ca&ntilde;a en una terraza y simplemente  
+paseo con los amigos o para tomar una caña en una terraza y simplemente  
 mirar la gente pasar. Por algo es domingo, día de descanso de sufridos  
 ciudadanos… pero no! nada de esto será así para los agotados  
 estudiantes en el <span title="fin de semana pre-exámenes finales" class="anotacion">fin de semana de la muerte</span>!!

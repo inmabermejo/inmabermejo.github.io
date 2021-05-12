@@ -12,7 +12,7 @@ yo de pie con expresión de lord
 tu desnuda y con sombrilla  
 yo vestido pero con calor.
 
-Tú con u&ntilde;as y con dientes  
+Tú con uñas y con dientes  
 mirándome de frente  
 con brillo de matar.  
 Yo retrocediendo un poco  
@@ -22,7 +22,7 @@ deseo de sangrar.
 Tú besando tus rodillas  
 yo discreto pero sin rubor  
 tú creando maravillas  
-yo so&ntilde;ándome esquimal sin sol.
+yo soñándome esquimal sin sol.
 
 Tú con un ritmo tan lento  
 buscando un alimento  

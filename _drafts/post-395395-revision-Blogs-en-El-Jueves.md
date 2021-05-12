@@ -7,7 +7,7 @@ layout: revision
 guid: http://www.wp.chavalina.net/2005/04/16/395-revision/
 permalink: /2005/04/16/395-revision/
 ---
-<img class="imgizqda" src="/imagenes/fotos/weblogsjueves.jpg" alt="Vi&ntilde;eta de Vergara sobre los blogs" /> ¿Encontráis algún parecido entre esto de la izquierda y <a href="http://www.chavalina.net/comentar.php?idpost=334&#038;q=premios" target="_blank">esto otro</a>?![emo](/imagenes/emoticonos/risa.gif) 
+<img class="imgizqda" src="/imagenes/fotos/weblogsjueves.jpg" alt="Viñeta de Vergara sobre los blogs" /> ¿Encontráis algún parecido entre esto de la izquierda y <a href="http://www.chavalina.net/comentar.php?idpost=334&#038;q=premios" target="_blank">esto otro</a>?![emo](/imagenes/emoticonos/risa.gif) 
 
 La verdad es que, salvo por las gafas y el pelo corto, me he sentido bastante identificada (y es que lo de <a href="http://www.chavalina.net/comentar.php?idpost=245&#038;q=borjamari" target="_blank">mi sosa intimidad</a> en <a href="http://borjamari.blogspot.com/" target="_blank">Borjamari</a> me marcó para siempre).
 

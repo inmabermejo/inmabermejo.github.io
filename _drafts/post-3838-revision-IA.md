@@ -11,7 +11,7 @@ Hoy comenzaron mis clases de Introducción a la Inteligencia Artificial (IA).
 
 Este es un tema que me interesaba mucho cuando comencé la carrera, incluso quería especializarme y llegar a trabajar en algo de esa rama. Ahora con mi pérdida absoluta de la ambición que tenía cuando empecé, me da igual en lo que trabaje siempre que me permita hacer la vida que quiero, pero este tema ha vuelto a interesarme, así que intentaré haceros llegar un poco de lo que aprenda.
 
-Hoy solamente hemos intentado definir la IA, cosa bastante complicada por cierto, ya que si ya de por sí no es fácil definir lo que es la inteligencia y lo que es la calidad de artificial. Según <a href="http://www.rae.es" target="_blank">Real Academia Espa&ntilde;ola</a>: 
+Hoy solamente hemos intentado definir la IA, cosa bastante complicada por cierto, ya que si ya de por sí no es fácil definir lo que es la inteligencia y lo que es la calidad de artificial. Según <a href="http://www.rae.es" target="_blank">Real Academia Española</a>: 
 
 <table width="550"  border="0" align="center">
   <tr>

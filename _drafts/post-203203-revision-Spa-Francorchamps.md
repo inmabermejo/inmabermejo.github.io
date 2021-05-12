@@ -9,7 +9,7 @@ permalink: /2004/08/29/203-revision/
 ---
 <img class="imgizqda" src="http://www.chavalina.net/imagenes/fotos/spa.jpg" alt="Montoya adelanta a Schumacher - imagen de f1.com" />  
 Sublime.  
-Es lo único que se me ocurrre decir para la carrera de hoy. Para mí, la mejor de este a&ntilde;o sin duda. Seré una morbosa o lo que sea, pero yo es que si no hay algún desastre parece que me falta algo.
+Es lo único que se me ocurrre decir para la carrera de hoy. Para mí, la mejor de este año sin duda. Seré una morbosa o lo que sea, pero yo es que si no hay algún desastre parece que me falta algo.
 
 Pero en esta edición todo se ha conjurado para que el Gran Premio de Bélgica (ya de por si un trazado complicado) haya resultado espectacular. La clasificación de ayer, una locura, lloviendo intermitentemente, con mucha fortuna para el equipo Renault, que consiguió pole position para Trulli y tercer puesto para Alonso, y perjudicando notablemente a otros equipos, como Williams y Honda; justo cuando salieron los pilotos volvió a apretar la lluvia.
 
@@ -23,7 +23,7 @@ No me hubiera gustado ser la primera persona que se encontrara Montoya cuando ba
 
 En fin.  
 Que Alonso sigue con su racha de mala suerte, parecía que iba bien pero… A ver dentro de dos semanas.  
-Que Montoya sigue siendo el ni&ntilde;o malo pero el que da más espectáculo. Creo que está muy infravalorado y espero que el a&ntilde;o que viene en McLaren logre sacar todo su potencial (y dominar su mala leche).  
+Que Montoya sigue siendo el niño malo pero el que da más espectáculo. Creo que está muy infravalorado y espero que el año que viene en McLaren logre sacar todo su potencial (y dominar su mala leche).  
 Raikkonen… por fin le sonríe un poco la diosa fortuna. Se lo merece, enhorabuena.
 
 Demasiados pilotos buenos que no podrán demostrar lo que valen mientras Michael Schumacher no se retire. Nuevo campeón del mundo. Es increíble lo de este hombre.

@@ -11,8 +11,8 @@ permalink: /2006/01/16/610-revision/
 
 Después de una odisea para conseguir entradas (mea culpa, por estar en babia), no quería decirlo muy alto pero tenía miedo de que tuviera otro gatillazo, como en Gijón, donde a las 5 canciones tuvo que dejarlo.
 
-Pero todo fue sobre ruedas, 2 horas y media de concierto, haciendo mucho Ruido, levantando al Auditorio por completo, recitando poesía, la se&ntilde;ora de mi derecha bailando como una loca, ése _y matarme contigo si te mueres_ que cantamos con él. 
+Pero todo fue sobre ruedas, 2 horas y media de concierto, haciendo mucho Ruido, levantando al Auditorio por completo, recitando poesía, la señora de mi derecha bailando como una loca, ése _y matarme contigo si te mueres_ que cantamos con él. 
 
 Qué pena que en la mierda ésta de Internet no se puedan poner sentimientos igual que se ponen imágenes o sonidos, porque lo que más me gustaría es haber podido _guardar_ lo que sentí ayer y compartirlo ahora aquí. Uno de mis mejores conciertos, si hubiera estado un poco más cerca creo que me da algo. Y eso que no cantó «Caballo de cartón».
 
-Un regalo de cumplea&ntilde;os adelantado que no olvidaré, y deseando repetir. Espero que no sea pedir demasiado.
+Un regalo de cumpleaños adelantado que no olvidaré, y deseando repetir. Espero que no sea pedir demasiado.

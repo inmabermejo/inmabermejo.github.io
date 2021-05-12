@@ -12,4 +12,4 @@ permalink: /2006/06/15/706-revision/
 
 
 Visto en <a href="http://vegamediatv.blogspot.com/2006/06/el-liberal-jimnez-losantos-prepara-la.html" target="_blank">VegaMedia TV</a>.  
-Gracias a quien me lo ha enviado, me he reído un buen rato, y esta ma&ntilde;ana me hacía buena falta.
+Gracias a quien me lo ha enviado, me he reído un buen rato, y esta mañana me hacía buena falta.

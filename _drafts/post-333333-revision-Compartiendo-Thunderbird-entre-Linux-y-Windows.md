@@ -14,14 +14,14 @@ No me gustaba tener un gestor de correo en Windows y otro en Linux por si aparec
 Efectivamente.  
 Se puede usar el mismo profile, compartiendo los archivos, que funciona todo perfectamente. Están las cuentas, las direcciones, los filtros… He hecho las pruebas de enviar y recibir correo, filtros incluidos, y todo perfecto.
 
-Ya lo tenía instalado en Windows, e hice que en Linux (<a href="http://www.chavalina.net/comentar.php?idpost=230&#038;q=" target="_blank">uso Suse</a>) la partición de Windows se montara en /mnt/windows al arrancar, editando el fichero /etc/fstab y a&ntilde;adiendo esta línea:
+Ya lo tenía instalado en Windows, e hice que en Linux (<a href="http://www.chavalina.net/comentar.php?idpost=230&#038;q=" target="_blank">uso Suse</a>) la partición de Windows se montara en /mnt/windows al arrancar, editando el fichero /etc/fstab y añadiendo esta línea:
 
 <div class="codigo">
   /dev/hda2 /windows/C vfat user,rw,auto,umask=000
 </div>
 
 Con esto se consigue que monte el dispositivo hda2 (segunda partición de mi ordenador, donde tengo el Windows) en la carpeta /windows/c, y entonces podremos acceder a ella como si de otro directorio se tratase.  
-**Ojo!** si usáis NTFS esto no es tan sencillo, dependiendo de la distribución, posiblemente tengáis que a&ntilde;adir algo a vuestro núcleo, por ejemplo en Red Hat, pero ése no es el tema ahora.
+**Ojo!** si usáis NTFS esto no es tan sencillo, dependiendo de la distribución, posiblemente tengáis que añadir algo a vuestro núcleo, por ejemplo en Red Hat, pero ése no es el tema ahora.
 
 Ahora hay que instalar el Thunderbird en Linux. Esto no es muy difícil, hay varias formas y depende de cada distribución así que no profundizo. Y una vez instalado, indicarle que use el mismo directorio que Thunderbird de Windows.
 

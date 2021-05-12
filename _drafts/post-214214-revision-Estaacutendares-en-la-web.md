@@ -7,6 +7,6 @@ layout: revision
 guid: http://www.wp.chavalina.net/2004/09/12/214-revision/
 permalink: /2004/09/12/214-revision/
 ---
-Muy muy buen <a href="http://www.alzado.org/articulo.php?id_art=367" target="_blank">artículo</a> en <a href="http://www.alzado.org" target="_blank">Alzado.org</a> que resume algunas características comunes a webs de éxito mundial (con muchos ejemplos además) y que todos deberíamos tener en cuenta a la hora de dise&ntilde;ar un sitio, si tenemos en cuenta que realmente parece dibujarse un perfil bastante similar en algunas cuestiones como menús, tiempo de carga, información de cabecera…
+Muy muy buen <a href="http://www.alzado.org/articulo.php?id_art=367" target="_blank">artículo</a> en <a href="http://www.alzado.org" target="_blank">Alzado.org</a> que resume algunas características comunes a webs de éxito mundial (con muchos ejemplos además) y que todos deberíamos tener en cuenta a la hora de diseñar un sitio, si tenemos en cuenta que realmente parece dibujarse un perfil bastante similar en algunas cuestiones como menús, tiempo de carga, información de cabecera…
 
 Otro gran artículo, éste más específico, que he leído esta semana ha sido <a href="http://7bytes.net/nota.php?id=5" target="_blank">Detalles de usabilidad en los enlaces</a> del blog sobre desarrollo web <a href="http://7bytes.net/index.php" target="_blank">7bytes</a>, que descubrí hace relativamente poco pero me está sirviendo para aprender mucho. Muy recomendable.

@@ -8,11 +8,11 @@ guid: http://www.wp.chavalina.net/2008/12/25/5-revision-2/
 permalink: /2008/12/25/5-revision-2/
 ---
 <p align="left">
-  Desde <a href="galerias/simo2003/thumbs.htm" target="_blank">aquí</a><br /> puedes ver las fotos que hice con los amigos del foro de GsmSpain<br /> en el SIMO este a&ntilde;o, aunque no hay muchas intentaré<br /> enlazar algunas páginas donde han subido más fotos.
+  Desde <a href="galerias/simo2003/thumbs.htm" target="_blank">aquí</a><br /> puedes ver las fotos que hice con los amigos del foro de GsmSpain<br /> en el SIMO este año, aunque no hay muchas intentaré<br /> enlazar algunas páginas donde han subido más fotos.
 </p>
 
 <p align="left">
-  Espero que el a&ntilde;o que viene pueda pasar algo<br /> más de tiempo con vosotros porque sois geniales!
+  Espero que el año que viene pueda pasar algo<br /> más de tiempo con vosotros porque sois geniales!
 </p>
 
   * <a href="galerias/simo2003/thumbs.htm" target="_blank">Fotos del SIMO 2003</a>

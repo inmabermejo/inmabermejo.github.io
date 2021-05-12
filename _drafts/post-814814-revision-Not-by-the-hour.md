@@ -9,7 +9,7 @@ permalink: /2007/07/12/814-revision/
 ---
 <a href="http://notbythehour.com/" target="_blank">Not by the hour</a> es el nuevo sitio que nos trae mi admirada <a href="http://freelanceswitch.com/" target="_blank">Freelance Switch</a>.
 
-Como ellos mismos se definen, es un sitio con recursos para obtener ingresos sin trabajar activamente, vivir de las rentas trabajando lo menos posible, enfocado a profesionales del dise&ntilde;o.
+Como ellos mismos se definen, es un sitio con recursos para obtener ingresos sin trabajar activamente, vivir de las rentas trabajando lo menos posible, enfocado a profesionales del diseño.
 
 Ahora mismo tiene 4 partes:
 

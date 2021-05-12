@@ -19,11 +19,11 @@ permalink: /2004/06/17/143-revision/
       </table>
       
       <p>
-        Ma&ntilde;ana ponen en telecinco por la noche la película "El club de la lucha".
+        Mañana ponen en telecinco por la noche la película "El club de la lucha".
       </p>
       
       <p>
-        Esta película me sorprendió para bien la primera vez que la vi, y os la recomiendo a todos, si no podéis ma&ntilde;ana alquiladla o bajadla o lo que sea. Creo que no se promocionó adecuadamente, demasiados pu&ntilde;etazos y poca chicha, cuando tiene mucho más que la gran dosis de violencia gratuita que ofrece el trailer (que desde luego también tiene violencia, claro).
+        Esta película me sorprendió para bien la primera vez que la vi, y os la recomiendo a todos, si no podéis mañana alquiladla o bajadla o lo que sea. Creo que no se promocionó adecuadamente, demasiados puñetazos y poca chicha, cuando tiene mucho más que la gran dosis de violencia gratuita que ofrece el trailer (que desde luego también tiene violencia, claro).
       </p>
       
       <p>

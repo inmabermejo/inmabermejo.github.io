@@ -19,4 +19,4 @@ Decir que son de buena calidad, me parecen mejores que <a href="http://chavalina
   <a href="http://www.flickr.com/photos/chavalina/311963944/" title="Photo Sharing"><img src="http://static.flickr.com/113/311963944_6e836e7c49_m.jpg" width="240" height="180" alt="Resto del pack" /></a>
 </p>
 
-Además de las camisetas, han incluido un par de pegatinas, tres chapas y algunas postales, peque&ntilde;os detalles que siempre se agradecen.
+Además de las camisetas, han incluido un par de pegatinas, tres chapas y algunas postales, pequeños detalles que siempre se agradecen.

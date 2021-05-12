@@ -7,7 +7,7 @@ layout: revision
 guid: http://www.wp.chavalina.net/2004/04/18/88-revision/
 permalink: /2004/04/18/88-revision/
 ---
-Desde la <a href="http://blogia.com/elhombredelasnieves" target="_blank">bitácora del hombre de las nieves</a> llego a esta página: <a href="http://www.cpinformativos.org/" target="_blank">Consejo<br /> Provisional de Informativos TVE-Torrespa&ntilde;a.</a>
+Desde la <a href="http://blogia.com/elhombredelasnieves" target="_blank">bitácora del hombre de las nieves</a> llego a esta página: <a href="http://www.cpinformativos.org/" target="_blank">Consejo<br /> Provisional de Informativos TVE-Torrespaña.</a>
 
 Una página bastante interesante con ejemplos concretos donde los propios trabajadores de TVE denuncian la manipulación de la información en la cadena pública, sí sí, esa que pagamos todos. Ahí os dejo algunas perlas, pero está interesante, así que os aconsejo visitarla, a ver qué os parece. Me pregunto cómo seguirá el rumbo de esta cadena después de la llegada del nuevo gobierno.
 
@@ -23,4 +23,4 @@ Una página bastante interesante con ejemplos concretos donde los propios trabaj
 > 
 > * Evitación de los aspectos que pongan en evidencia fallos, falta de previsión o mal funcionamiento de la actuación gubernamental en asuntos imprevistos como accidentes, catástrofes, etc.
 
-  * <a href="http://www.cpinformativos.org/" target="_blank">Consejo Provisional de Informativos TVE-Torrespa&ntilde;a.</a>
+  * <a href="http://www.cpinformativos.org/" target="_blank">Consejo Provisional de Informativos TVE-Torrespaña.</a>

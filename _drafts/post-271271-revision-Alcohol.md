@@ -7,5 +7,5 @@ layout: revision
 guid: http://www.wp.chavalina.net/2004/11/23/271-revision/
 permalink: /2004/11/23/271-revision/
 ---
-Buenísimo <a href="http://blog.duopixel.com/archives/000169.html" target="_blank">este post sobre el alcohol</a> de Mark en <a href="http://blog.duopixel.com" target="_blank">Duopixel</a> (blog de «dise&ntilde;o» jeje). Cuando mis amigas lo lean estarán contentas de saber que no <acronym title="somos, lo reconozco...">son</acronym> las únicas que le echan imaginación a los asuntos del bebercio.  
+Buenísimo <a href="http://blog.duopixel.com/archives/000169.html" target="_blank">este post sobre el alcohol</a> de Mark en <a href="http://blog.duopixel.com" target="_blank">Duopixel</a> (blog de «diseño» jeje). Cuando mis amigas lo lean estarán contentas de saber que no <acronym title="somos, lo reconozco...">son</acronym> las únicas que le echan imaginación a los asuntos del bebercio.  
 ![emo](/imagenes/emoticonos/risa.gif)

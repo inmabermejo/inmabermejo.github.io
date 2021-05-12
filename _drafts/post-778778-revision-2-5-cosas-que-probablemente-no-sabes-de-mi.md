@@ -11,8 +11,8 @@ Desde <a href="http://www.labrujulaverde.com/2006/12/19/5-cosas-que-probablement
 
 Voy a intentarlo aunque no sé yo, porque con lo que largaba yo por aquí en los primeros tiempos, creo que lo he contado casi todo. Así que a ver:
 
-  * No siempre me interesó la informática. Al principio quería estudiar Biología Marina, también Arquitectura, e incluso estuve un a&ntilde;o entero estudiando Ciencias Ambientales, pero lo dejé.
+  * No siempre me interesó la informática. Al principio quería estudiar Biología Marina, también Arquitectura, e incluso estuve un año entero estudiando Ciencias Ambientales, pero lo dejé.
   * Soy una fanática de las vacas y de su típico estampado blanco y negro. Tengo un montón, de peluche, de cerámica, zapatillas, camisetas y otros ropajes, tazas y platos, una estantería, una mesa…
   * Tengo un hermano y una hermana y a veces todavía nos peleamos como si fuéramos críos
-  * He bebido ron, vodka, ginebra, martini, co&ntilde;ac, cerveza, vino, licores dulces… pero nunca whisky.
+  * He bebido ron, vodka, ginebra, martini, coñac, cerveza, vino, licores dulces… pero nunca whisky.
   * Nunca he tenido un pendrive (<a href="http://chavalina.net/comentar.php?idpost=238" target="_blank">aparte de éste</a>)

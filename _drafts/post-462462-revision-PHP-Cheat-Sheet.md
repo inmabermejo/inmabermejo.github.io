@@ -11,4 +11,4 @@ permalink: /2005/05/28/462-revision/
 
 Pues via <a href="http://blog.enrique.barbeito.org/archivos/2005/05/04/chuleta-php-y-mas/" target="_blank">ebarbeito</a> me entero de que también hay una <a href="http://www.ilovejackdaniels.com/php/php-cheat-sheet/" target="_blank">chuleta PHP</a> y no sólo eso! <a href="http://www.ilovejackdaniels.com/cheat-sheets/" target="_blank">chuletas para todos los gustos</a>.
 
-Muy buenos recursos que tener a mano, vienen de <a href="http://www.ilovejackdaniels.com/" target="_blank">I Love Jack Daniels</a>, un blog de dise&ntilde;o y desarrollo web muy interesante, ya lo he fichado en mis feeds (_Nota mental:_ hacer limpieza en los feeds)
+Muy buenos recursos que tener a mano, vienen de <a href="http://www.ilovejackdaniels.com/" target="_blank">I Love Jack Daniels</a>, un blog de diseño y desarrollo web muy interesante, ya lo he fichado en mis feeds (_Nota mental:_ hacer limpieza en los feeds)

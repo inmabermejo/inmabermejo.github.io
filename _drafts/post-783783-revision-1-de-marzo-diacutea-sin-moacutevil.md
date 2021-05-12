@@ -7,7 +7,7 @@ layout: revision
 guid: http://www.wp.chavalina.net/2007/02/11/783-revision/
 permalink: /2007/02/11/783-revision/
 ---
-[<img border="0" title="el 1 de marzo, apaga tu móvil" alt="el 1 de marzo, apaga tu móvil" src="http://www.facua.org/movilizate/120x173.gif" width="120" height="173" class="imgizqda" />](http://www.facua.org/movilizate/index.html) El día 1 de marzo <a href="http://www.facua.org/movilizate/movilizate.html" target="_blank">se propone dejar de usar masivamente el móvil</a> como protesta a la subida de las tarifas por parte de todas las compa&ntilde;ías telefónicas.
+[<img border="0" title="el 1 de marzo, apaga tu móvil" alt="el 1 de marzo, apaga tu móvil" src="http://www.facua.org/movilizate/120x173.gif" width="120" height="173" class="imgizqda" />](http://www.facua.org/movilizate/index.html) El día 1 de marzo <a href="http://www.facua.org/movilizate/movilizate.html" target="_blank">se propone dejar de usar masivamente el móvil</a> como protesta a la subida de las tarifas por parte de todas las compañías telefónicas.
 
 Creo que merece la pena hacerlo, las tres mayoritarias, Vodafone, Movistar y Orange, suben los precios para recuperar lo que perderían al comenzar a facturar por segundos.
 

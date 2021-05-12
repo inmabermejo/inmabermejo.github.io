@@ -11,4 +11,4 @@ Mi vídeo muy más favorito: Coffee and TV de Blur. <a href="http://www.pitchfor
 
 
 
-<a href="http://www.milkyfan.com/" target="_blank">Y Milky tiene su propia página</a>, no me extra&ntilde;a, con lo mono que es jeje (gracias <a href="http://www.chochitopelao.com/" target="_blank">Gallego</a>)
+<a href="http://www.milkyfan.com/" target="_blank">Y Milky tiene su propia página</a>, no me extraña, con lo mono que es jeje (gracias <a href="http://www.chochitopelao.com/" target="_blank">Gallego</a>)

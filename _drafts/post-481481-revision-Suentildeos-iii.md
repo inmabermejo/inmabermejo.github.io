@@ -1,6 +1,6 @@
 ---
 id: 1561
-title: 'Sue&ntilde;os (iii)'
+title: 'Sueños (iii)'
 date: 2005-06-04T16:56:55+02:00
 author: Chavalina
 layout: revision

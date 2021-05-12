@@ -24,9 +24,9 @@ permalink: /2004/06/21/146-revision/
             </p>
             
             <p>
-              La serie más exitosa de los 90 y es de dibujos animados. Y además se encarga de mantener a la marabunta de bocas que alimentar que hay en Antena 3, y eso no es moco de pavo. Me encantan estas cosas cuando se dan casos tan patéticos como el de TeleCinco, que prácticamente vive de su "reality"-SHOW de turno, y si no, a la programación me remito. Desde las 11 de la ma&ntilde;ana con el programa de la Campos, siguiendo con el Tomate, los resúmenes, el A tu Lado, el Pecado Original y Crónicas Patéticas más de la mitad de sus contenidos se basan en la última discusión de la pareja gay o las excentricidades del padre de la virgen de 29 a&ntilde;os.
+              La serie más exitosa de los 90 y es de dibujos animados. Y además se encarga de mantener a la marabunta de bocas que alimentar que hay en Antena 3, y eso no es moco de pavo. Me encantan estas cosas cuando se dan casos tan patéticos como el de TeleCinco, que prácticamente vive de su "reality"-SHOW de turno, y si no, a la programación me remito. Desde las 11 de la mañana con el programa de la Campos, siguiendo con el Tomate, los resúmenes, el A tu Lado, el Pecado Original y Crónicas Patéticas más de la mitad de sus contenidos se basan en la última discusión de la pareja gay o las excentricidades del padre de la virgen de 29 años.
             </p>
             
             <p>
-              ¿Se nota que tengo tiempo libre eh? Pues no, no lo tengo, pero soy una perra, en el buen sentido, aunque la televisión sea un asco, yo seguiré pegada cuando aparezca mi peque&ntilde;o fetiche, Ned Flanders. ¿Que por qué me gusta éste y no otro? sencillo. Ved el capítulo "Un tranvía llamado Marge" jejeje. ¿Cuál es vuestro favorito?
+              ¿Se nota que tengo tiempo libre eh? Pues no, no lo tengo, pero soy una perra, en el buen sentido, aunque la televisión sea un asco, yo seguiré pegada cuando aparezca mi pequeño fetiche, Ned Flanders. ¿Que por qué me gusta éste y no otro? sencillo. Ved el capítulo "Un tranvía llamado Marge" jejeje. ¿Cuál es vuestro favorito?
             </p></td> </tr> </tbody> </table>

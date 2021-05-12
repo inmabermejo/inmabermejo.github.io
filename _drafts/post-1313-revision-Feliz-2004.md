@@ -8,7 +8,7 @@ guid: http://www.wp.chavalina.net/2003/12/31/13-revision/
 permalink: /2003/12/31/13-revision/
 ---
 <p align="left">
-  Que aunque no me gustan estos rollos navide&ntilde;os, os<br /> deseo lo mejor para el 2004 <img src="/imagenes/emoticonos/beso.gif" alt="emo" />
+  Que aunque no me gustan estos rollos navideños, os<br /> deseo lo mejor para el 2004 <img src="/imagenes/emoticonos/beso.gif" alt="emo" />
 </p>
 
 <p align="left">

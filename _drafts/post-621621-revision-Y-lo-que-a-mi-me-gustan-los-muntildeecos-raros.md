@@ -1,6 +1,6 @@
 ---
 id: 968
-title: 'Y lo que a mi me gustan los mu&ntilde;ecos raros'
+title: 'Y lo que a mi me gustan los muñecos raros'
 date: 2006-02-03T11:18:40+02:00
 author: Chavalina
 layout: revision

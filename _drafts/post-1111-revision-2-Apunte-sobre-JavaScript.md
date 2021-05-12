@@ -8,7 +8,7 @@ guid: http://www.chavalina.net/2008/12/24/11-revision-2/
 permalink: /2008/12/24/11-revision-2/
 ---
 <p align="left">
-  El compa&ntilde;ero <span class="alguien">Píramo</span> de GsmSpain me ha hecho algunos comentarios sobre las utilidades más<br /> generales de Javascript:
+  El compañero <span class="alguien">Píramo</span> de GsmSpain me ha hecho algunos comentarios sobre las utilidades más<br /> generales de Javascript:
 </p>
 
 > <p align="left">

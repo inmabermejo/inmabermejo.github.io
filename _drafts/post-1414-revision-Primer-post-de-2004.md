@@ -7,17 +7,17 @@ layout: revision
 guid: http://www.wp.chavalina.net/2004/01/02/14-revision/
 permalink: /2004/01/02/14-revision/
 ---
-Empecé el a&ntilde;o con muy buen pie, cena genial (para los de  
+Empecé el año con muy buen pie, cena genial (para los de  
 la cena: pronto pondré las fotos, jajajaja), mucha diversión  
-por la noche y un día de a&ntilde;o nuevo casi perfecto, y digo  
+por la noche y un día de año nuevo casi perfecto, y digo  
 casi porque lo que escuché ayer en las noticias me indignó  
 de tal manera que no puedo evitar lo menos mencionarlo, aunque me gusta  
 tocar estos temas tan poco como los politiqueos.
 
 Y es que me parece cuando menos ingnante que dos de los terroristas más  
-sanguinarios vayan a salir en libertad este a&ntilde;o, uno de ellos tras  
-haber cumplido 3 de los 10 a&ntilde;os que le correspondían, y  
-el otro, que saldrá a final de a&ntilde;o, condenado a 3000 a&ntilde;os  
+sanguinarios vayan a salir en libertad este año, uno de ellos tras  
+haber cumplido 3 de los 10 años que le correspondían, y  
+el otro, que saldrá a final de año, condenado a 3000 años  
 por 12 asesinatos, pertenecía al comando Madrid de ETA y <? anotar("según los informativos de ayer","Informativos TeleCinco, edición de las 20.30"); ?>
 
   
@@ -30,7 +30,7 @@ penal, como ya comentamos en Gsmspain:
 > El código penal, cómo está hecho? creo que no es tan difícil, que una  
 > persona que ha matado a 12 (que es muy fuerte, que son 12 personas con  
 > una vida, con una familia…! prefiero no seguir) no puede salir a los  
-> 10 a&ntilde;os como si no hubiera pasado nada! QUE ESAS 12 PERSONAS YA NO VIVEN  
+> 10 años como si no hubiera pasado nada! QUE ESAS 12 PERSONAS YA NO VIVEN  
 > MáS!!!! es que es muy fuerte.
 > 
 > Una persona que mata a otra cómo va a poder ir después por la calle  
@@ -44,7 +44,7 @@ penal, como ya comentamos en Gsmspain:
 > sentido común, no?
 > 
 > Ya está bien para hacer una reforma, INCLUSO SI TUVIERAN QUE REFORMAR  
-> EL CóDIGO CADA A&Ntilde;O! yo creo que es algo tan importante que no cabe acomodarse  
+> EL CóDIGO CADA AñO! yo creo que es algo tan importante que no cabe acomodarse  
 > en lo que ya se tiene. Docemonos, espero que no se te olvide, me interesa  
 > mucho lo que puedes aportar como profesional, ya que yo hablo sin mucho  
 > conocimiento, sólo es la opinión de una ciudadana de a pie. 

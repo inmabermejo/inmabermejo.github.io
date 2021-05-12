@@ -24,7 +24,7 @@ permalink: /2003/12/04/10-revision/
 </p>
 
 <p align="left">
-  Y como yo soy muuuuy mala profesora, os dejaré<br /> un par de buenos tutoriales: el de <a href="http://www.programacion.com/php/tutorial/php/" target="_blank">programacion.com</a><br /> y <a href="http://www.rinconastur.com/php/" target="_blank">este<br /> que encontré de casualidad</a> y que es con el que he conseguido<br /> hacer algo por fin, porque el chico lo explica todo para que se<br /> entienda, no como algunos manuales que lo único que ense&ntilde;an<br /> es la pedantería del autor.
+  Y como yo soy muuuuy mala profesora, os dejaré<br /> un par de buenos tutoriales: el de <a href="http://www.programacion.com/php/tutorial/php/" target="_blank">programacion.com</a><br /> y <a href="http://www.rinconastur.com/php/" target="_blank">este<br /> que encontré de casualidad</a> y que es con el que he conseguido<br /> hacer algo por fin, porque el chico lo explica todo para que se<br /> entienda, no como algunos manuales que lo único que enseñan<br /> es la pedantería del autor.
 </p>
 
 <p align="left">

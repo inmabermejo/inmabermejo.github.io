@@ -7,6 +7,6 @@ layout: revision
 guid: http://www.wp.chavalina.net/2004/07/24/169-revision/
 permalink: /2004/07/24/169-revision/
 ---
-Hoy he sufrido una <acronym title="lo suficientemente grande como para que duela">peque&ntilde;a</acronym> decepción amistosa, <s>quizá</s> seguro exagero, pero la verdad es que me ha tocado y me lleva a reflexionar sobre lo desvirtuada que está la palabra amistad, que lo mismo se aplica cuando es correcta, como cuando simplemente se trata de colegueo o incluso conveniencia <acronym title="tristemente muy a menudo">a veces</acronym>.
+Hoy he sufrido una <acronym title="lo suficientemente grande como para que duela">pequeña</acronym> decepción amistosa, <s>quizá</s> seguro exagero, pero la verdad es que me ha tocado y me lleva a reflexionar sobre lo desvirtuada que está la palabra amistad, que lo mismo se aplica cuando es correcta, como cuando simplemente se trata de colegueo o incluso conveniencia <acronym title="tristemente muy a menudo">a veces</acronym>.
 
 Espero que se quede en uno de mis <s>frecuentes</s> muy frecuentes mosqueos y se me olvide pronto… o mejor perdonar y no olvidar.

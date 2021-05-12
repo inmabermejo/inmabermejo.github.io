@@ -2,10 +2,10 @@ id: 898
 name: Chavalina
 url: http://www.chavalina.net
 date: 2004-08-06 03:25:55
-message: "Lo que pasa es que aquí sólo comento los cambios \"que se ven\" pero si vieras la cantidad de código que he llegado a eliminar desde la 4.3 hasta ahora... de todas formas, creo que ha sido un poco extra&ntilde;o anunciar tanto cambio cuando antes no contaba más que los redise&ntilde;os, y a partir de ahora me morderé la lengua un poco más jeje.<br />
+message: "Lo que pasa es que aquí sólo comento los cambios \"que se ven\" pero si vieras la cantidad de código que he llegado a eliminar desde la 4.3 hasta ahora... de todas formas, creo que ha sido un poco extraño anunciar tanto cambio cuando antes no contaba más que los rediseños, y a partir de ahora me morderé la lengua un poco más jeje.<br />
 <br />
 Digamos que esta vez he reconstruido el buscador, hice un script que me encuentra los post favoritos (antes lo hacía a mano y tal) y he creado la paginación, que antes no usaba y ahora está tanto en la parte de los archivos como en mi CMS, que aunque sea aparte, la versión realmente va con él para mi disfrute personal a solas jejeje.<br />
 <br />
-También modifiqué la gestión de los emoticonos para sólo guardar códigos en la base de datos, quiero reducir el tama&ntilde;o todo lo posible.<br />
+También modifiqué la gestión de los emoticonos para sólo guardar códigos en la base de datos, quiero reducir el tamaño todo lo posible.<br />
 <br />
 Me averg&uuml;enzo de cómo tenía esto antes, y lo peor es que todavía queda muchísimo por depurar. Creo que al final mi intención de poner todo el código en escena se va a quedar en intención."

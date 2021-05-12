@@ -9,4 +9,4 @@ permalink: /2005/05/29/468-revision/
 ---
 <img class="imgizqda" src="http://www.formulamania.com/img/fotos/nubu-salida.jpg" alt="Salida en el Gran Premio de Europa" /> Interesante Gran Premio de Europa. En la última vuelta, cambian las tornas. 
 
-Este a&ntilde;o los neumáticos están afectando bastante a los resultados, podemos recordar el último Mónaco lo que le ocurrió a Alonso, y los malos resultados de Bridgestone al principio. <a href="http://www.formulamania.com/news/comentar.php?idpost=481" target="_blank">Mi visión</a> en <a href="http://www.formulamania.com" target="_blank">Formulamania</a>.
+Este año los neumáticos están afectando bastante a los resultados, podemos recordar el último Mónaco lo que le ocurrió a Alonso, y los malos resultados de Bridgestone al principio. <a href="http://www.formulamania.com/news/comentar.php?idpost=481" target="_blank">Mi visión</a> en <a href="http://www.formulamania.com" target="_blank">Formulamania</a>.

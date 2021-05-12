@@ -14,7 +14,7 @@ permalink: /2008/12/21/623-revision-2/
   * Ayudante de juguetería
   * Ayudante de ferretería
   * Oreja (sí, así como suena)![emo](/imagenes/emoticonos/risa.gif) 
-  * Programador y dise&ntilde;ador web</ulQué aprendí de mis trabajos: no trabajes para la familia
+  * Programador y diseñador web</ulQué aprendí de mis trabajos: no trabajes para la familia
   
 **Cuatro películas que puedo ver una y otra vez** </p> 
 

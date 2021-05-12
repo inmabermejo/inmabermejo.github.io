@@ -11,6 +11,6 @@ permalink: /2004/10/17/243-revision/
 
 Como este post-it que me encontré en mis apuntes al volver de <acronym title="vale, realmente estaba en internet">consultar un libro</acronym>.
 
-Ya ves tú lo tontas que nos ponemos las mujeres con una cosita tan peque&ntilde;a![emo](/imagenes/emoticonos/sonrisa.gif) 
+Ya ves tú lo tontas que nos ponemos las mujeres con una cosita tan pequeña![emo](/imagenes/emoticonos/sonrisa.gif) 
 
 ¿me enteraré de quién ha sido?

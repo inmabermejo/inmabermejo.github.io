@@ -3,4 +3,4 @@ name: wallcam
 email: wallcam@ciudad.com.ar
 avatar: https://www.gravatar.com/avatar/783ada0d83690671650d04b6be023e8e?r=pg&d=retro
 date: 2005-11-16 16:40:33
-message: "Si usais NTFS ni lo intenteis. Pero si usasis Windows XP una solucion aceptable es crear una particion formateada en FAT32 y utilizarla como zona franca entre WindowsXP y Linux.  Funciona mas que bien. Ojo! para crear una particion Fat32 de tama&ntilde;o mayor a 2GB debeis hacerlo desde a&ntilde;gun soft como Partition Magic o similar en Windows o bien desde Linux con las utilidades de particion. Windows no permite crear particiones Fat32 grandes, pero una vez creadas las reconoce sin problemas"
+message: "Si usais NTFS ni lo intenteis. Pero si usasis Windows XP una solucion aceptable es crear una particion formateada en FAT32 y utilizarla como zona franca entre WindowsXP y Linux.  Funciona mas que bien. Ojo! para crear una particion Fat32 de tamaño mayor a 2GB debeis hacerlo desde añgun soft como Partition Magic o similar en Windows o bien desde Linux con las utilidades de particion. Windows no permite crear particiones Fat32 grandes, pero una vez creadas las reconoce sin problemas"

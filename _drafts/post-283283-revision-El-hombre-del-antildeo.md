@@ -1,6 +1,6 @@
 ---
 id: 1033
-title: 'El hombre del a&ntilde;o'
+title: 'El hombre del año'
 date: 2004-12-06T02:33:35+02:00
 author: Chavalina
 layout: revision

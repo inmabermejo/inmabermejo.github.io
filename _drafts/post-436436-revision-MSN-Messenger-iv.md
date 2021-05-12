@@ -8,5 +8,5 @@ guid: http://www.wp.chavalina.net/2005/05/14/436-revision/
 permalink: /2005/05/14/436-revision/
 ---
 <p class="imgcentro">
-  <img src="/imagenes/fotos/messenger-iv.gif" alt="Se&ntilde;or, si no puedes hacer que adelgace haz q todas mis amigas engorden" />
+  <img src="/imagenes/fotos/messenger-iv.gif" alt="Señor, si no puedes hacer que adelgace haz q todas mis amigas engorden" />
 </p>

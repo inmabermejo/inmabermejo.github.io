@@ -11,5 +11,5 @@ Hoy es el <a href="http://www.blogday.org/" target="_blank">día de los blogs</a
 
   * [El Canasto](http://canasto.es/), para aprender a organizarse
   * [Geek in love](http://geekinlove.com/), tiras cómicas geeks, me gusta bastante
-  * [S.O.S. Newbie](http://www.sosnewbie.com/es/), consejos para gente que empieza en el mundo profesional (del dise&ntilde;o, claro)
+  * [S.O.S. Newbie](http://www.sosnewbie.com/es/), consejos para gente que empieza en el mundo profesional (del diseño, claro)
   * [Diario de Jamie Oliver](http://www.jamieoliver.com/diary/), un chef mediático, inglés y bastante famoso, me gustó su web, con su blog, su podcast y todo

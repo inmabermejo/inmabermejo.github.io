@@ -8,14 +8,14 @@ guid: http://www.wp.chavalina.net/2004/06/09/136-revision/
 permalink: /2004/06/09/136-revision/
 ---
 Para la Spice Madrid apesta a ajo,  
-Concha Espina, a David, le sabe a co&ntilde;o,  
+Concha Espina, a David, le sabe a coño,  
 las Loos chupan merengues a destajo,  
-Nuria Ber hace el oso sin madro&ntilde;o.
+Nuria Ber hace el oso sin madroño.
 
 ¿Fashion?, paren la liga que me bajo.  
-¿Brooklin, Romeo? Qué par de dos reto&ntilde;os.  
+¿Brooklin, Romeo? Qué par de dos retoños.  
 Que manden a sus papis al carajo,  
-primaveros mimados del oto&ntilde;o.
+primaveros mimados del otoño.
 
 Y, sin embargo, si se relajara  
 la Vicky y si el inglés se la tirara  

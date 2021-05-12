@@ -7,7 +7,7 @@ layout: revision
 guid: http://www.wp.chavalina.net/2007/05/28/805-revision/
 permalink: /2007/05/28/805-revision/
 ---
-Estoy muy contenta porque [mi portfolio de dise&ntilde;o](http://www.inmabermejo.com/) que he <a href="http://chavalina.net/comentar.php?idpost=796" target="_blank">redise&ntilde;ado</a> hace ná, <a href="http://cssmania.com/galleries/2007/05/28/inma-bermejo.php" target="_blank">ha salido en CSSMania</a>. 
+Estoy muy contenta porque [mi portfolio de diseño](http://www.inmabermejo.com/) que he <a href="http://chavalina.net/comentar.php?idpost=796" target="_blank">rediseñado</a> hace ná, <a href="http://cssmania.com/galleries/2007/05/28/inma-bermejo.php" target="_blank">ha salido en CSSMania</a>. 
 
 Es autobombo, lo sé, pero cuando llevas una temporada con dificultades, estrés y te cuesta sacar las cosas porque no acabas de verlas bien, algo así sube el ánimo y alegra. Una inyección de ilusión.
 

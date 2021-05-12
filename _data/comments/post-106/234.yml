@@ -6,4 +6,4 @@ message: "$ wget -r -k http://libros.es.gnome.org/guias/gtk_tut_es/<br />
 <br />
 Y tutotial bajado para navegar offline :D<br />
 <br />
-Se puede ajustar muchas cosas, pero vamos... esencialmente \"-r -k\" para lo que tu quieres y a&ntilde;adiendo \"-c\" cuando se corta la descarga. Uhm se puede a&ntilde;adir un \"-nd\" si no quieres que te genere los directorios del sitio web... pero poco más :)"
+Se puede ajustar muchas cosas, pero vamos... esencialmente \"-r -k\" para lo que tu quieres y añadiendo \"-c\" cuando se corta la descarga. Uhm se puede añadir un \"-nd\" si no quieres que te genere los directorios del sitio web... pero poco más :)"

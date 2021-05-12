@@ -27,11 +27,11 @@ permalink: /2004/06/24/148-revision/
       </p>
       
       <p>
-        La sangre, demasiado ocupada manteniendo la temperatura, ya no presta atención al cerebro, que se va relajando, se ablanda la voluntad y deja al cuerpo más libre, te invade la pereza, y los sentidos se disparan, estás preparado para percibir. El mejor momento para dejarse llevar, experimentar nuevas sensaciones. Vamos, échale imaginación y disfruta cuanto puedas, no digas "lo haré ma&ntilde;ana". Yo no pienso perder ni un minuto, éste es mi verano y lo voy a aprovechar.
+        La sangre, demasiado ocupada manteniendo la temperatura, ya no presta atención al cerebro, que se va relajando, se ablanda la voluntad y deja al cuerpo más libre, te invade la pereza, y los sentidos se disparan, estás preparado para percibir. El mejor momento para dejarse llevar, experimentar nuevas sensaciones. Vamos, échale imaginación y disfruta cuanto puedas, no digas "lo haré mañana". Yo no pienso perder ni un minuto, éste es mi verano y lo voy a aprovechar.
       </p>
       
       <p>
-        Creedme, todo es distinto en verano <img src="/imagenes/emoticonos/guino.gif" alt="gui&ntilde;o" width="16" height="16" />
+        Creedme, todo es distinto en verano <img src="/imagenes/emoticonos/guino.gif" alt="guiño" width="16" height="16" />
       </p>
     </td>
   </tr>

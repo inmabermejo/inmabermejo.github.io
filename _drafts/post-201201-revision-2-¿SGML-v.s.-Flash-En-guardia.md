@@ -26,7 +26,7 @@ Dicen que todo el mundo tiene el plugin de Flash, y que si no, está a un click,
   * Ejemplo 2: soy una tecno-victim y tengo que navegar desde el pueblo de mis abuelos donde me obligan a estar con mi portátil mediante mi móvil con GPRS. Por qué tener que descargar un Flash de «n» k y pagar una factura astronómica para poder acceder al servicio que quiero, cuando en texto sería una ínfima parte.
 
 
-  * Ejemplo 3: no es tan extra&ntilde;o encontrar geeks (por decir algo) que navegan en modo texto. Y mucho más fácil encontrar gente que no carga las imágenes de las webs. ¿Será muy cómodo para ellos darse de narices con una maravilla hecha completamente en Flash?
+  * Ejemplo 3: no es tan extraño encontrar geeks (por decir algo) que navegan en modo texto. Y mucho más fácil encontrar gente que no carga las imágenes de las webs. ¿Será muy cómodo para ellos darse de narices con una maravilla hecha completamente en Flash?
 
 
   * Ejemplo 4: no hay que olvidar a las personas ciegas, que se valen de herramientas como <a href=&prime;http://lynx.browser.org/&prime; target=&prime;_blank&prime;>Lynx</a> para navegar.  

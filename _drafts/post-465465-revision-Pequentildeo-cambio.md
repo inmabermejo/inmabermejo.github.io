@@ -1,6 +1,6 @@
 ---
 id: 1309
-title: 'Peque&ntilde;o cambio'
+title: 'Pequeño cambio'
 date: 2005-05-29T04:56:56+02:00
 author: Chavalina
 layout: revision

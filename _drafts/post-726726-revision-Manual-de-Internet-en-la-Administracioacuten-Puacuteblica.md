@@ -7,4 +7,4 @@ layout: revision
 guid: http://www.wp.chavalina.net/2006/07/20/726-revision/
 permalink: /2006/07/20/726-revision/
 ---
-<a href="http://www.grancomo.com/2006/07/20/manual-de-internet-en-la-administracion-publica-o-como-perpetuar-el-lamentable-estado-de-la-web-espanola/" target="_blank">Un poco de lo que se entiende por <em>profesional</em> en dise&ntilde;o web para la Administración</a>. Claro, luego pasa lo que pasa.
+<a href="http://www.grancomo.com/2006/07/20/manual-de-internet-en-la-administracion-publica-o-como-perpetuar-el-lamentable-estado-de-la-web-espanola/" target="_blank">Un poco de lo que se entiende por <em>profesional</em> en diseño web para la Administración</a>. Claro, luego pasa lo que pasa.

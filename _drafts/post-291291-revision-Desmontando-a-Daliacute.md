@@ -11,7 +11,7 @@ permalink: /2004/12/14/291-revision/
 
 Este especial ha sido premiado por SDN.ies con el premio «Best of New Media Desing» de octubre.
 
-> El jurado de SND.ies ha destacado la originalidad del dise&ntilde;o de Dolors Pou y de la propuesta de navegación del extra, inspirados en el surrealismo daliniano. También ha aplaudido la calidad informativa del trabajo
+> El jurado de SND.ies ha destacado la originalidad del diseño de Dolors Pou y de la propuesta de navegación del extra, inspirados en el surrealismo daliniano. También ha aplaudido la calidad informativa del trabajo
 
 Fuente: <a href="http://www.lavanguardia.es/web/20041213/51171803084.html" target="_blank">La Vanguardia</a>.
 

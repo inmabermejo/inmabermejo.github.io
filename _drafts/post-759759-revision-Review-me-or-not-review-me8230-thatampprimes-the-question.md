@@ -17,13 +17,13 @@ Alcohólicos anónimos parecemos ya los bitacoreros.
 
 Recuerdo que cuando [Walter](http://htmllife.com/) volvió, me sorprendió ver a su derecha un enlace del Mercadona, ¡El Mercadona anunciado en un blog como <acronym title="HyperText Markup Language">HTML</acronym> Life! supongo que me sorprendió, quizá esperaba más bien encontrar ahí un enlace de YouDesignWeXHTML, de Adobe :-), del CssReboot… pero no del supermercado de debajo de mi casa.
 
-Y por eso me di de alta en [TLA](http://www.text-link-ads.com/?ref=39914 "Text Link Ads"). Tengo un proyecto en mente desde hace mucho tiempo, que pasó de nivel local a regional, que espero acabar pronto y ense&ntilde;arlo por aquí (me falta la <acronym title="Cascade Style Sheets">CSS</acronym> jeje)… y éste es el tipo de publicidad que quiero poner ahí. Quiero que se anuncien cosas que yo conozca.
+Y por eso me di de alta en [TLA](http://www.text-link-ads.com/?ref=39914 "Text Link Ads"). Tengo un proyecto en mente desde hace mucho tiempo, que pasó de nivel local a regional, que espero acabar pronto y enseñarlo por aquí (me falta la <acronym title="Cascade Style Sheets">CSS</acronym> jeje)… y éste es el tipo de publicidad que quiero poner ahí. Quiero que se anuncien cosas que yo conozca.
 
 Y ahora, por estar en aquel servicio me mandaron un mail «pre-aprobándome» :-S en éste de los posts patrocinados.
 
-La verdad es que lo primero que no me ha gustado es que no está integrado con mi cuenta de [TLA](http://www.text-link-ads.com/?ref=39914 "Text Link Ads"). Quizá yo he pecado un poco de ingenua, pero hasta 3 veces he intentado identificarme con mi usuario, hasta que me he rendido y me he registrado otra vez. Co&ntilde;e, pues si no está integrado, no utilices datos míos que ya tienes para decirme que estoy «pre-aprobada» :-S
+La verdad es que lo primero que no me ha gustado es que no está integrado con mi cuenta de [TLA](http://www.text-link-ads.com/?ref=39914 "Text Link Ads"). Quizá yo he pecado un poco de ingenua, pero hasta 3 veces he intentado identificarme con mi usuario, hasta que me he rendido y me he registrado otra vez. Coñe, pues si no está integrado, no utilices datos míos que ya tienes para decirme que estoy «pre-aprobada» :-S
 
-Es un servicio muy 2.0, con su dise&ntilde;o con colores a la moda y degradados, y un logo que, como diría mi amigo [Havoc](http://www.greensouth.net), haría llorar al ni&ntilde;o Jesús, pero como hay que probarlo todo menos la heroína, pues me animo y hago clicks en sus opciones, navego el sitio, doy de alta mis 3 sitios actuales (sólo puedes dar de alta 6), escribo mi primera review (o sea ésta). 
+Es un servicio muy 2.0, con su diseño con colores a la moda y degradados, y un logo que, como diría mi amigo [Havoc](http://www.greensouth.net), haría llorar al niño Jesús, pero como hay que probarlo todo menos la heroína, pues me animo y hago clicks en sus opciones, navego el sitio, doy de alta mis 3 sitios actuales (sólo puedes dar de alta 6), escribo mi primera review (o sea ésta). 
 
 No sé, los blogs que merecen la pena no creo que sean muy dados a venderse.
 

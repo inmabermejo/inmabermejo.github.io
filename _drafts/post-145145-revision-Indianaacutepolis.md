@@ -28,7 +28,7 @@ permalink: /2004/06/20/145-revision/
             </p>
             
             <p>
-              Otro equipo bastante perjudicado ha sido Renault. Si en la calificación fue el coche de Trulli el que falló, ahora Alonso revienta una rueda y se estrella, tras una de las mejores salidas que he visto (de 9&ordm; a 3&ordm; en la salida!). Está visto que este no es su a&ntilde;o.
+              Otro equipo bastante perjudicado ha sido Renault. Si en la calificación fue el coche de Trulli el que falló, ahora Alonso revienta una rueda y se estrella, tras una de las mejores salidas que he visto (de 9&ordm; a 3&ordm; en la salida!). Está visto que este no es su año.
             </p>
             
             <p>
@@ -36,5 +36,5 @@ permalink: /2004/06/20/145-revision/
             </p>
             
             <p>
-              Ah, se me olvidaba… Espa&ntilde;a fuera de la Eurocopa <img src="/imagenes/emoticonos/triste.gif" /> <br />Aunque no lo parezca, no es la F1 el único deporte que veo jeje, ya veréis en las Olimpiadas
+              Ah, se me olvidaba… España fuera de la Eurocopa <img src="/imagenes/emoticonos/triste.gif" /> <br />Aunque no lo parezca, no es la F1 el único deporte que veo jeje, ya veréis en las Olimpiadas
             </p></td> </tr> </tbody> </table>

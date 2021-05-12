@@ -6,6 +6,6 @@ message: "El cortafuegos no debe interferir en nada, sino no está bien. Es algo
 <br />
 El tema del MSN ya es otro. Si sales a inet através del FW,  te hará NAT, lo que no se lleva nada bien con el MSN. Creo que desde la 6.0 ya pasa através de NAT como un machote. Aunque puede que el tema sea otro, si sales por un proxy web (en tal caso MSN también va, solo tienes que configurarlo).<br />
 <br />
-Si pierdes la se&ntilde;al... lo que conozco de esas antenas de rejilla es malo. Parece que son buena receptoras pero pésimas emisoras. Por aquí las hemos sustituido por antenas de panel, que aun siendo sectoriales, dan mejor rendimiento. Nuevamente, eso no debería pasar :) A no ser que algún vecino ponga el microondas en tu camino :P<br />
+Si pierdes la señal... lo que conozco de esas antenas de rejilla es malo. Parece que son buena receptoras pero pésimas emisoras. Por aquí las hemos sustituido por antenas de panel, que aun siendo sectoriales, dan mejor rendimiento. Nuevamente, eso no debería pasar :) A no ser que algún vecino ponga el microondas en tu camino :P<br />
 <br />
 Por último... ¡ojito! Poner WEP o montar una VPN, que con eso de la novedad abunan las ADSL con wireless \"abiertas de par en par\"."

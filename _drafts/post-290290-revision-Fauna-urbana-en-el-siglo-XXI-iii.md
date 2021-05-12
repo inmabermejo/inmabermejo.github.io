@@ -13,7 +13,7 @@ Rodrigo, no sé qué le pasa a tu blog pero no he podido dejar comentarios!![emo
 
 Aquí estoy de nuevo para intentar dejar claro mi punto de vista respecto a este tema, aunque como ya has leído en mi página, no me hace mucha gracia esta moda.
 
-Y perdona si te molesta que la llame así, pero sinceramente en el círculo en que yo me muevo, que es bastante amplio, y en lo que conozco gracias a los medios de comunicación, que es lo que puede conocer lo que yo llamo «la gran masa», es decir, el grueso de la población de nivel medio, lo que ha ocurrido es que en un plazo de dos a&ntilde;os los llamados popularmente «metrosexuales» se han multiplicado de manera sorprendente. Está de moda.
+Y perdona si te molesta que la llame así, pero sinceramente en el círculo en que yo me muevo, que es bastante amplio, y en lo que conozco gracias a los medios de comunicación, que es lo que puede conocer lo que yo llamo «la gran masa», es decir, el grueso de la población de nivel medio, lo que ha ocurrido es que en un plazo de dos años los llamados popularmente «metrosexuales» se han multiplicado de manera sorprendente. Está de moda.
 
 Lo que está claro es que al extenderse tanto, esta moda, como cualquier otra, degenera, y así hay muchos tipos de metrosexuales (si quieres podemos llamarles grados), unos más exagerados que otros. Uno puede hacerse cositas sin llegar a extremos fuera de la media.
 

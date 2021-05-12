@@ -35,7 +35,7 @@ Una vez hecho esto, ya sólo tenéis que buscar por internet
 estilos de Windows (os recomiendo algunas páginas como <a href="http://www.deviantart.com/" target="_blank">Deviant<br /> art</a> o <a href="http://www.studiotwentyeight.net" target="_blank">Studio<br /> Twenty Eight</a>) y poniéndolos en la carpeta C:WINDOWSResourcesThemes  
 (ojo, si el tema es una carpeta poner toda la carpeta) los tendréis  
 disponibles en el sitio de costumbre, o sea, botón derecho en el  
-escritorio, pesta&ntilde;a apariencia.
+escritorio, pestaña apariencia.
 
 Pronto os pondré algo más de información para que  
 podáis hacer vuestros propios estilos![emo](/imagenes/emoticonos/guino.gif) 

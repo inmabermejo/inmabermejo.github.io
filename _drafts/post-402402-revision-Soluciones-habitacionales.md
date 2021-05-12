@@ -7,4 +7,4 @@ layout: revision
 guid: http://www.wp.chavalina.net/2005/04/19/402-revision/
 permalink: /2005/04/19/402-revision/
 ---
-A mi no me parece tan mal lo de los pisos peque&ntilde;itos del gobierno… todo depende del precio que les pongan![emo](/imagenes/emoticonos/pensativo.gif)
+A mi no me parece tan mal lo de los pisos pequeñitos del gobierno… todo depende del precio que les pongan![emo](/imagenes/emoticonos/pensativo.gif)

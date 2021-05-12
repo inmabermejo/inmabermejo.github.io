@@ -7,7 +7,7 @@ layout: revision
 guid: http://www.wp.chavalina.net/2004/10/22/245-revision/
 permalink: /2004/10/22/245-revision/
 ---
-Pues sí, después de casi un a&ntilde;ito por fin he salido en _el «tomate» de los blogs_ (si se me permite la comparación, cari&ntilde;osa, por supuesto).
+Pues sí, después de casi un añito por fin he salido en _el «tomate» de los blogs_ (si se me permite la comparación, cariñosa, por supuesto).
 
 > Entre ellos, por cierto la mayoría escritos por mujeres, (o al menos identificándose como tales  
 > […]  

@@ -14,7 +14,7 @@ Creo que hay una historia demasiado buena como para la película que les ha sali
 
 <img class="imgdcha" src="/imagenes/fotos/hayden.jpg" alt="Hayden Leand" /> Tampoco me ha gustado nada el reparto. Esto ya venía de antes, tras «La Amenaza Fantasma» podían haberlo arreglado, pero no lo hicieron, no. ¿Tenían que colocar al imberbe de Hayden para luego convertirlo en el malo más malo de los setenta? ¿No había ningún querubín más delicado? Es patético cuando se enfurece y pretende asustar a alguien. Obi-Wan-McGregor no parecía una mala elección en principio, pero después de ver la trilogía creo que más le valía haberse quedado en el Moulin Rouge haciendo gorgoritos.
 
-La verdad es que conforme avanzaba la película perdí bastante interés, aparte de que si has visto las otras ya sabes por dónde va a ir la historia, no han sabido hacer la película lo suficientemente atractiva o adictiva como para mantener mi atención. Valga como comparación la trilogía de «El se&ntilde;or de los anillos» (salvo la segunda), mucho mejor resuelta en mi humilde opinión.
+La verdad es que conforme avanzaba la película perdí bastante interés, aparte de que si has visto las otras ya sabes por dónde va a ir la historia, no han sabido hacer la película lo suficientemente atractiva o adictiva como para mantener mi atención. Valga como comparación la trilogía de «El señor de los anillos» (salvo la segunda), mucho mejor resuelta en mi humilde opinión.
 
 Pero bueno, aunque no me gustó la película, la noche valió la pena![emo](/imagenes/emoticonos/sonrisa.gif) 
 

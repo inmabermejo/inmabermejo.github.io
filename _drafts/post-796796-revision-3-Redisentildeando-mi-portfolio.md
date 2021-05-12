@@ -1,6 +1,6 @@
 ---
 id: 1913
-title: 'Redise&ntilde;ando mi portfolio'
+title: 'Rediseñando mi portfolio'
 date: 2008-12-26T15:19:45+02:00
 author: Chavalina
 layout: revision

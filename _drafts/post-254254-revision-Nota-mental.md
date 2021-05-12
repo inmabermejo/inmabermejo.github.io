@@ -8,4 +8,4 @@ guid: http://www.wp.chavalina.net/2004/11/01/254-revision/
 permalink: /2004/11/01/254-revision/
 ---
 Devolver «Poirot en Egipto».  
-Sacar «El conde de Montecristo» y «Don Juan Tenorio» (el a&ntilde;o que viene voy a verla) .
+Sacar «El conde de Montecristo» y «Don Juan Tenorio» (el año que viene voy a verla) .

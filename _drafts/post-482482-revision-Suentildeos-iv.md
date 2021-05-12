@@ -1,6 +1,6 @@
 ---
 id: 1560
-title: 'Sue&ntilde;os (iv)'
+title: 'Sueños (iv)'
 date: 2005-06-04T16:59:38+02:00
 author: Chavalina
 layout: revision

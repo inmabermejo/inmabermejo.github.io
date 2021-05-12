@@ -23,7 +23,7 @@ permalink: /2004/06/12/137-revision/
       </p>
       
       <p>
-        Aunque tengo un ordenador portátil con la tecnología Intel Centrino (wifi integrado) y con él consigo coger todas las redes inalámbricas que se me cruzan (tanto las de la universidad como las que furtivamente cazo en mi piso, ya que nadie se encarga de protegerlas) ésta que es la que más falta me hacía no había manera, la se&ntilde;al era deficiente y muy poco estable.
+        Aunque tengo un ordenador portátil con la tecnología Intel Centrino (wifi integrado) y con él consigo coger todas las redes inalámbricas que se me cruzan (tanto las de la universidad como las que furtivamente cazo en mi piso, ya que nadie se encarga de protegerlas) ésta que es la que más falta me hacía no había manera, la señal era deficiente y muy poco estable.
       </p>
       
       <p>
@@ -39,7 +39,7 @@ permalink: /2004/06/12/137-revision/
       </p>
       
       <p>
-        Al menos la se&ntilde;al ya no se pierde (manteniendo la "antena" en su sitio) y la velocidad es bastante mejor:
+        Al menos la señal ya no se pierde (manteniendo la "antena" en su sitio) y la velocidad es bastante mejor:
       </p>
       
       <ul>

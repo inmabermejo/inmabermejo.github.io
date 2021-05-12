@@ -7,7 +7,7 @@ layout: revision
 guid: http://www.wp.chavalina.net/2005/05/27/461-revision/
 permalink: /2005/05/27/461-revision/
 ---
-«El extranjero» y «Cien a&ntilde;os de soledad» (por enésima vez).  
+«El extranjero» y «Cien años de soledad» (por enésima vez).  
 Pendientes:
 
   * 1984

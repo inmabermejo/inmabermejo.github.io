@@ -7,7 +7,7 @@ layout: revision
 guid: http://www.wp.chavalina.net/2004/10/30/252-revision/
 permalink: /2004/10/30/252-revision/
 ---
-Si tenéis cosas importantes en la cuenta de Gmail, ya podéis empezar a guardarlas bajo llave porque, según he leído en <a href="http://zootropo.f2o.org/archivos/2004/10/30/importante-vulnerabilidad-en-gmail/" target="_blank">Zootropo</a> y también en <a href="http://www.proyectoisla.com/mangasverdes/index.php?p=295" target="_blank">Mangas Verdes</a> acaban de descubrir una vulnerabilidad en Gmail por la cual sabiendo el nombre de usuario y haciendo que clickee en cierto link (enlace maligno, como dice Zootropo jeje) le roba la cookie que identifica en Gmail y podrá entrar cuando le de la gana, aunque el usuario cambie su contrase&ntilde;a.
+Si tenéis cosas importantes en la cuenta de Gmail, ya podéis empezar a guardarlas bajo llave porque, según he leído en <a href="http://zootropo.f2o.org/archivos/2004/10/30/importante-vulnerabilidad-en-gmail/" target="_blank">Zootropo</a> y también en <a href="http://www.proyectoisla.com/mangasverdes/index.php?p=295" target="_blank">Mangas Verdes</a> acaban de descubrir una vulnerabilidad en Gmail por la cual sabiendo el nombre de usuario y haciendo que clickee en cierto link (enlace maligno, como dice Zootropo jeje) le roba la cookie que identifica en Gmail y podrá entrar cuando le de la gana, aunque el usuario cambie su contraseña.
 
 Muy mal, muy mal, ya empiezan a crecer los enanos… a ver si encuentro un buen POP3peador para el Gmail y me bajo todo… os recomiendo hacer lo mismo.
 

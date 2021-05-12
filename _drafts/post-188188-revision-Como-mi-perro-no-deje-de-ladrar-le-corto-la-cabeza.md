@@ -16,14 +16,14 @@ permalink: /2004/08/08/188-revision/
 </table>
 
 Ya empiezan otra vez las fiestas de <acronym title="Blanca">mi pueblo</acronym>.  
-Tengo tan presentes aún las del a&ntilde;o pasado que parece que fue ayer… supongo que me hago mayor, o que el a&ntilde;o transcurre cada vez más rápido y la monotonía y la vida sedentaria contribuyen a privarme de recuerdos que intercalar entre uno y otro verano, así que tengo esta peque&ntilde;a sensación de vacío.
+Tengo tan presentes aún las del año pasado que parece que fue ayer… supongo que me hago mayor, o que el año transcurre cada vez más rápido y la monotonía y la vida sedentaria contribuyen a privarme de recuerdos que intercalar entre uno y otro verano, así que tengo esta pequeña sensación de vacío.
 
 Este es un artículo personal y sin más interés, que conste.  
 Y es que es en estos acontecimientos, cuando vuelvo a ver a gente que no esperaba, se recuperan viejas amistades y también viejas rencillas, ocurren «casos» (no es a mí a la única que trastorna el verano), y veo tantas barbaridades que pierdo la capacidad de sorprenderme y me da por pararme a pensar, ya que mi querido <acronym title="el hijo de perra de mi perro">Harpo</acronym> no me deja pegar ojo.
 
 Casi sin querer, vienen recuerdos que se convierten en reflexiones.
 
-Tampoco puedo quejarme, subiendo la cuesta que me encontré hace exactamente un a&ntilde;o parece que al final se ha impuesto la vida y el Carpe Diem a mi pesimismo crónico, a costa de tirar por tierra algunos de mis principios más arraigados, mis valores más preciados, los que vengo alimentando desde que tengo uso de razón con la excusa de preservar mi inocencia y sentirme bien conmigo misma.
+Tampoco puedo quejarme, subiendo la cuesta que me encontré hace exactamente un año parece que al final se ha impuesto la vida y el Carpe Diem a mi pesimismo crónico, a costa de tirar por tierra algunos de mis principios más arraigados, mis valores más preciados, los que vengo alimentando desde que tengo uso de razón con la excusa de preservar mi inocencia y sentirme bien conmigo misma.
 
 Pero va a ser que no.  
 Menuda careta.  
