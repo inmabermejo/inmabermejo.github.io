@@ -7,4 +7,4 @@ layout: revision
 guid: http://www.wp.chavalina.net/2006/05/24/686-revision/
 permalink: /2006/05/24/686-revision/
 ---
-Un <a href="http://www.uberbin.net/archivos/microsoft/windows-vista-beta-2-el-momento-de-la-verdad.php" target="_blank">interesante art&iacute;culo sobre la beta de Windows Vista Beta 2</a> en Denken &Uuml;ber, parece que tiene buena pinta, a mi al menos me apetece probarlo, s&iacute;, pero desde que era Longhorn… En <a href="http://sentidoweb.com/2006/05/24/recopilacian-de-noticias-sobre-microsoft.php" target="_blank">Sentido Web</a> también noticias sobre el tema, y sobre Office 2007 Beta 2.
+Un <a href="http://www.uberbin.net/archivos/microsoft/windows-vista-beta-2-el-momento-de-la-verdad.php" target="_blank">interesante artículo sobre la beta de Windows Vista Beta 2</a> en Denken &Uuml;ber, parece que tiene buena pinta, a mi al menos me apetece probarlo, sí, pero desde que era Longhorn… En <a href="http://sentidoweb.com/2006/05/24/recopilacian-de-noticias-sobre-microsoft.php" target="_blank">Sentido Web</a> también noticias sobre el tema, y sobre Office 2007 Beta 2.

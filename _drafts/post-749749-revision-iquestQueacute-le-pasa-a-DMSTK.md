@@ -7,4 +7,4 @@ layout: revision
 guid: http://www.wp.chavalina.net/2006/10/23/749-revision/
 permalink: /2006/10/23/749-revision/
 ---
-No me funciona <a href="http://domestika.org/" target="_blank">la web ni los foros de Domestika</a> desde hace d&iacute;as, &iquest;os pasa a vosotros también? &iquest;sabéis algo?
+No me funciona <a href="http://domestika.org/" target="_blank">la web ni los foros de Domestika</a> desde hace días, &iquest;os pasa a vosotros también? &iquest;sabéis algo?

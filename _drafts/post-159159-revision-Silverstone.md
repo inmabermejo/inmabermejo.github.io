@@ -19,11 +19,11 @@ permalink: /2004/07/10/159-revision/
       </table>
       
       <p>
-        Qué contento está Kimi Raikkonen…<br /> Normal si consideramos que ma&ntilde;ana sale en pole position después de un a&ntilde;o desastroso de roturas de su McLaren. Un a&ntilde;o tan pésimo para el subcampeón del mundo de 2003 que parec&iacute;a que no ten&iacute;a arreglo, veremos si ma&ntilde;ana consigue romper su mala racha y volvemos a tener un poco de emoción en el campeonato, hasta ahora muy aburrido "por culpa de Michael Schumacher".
+        Qué contento está Kimi Raikkonen…<br /> Normal si consideramos que ma&ntilde;ana sale en pole position después de un a&ntilde;o desastroso de roturas de su McLaren. Un a&ntilde;o tan pésimo para el subcampeón del mundo de 2003 que parecía que no tenía arreglo, veremos si ma&ntilde;ana consigue romper su mala racha y volvemos a tener un poco de emoción en el campeonato, hasta ahora muy aburrido "por culpa de Michael Schumacher".
       </p>
       
       <p>
-        No muy buen d&iacute;a para los espa&ntilde;oles, Fernando Alonso no lo hizo mal del todo, quedó sexto, pero debido a su rotura de motor tendrá que salir 10 puestos más abajo (bueno, 9 debido a la penalización a Olivier Panis por no apartarse de la pista para la vuelta lanzada del siguiente piloto), y por otra parte Marc Gené que saldrá undécimo, parece ser que ten&iacute;a problemas para manejar su coche, y ma&ntilde;ana tiene mucho que demostrar, estos GP son determinantes para él sin duda alguna, ahora que los asientos de Williams están vacantes.
+        No muy buen día para los espa&ntilde;oles, Fernando Alonso no lo hizo mal del todo, quedó sexto, pero debido a su rotura de motor tendrá que salir 10 puestos más abajo (bueno, 9 debido a la penalización a Olivier Panis por no apartarse de la pista para la vuelta lanzada del siguiente piloto), y por otra parte Marc Gené que saldrá undécimo, parece ser que tenía problemas para manejar su coche, y ma&ntilde;ana tiene mucho que demostrar, estos GP son determinantes para él sin duda alguna, ahora que los asientos de Williams están vacantes.
       </p>
       
       <p>

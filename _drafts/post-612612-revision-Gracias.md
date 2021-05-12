@@ -7,8 +7,8 @@ layout: revision
 guid: http://www.wp.chavalina.net/2006/01/18/612-revision/
 permalink: /2006/01/18/612-revision/
 ---
-<img class="imgizqda" src="/imagenes/fotos/fiesta-25.jpg" alt="Muchos globos y un montón de amigos" /> Gracias, much&iacute;simas gracias. 
+<img class="imgizqda" src="/imagenes/fotos/fiesta-25.jpg" alt="Muchos globos y un montón de amigos" /> Gracias, muchísimas gracias. 
 
-Porque no lo hab&iacute;a sospechado ni por un momento. Anda que alguno se habrá desquitado bien, menos mal que los hombres no pueden embarazarse jejejeje.
+Porque no lo había sospechado ni por un momento. Anda que alguno se habrá desquitado bien, menos mal que los hombres no pueden embarazarse jejejeje.
 
 Mari, Jesus, Turbi, Carmen, Tere, Victor, Jeromico, Alex, Inma, Rodi, Cristina, Pablo, Vane, Jes&uacute;s Iván, y mi Patri…![emo](/imagenes/emoticonos/beso.gif)

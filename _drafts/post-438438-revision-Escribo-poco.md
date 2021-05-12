@@ -7,4 +7,4 @@ layout: revision
 guid: http://www.wp.chavalina.net/2005/05/14/438-revision/
 permalink: /2005/05/14/438-revision/
 ---
-Me da la sensación de que escribo poco por aqu&iacute;. Bueno, ya vendrán los momentos de inspiración.
+Me da la sensación de que escribo poco por aquí. Bueno, ya vendrán los momentos de inspiración.

@@ -7,7 +7,7 @@ layout: revision
 guid: http://www.wp.chavalina.net/2006/07/01/712-revision/
 permalink: /2006/07/01/712-revision/
 ---
-Gracias a <a href="http://www.taufpate.com/" target="_blank">Taufpate</a>, que me ha visitado y se la he devuelto, porque hace mucho tiempo que no lo le&iacute;a, he descubierto un nuevo blog que derrocha algo de genialidad, mira:
+Gracias a <a href="http://www.taufpate.com/" target="_blank">Taufpate</a>, que me ha visitado y se la he devuelto, porque hace mucho tiempo que no lo leía, he descubierto un nuevo blog que derrocha algo de genialidad, mira:
 
 <p class="imgcentro">
   <img src="/imagenes/fotos/latinlover.jpg" alt="Latin lover: alguien se excitó leyendo el diccionario..." />

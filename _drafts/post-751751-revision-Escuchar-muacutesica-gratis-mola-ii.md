@@ -7,4 +7,4 @@ layout: revision
 guid: http://www.wp.chavalina.net/2006/10/26/751-revision/
 permalink: /2006/10/26/751-revision/
 ---
-<a href="http://chavalina.net/comentar.php?idpost=748" target="_blank">Recordáis esto que contaba el otro d&iacute;a?</a> M&uacute;sica gratis y tal… pues… <a href="http://meneame.net/story/drm-de-allofmp3-crackeado" target="_blank">su DRM ya ha sido crackeado</a>.
+<a href="http://chavalina.net/comentar.php?idpost=748" target="_blank">Recordáis esto que contaba el otro día?</a> M&uacute;sica gratis y tal… pues… <a href="http://meneame.net/story/drm-de-allofmp3-crackeado" target="_blank">su DRM ya ha sido crackeado</a>.

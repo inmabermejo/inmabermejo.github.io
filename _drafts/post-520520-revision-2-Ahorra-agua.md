@@ -7,4 +7,4 @@ layout: revision
 guid: http://www.chavalina.net/2008/12/25/520-revision-2/
 permalink: /2008/12/25/520-revision-2/
 ---
-Hay sequ&iacute;a, <a href="http://www.eljueves.es/revista/numeros/1465/preview3.asp" target="_blank">ahorra agua</a>!
+Hay sequía, <a href="http://www.eljueves.es/revista/numeros/1465/preview3.asp" target="_blank">ahorra agua</a>!

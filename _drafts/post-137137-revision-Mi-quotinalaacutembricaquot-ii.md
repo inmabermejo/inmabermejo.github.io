@@ -19,11 +19,11 @@ permalink: /2004/06/12/137-revision/
       </table>
       
       <p>
-        Tras varias semanas de prueba con patéticos resultados por fin hemos conseguido que mi inalámbrica (por cortes&iacute;a de <a href="http://www.infoblanca.net" target="_blank">infoblanca.net</a>) funcione decentemente.
+        Tras varias semanas de prueba con patéticos resultados por fin hemos conseguido que mi inalámbrica (por cortesía de <a href="http://www.infoblanca.net" target="_blank">infoblanca.net</a>) funcione decentemente.
       </p>
       
       <p>
-        Aunque tengo un ordenador portátil con la tecnolog&iacute;a Intel Centrino (wifi integrado) y con él consigo coger todas las redes inalámbricas que se me cruzan (tanto las de la universidad como las que furtivamente cazo en mi piso, ya que nadie se encarga de protegerlas) ésta que es la que más falta me hac&iacute;a no hab&iacute;a manera, la se&ntilde;al era deficiente y muy poco estable.
+        Aunque tengo un ordenador portátil con la tecnología Intel Centrino (wifi integrado) y con él consigo coger todas las redes inalámbricas que se me cruzan (tanto las de la universidad como las que furtivamente cazo en mi piso, ya que nadie se encarga de protegerlas) ésta que es la que más falta me hacía no había manera, la se&ntilde;al era deficiente y muy poco estable.
       </p>
       
       <p>
@@ -35,7 +35,7 @@ permalink: /2004/06/12/137-revision/
       </p>
       
       <p>
-        Hombre, las cosas como son, inalámbrica es, peeeero… ten&iacute;a más movilidad con el cable de teléfono!
+        Hombre, las cosas como son, inalámbrica es, peeeero… tenía más movilidad con el cable de teléfono!
       </p>
       
       <p>

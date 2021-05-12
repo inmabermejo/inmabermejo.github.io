@@ -21,5 +21,5 @@ Y lo peor, ni una explicación.
 ![emo](/imagenes/emoticonos/pensativo.gif)  
 No me gusta la manera en que han llevado esto los encargados de mi hosting, pero supongo que me tocará darles un voto de confianda (ya que lo tengo pagado…) y esperar a ver si me hacen alguna pirula más hasta febrero.
 
-Creo que nunca he tenido tantas cosillas para escribir (sobre todo personales) como esta semana (quizá me alegro de haber tenido el blog ca&iacute;do jeje) y ahora la mente en blanco. Pero bueno, poco a poco recuperaré el ritmo…  
+Creo que nunca he tenido tantas cosillas para escribir (sobre todo personales) como esta semana (quizá me alegro de haber tenido el blog caído jeje) y ahora la mente en blanco. Pero bueno, poco a poco recuperaré el ritmo…  
 **reloading…**

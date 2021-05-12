@@ -9,7 +9,7 @@ permalink: /2004/03/03/45-revision/
 ---
 Sacado de noticias.com
 
-> Microsoft quiere lanzar una versión mejorada de Windows XP, aparte el Service Pack 2, muy en la l&iacute;nea de Windows 98 SE
+> Microsoft quiere lanzar una versión mejorada de Windows XP, aparte el Service Pack 2, muy en la línea de Windows 98 SE
 > 
 > Es sabido de todos que Microsoft lanzará el a&ntilde;o que viene, casi con total seguridad, la próxima versión de Windows que tiene ahora mismo como nombre en clave Windows Longhorn.  
 > […]
@@ -30,6 +30,6 @@ Ahora la gente está empezando a migrar a XP en masa, pero me consta que muchos 
 
 Si ahora migran a XP, &iquest;alguno se actualizará al nuevo XP Reloaded? &iquest;Seremos los cuatro frikis de siempre los que nos quedaremos el LongHorn? Ya veremos lo que pasa.
 
-No tengo mucha información, pero ah&iacute; os dejo un link a un foro por si alguien quiere informarse, pero para bajarlo creo que tendréis que tirar de emule![guino](/imagenes/emoticonos/guino.gif) 
+No tengo mucha información, pero ahí os dejo un link a un foro por si alguien quiere informarse, pero para bajarlo creo que tendréis que tirar de emule![guino](/imagenes/emoticonos/guino.gif) 
 
   * <a href="http://www.infochaos.com/foro/index.php?showforum=20" target="_blank">Foro sobre Windows LongHorn &#8211; InfoChaos Foros</a>

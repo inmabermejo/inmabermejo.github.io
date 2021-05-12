@@ -20,7 +20,7 @@ permalink: /2008/12/21/3-revision-2/
 </p>
 
 <p align="left">
-  As&iacute; que cuando busques cualquier programa…
+  Así que cuando busques cualquier programa…
 </p>
 
   * <a href="http://www.softonic.com" target="_blank">…visita la página de Softonic</a>

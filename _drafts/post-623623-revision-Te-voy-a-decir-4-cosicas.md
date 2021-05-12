@@ -11,12 +11,12 @@ permalink: /2006/02/06/623-revision/
 
 **Cuatro trabajos que he tenido** 
 
-  * Ayudante de jugueter&iacute;a
-  * Ayudante de ferreter&iacute;a
-  * Oreja (s&iacute;, as&iacute; como suena)![emo](/imagenes/emoticonos/risa.gif) 
-  * Programador y dise&ntilde;ador web</ulQué aprend&iacute; de mis trabajos: no trabajes para la familia
+  * Ayudante de juguetería
+  * Ayudante de ferretería
+  * Oreja (sí, así como suena)![emo](/imagenes/emoticonos/risa.gif) 
+  * Programador y dise&ntilde;ador web</ulQué aprendí de mis trabajos: no trabajes para la familia
   
-**Cuatro pel&iacute;culas que puedo ver una y otra vez** </p> 
+**Cuatro películas que puedo ver una y otra vez** </p> 
 
   * Eduardo Manostijeras
   * Casablanca
@@ -51,9 +51,9 @@ permalink: /2006/02/06/623-revision/
   * Chorizos a la sidra mmmmmmm
   * &iquest;Cuentan los postres? Helado de chocolate, o de plátano
 
-**Cuatro sitios en los que te gustar&iacute;a estar ahora mismo** 
+**Cuatro sitios en los que te gustaría estar ahora mismo** 
 
-  * En la playa, hace un d&iacute;a perfecto
+  * En la playa, hace un día perfecto
   * En Barcelona, visitando a mi amigo Nacho
   * En Bolonia, visitando a mi amiga Isa
   * En Islandia, de vacaciones

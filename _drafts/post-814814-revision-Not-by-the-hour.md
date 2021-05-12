@@ -18,4 +18,4 @@ Ahora mismo tiene 4 partes:
   * <a href="http://notbythehour.com/part-3" target="_blank">servicios con suscripción</a>, como vender hosting, o un servicio de alojamiento de blogs de pago
   * <a href="http://notbythehour.com/part-4" target="_blank">montar un negocio con una web</a>, esto es muy genérico también, puede incluir desde redes de blogs hasta servicios como <a href="http://www.amigosfree.com/" target="_blank">amigosfree</a>
 
-Algunas buenas ideas para sacar un dinero extra, habrá que informarse bien de cómo gestionarlo para que todo cumpla la legalidad vigente en el pa&iacute;s que nos encontremos.
+Algunas buenas ideas para sacar un dinero extra, habrá que informarse bien de cómo gestionarlo para que todo cumpla la legalidad vigente en el país que nos encontremos.

@@ -7,7 +7,7 @@ layout: revision
 guid: http://www.wp.chavalina.net/2007/08/31/819-revision/
 permalink: /2007/08/31/819-revision/
 ---
-Hoy es el <a href="http://www.blogday.org/" target="_blank">d&iacute;a de los blogs</a> o algo as&iacute;, y parece que es tradicional (&iquest;cuándo algo llega a serlo?) recomendar 5 blogs, a poder ser no relacionados con la temática del de quien los recomienda, yo creo que a 5 no llego:
+Hoy es el <a href="http://www.blogday.org/" target="_blank">día de los blogs</a> o algo así, y parece que es tradicional (&iquest;cuándo algo llega a serlo?) recomendar 5 blogs, a poder ser no relacionados con la temática del de quien los recomienda, yo creo que a 5 no llego:
 
   * [El Canasto](http://canasto.es/), para aprender a organizarse
   * [Geek in love](http://geekinlove.com/), tiras cómicas geeks, me gusta bastante

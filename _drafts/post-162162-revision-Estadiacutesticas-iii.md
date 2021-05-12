@@ -1,6 +1,6 @@
 ---
 id: 1342
-title: 'Estad&iacute;sticas (iii)'
+title: 'Estadísticas (iii)'
 date: 2004-07-12T09:32:36+02:00
 author: Chavalina
 layout: revision

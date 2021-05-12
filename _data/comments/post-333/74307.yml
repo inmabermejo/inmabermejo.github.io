@@ -3,4 +3,4 @@ name: ihbravo
 email: ihbravo@eresmas.com
 avatar: https://www.gravatar.com/avatar/3f4f875cba6423f9ccd5cddc9f4f9107?r=pg&d=retro
 date: 2006-10-28 08:22:37
-message: "Hab&iacute;a mandado un post que se ha perdido. Era relativo a las particiones NTFS. Una forma de evitar este problema es tener los datos a compartir entre windows y Linux (en mi caso todos) en una partición ext3. Windows podrá usarla instalando el programa \"fs driver\" que podéis encontrar en www.fs-driver.org. Solo hay que tener la precaución de desmontarlas en windows antes de redimensionarlas en Linux o similares para que no se haga un l&iacute;o."
+message: "Había mandado un post que se ha perdido. Era relativo a las particiones NTFS. Una forma de evitar este problema es tener los datos a compartir entre windows y Linux (en mi caso todos) en una partición ext3. Windows podrá usarla instalando el programa \"fs driver\" que podéis encontrar en www.fs-driver.org. Solo hay que tener la precaución de desmontarlas en windows antes de redimensionarlas en Linux o similares para que no se haga un lío."

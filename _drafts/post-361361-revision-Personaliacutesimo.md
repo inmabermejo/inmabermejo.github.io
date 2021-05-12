@@ -1,6 +1,6 @@
 ---
 id: 1575
-title: 'Personal&iacute;simo'
+title: 'Personalísimo'
 date: 2005-03-11T06:16:06+02:00
 author: Chavalina
 layout: revision

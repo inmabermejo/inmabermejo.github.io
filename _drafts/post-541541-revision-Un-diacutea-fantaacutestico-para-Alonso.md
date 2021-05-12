@@ -1,6 +1,6 @@
 ---
 id: 1025
-title: 'Un d&iacute;a fantástico para Alonso'
+title: 'Un día fantástico para Alonso'
 date: 2005-07-25T10:06:04+02:00
 author: Chavalina
 layout: revision

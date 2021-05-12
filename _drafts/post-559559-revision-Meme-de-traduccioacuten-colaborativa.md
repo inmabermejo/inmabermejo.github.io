@@ -26,14 +26,14 @@ permalink: /2005/10/07/559-revision/
   * layout = maqueta
   * link = enlace
   * information foraging: rastreo o forrajeo de información
-  * newsletter = bolet&iacute;n electrónico
-  * online = en l&iacute;nea
+  * newsletter = boletín electrónico
+  * online = en línea
   * outsourcing = externalización
   * peer-to-peer = persona a persona
   * permalink = enlace permanente
   * plugin = complemento, extensión
   * podcasting: fonodiario
-  * post = art&iacute;culo, anotación, entrada
+  * post = artículo, anotación, entrada
   * reader = lector
   * sidebar = men&uacute; lateral
   * scent = rastro, pista
@@ -58,6 +58,6 @@ Yo a&ntilde;ado:
   * download: descarga
   * faq: preguntas frecuentes
   * hoax: «leyenda urbana» en internet
-  * trackback: referencia (a un art&iacute;culo, noticia…)
+  * trackback: referencia (a un artículo, noticia…)
 
 No se me ocurren más.

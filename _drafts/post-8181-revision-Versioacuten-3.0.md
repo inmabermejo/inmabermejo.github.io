@@ -7,4 +7,4 @@ layout: revision
 guid: http://www.wp.chavalina.net/2004/04/11/81-revision/
 permalink: /2004/04/11/81-revision/
 ---
-No es sólo un lavado de cara, un cambio de colores. He arreglado algunos bugs y he hecho el código un poco más claro, con vistas a colgarlo aqu&iacute; (cuando considere que está bien) por si a alguien le interesa.
+No es sólo un lavado de cara, un cambio de colores. He arreglado algunos bugs y he hecho el código un poco más claro, con vistas a colgarlo aquí (cuando considere que está bien) por si a alguien le interesa.

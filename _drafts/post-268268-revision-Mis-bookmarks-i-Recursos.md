@@ -7,7 +7,7 @@ layout: revision
 guid: http://www.wp.chavalina.net/2004/11/15/268-revision/
 permalink: /2004/11/15/268-revision/
 ---
-Pretendo poner aqu&iacute; todos los bookmarks que tengo, hoy empezamos con mi carpeta **Recursos**.  
+Pretendo poner aquí todos los bookmarks que tengo, hoy empezamos con mi carpeta **Recursos**.  
 Imágenes, iconos, gráficos, fuentes, de todo… casi sin clasificar.
 
 ### Fuentes </p> 

@@ -19,7 +19,7 @@ permalink: /2004/05/30/126-revision/
       </table>
       
       <p>
-        Bueno, he colocado un peque&ntilde;o buscador en la <a href="archivos.php">sección de archivos</a> que admite los operadores <em>and</em> y <em>or</em> no es mucho pero menos da una piedra, a ver si lo puedo hacer un poco más avanzado y arreglo unas cuantas cosas más de la web, como validar los comentarios con javascript (me da rabia, son cosas que estoy haciendo todos los d&iacute;as y ésto lo tengo abandonado, en casa del herrero…)
+        Bueno, he colocado un peque&ntilde;o buscador en la <a href="archivos.php">sección de archivos</a> que admite los operadores <em>and</em> y <em>or</em> no es mucho pero menos da una piedra, a ver si lo puedo hacer un poco más avanzado y arreglo unas cuantas cosas más de la web, como validar los comentarios con javascript (me da rabia, son cosas que estoy haciendo todos los días y ésto lo tengo abandonado, en casa del herrero…)
       </p>
       
       <p>
@@ -27,7 +27,7 @@ permalink: /2004/05/30/126-revision/
       </p>
       
       <p>
-        &iquest;Y la foto? no, no tiene nada que ver, pero me apetec&iacute;a <img src="/imagenes/emoticonos/sonrisa.gif" alt="sonrisa" width="16" height="16" />
+        &iquest;Y la foto? no, no tiene nada que ver, pero me apetecía <img src="/imagenes/emoticonos/sonrisa.gif" alt="sonrisa" width="16" height="16" />
       </p>
       
       <p>

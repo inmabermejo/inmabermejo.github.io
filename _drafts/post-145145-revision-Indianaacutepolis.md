@@ -20,11 +20,11 @@ permalink: /2004/06/20/145-revision/
             </tr> </tbody> </table> 
             
             <p>
-              Menuda carrera.<br /> Sólo con decir que acabaron 9 de los 20 pilotos ya podéis imaginar la que se montó. Muchos accidentes, fallos mecánicos y una descalificación. Bandera negra para Juan Pablo Montoya por haber abandonado su coche (problema mecánico) en la salida. El piloto pudo coger el tercer coche y proseguir la carrera, saliendo el &uacute;ltimo, pero tras 60 vueltas (no olvidemos que en cada una se juegan la vida) deciden descalificarlo. No me parece justo en absoluto, lo mismo pod&iacute;an haber hecho desde el principio. Comprensible perfectamente el enfado del colombiano.
+              Menuda carrera.<br /> Sólo con decir que acabaron 9 de los 20 pilotos ya podéis imaginar la que se montó. Muchos accidentes, fallos mecánicos y una descalificación. Bandera negra para Juan Pablo Montoya por haber abandonado su coche (problema mecánico) en la salida. El piloto pudo coger el tercer coche y proseguir la carrera, saliendo el &uacute;ltimo, pero tras 60 vueltas (no olvidemos que en cada una se juegan la vida) deciden descalificarlo. No me parece justo en absoluto, lo mismo podían haber hecho desde el principio. Comprensible perfectamente el enfado del colombiano.
             </p>
             
             <p>
-              No tuvieron mucha suerte en el equipo BMW, si lo de Montoya "jode", más peligroso fue lo de Ralph Schumacher, que tras perder el control del coche tuvo un accidente bastante grave (tuvo que salir en ambulancia) y que además nos ha mantenido en vilo durante bastante tiempo, safety car, todos dando vueltas y vueltas y nadie le sacaba de ah&iacute;. Creo que la organización deber&iacute;a dar unas explicaciones en cuanto a esto.
+              No tuvieron mucha suerte en el equipo BMW, si lo de Montoya "jode", más peligroso fue lo de Ralph Schumacher, que tras perder el control del coche tuvo un accidente bastante grave (tuvo que salir en ambulancia) y que además nos ha mantenido en vilo durante bastante tiempo, safety car, todos dando vueltas y vueltas y nadie le sacaba de ahí. Creo que la organización debería dar unas explicaciones en cuanto a esto.
             </p>
             
             <p>

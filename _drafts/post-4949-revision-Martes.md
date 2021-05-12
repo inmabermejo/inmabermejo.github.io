@@ -14,15 +14,15 @@ permalink: /2004/03/07/49-revision/
   <tr valign="top">
     <td>
       <p>
-        El calentador no calienta y mi casera quiere subirnos el alquiler. Bajo de casa los cuatro pisos andando para convencerme a m&iacute; misma de que hago algo de ejercicio, &iquest;llegaré a tiempo a coger el autob&uacute;s? Me cruzo con el portero que me echa la mirada "sé que vosotros os habéis llevado la maceta que nos falta en el rellano" y una simpática vecina me da con la puerta de la calle en las narices. Tres semáforos en rojo y llego a tiempo de saludar al autobusero que me sonr&iacute;e y me deja plantada a cinco metros de la parada &iquest;por qué me habré levantado?
+        El calentador no calienta y mi casera quiere subirnos el alquiler. Bajo de casa los cuatro pisos andando para convencerme a mí misma de que hago algo de ejercicio, &iquest;llegaré a tiempo a coger el autob&uacute;s? Me cruzo con el portero que me echa la mirada "sé que vosotros os habéis llevado la maceta que nos falta en el rellano" y una simpática vecina me da con la puerta de la calle en las narices. Tres semáforos en rojo y llego a tiempo de saludar al autobusero que me sonríe y me deja plantada a cinco metros de la parada &iquest;por qué me habré levantado?
       </p>
       
       <p>
-        Con sigilo me escurro a mitad de clase de Redes. Es muy temprano para que haya alguien en la cafeter&iacute;a y muy tarde para tener un sitio en la biblioteca. Al menos tengo que sentarme arriba y puedo dar dos cabezadas mientras nuestro anodino profesor hace 0&prime;7 ejercicios por minuto. Esto es vida.
+        Con sigilo me escurro a mitad de clase de Redes. Es muy temprano para que haya alguien en la cafetería y muy tarde para tener un sitio en la biblioteca. Al menos tengo que sentarme arriba y puedo dar dos cabezadas mientras nuestro anodino profesor hace 0&prime;7 ejercicios por minuto. Esto es vida.
       </p>
       
       <p>
-        Ya lo tengo claro. De mayor seré autobusera. Creo que no puede haber nada más interesante que comprobar como en un autob&uacute;s de la l&iacute;nea 39A de Murcia cabe cada d&iacute;a a una persona más que el anterior, y hacer apuestas con los compa&ntilde;eros a ver quién consigue hacerlo reventar, yo creo que se hacen más grandes, dan de s&iacute;, esto merece una foto…
+        Ya lo tengo claro. De mayor seré autobusera. Creo que no puede haber nada más interesante que comprobar como en un autob&uacute;s de la línea 39A de Murcia cabe cada día a una persona más que el anterior, y hacer apuestas con los compa&ntilde;eros a ver quién consigue hacerlo reventar, yo creo que se hacen más grandes, dan de sí, esto merece una foto…
       </p>
       
       <p>
@@ -30,11 +30,11 @@ permalink: /2004/03/07/49-revision/
       </p>
       
       <p>
-        Mi clase de prácticas de Redes ha sido productiva como no recuerdo otra. Mi profesor habla igual que "mi profesor", vaya, esta noche ya no dormiré bien ni con Eco ni con un Trakimaz&iacute;n. Bueno, me queda el recurso de la televisión. Es lo que tiene.
+        Mi clase de prácticas de Redes ha sido productiva como no recuerdo otra. Mi profesor habla igual que "mi profesor", vaya, esta noche ya no dormiré bien ni con Eco ni con un Trakimazín. Bueno, me queda el recurso de la televisión. Es lo que tiene.
       </p>
       
       <p>
-        Menos mal que esta noche planeamos una velada musical en "La puerta falsa" o bien ver la exposición de arte contemporáneo en "Las Claras", con su cervecita después, por supuesto, que, como siempre, quedará en palabras, al menos mentras lo hablamos me entretengo. As&iacute; que me voy a ver la programación de los posibles conciertos a los que no iré, exposiciones que no visitaré y pel&iacute;culas que no veré. A lo sumo iré al piso de J.I. a robarle alguna figurita decorativa a&ntilde;os 70 o de las que regalan en las comuniones para mi colección de criaderos de polvo. Ya escribiré esta paranoia en la web otro d&iacute;a…
+        Menos mal que esta noche planeamos una velada musical en "La puerta falsa" o bien ver la exposición de arte contemporáneo en "Las Claras", con su cervecita después, por supuesto, que, como siempre, quedará en palabras, al menos mentras lo hablamos me entretengo. Así que me voy a ver la programación de los posibles conciertos a los que no iré, exposiciones que no visitaré y películas que no veré. A lo sumo iré al piso de J.I. a robarle alguna figurita decorativa a&ntilde;os 70 o de las que regalan en las comuniones para mi colección de criaderos de polvo. Ya escribiré esta paranoia en la web otro día…
       </p>
     </td>
     

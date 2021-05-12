@@ -7,23 +7,23 @@ layout: revision
 guid: http://www.wp.chavalina.net/2006/09/25/742-revision/
 permalink: /2006/09/25/742-revision/
 ---
-Llevamos todo el verano con jaleo por aqu&iacute; y por allá, en la Senda de Granada, entre Murcia y Espinardo, porque parece ser que en un terreno en construcción se han encontrado unas tumbas romanas.
+Llevamos todo el verano con jaleo por aquí y por allá, en la Senda de Granada, entre Murcia y Espinardo, porque parece ser que en un terreno en construcción se han encontrado unas tumbas romanas.
 
-Y un profesor de arqueolog&iacute;a de la Universidad de Murcia, que es el que se ha ocupado de darle «publicidad» al hecho, prepara una «clase» para el miércoles por la ma&ntilde;ana, a las 11, en el mismo emplazamiento de esas tumbas.
+Y un profesor de arqueología de la Universidad de Murcia, que es el que se ha ocupado de darle «publicidad» al hecho, prepara una «clase» para el miércoles por la ma&ntilde;ana, a las 11, en el mismo emplazamiento de esas tumbas.
 
-Lo publico por aqu&iacute; por si alguien no lo sabe y quiere acercarse, creo que habrá autobuses gratis desde La Merced.  
+Lo publico por aquí por si alguien no lo sabe y quiere acercarse, creo que habrá autobuses gratis desde La Merced.  
 También os dejo unos consejos de la mano de este mismo profesor, por si os acercáis, que no corráis peligro:
 
 Javier Rafael Garcia del Toro escribió:
 
-> **NORMAS DE OBLIGADO CUMPLIMIENTO PARA LA CLASE DE ARQUEOLOG&Iacute;A**  
+> **NORMAS DE OBLIGADO CUMPLIMIENTO PARA LA CLASE DE ARQUEOLOGíA**  
 > Para no quedar IN SITUS EST como LOS MUERTOS ROMANOS,conviene seguir algunas normas  
 > 1.- Ir cogidos de la mano o de la cintura COMO LA CONGA  
 > 2.- No salirse del camino ni de la Senda, y pensar que no es la Senda de los Elefantes  
 > 3.- Yo llevaré una cuerda con nudos cada ,metro;agarraos a ellos que yo os salvaré  
-> 4.- No hay ni molinos ni gigantes,pero si camiones muy pesados y maquinaria pesada,que en el lugar de reunión nunca están pero que tal vez ese d&iacute;a si  
+> 4.- No hay ni molinos ni gigantes,pero si camiones muy pesados y maquinaria pesada,que en el lugar de reunión nunca están pero que tal vez ese día si  
 > 5.- Dejad los coches al comienzo de la Senda de Granada y avanzad en fila india y por la izquierda  
 > 6.- No mireis para atrás,pues tal vez intenten convertirnos en estátuas de sal como a la mujer de Lot en Sodoma y Gomorra  
 > 6.- llevad los móviles o celulares o telefoninos,para llamar «al lucero del Alba» si ello fuera o fuese menester  
 > 7.- Si al final de la clase popular y p&uacute;blica ,no me encontráis,es que estoy girando visita de prospección a Sangonera o estudiando y buscando un ABOGADO DEFENSOR DE OFICIO o de 100 euros la semana  
-> Javier Garc&iacute;a del Toro
+> Javier García del Toro

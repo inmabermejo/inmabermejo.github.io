@@ -7,10 +7,10 @@ layout: revision
 guid: http://www.chavalina.net/2008/12/25/822-revision-2/
 permalink: /2008/12/25/822-revision-2/
 ---
-Uyyys, ayer viendo Muchachada Nui (Nui) qué mal me sent&iacute; con el v&iacute;deo del pobre Enjuto Mojamuto:
+Uyyys, ayer viendo Muchachada Nui (Nui) qué mal me sentí con el vídeo del pobre Enjuto Mojamuto:
 
 <p class="imgcentro">
 </p>
 
-Y es que me sent&iacute; tan identificada… que casi arranco el ordenador de su sitio!  
+Y es que me sentí tan identificada… que casi arranco el ordenador de su sitio!  
 Porque el teletrabajo tiene sus ventajas, pero también inconvenientes, y ahora echo de menos tener compis, salir a almorzar, estar cinco minutillos de charla…

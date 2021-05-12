@@ -16,11 +16,11 @@ permalink: /2004/02/26/36-revision/
 </p>
 
 <p align="left">
-  En lo que nos toca más de cerca, este a&ntilde;o Fernando Alonso va a por todas, con el nuevo motor de su Renault RS-24, parece que se han esforzado por conseguir una máquina que verdaderamente pueda si no hacer sombra, s&iacute; estar a la altura de las más importantes escuder&iacute;as, que este a&ntilde;o tendrán que estar ojo avizor no sólo por el equipo Renault, parece que Bar también tiene mucho que decir este a&ntilde;o.
+  En lo que nos toca más de cerca, este a&ntilde;o Fernando Alonso va a por todas, con el nuevo motor de su Renault RS-24, parece que se han esforzado por conseguir una máquina que verdaderamente pueda si no hacer sombra, sí estar a la altura de las más importantes escuderías, que este a&ntilde;o tendrán que estar ojo avizor no sólo por el equipo Renault, parece que Bar también tiene mucho que decir este a&ntilde;o.
 </p>
 
 <p align="left">
-  En cualquier caso, Michael Schumacher volvió a batir el record del circuito de Imola justo antes de empaquetar para Melbourne, &iquest;una forma de dejar claro que este a&ntilde;o también va a por todas? Ah&iacute; estaremos para verlo, aunque eso será si Alonso le deja jejeje <img src="/imagenes/emoticonos/risa.gif" alt="emo" />
+  En cualquier caso, Michael Schumacher volvió a batir el record del circuito de Imola justo antes de empaquetar para Melbourne, &iquest;una forma de dejar claro que este a&ntilde;o también va a por todas? Ahí estaremos para verlo, aunque eso será si Alonso le deja jejeje <img src="/imagenes/emoticonos/risa.gif" alt="emo" />
 </p>
 
   * <a href="http://www.f1.com" target="_blank">F1.com &#8211; página oficial</a>

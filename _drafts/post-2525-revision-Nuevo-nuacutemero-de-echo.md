@@ -10,7 +10,7 @@ permalink: /2004/01/24/25-revision/
 Ya está disponible en la <a href="http://dafi.dif.um.es/revista/" target="_blank">web<br /> de la revista de la facultad de informática de la UM</a> el nuevo  
 n&uacute;mero de la revista {echo} [](http://dafi.dif.um.es/revista/archivos/numero012/numero012.pdf),  
 dedicado este mes a los exámenes, os destaco que siguen con el  
-"tutorial" de Emule, para los linuxeros (y los que querr&iacute;amos  
+"tutorial" de Emule, para los linuxeros (y los que querríamos  
 serlo…) la instalación de programas compilando paquetes, y como  
 curiosidad, hablan del Gspot, el programa que yo ya os presenté  
 en diciembre.

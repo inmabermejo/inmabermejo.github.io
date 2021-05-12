@@ -6,7 +6,7 @@ url: http://python.dns-nac-zone.com/~toad/lechuga/
 date: 2004-08-26 04:39:36
 message: "Hmmm... los comentarios están un poco desordenados, &iquest;no? <img src=\"./imagenes/emoticonos/confuso.gif\" alt=\"emo\"> <br />
 <br />
-Ya sé lo que pasa: antes hab&iacute;a un comentario de fernando repetido. Cuando escrib&iacute; mis tres comentarios, a&uacute;n estaba. Despues cuando se borró el comentario, los siguientes que se a&ntilde;adieron se colocaron en el sitio del comentario borrado.<br />
+Ya sé lo que pasa: antes había un comentario de fernando repetido. Cuando escribí mis tres comentarios, a&uacute;n estaba. Despues cuando se borró el comentario, los siguientes que se a&ntilde;adieron se colocaron en el sitio del comentario borrado.<br />
 <br />
  MySQL si no se usa un \"ORDER BY\", al borrar un registro coloca los siguientes justo en el sitio donde estaba el registro borrado.<br />
 <br />

@@ -1,6 +1,6 @@
 ---
 id: 1455
-title: 'Tipograf&iacute;a &quot;mojamuta&quot;'
+title: 'Tipografía &quot;mojamuta&quot;'
 date: 2008-01-21T10:31:11+02:00
 author: Chavalina
 layout: revision

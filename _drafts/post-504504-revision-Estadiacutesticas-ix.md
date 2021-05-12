@@ -1,6 +1,6 @@
 ---
 id: 1306
-title: 'Estad&iacute;sticas (ix)'
+title: 'Estadísticas (ix)'
 date: 2005-06-26T07:57:56+02:00
 author: Chavalina
 layout: revision

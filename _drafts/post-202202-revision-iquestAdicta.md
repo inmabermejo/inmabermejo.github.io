@@ -17,10 +17,10 @@ permalink: /2004/08/27/202-revision/
 
 Ahora estoy en casa y me encuentro con que no puedo levantarme del pc. 
 
-Pero es que normalmente no hago nada. Acaso leo un poco las noticias. O alg&uacute;n blog. O un poco el foro. Apenas chateo, y normalmente sólo con gente que conozco. El correo. Pero ah&iacute; estoy. Hasta me llevo la cena junto al pc.  
+Pero es que normalmente no hago nada. Acaso leo un poco las noticias. O alg&uacute;n blog. O un poco el foro. Apenas chateo, y normalmente sólo con gente que conozco. El correo. Pero ahí estoy. Hasta me llevo la cena junto al pc.  
 &iquest;Plugged?
 
-Con esta pinta cualquiera pensar&iacute;a que tengo un problema. Y yo también si no fuera porque cuando estoy sin internet ni siquiera lo echo de menos. Salgo más. Estudio más. Trabajo más. Voy más a clase. Hasta veo la televisión. Escribo. Leo.
+Con esta pinta cualquiera pensaría que tengo un problema. Y yo también si no fuera porque cuando estoy sin internet ni siquiera lo echo de menos. Salgo más. Estudio más. Trabajo más. Voy más a clase. Hasta veo la televisión. Escribo. Leo.
 
 Pero cuando vuelvo a Blanca, recupero el vicio. Es como la teleadicción, pero en versión no-pasiva, que no es lo mismo que activa.
 

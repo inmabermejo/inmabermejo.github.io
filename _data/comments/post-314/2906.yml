@@ -2,9 +2,9 @@ id: 2906
 name: Chavalina
 url: http://www.chavalina.net
 date: 2005-01-08 19:14:23
-message: "Mmmmmm, pues i don&prime;t know, ni idea, hice ayer uno de prueba con David (dmnet) y todo ok. Si te da el error ese que me dijiste creo que será porque quizá una de las variables que env&iacute;as (el t&iacute;tulo o la url) no se recibe o se llama de otra forma.<br />
+message: "Mmmmmm, pues i don&prime;t know, ni idea, hice ayer uno de prueba con David (dmnet) y todo ok. Si te da el error ese que me dijiste creo que será porque quizá una de las variables que envías (el título o la url) no se recibe o se llama de otra forma.<br />
 <br />
-Seg&uacute;n los temas que me le&iacute; cuando lo implementé, los nombres de las variables son estos que he puesto arriba<br />
+Seg&uacute;n los temas que me leí cuando lo implementé, los nombres de las variables son estos que he puesto arriba<br />
 <br />
 $url=$HTTP_POST_VARS[&prime;url&prime;];<br />
 $title=$HTTP_POST_VARS[&prime;title&prime;];<br />

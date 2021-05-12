@@ -1,6 +1,6 @@
 ---
 id: 1616
-title: 'Vacaciones de verano para m&iacute;…'
+title: 'Vacaciones de verano para mí…'
 date: 2004-08-06T09:27:57+02:00
 author: Chavalina
 layout: revision
@@ -17,5 +17,5 @@ hoy mi vida comienza a despertar
 hoy se ha abierto la puerta sin llamar  
 hoy te tengo a mi lado y soy feliz!
 
-Dedicado a mi libro de Algor&iacute;tmica.  
+Dedicado a mi libro de Algorítmica.  
 la la la la la la la la, la la la, la la la la la la la la, la la la…

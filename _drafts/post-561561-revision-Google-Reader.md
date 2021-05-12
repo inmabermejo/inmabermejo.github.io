@@ -11,6 +11,6 @@ permalink: /2005/10/08/561-revision/
 
 > también es conocido como el Bloglines-killer
 
-> Deja a un lado tu Bloglines, desinstala tu NetNewsWire, el FeedDemon, que esto es lo que deber&iacute;as estar usando
+> Deja a un lado tu Bloglines, desinstala tu NetNewsWire, el FeedDemon, que esto es lo que deberías estar usando
 
 ![emo](/imagenes/emoticonos/pensativo.gif)

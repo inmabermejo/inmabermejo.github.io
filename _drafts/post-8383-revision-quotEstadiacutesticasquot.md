@@ -1,17 +1,17 @@
 ---
 id: 1294
-title: '&quot;Estad&iacute;sticas&quot;'
+title: '&quot;Estadísticas&quot;'
 date: 2004-04-13T15:25:11+02:00
 author: Chavalina
 layout: revision
 guid: http://www.wp.chavalina.net/2004/04/13/83-revision/
 permalink: /2004/04/13/83-revision/
 ---
-La &uacute;nica utilidad que encuentro a las estad&iacute;sticas hasta ahora es la curiosidad de saber de dónde es la gente que me visita. Hasta ahora lo que más me ha sorprendido han sido las visitas desde Bahrain (donde se celebró el &uacute;ltimo GP de Formula 1), supongo que llevado por alguna b&uacute;squeda que, por desgracia, no quedó reflejada.
+La &uacute;nica utilidad que encuentro a las estadísticas hasta ahora es la curiosidad de saber de dónde es la gente que me visita. Hasta ahora lo que más me ha sorprendido han sido las visitas desde Bahrain (donde se celebró el &uacute;ltimo GP de Formula 1), supongo que llevado por alguna b&uacute;squeda que, por desgracia, no quedó reflejada.
 
-Y ahora encuentro que la mayor&iacute;a de mis visitantes procedentes de buscadores llegan a través de "retrato", "Dorian", "Gray", "Dragostea din tei", "eco", "rosa". Pero la que más me ha gustado ha sido <a href="http://mx.search.yahoo.com/search/mx?va=robert+downey+jr+fotografias&#038;ei=UTF-8&#038;n=10&#038;fl=1&#038;vl=lang_es&#038;xargs=0&#038;fr=fp-tab-web-t&#038;b=1" target="_blank">"robert downey jr fotograf&iacute;as"</a> 
+Y ahora encuentro que la mayoría de mis visitantes procedentes de buscadores llegan a través de "retrato", "Dorian", "Gray", "Dragostea din tei", "eco", "rosa". Pero la que más me ha gustado ha sido <a href="http://mx.search.yahoo.com/search/mx?va=robert+downey+jr+fotografias&#038;ei=UTF-8&#038;n=10&#038;fl=1&#038;vl=lang_es&#038;xargs=0&#038;fr=fp-tab-web-t&#038;b=1" target="_blank">"robert downey jr fotografías"</a> 
 
-Y para no defraudar… ah&iacute; van mis favoritas.
+Y para no defraudar… ahí van mis favoritas.
 
 <p align="center">
   <table border="0">

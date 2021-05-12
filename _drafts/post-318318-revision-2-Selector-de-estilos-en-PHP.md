@@ -7,12 +7,12 @@ layout: revision
 guid: http://www.chavalina.net/2008/12/24/318-revision-2/
 permalink: /2008/12/24/318-revision-2/
 ---
-Desde que puse varias hojas de estilo para elegir en el blog noté que iba más lento, bueno, con mi conexión se nota especialmente![emo](/imagenes/emoticonos/triste.gif) sin embargo, no hab&iacute;a mucha más carga gráfica que en otras ocasiones.
+Desde que puse varias hojas de estilo para elegir en el blog noté que iba más lento, bueno, con mi conexión se nota especialmente![emo](/imagenes/emoticonos/triste.gif) sin embargo, no había mucha más carga gráfica que en otras ocasiones.
 
 El problema es que se tienen que cargar las cuatro hojas de estilo al recibir la página. Y esto además hace que al elegir otro estilo con el selector a veces haya que recargar la página para que se vean todas las imágenes. Para evitar esto y hacer que la página sea menos pesada, he cambiado el <a href="http://www.alistapart.com/articles/alternate/" target="_blank">selector de estilos</a> de A List Apart, basado en JavaScript, por uno similar pero en PHP.
 
 Veamos cómo funciona.  
-En los elementos del men&uacute; de la izquierda que seleccionan el estilo antes ten&iacute;amos una llamada a una función de javascript como se describe en <a href="http://www.alistapart.com/articles/alternate/" target="_blank">el art&iacute;culo</a>, ahora simplemente hay un enlace a un script, que será el encargado de hacer el cambio, pasándole un parámetro (mediante el método GET) que indica la hoja de estilo elegida: 
+En los elementos del men&uacute; de la izquierda que seleccionan el estilo antes teníamos una llamada a una función de javascript como se describe en <a href="http://www.alistapart.com/articles/alternate/" target="_blank">el artículo</a>, ahora simplemente hay un enlace a un script, que será el encargado de hacer el cambio, pasándole un parámetro (mediante el método GET) que indica la hoja de estilo elegida: 
 
 <div class="codigo">
   <a href="styleswitcher.php?estilo=4-7" title="estilo 4.7">
@@ -20,7 +20,7 @@ En los elementos del men&uacute; de la izquierda que seleccionan el estilo antes
 
 Hay que tener cuidado con los nombres que se ponen a estos parámetros, mejor no usar caracteres «raros».
 
-Este script, llamado styleswitcher.php, simplemente recoge ese parámetro y la página desde la que se ha llegado, para luego volver a ella y que el usuario no se desconcierte, env&iacute;a una cookie para recordar el estilo elegido, y vuelve a la página desde la que se llegó:
+Este script, llamado styleswitcher.php, simplemente recoge ese parámetro y la página desde la que se ha llegado, para luego volver a ella y que el usuario no se desconcierte, envía una cookie para recordar el estilo elegido, y vuelve a la página desde la que se llegó:
 
 <div class="codigo">
   <?<br /> $referencia = getenv(«HTTP_REFERER»);<br /> $estilo=$HTTP_GET_VARS[&prime;estilo&prime;];<br /> setcookie(«chnet_estilo»,$estilo);<br /> ?><br /> <html><br /> <head><br /> <title>modificando estilo</title> <br /> </head><br /> <body onLoad = "parent.location = &prime;<? echo $referencia; ?>&prime;"><br /> </body><br /> </html>
@@ -41,13 +41,13 @@ A diferencia del método mencionado en A List Apart, en este caso sólo nos har�
 
 y de esta manera, ahorraremos que se carguen el resto de las hojas, que en mi caso eran cuatro, a 4 ó 5kb cada una, pues casi 20kb menos de página.
 
-Otra ventaja de esto es que también funciona en navegadores que no permitan el uso de JavaScript, y también que, en teor&iacute;a, al hacer la petición con el nuevo estilo al servidor, las imágenes cargarán desde el principio, a diferencia de antes, que a veces (yo) ten&iacute;a que recargar la página para que bajaran todas.
+Otra ventaja de esto es que también funciona en navegadores que no permitan el uso de JavaScript, y también que, en teoría, al hacer la petición con el nuevo estilo al servidor, las imágenes cargarán desde el principio, a diferencia de antes, que a veces (yo) tenía que recargar la página para que bajaran todas.
 
-El inconveniente de esto es que se hace de lado del servidor, con lo que hay que hacer dos peticiones más, una a styleswitcher.php y otra a la misma página que estábamos viendo, con lo que se genera tráfico «innecesario». Sin embargo, como uno no está cambiando de estilo cada vez (seguramente nadie lo usará![emo](/imagenes/emoticonos/triste.gif) ) y en cada página me ahorro 20kb, creo que merece la pena, as&iacute; podré incluir todos los dise&ntilde;os que me apetezca sin hacer que la página acabe siendo más pesada que yo jejeje.
+El inconveniente de esto es que se hace de lado del servidor, con lo que hay que hacer dos peticiones más, una a styleswitcher.php y otra a la misma página que estábamos viendo, con lo que se genera tráfico «innecesario». Sin embargo, como uno no está cambiando de estilo cada vez (seguramente nadie lo usará![emo](/imagenes/emoticonos/triste.gif) ) y en cada página me ahorro 20kb, creo que merece la pena, así podré incluir todos los dise&ntilde;os que me apetezca sin hacer que la página acabe siendo más pesada que yo jejeje.
 
-Además si estábamos en alguna zona concreta del documento (#referencias, #comentarios en mi caso) no vuelve ah&iacute;. Esto tengo que buscarme alguna ma&ntilde;a para conseguirlo.
+Además si estábamos en alguna zona concreta del documento (#referencias, #comentarios en mi caso) no vuelve ahí. Esto tengo que buscarme alguna ma&ntilde;a para conseguirlo.
 
-Me gustar&iacute;a que si veis otra forma más sencilla de hacer esto me lo digáis, que nunca está de más![emo](/imagenes/emoticonos/guino.gif) 
+Me gustaría que si veis otra forma más sencilla de hacer esto me lo digáis, que nunca está de más![emo](/imagenes/emoticonos/guino.gif) 
 
 Sin embargo, mi index.php sigue siendo demasiado pesado.  
-Pensé en «cortar» los art&iacute;culos menos actuales (por ejemplo, los cinco más antiguos) de la portada dejando solo unas l&iacute;neas a modo de resumen, pero no sé si es cómodo tener que hacer otro click para leer el art&iacute;culo, a mi no me gusta mucho pero… &iquest;vosotros qué pensáis?
+Pensé en «cortar» los artículos menos actuales (por ejemplo, los cinco más antiguos) de la portada dejando solo unas líneas a modo de resumen, pero no sé si es cómodo tener que hacer otro click para leer el artículo, a mi no me gusta mucho pero… &iquest;vosotros qué pensáis?

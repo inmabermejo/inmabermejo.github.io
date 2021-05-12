@@ -7,4 +7,4 @@ layout: revision
 guid: http://www.wp.chavalina.net/2004/06/25/149-revision/
 permalink: /2004/06/25/149-revision/
 ---
-… me podrán criticar, pero no me pitarán los o&iacute;dos.
+… me podrán criticar, pero no me pitarán los oídos.

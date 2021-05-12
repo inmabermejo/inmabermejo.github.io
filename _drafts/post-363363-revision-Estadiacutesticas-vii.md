@@ -1,6 +1,6 @@
 ---
 id: 1319
-title: 'Estad&iacute;sticas (vii)'
+title: 'Estadísticas (vii)'
 date: 2005-03-13T02:46:39+02:00
 author: Chavalina
 layout: revision

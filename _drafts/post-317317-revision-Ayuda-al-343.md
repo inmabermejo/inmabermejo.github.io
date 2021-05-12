@@ -7,4 +7,4 @@ layout: revision
 guid: http://www.wp.chavalina.net/2005/01/08/317-revision/
 permalink: /2005/01/08/317-revision/
 ---
-Env&iacute;a AYUDA al 343
+Envía AYUDA al 343

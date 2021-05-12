@@ -11,5 +11,5 @@ permalink: /2004/10/12/238-revision/
   <img class="imgcentro" src="http://www.chavalina.net/imagenes/fotos/pendrive.jpg" alt="Mi nuevo pendrive" />
 </p>
 
-Por cortes&iacute;a de Juan Carlos, Juan y Manolo.  
+Por cortesía de Juan Carlos, Juan y Manolo.  
 Muchas gracias chicos, yo también os quiero![emo](/imagenes/emoticonos/guino.gif)

@@ -7,11 +7,11 @@ layout: revision
 guid: http://www.wp.chavalina.net/2006/11/05/753-revision/
 permalink: /2006/11/05/753-revision/
 ---
-Cada d&iacute;a me siento más fuera del mundo de los _blogs_.  
+Cada día me siento más fuera del mundo de los _blogs_.  
 O quizá es que ya no se llama blog a lo que yo pensaba que era un blog.  
-Ahora un blog es cualquier cosa. Con el BUM de los blogs comerciales, y las redes de éstos, la palabra ha tomado otro significado para m&iacute;.
+Ahora un blog es cualquier cosa. Con el BUM de los blogs comerciales, y las redes de éstos, la palabra ha tomado otro significado para mí.
 
-Antes yo aqu&iacute; contaba cualquier cosa que me ven&iacute;a a la cabeza (<a href="http://chavalina.net/comentar.php?idpost=66&#038;q=" target="_blank">lo</a> <a href="http://chavalina.net/comentar.php?idpost=49&#038;q=" target="_blank">que</a> <a href="http://chavalina.net/comentar.php?idpost=8&#038;q=" target="_blank">me</a> <a href="http://chavalina.net/comentar.php?idpost=540&#038;q=" target="_blank">daba</a> <a href="http://chavalina.net/comentar.php?idpost=507&#038;q=" target="_blank">la</a> <a href="http://chavalina.net/comentar.php?idpost=437&#038;q=" target="_blank">gana</a>, <a href="http://chavalina.net/comentar.php?idpost=362&#038;q=" target="_blank">de</a> <a href="http://chavalina.net/comentar.php?idpost=276&#038;q=" target="_blank">verdad</a>), y era muy sencillo, y no me preocupaba <a href="http://www.htmllife.com/archivos/la-empatia-puede-ser-perjudicial-para-tu-blog/" target="_blank">lo que pudieran pensar</a> ni si alguien lo enlazar&iacute;a, ni si saldr&iacute;a en un ranking, ni nada de nada.
+Antes yo aquí contaba cualquier cosa que me venía a la cabeza (<a href="http://chavalina.net/comentar.php?idpost=66&#038;q=" target="_blank">lo</a> <a href="http://chavalina.net/comentar.php?idpost=49&#038;q=" target="_blank">que</a> <a href="http://chavalina.net/comentar.php?idpost=8&#038;q=" target="_blank">me</a> <a href="http://chavalina.net/comentar.php?idpost=540&#038;q=" target="_blank">daba</a> <a href="http://chavalina.net/comentar.php?idpost=507&#038;q=" target="_blank">la</a> <a href="http://chavalina.net/comentar.php?idpost=437&#038;q=" target="_blank">gana</a>, <a href="http://chavalina.net/comentar.php?idpost=362&#038;q=" target="_blank">de</a> <a href="http://chavalina.net/comentar.php?idpost=276&#038;q=" target="_blank">verdad</a>), y era muy sencillo, y no me preocupaba <a href="http://www.htmllife.com/archivos/la-empatia-puede-ser-perjudicial-para-tu-blog/" target="_blank">lo que pudieran pensar</a> ni si alguien lo enlazaría, ni si saldría en un ranking, ni nada de nada.
 
 Y de vez en cuando me pasa esto, que no escribo, que no produzco. Porque si creo que no voy a hacerlo bien, pues no lo hago. Y acabo no escribiendo nada, sólo me quedan los enlaces que me interesan.
 
@@ -19,4 +19,4 @@ Google sigue siendo mi amigo, trayéndome simpáticos visitantes que llenan sus 
 
 Creo que estoy fuera, y lo peor es que tampoco tengo ganas de volver. El ambiente no me gusta, todo demasiado especializado o &ntilde;o&ntilde;o (como esto mismo), y fuera tengo demasiadas cosas como para hacer el esfuerzo y sacar un ratico para leer y crear.
 
-Mira que me gustan este tipo de art&iacute;culos, luego al final nunca lo dejo… esta vez… me siento fuera del todo, a ver qué pasa.
+Mira que me gustan este tipo de artículos, luego al final nunca lo dejo… esta vez… me siento fuera del todo, a ver qué pasa.

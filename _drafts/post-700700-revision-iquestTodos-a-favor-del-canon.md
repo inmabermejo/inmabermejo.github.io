@@ -15,7 +15,7 @@ He encontrado <a href="http://todosafavordelcanon.es/index.html" target="_blank"
 > Necesitamos el canon. Créenos.
 > 
 > No queremos que el Gobierno nos dé dinero  
-> porque a la gran mayor&iacute;a,  
+> porque a la gran mayoría,  
 > no nos alcance para llegar a final de mes.  
 > Queremos ser libres para crear y producir.  
 > Como siempre.
@@ -28,6 +28,6 @@ He encontrado <a href="http://todosafavordelcanon.es/index.html" target="_blank"
 > Sal a la calle, navega en Internet,  
 > grita a los cuatro vientos:
 > 
-> &iexcl;S&iacute; al canon!.
+> &iexcl;Sí al canon!.
 
-Es que si es de co&ntilde;a, todav&iacute;a puedo verle la gracia, pero si es de verdad… como dice mi querida <a href="http://www.portalmix.com/tamara/" target="_blank">Tamara la auténtica</a>… &iexcl;**sois patéticos**!
+Es que si es de co&ntilde;a, todavía puedo verle la gracia, pero si es de verdad… como dice mi querida <a href="http://www.portalmix.com/tamara/" target="_blank">Tamara la auténtica</a>… &iexcl;**sois patéticos**!

@@ -9,21 +9,21 @@ permalink: /2004/08/25/201-revision/
 ---
 Anoche estuve un rato en el canal <a href=&prime;http://www.bitacoras.com/chat/&prime; target=&prime;_blank&prime;>#bitacoras</a> «debatiendo amigablemente» sobre _qué es mejor_, si los <a href=&prime;http://en.wikipedia.org/wiki/SGML&prime; target=&prime;_blank&prime;>SGML</a> (HTML, XHTML) o <a href=http://www.macromedia.com/software/flash/&prime; target=&prime;_blank&prime;>Flash</a> para construir páginas web.
 
-La verdad es que en principio pensé que iba a ser una discusión unilateral simplemente poniendo verde la tecnolog&iacute;a de <a href=&prime;http://www.macromedia.com/&prime; target=&prime;_blank&prime;>Macromedia</a> pero me sorprendió ver como sal&iacute;an bastantes defensores de Flash. 
+La verdad es que en principio pensé que iba a ser una discusión unilateral simplemente poniendo verde la tecnología de <a href=&prime;http://www.macromedia.com/&prime; target=&prime;_blank&prime;>Macromedia</a> pero me sorprendió ver como salían bastantes defensores de Flash. 
 
-Viendo mi tono no es dif&iacute;cil juzgar de qué lado estoy, pero realmente creo que posicionarse en algo como esto es una tonter&iacute;a. Cada cosa sirve para lo que sirve, y no es un sustitutivo del otro. <a href=&prime;http://www.htmllife.com/&prime; target=&prime;_blank&prime;>HTML life</a> está <a href=&prime;http://www.htmllife.com/archivos/flash\_no\_es\_un\_medio\_alternativo/&prime; target=&prime;\_blank&prime;>hablando de ello</a>.
+Viendo mi tono no es difícil juzgar de qué lado estoy, pero realmente creo que posicionarse en algo como esto es una tontería. Cada cosa sirve para lo que sirve, y no es un sustitutivo del otro. <a href=&prime;http://www.htmllife.com/&prime; target=&prime;_blank&prime;>HTML life</a> está <a href=&prime;http://www.htmllife.com/archivos/flash\_no\_es\_un\_medio\_alternativo/&prime; target=&prime;\_blank&prime;>hablando de ello</a>.
 
-Parece que se nos olvida, pero quiero mencionar que Flash es una tecnolog&iacute;a que pertenece a Macromedia. La herramienta <a href=&prime;http://www.macromedia.com/cfusion/store/html/index.cfm?store=OLS-US&event=displayProduct&categoryPath=/Software/Development/StandAlones/FlashP&prime; target=&prime;_blank&prime;>no es gratuita</a> por lo tanto sólo con eso ya deber&iacute;amos ser cautelosos a la hora de supeditar nuestro trabajo a tenerlo o no disponible. No hay tantos sustitutivos a Macromedia Flash como para permitirnos depender de él, no debemos olvidarlo.
+Parece que se nos olvida, pero quiero mencionar que Flash es una tecnología que pertenece a Macromedia. La herramienta <a href=&prime;http://www.macromedia.com/cfusion/store/html/index.cfm?store=OLS-US&event=displayProduct&categoryPath=/Software/Development/StandAlones/FlashP&prime; target=&prime;_blank&prime;>no es gratuita</a> por lo tanto sólo con eso ya deberíamos ser cautelosos a la hora de supeditar nuestro trabajo a tenerlo o no disponible. No hay tantos sustitutivos a Macromedia Flash como para permitirnos depender de él, no debemos olvidarlo.
 
 Pero eso es secundario.  
 Mucho más importante me parece que es simplemente el hecho de hacer nuestra web lo más accesible que se pueda, que para eso nos estamos molestando en hacerla, **para que se vea**.
 
 Dicen que todo el mundo tiene el plugin de Flash, y que si no, está a un click, pero las cosas no son tan sencillas.
 
-  * Ejemplo 1: llego yo, con mi 486 y mi módem de 28.8 por ejemplo, a una web hecha por completo en Flash 7, digamos que unos 300k, qué puedo pensar. Pues que a mi no me quieren ah&iacute;![emo](/imagenes/emoticonos/guino.gif) 
+  * Ejemplo 1: llego yo, con mi 486 y mi módem de 28.8 por ejemplo, a una web hecha por completo en Flash 7, digamos que unos 300k, qué puedo pensar. Pues que a mi no me quieren ahí![emo](/imagenes/emoticonos/guino.gif) 
 
 
-  * Ejemplo 2: soy una tecno-victim y tengo que navegar desde el pueblo de mis abuelos donde me obligan a estar con mi portátil mediante mi móvil con GPRS. Por qué tener que descargar un Flash de «n» k y pagar una factura astronómica para poder acceder al servicio que quiero, cuando en texto ser&iacute;a una &iacute;nfima parte.
+  * Ejemplo 2: soy una tecno-victim y tengo que navegar desde el pueblo de mis abuelos donde me obligan a estar con mi portátil mediante mi móvil con GPRS. Por qué tener que descargar un Flash de «n» k y pagar una factura astronómica para poder acceder al servicio que quiero, cuando en texto sería una ínfima parte.
 
 
   * Ejemplo 3: no es tan extra&ntilde;o encontrar geeks (por decir algo) que navegan en modo texto. Y mucho más fácil encontrar gente que no carga las imágenes de las webs. &iquest;Será muy cómodo para ellos darse de narices con una maravilla hecha completamente en Flash?

@@ -8,7 +8,7 @@ guid: http://www.wp.chavalina.net/2003/11/22/4-revision/
 permalink: /2003/11/22/4-revision/
 ---
 <p align="left">
-  <a href="http://www.telefonica.net/web/vgfsite/software/msn5.zip"><br /> MSN Messenger aqu&iacute;</a>
+  <a href="http://www.telefonica.net/web/vgfsite/software/msn5.zip"><br /> MSN Messenger aquí</a>
 </p>
 
 <p align="left">

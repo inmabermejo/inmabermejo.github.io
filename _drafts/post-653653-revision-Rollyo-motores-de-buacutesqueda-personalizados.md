@@ -7,7 +7,7 @@ layout: revision
 guid: http://www.wp.chavalina.net/2006/04/11/653-revision/
 permalink: /2006/04/11/653-revision/
 ---
-<img class="imgizqda" src="/imagenes/fotos/rollyo.gif" alt="Rollyo: aplicación para crear motores de b&uacute;squeda personalizados" /> A través de <a href="http://www.tooler.com.ar/2006/03/16/crea-motores-de-busqueda-personales-con-rollyo/" target="_blank">Tooler</a>, una bitácora que me encanta, aunque actualiza poco, he _recuperado_ <a href="http://rollyo.com/" target="_blank">Rollyo</a>, que ya conoc&iacute;a por su aspecto _Web 2.0_ que fue rese&ntilde;ado en <a href="http://cssmania.com/galleries/2005/09/29/rollyo.php" target="_blank">CSSMania</a>, cuando a&uacute;n estaba bajo la protección de <a href="http://nv30.com/mt/" target="_blank">GaBuBu</a>.
+<img class="imgizqda" src="/imagenes/fotos/rollyo.gif" alt="Rollyo: aplicación para crear motores de b&uacute;squeda personalizados" /> A través de <a href="http://www.tooler.com.ar/2006/03/16/crea-motores-de-busqueda-personales-con-rollyo/" target="_blank">Tooler</a>, una bitácora que me encanta, aunque actualiza poco, he _recuperado_ <a href="http://rollyo.com/" target="_blank">Rollyo</a>, que ya conocía por su aspecto _Web 2.0_ que fue rese&ntilde;ado en <a href="http://cssmania.com/galleries/2005/09/29/rollyo.php" target="_blank">CSSMania</a>, cuando a&uacute;n estaba bajo la protección de <a href="http://nv30.com/mt/" target="_blank">GaBuBu</a>.
 
 Rollyo es una sencilla aplicación que permite crear motores de b&uacute;squeda especificando en qué páginas quieres buscar. Por ejemplo, yo he creado un <a href="http://rollyo.com/chavalina/recursos_diseao_web/" target="_blank">motor para buscar recursos de dise&ntilde;o web</a> en mis páginas favoritas. Similar al que crearon en <a href="http://www.tooler.com.ar/2006/03/16/crea-motores-de-busqueda-personales-con-rollyo/" target="_blank">Tooler</a>, pero con las páginas que yo he querido.
 
@@ -19,9 +19,9 @@ Bueno, tiene varias cosas interesantes. La que a mi me ha gustado más es la pos
 
 Como veis en la imagen, las **&ntilde;** no le caen bien![emo](/imagenes/emoticonos/triste.gif) 
 
-Tiene cosas t&iacute;picas, como mostrar las **&uacute;ltimas b&uacute;squedas que has realizado** en tu perfil, o agregar motores creados por otros usuarios. También ofrece la posibilidad de **crear un cajet&iacute;n de b&uacute;squeda** de forma automática, para colocarlo en nuestro sitio web, de crear un motor de b&uacute;squeda **a partir de nuestros marcadores** (favoritos), simplemente subiendo el archivo que genera Firefox. Mucha simbiosis, jeje, quiero decir, integración, entre el rollito y el zorrito.
+Tiene cosas típicas, como mostrar las **&uacute;ltimas b&uacute;squedas que has realizado** en tu perfil, o agregar motores creados por otros usuarios. También ofrece la posibilidad de **crear un cajetín de b&uacute;squeda** de forma automática, para colocarlo en nuestro sitio web, de crear un motor de b&uacute;squeda **a partir de nuestros marcadores** (favoritos), simplemente subiendo el archivo que genera Firefox. Mucha simbiosis, jeje, quiero decir, integración, entre el rollito y el zorrito.
 
-Y, como todo lo _Web 2.0_, potencian las relaciones y se pueden compartir fácilmente motores, ponerlos a disposición del p&uacute;blico y ver los de otros usuarios, hay un _top_ de motores, y hasta un concurso que ten&iacute;a un Ipod Video como premio.  
+Y, como todo lo _Web 2.0_, potencian las relaciones y se pueden compartir fácilmente motores, ponerlos a disposición del p&uacute;blico y ver los de otros usuarios, hay un _top_ de motores, y hasta un concurso que tenía un Ipod Video como premio.  
 Mira que bonito todo, que felicidad y que buen _rollyo_![emo](/imagenes/emoticonos/guino.gif) 
 
 En fin, que pinta muy bien, pero lo he usado poco. Ya contaré si me da castigo.

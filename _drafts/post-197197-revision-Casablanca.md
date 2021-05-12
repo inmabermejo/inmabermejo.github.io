@@ -15,6 +15,6 @@ permalink: /2004/08/17/197-revision/
   </tr>
 </table>
 
-Que afortunada soy. La telebasura y un empacho de juegos ol&iacute;mpicos me han llevado a una sesión de zapping muy productiva.
+Que afortunada soy. La telebasura y un empacho de juegos olímpicos me han llevado a una sesión de zapping muy productiva.
 
-Una de mis pel&iacute;culas favoritas y la cog&iacute; justo empezada. Mucha gente la tacha de facilona, sensiblera y cosas peores, pero a mi realmente me cautivó. Fue de las primeras… no, la primera que recuerdo. Y hasta que tuve uso de razón Rick fue uno de mis amores platónicos. Qué le vamos a hacer si me gustaban las causas perdidas… lo malo es que me siguen gustando, y la vida no es como las pel&iacute;culas!
+Una de mis películas favoritas y la cogí justo empezada. Mucha gente la tacha de facilona, sensiblera y cosas peores, pero a mi realmente me cautivó. Fue de las primeras… no, la primera que recuerdo. Y hasta que tuve uso de razón Rick fue uno de mis amores platónicos. Qué le vamos a hacer si me gustaban las causas perdidas… lo malo es que me siguen gustando, y la vida no es como las películas!

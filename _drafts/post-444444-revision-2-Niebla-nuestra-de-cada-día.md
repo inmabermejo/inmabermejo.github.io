@@ -9,7 +9,7 @@ permalink: /2008/12/24/444-revision-2/
 ---
 <blockquote cite="Miguel de Unamuno, Niebla">
   <p>
-    Dame, Se&ntilde;or, las mil menudencias de cada d&iacute;a. Los hombres no sucumbimos a las grandes penas ni a las grandes alegr&iacute;as, y es porque esas penas y esas alegr&iacute;as vienen embozadas en una inmensa niebla de peque&ntilde;os incidentes.
+    Dame, Se&ntilde;or, las mil menudencias de cada día. Los hombres no sucumbimos a las grandes penas ni a las grandes alegrías, y es porque esas penas y esas alegrías vienen embozadas en una inmensa niebla de peque&ntilde;os incidentes.
   </p>
 </blockquote>
 

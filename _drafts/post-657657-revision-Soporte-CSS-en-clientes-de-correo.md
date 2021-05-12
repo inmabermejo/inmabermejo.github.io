@@ -7,7 +7,7 @@ layout: revision
 guid: http://www.wp.chavalina.net/2006/04/15/657-revision/
 permalink: /2006/04/15/657-revision/
 ---
-Y en el mismo sitio, <a href="http://www.456bereastreet.com/archive/200604/css_support_in_email_clients/" target="_blank">456 Berea ST</a>, encuentro una <a href="http://www.campaignmonitor.com/blog/archives/2006/03/a_guide_to_css_1.html" target="_blank">gu&iacute;a completilla de soporte a <acronym title="Cascade Style Sheets">CSS</acronym> en clientes de correo</a> incluyendo:
+Y en el mismo sitio, <a href="http://www.456bereastreet.com/archive/200604/css_support_in_email_clients/" target="_blank">456 Berea ST</a>, encuentro una <a href="http://www.campaignmonitor.com/blog/archives/2006/03/a_guide_to_css_1.html" target="_blank">guía completilla de soporte a <acronym title="Cascade Style Sheets">CSS</acronym> en clientes de correo</a> incluyendo:
 
   * Interfaces web: Gmail, Hotmail, Yahoo! y Windows Live Mail
   * Clientes de PC: Outlook 2003 and Outlook Express, Lotus Notes, Thunderbird

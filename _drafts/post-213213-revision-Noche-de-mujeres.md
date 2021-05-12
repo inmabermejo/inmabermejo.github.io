@@ -8,5 +8,5 @@ guid: http://www.wp.chavalina.net/2004/09/11/213-revision/
 permalink: /2004/09/11/213-revision/
 ---
 …chicos, nunca os fiéis cuando la chica dice que va a salir con sus amigas.  
-Se empieza con un chupito y se termina robando el rótulo de una carnicer&iacute;a y cortando una calle principal con las vallas del ayuntamiento… y menos mal que la noche acabó antes de lo esperado.  
+Se empieza con un chupito y se termina robando el rótulo de una carnicería y cortando una calle principal con las vallas del ayuntamiento… y menos mal que la noche acabó antes de lo esperado.  
 ![emo](/imagenes/emoticonos/pensativo.gif)

@@ -7,7 +7,7 @@ layout: revision
 guid: http://www.wp.chavalina.net/2005/01/18/328-revision/
 permalink: /2005/01/18/328-revision/
 ---
-Me gustar&iacute;a saber qué es esto:
+Me gustaría saber qué es esto:
 
 <p align="center">
   <img class="imgcentro" src="http://www.chavalina.net/imagenes/fotos/maquina.jpg" alt="Máquina misteriosa del siglo pasado" />

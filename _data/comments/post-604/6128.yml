@@ -4,7 +4,7 @@ email: ginexin@gmail.com
 avatar: https://www.gravatar.com/avatar/695f9cbf43fe2d1966acd838081a4e9c?r=pg&d=retro
 url: http://ginex.buildtolearn.net
 date: 2005-12-27 15:39:27
-message: "varios de mis contactos lo tenian, y x lo que he encontrado x ah&iacute;, por si a alguien le interesa, se copia en la carpeta \"c:windowssystem32service\". Para borrarlo hay que finalizar el proceso services.exe, iniciando en modo a prueba de fallos, borrar esa carpeta y borrar el valor del registro que apunte a esa carpeta, en la clave<br />
+message: "varios de mis contactos lo tenian, y x lo que he encontrado x ahí, por si a alguien le interesa, se copia en la carpeta \"c:windowssystem32service\". Para borrarlo hay que finalizar el proceso services.exe, iniciando en modo a prueba de fallos, borrar esa carpeta y borrar el valor del registro que apunte a esa carpeta, en la clave<br />
 <br />
 <code> HKEY_LOCAL_MACHINE/Software/Microsoft/Windows/CurrentVersion/Run/</code> <br />
 <br />

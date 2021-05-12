@@ -19,7 +19,7 @@ permalink: /2004/03/24/62-revision/
       </table>
       
       <p>
-        Bravo en esta ocasión por el director Pedro Almodóvar, bravo por esta pel&iacute;cula. Gui&ntilde;os de humor presentan una historia que va madurando conforme se revela, hasta llegar a enganchar, es "una de Almodóvar" pero quedándose con lo mejor, y hasta con un toque de elegancia en cierta manera; quizá no hablo objetivamente porque iba predispuesta para bien, pero me escudo en que no soy la &uacute;nica que salió de la sala con esta impresión.
+        Bravo en esta ocasión por el director Pedro Almodóvar, bravo por esta película. Gui&ntilde;os de humor presentan una historia que va madurando conforme se revela, hasta llegar a enganchar, es "una de Almodóvar" pero quedándose con lo mejor, y hasta con un toque de elegancia en cierta manera; quizá no hablo objetivamente porque iba predispuesta para bien, pero me escudo en que no soy la &uacute;nica que salió de la sala con esta impresión.
       </p>
       
       <p>
@@ -27,7 +27,7 @@ permalink: /2004/03/24/62-revision/
       </p>
       
       <p>
-        Me gustar&iacute;a dar algunas impresiones más, pero me cuesta hacerlo sin comentar nada en concreto, y si hay algo que odio es que me cuenten el más m&iacute;nimo detalle de una pel&iacute;cula que quiero ver, as&iacute; que tampoco lo voy a hacer yo; a verla, para pasar el rato, por curiosidad o porque no os guste otra de la cartelera (por cierto, "Gothika" no la recomiendo… ni aunque salga Robert Downey Jr.)
+        Me gustaría dar algunas impresiones más, pero me cuesta hacerlo sin comentar nada en concreto, y si hay algo que odio es que me cuenten el más mínimo detalle de una película que quiero ver, así que tampoco lo voy a hacer yo; a verla, para pasar el rato, por curiosidad o porque no os guste otra de la cartelera (por cierto, "Gothika" no la recomiendo… ni aunque salga Robert Downey Jr.)
       </p>
     </td>
   </tr>

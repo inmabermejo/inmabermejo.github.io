@@ -7,4 +7,4 @@ layout: revision
 guid: http://www.wp.chavalina.net/2005/04/16/397-revision/
 permalink: /2005/04/16/397-revision/
 ---
-&iquest;Os funciona bien Bloglines? <a href="http://www.bloglines.com/public/chavalina" target="_blank">creo que se han desecho de m&iacute;!</a>
+&iquest;Os funciona bien Bloglines? <a href="http://www.bloglines.com/public/chavalina" target="_blank">creo que se han desecho de mí!</a>

@@ -20,7 +20,7 @@ permalink: /2004/06/21/146-revision/
             </tr> </tbody> </table> 
             
             <p>
-              Los Simpson es la &uacute;nica serie que me gusta entre las que puedo ver actualmente. Quién pillara Cartoon Network y Dexter&prime;s Laboratory, pero ni siquiera la televisión se apiada de m&iacute;.
+              Los Simpson es la &uacute;nica serie que me gusta entre las que puedo ver actualmente. Quién pillara Cartoon Network y Dexter&prime;s Laboratory, pero ni siquiera la televisión se apiada de mí.
             </p>
             
             <p>
@@ -28,5 +28,5 @@ permalink: /2004/06/21/146-revision/
             </p>
             
             <p>
-              &iquest;Se nota que tengo tiempo libre eh? Pues no, no lo tengo, pero soy una perra, en el buen sentido, aunque la televisión sea un asco, yo seguiré pegada cuando aparezca mi peque&ntilde;o fetiche, Ned Flanders. &iquest;Que por qué me gusta éste y no otro? sencillo. Ved el cap&iacute;tulo "Un tranv&iacute;a llamado Marge" jejeje. &iquest;Cuál es vuestro favorito?
+              &iquest;Se nota que tengo tiempo libre eh? Pues no, no lo tengo, pero soy una perra, en el buen sentido, aunque la televisión sea un asco, yo seguiré pegada cuando aparezca mi peque&ntilde;o fetiche, Ned Flanders. &iquest;Que por qué me gusta éste y no otro? sencillo. Ved el capítulo "Un tranvía llamado Marge" jejeje. &iquest;Cuál es vuestro favorito?
             </p></td> </tr> </tbody> </table>

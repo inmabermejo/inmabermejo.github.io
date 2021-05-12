@@ -7,9 +7,9 @@ layout: revision
 guid: http://www.wp.chavalina.net/2004/03/23/61-revision/
 permalink: /2004/03/23/61-revision/
 ---
-Hoy no tengo mucho tiempo, as&iacute; que sólo os dejo un enlace, via <a href="http://www.agujero.com" target="_blank">el agujero negro</a> a <a href="http://www.villanos.net/escuela/tps/tps_00.html" target="_blank">unos cuantos trucos para Photoshop y Gimp</a> para gente «no entendida», vamos, que van al grano y son muy prácticos.
+Hoy no tengo mucho tiempo, así que sólo os dejo un enlace, via <a href="http://www.agujero.com" target="_blank">el agujero negro</a> a <a href="http://www.villanos.net/escuela/tps/tps_00.html" target="_blank">unos cuantos trucos para Photoshop y Gimp</a> para gente «no entendida», vamos, que van al grano y son muy prácticos.
 
-Y ya que estamos ah&iacute;, no es mala idea darnos una vuelta por <a href="http://www.villanos.net/escuela/index.html" target="_blank">La escuela de Villag&uuml;eb</a>
+Y ya que estamos ahí, no es mala idea darnos una vuelta por <a href="http://www.villanos.net/escuela/index.html" target="_blank">La escuela de Villag&uuml;eb</a>
 
 Y hasta ma&ntilde;ana, queridos lectores![beso](/imagenes/emoticonos/beso.gif) 
 

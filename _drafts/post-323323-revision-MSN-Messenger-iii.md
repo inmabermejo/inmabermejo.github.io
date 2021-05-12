@@ -13,7 +13,7 @@ Pongámonos en situación, _busco un consejo_ soy yo, y _«…el problema se&nti
 :   tu quieres un consejo, no?
 
 busco un consejo dice:
-:   s&iacute;
+:   sí
 
 «…el problema se&ntilde;or, sigue siendo sembrar amor…» dice:
 :   pues pideselo al consejal

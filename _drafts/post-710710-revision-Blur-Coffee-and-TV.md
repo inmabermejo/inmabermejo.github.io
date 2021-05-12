@@ -7,7 +7,7 @@ layout: revision
 guid: http://www.wp.chavalina.net/2006/06/26/710-revision/
 permalink: /2006/06/26/710-revision/
 ---
-Mi v&iacute;deo muy más favorito: Coffee and TV de Blur. <a href="http://www.pitchforkmedia.com/article/feature/36588/Staff_List_100_Awesome_Music_Videos" target="_blank">Y no soy la &uacute;nica que piensa que es bueno</a>.
+Mi vídeo muy más favorito: Coffee and TV de Blur. <a href="http://www.pitchforkmedia.com/article/feature/36588/Staff_List_100_Awesome_Music_Videos" target="_blank">Y no soy la &uacute;nica que piensa que es bueno</a>.
 
 
 

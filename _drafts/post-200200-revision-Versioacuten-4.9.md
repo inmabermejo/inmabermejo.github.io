@@ -8,4 +8,4 @@ guid: http://www.wp.chavalina.net/2004/08/22/200-revision/
 permalink: /2004/08/22/200-revision/
 ---
 Arreglado <a href=&prime;http://jb.bitacoras.com/index.php?p=14&prime; target=&prime;_blank&prime;>esto</a>.  
-Ahora ya sólo se busca en el contenido, no en el código. A&uacute;n me falta el detalle de resaltar el texto que se ha buscado, pero eso lo dejo para otro d&iacute;a.
+Ahora ya sólo se busca en el contenido, no en el código. A&uacute;n me falta el detalle de resaltar el texto que se ha buscado, pero eso lo dejo para otro día.

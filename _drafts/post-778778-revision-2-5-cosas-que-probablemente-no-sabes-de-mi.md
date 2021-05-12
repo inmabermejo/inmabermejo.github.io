@@ -7,12 +7,12 @@ layout: revision
 guid: http://www.chavalina.net/2008/12/21/778-revision-2/
 permalink: /2008/12/21/778-revision-2/
 ---
-Desde <a href="http://www.labrujulaverde.com/2006/12/19/5-cosas-que-probablemente-no-sabes-de-mi/" target="_blank">La br&uacute;jula verde</a> me env&iacute;an un meme para que cuente 5 cosas que crea que los que leen esta bitácora no saben.
+Desde <a href="http://www.labrujulaverde.com/2006/12/19/5-cosas-que-probablemente-no-sabes-de-mi/" target="_blank">La br&uacute;jula verde</a> me envían un meme para que cuente 5 cosas que crea que los que leen esta bitácora no saben.
 
-Voy a intentarlo aunque no sé yo, porque con lo que largaba yo por aqu&iacute; en los primeros tiempos, creo que lo he contado casi todo. As&iacute; que a ver:
+Voy a intentarlo aunque no sé yo, porque con lo que largaba yo por aquí en los primeros tiempos, creo que lo he contado casi todo. Así que a ver:
 
-  * No siempre me interesó la informática. Al principio quer&iacute;a estudiar Biolog&iacute;a Marina, también Arquitectura, e incluso estuve un a&ntilde;o entero estudiando Ciencias Ambientales, pero lo dejé.
-  * Soy una fanática de las vacas y de su t&iacute;pico estampado blanco y negro. Tengo un montón, de peluche, de cerámica, zapatillas, camisetas y otros ropajes, tazas y platos, una estanter&iacute;a, una mesa…
-  * Tengo un hermano y una hermana y a veces todav&iacute;a nos peleamos como si fuéramos cr&iacute;os
+  * No siempre me interesó la informática. Al principio quería estudiar Biología Marina, también Arquitectura, e incluso estuve un a&ntilde;o entero estudiando Ciencias Ambientales, pero lo dejé.
+  * Soy una fanática de las vacas y de su típico estampado blanco y negro. Tengo un montón, de peluche, de cerámica, zapatillas, camisetas y otros ropajes, tazas y platos, una estantería, una mesa…
+  * Tengo un hermano y una hermana y a veces todavía nos peleamos como si fuéramos críos
   * He bebido ron, vodka, ginebra, martini, co&ntilde;ac, cerveza, vino, licores dulces… pero nunca whisky.
   * Nunca he tenido un pendrive (<a href="http://chavalina.net/comentar.php?idpost=238" target="_blank">aparte de éste</a>)

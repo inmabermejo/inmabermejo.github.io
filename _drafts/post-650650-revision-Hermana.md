@@ -7,7 +7,7 @@ layout: revision
 guid: http://www.wp.chavalina.net/2006/04/09/650-revision/
 permalink: /2006/04/09/650-revision/
 ---
-<img class="imgizqda" src="/imagenes/fotos/camiseta-filosofia-06.jpg" alt="Camiseta de las fiestas de Filosof&iacute;a de 2006" /> Hace 3 o 4 o 5 o 6 semanas que no me hablo con mi hermana. Ayer me regaló esta camiseta. Un cara de perro en toda regla.
+<img class="imgizqda" src="/imagenes/fotos/camiseta-filosofia-06.jpg" alt="Camiseta de las fiestas de Filosofía de 2006" /> Hace 3 o 4 o 5 o 6 semanas que no me hablo con mi hermana. Ayer me regaló esta camiseta. Un cara de perro en toda regla.
 
 Pero yo estaba deseando que hiciera algo.
 

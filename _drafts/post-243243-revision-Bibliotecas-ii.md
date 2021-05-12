@@ -7,7 +7,7 @@ layout: revision
 guid: http://www.wp.chavalina.net/2004/10/17/243-revision/
 permalink: /2004/10/17/243-revision/
 ---
-<img class="imgizqda" src="http://www.chavalina.net/imagenes/fotos/post-it.jpg" alt="Hoy vienes guap&iacute;sima" /> En las <a href="http://www.chavalina.net/comentar.php?idpost=207" target="_blank">bibliotecas</a> a veces pasan cosas curiosas y sorprendentes.
+<img class="imgizqda" src="http://www.chavalina.net/imagenes/fotos/post-it.jpg" alt="Hoy vienes guapísima" /> En las <a href="http://www.chavalina.net/comentar.php?idpost=207" target="_blank">bibliotecas</a> a veces pasan cosas curiosas y sorprendentes.
 
 Como este post-it que me encontré en mis apuntes al volver de <acronym title="vale, realmente estaba en internet">consultar un libro</acronym>.
 

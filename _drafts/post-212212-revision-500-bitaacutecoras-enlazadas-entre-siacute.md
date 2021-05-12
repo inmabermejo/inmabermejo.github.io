@@ -1,18 +1,18 @@
 ---
 id: 1177
-title: '500 bitácoras enlazadas entre s&iacute;'
+title: '500 bitácoras enlazadas entre sí'
 date: 2004-09-10T13:38:40+02:00
 author: Chavalina
 layout: revision
 guid: http://www.wp.chavalina.net/2004/09/10/212-revision/
 permalink: /2004/09/10/212-revision/
 ---
-Los que me conocen un poco saben que me gusta poco la <acronym title="endogamia, endogamia">endo-lo-que-sea</acronym> y por eso no me gusta mucho hablar de eventos relacionados con las bitácoras, léase apariciones en prensa, estad&iacute;sticas, popularidad, revistas sobre blogs, etecé etecé. 
+Los que me conocen un poco saben que me gusta poco la <acronym title="endogamia, endogamia">endo-lo-que-sea</acronym> y por eso no me gusta mucho hablar de eventos relacionados con las bitácoras, léase apariciones en prensa, estadísticas, popularidad, revistas sobre blogs, etecé etecé. 
 
 Me enteré por <a href="http://www.alt1040.com/archivo/categorias/bitacoras/top\_500\_weblogs\_en\_espanol.php" target=&prime;_blank&prime;>el blog de Eduardo Arcos</a> de que ha salido el <a href="http://www.bitacoras.com/top500/" target=&prime;_blank&prime;>top 500 de bitácoras «más influyentes»</a> en <a href=http://www.bitacoras.com/ target=&prime;_blank&prime;>bitacoras.com</a>. Como el se&ntilde;or Arcos, yo tampoco pienso que el n&uacute;mero de enlaces sea el mejor modo de medir la _influencia_ de una página.  
 Es algo muy relativo…
 
-Por eso aqu&iacute; el post que habla sobre esto se llama **500 bitácoras enlazadas entre s&iacute;**. Lo ha mencionado mucha gente… ahora me dedicaré a hacer las referencias pertinentes para aumentar mi n&uacute;mero de enlaces…![emo](/imagenes/emoticonos/pensativo.gif) 
+Por eso aquí el post que habla sobre esto se llama **500 bitácoras enlazadas entre sí**. Lo ha mencionado mucha gente… ahora me dedicaré a hacer las referencias pertinentes para aumentar mi n&uacute;mero de enlaces…![emo](/imagenes/emoticonos/pensativo.gif) 
 
 Por otra parte me ha sorprendido y a la vez halagado encontrarme bastante arriba en esa selección, sinceramente no esperaba aparecer hasta las páginas 3 ó 4. 
 

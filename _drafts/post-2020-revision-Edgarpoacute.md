@@ -12,12 +12,12 @@ permalink: /2004/01/14/20-revision/
 
 > Me es imposible decir cómo aquella idea me entró en la  
 > cabeza por primera vez; pero, una vez concebida, me acosó noche  
-> y d&iacute;a. Yo no persegu&iacute;a ning&uacute;n propósito.  
-> Ni tampoco estaba colérico. Quer&iacute;a mucho al viejo. Jamás  
+> y día. Yo no perseguía ning&uacute;n propósito.  
+> Ni tampoco estaba colérico. Quería mucho al viejo. Jamás  
 > me insultó. Su dinero no me interesaba. Me parece que fue su  
-> ojo. &iexcl;S&iacute;, eso fue! Ten&iacute;a un ojo semejante al de  
+> ojo. &iexcl;Sí, eso fue! Tenía un ojo semejante al de  
 > un buitre… Un ojo celeste, y velado por una tela. Cada vez que lo  
-> clavaba en m&iacute; se me helaba la sangre. Y as&iacute;, poco a poco,  
+> clavaba en mí se me helaba la sangre. Y así, poco a poco,  
 > muy gradualmente, me fui decidiendo a matar al viejo y librarme de aquel  
 > ojo para siempre. 
 > 
@@ -27,7 +27,7 @@ permalink: /2004/01/14/20-revision/
 
 "Cuentos" de Edgar Allan Poe es una colección de relatos  
 que van desde el misterio al terror psicológico pasando por la  
-fábula. Escritos todos ellos a mediados del siglo XIX, todav&iacute;a  
+fábula. Escritos todos ellos a mediados del siglo XIX, todavía  
 son capaces de estremecer, Poe rebusca y aprovecha angustias del ser humano,  
 claustrofobia, soledad, oscuridad, tortura, muerte. En todos está  
 presente la incertidumbre.
@@ -39,5 +39,5 @@ como las propias personas con las que convivimos, no viene mal una lectura
 que puede despertar la sensibilidad de cualquiera que sea capaz de leerlos  
 intentando empaparse de su esencia.
 
-Un autor con una imaginación incre&iacute;ble que puede sorprender  
+Un autor con una imaginación increíble que puede sorprender  
 a más de uno. Os lo recomiendo![emo](./imagenes/emoticonos/risa.gif)
