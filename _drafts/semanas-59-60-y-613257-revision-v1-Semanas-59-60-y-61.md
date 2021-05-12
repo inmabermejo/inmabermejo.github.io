@@ -97,7 +97,7 @@ Esto, que parece un _downgrade_, me parece un buen cambio. Mi jefe estará en co
 
 <blockquote class="twitter-tweet" lang="en">
   <p>
-    Celebración de cumpleaños a la americana&#10;<a href="https://twitter.com/chavalina">@chavalina</a> nos va a cebar <a href="http://t.co/VZK5RwR2lF">pic.twitter.com/VZK5RwR2lF</a>
+    Celebración de cumpleaños a la americana<a href="https://twitter.com/chavalina">@chavalina</a> nos va a cebar <a href="http://t.co/VZK5RwR2lF">pic.twitter.com/VZK5RwR2lF</a>
   </p>
   
   <p>

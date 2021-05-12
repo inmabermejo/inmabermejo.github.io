@@ -30,7 +30,7 @@ Imágenes, iconos, gráficos, fuentes, de todo… casi sin clasificar.
 
 [PixelGirl](http://www.pixelgirlpresents.com/icons.php?page=2&cat=pc) 
 
-[Bullet Madness &#9733; free bullets project at stylegala.com – a fine css resource](http://www.stylegala.com/archive/bulletmadness/) 
+[Bullet Madness ★ free bullets project at stylegala.com – a fine css resource](http://www.stylegala.com/archive/bulletmadness/) 
 
 [Steal these buttons](http://www.gtmcknight.com/buttons/blogware.php) 
 

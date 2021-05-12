@@ -14,7 +14,7 @@ permalink: /2008/12/21/559-revision-2/
   * chat = charla
   * content management system (CMS) = gestor de contenidos
   * draft: borrador
-  * email: correo [a secas, que para eso ya casi no se dice el &#8216;móvil’ de &#8216;teléfono móvil’. La función hereda el término]
+  * email: correo [a secas, que para eso ya casi no se dice el ‘móvil’ de ‘teléfono móvil’. La función hereda el término]
   * eye-tracking: seguimiento de mirada
   * feed = canal, fuente
   * findability = encontrabilidad, recuperabilidad
