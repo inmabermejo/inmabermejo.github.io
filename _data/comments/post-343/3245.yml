@@ -6,4 +6,4 @@ url: http://cafeina.ladybenko.net
 date: 2005-01-31 03:53:11
 message: "Sergio, en el <acronym title=\"Internet Explorer\">IE</acronym> funcionan las transparencias de los PNGs a medias. Si para hacer las transparencias en el PNG metemos un canal alpha que contenga exclusivamente colores negro o blanco, funciona perfectamente. Si en cambio, metemos tonos de grises (debería mostrarse semitransparente) la cosa se jode.<br />
 <br />
-Chavalina, gracias por este post. Me va a ser muy &uacute;til :)"
+Chavalina, gracias por este post. Me va a ser muy útil :)"

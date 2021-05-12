@@ -12,7 +12,7 @@ permalink: /2004/01/14/20-revision/
 
 > Me es imposible decir cómo aquella idea me entró en la  
 > cabeza por primera vez; pero, una vez concebida, me acosó noche  
-> y día. Yo no perseguía ning&uacute;n propósito.  
+> y día. Yo no perseguía ningún propósito.  
 > Ni tampoco estaba colérico. Quería mucho al viejo. Jamás  
 > me insultó. Su dinero no me interesaba. Me parece que fue su  
 > ojo. &iexcl;Sí, eso fue! Tenía un ojo semejante al de  

@@ -16,7 +16,7 @@ permalink: /2003/11/22/3-revision/
 </p>
 
 <p align="left">
-  El &uacute;nico inconveniente es que en algunos programas<br /> los enlaces no funcionan, pero siempre indican la página<br /> del programa donde con un poco de suerte se puede encontrar.
+  El único inconveniente es que en algunos programas<br /> los enlaces no funcionan, pero siempre indican la página<br /> del programa donde con un poco de suerte se puede encontrar.
 </p>
 
 <p align="left">

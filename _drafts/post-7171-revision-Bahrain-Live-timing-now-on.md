@@ -31,7 +31,7 @@ permalink: /2004/04/03/71-revision/
       </p>
       
       <p>
-        Montoya está echando el resto, mejorando el tiempo de Schumacher en cada parcial, a punto de pasar la línea de meta… no pudo ser. Perdió medio segundo en el &uacute;ltimo parcial y se ríen en Ferrari &iquest;cosa de brujas? Ralph Schumacher también empieza bien, pero todos lo tenemos calado ya… haga lo que haga hasta que no se de ma&ntilde;ana la salida no podremos decir si podrá hacer algo.
+        Montoya está echando el resto, mejorando el tiempo de Schumacher en cada parcial, a punto de pasar la línea de meta… no pudo ser. Perdió medio segundo en el último parcial y se ríen en Ferrari &iquest;cosa de brujas? Ralph Schumacher también empieza bien, pero todos lo tenemos calado ya… haga lo que haga hasta que no se de ma&ntilde;ana la salida no podremos decir si podrá hacer algo.
       </p>
       
       <p>

@@ -14,7 +14,7 @@ Sacado de noticias.com
 > Es sabido de todos que Microsoft lanzará el a&ntilde;o que viene, casi con total seguridad, la próxima versión de Windows que tiene ahora mismo como nombre en clave Windows Longhorn.  
 > […]
 > 
-> Microsoft también ha desvelado que el Service Pack 2 para Windows Xp se va a centrar sobre todo en seguridad, palabra bastante de moda en los &uacute;ltimos tiempos, debido a todos los virus que han salido &uacute;ltimamente. Además, Microsoft ve prioritaria la seguridad y el Service Pack 2 no saldrá sólo para Windows, sino también para algunos programas muy importantes como Visual Studio .Net o .Net FrameWork, verdadera base de los programas de Microsoft. 
+> Microsoft también ha desvelado que el Service Pack 2 para Windows Xp se va a centrar sobre todo en seguridad, palabra bastante de moda en los últimos tiempos, debido a todos los virus que han salido últimamente. Además, Microsoft ve prioritaria la seguridad y el Service Pack 2 no saldrá sólo para Windows, sino también para algunos programas muy importantes como Visual Studio .Net o .Net FrameWork, verdadera base de los programas de Microsoft. 
 
 <p align="center">
   <img src="./imagenes/fotos/window.jpg" width="139" height="110" border="1" alt="windows" />
@@ -24,9 +24,9 @@ Para quien no lo conozca, LongHorn es un nuevo sistema operativo creado por Micr
 
 Parece ser que hay muchos ojos puestos en este producto y que promete bastante, nuevo sistema de archivos incluidos, sin embargo veremos si con esta revisión del XP no están creando la peor competencia para su propio nuevo producto
 
-Me explico. Bien es sabido por todos los «informáticos» lo reacios que son los usuarios a cambiar su sistema si «funciona», y digo «funciona» con sus comillas porque conozco gente que con su Windows 98 SE sin ninguna actualización siquiera para seguridad de su Internet Explorer ni un firewall, incluso sin antivirus están más contentos que unas pascuas hasta que se les hace el PC polvo por alg&uacute;n troyano, aunque esto ya no es cuestión del sistema operativo.
+Me explico. Bien es sabido por todos los «informáticos» lo reacios que son los usuarios a cambiar su sistema si «funciona», y digo «funciona» con sus comillas porque conozco gente que con su Windows 98 SE sin ninguna actualización siquiera para seguridad de su Internet Explorer ni un firewall, incluso sin antivirus están más contentos que unas pascuas hasta que se les hace el PC polvo por algún troyano, aunque esto ya no es cuestión del sistema operativo.
 
-Ahora la gente está empezando a migrar a XP en masa, pero me consta que muchos de ellos lo &uacute;nico que miran es si es bonito o si pueden ver las thumbs de las fotos en lugar de los iconos en una carpeta, y no les preocupa que lleve un firewall activado por defecto…
+Ahora la gente está empezando a migrar a XP en masa, pero me consta que muchos de ellos lo único que miran es si es bonito o si pueden ver las thumbs de las fotos en lugar de los iconos en una carpeta, y no les preocupa que lleve un firewall activado por defecto…
 
 Si ahora migran a XP, &iquest;alguno se actualizará al nuevo XP Reloaded? &iquest;Seremos los cuatro frikis de siempre los que nos quedaremos el LongHorn? Ya veremos lo que pasa.
 

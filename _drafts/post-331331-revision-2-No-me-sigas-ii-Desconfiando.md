@@ -7,12 +7,12 @@ layout: revision
 guid: http://www.chavalina.net/2008/12/21/331-revision-2/
 permalink: /2008/12/21/331-revision-2/
 ---
-Como ya he dicho <a href="http://www.chavalina.net/comentar.php?idpost=330#3060" target="_blank">en los comentarios del anterior artículo</a>, pensando con la suficiente desconfianza (algo normal en mí jeje) y creo que los buscadores han propuesto lo del _nofollow_ para rebajar la influencia de los blogs en cuanto a sus posiciones para los resultados de b&uacute;squedas.
+Como ya he dicho <a href="http://www.chavalina.net/comentar.php?idpost=330#3060" target="_blank">en los comentarios del anterior artículo</a>, pensando con la suficiente desconfianza (algo normal en mí jeje) y creo que los buscadores han propuesto lo del _nofollow_ para rebajar la influencia de los blogs en cuanto a sus posiciones para los resultados de búsquedas.
 
 Me explico.  
-Supongo que recordaréis cuando se dijo que Google penalizaría o no tendría en cuenta los blogs en sus b&uacute;squedas, no?
+Supongo que recordaréis cuando se dijo que Google penalizaría o no tendría en cuenta los blogs en sus búsquedas, no?
 
-Si nos damos cuenta, siempre estamos diciendo que con qué b&uacute;squedas más raras llegan a nuestros blogs, que suben muy arriba para texto que no tiene que ver demasiado con lo que escribimos y demás curiosidades.No creo que a los buscadores (bueno, a sus due&ntilde;os jeje) les siente muy bien esto, ya que realmente y al ritmo que crece esto de los blogs al final, busques lo que busques, te va a salir un blog lo primero.
+Si nos damos cuenta, siempre estamos diciendo que con qué búsquedas más raras llegan a nuestros blogs, que suben muy arriba para texto que no tiene que ver demasiado con lo que escribimos y demás curiosidades.No creo que a los buscadores (bueno, a sus due&ntilde;os jeje) les siente muy bien esto, ya que realmente y al ritmo que crece esto de los blogs al final, busques lo que busques, te va a salir un blog lo primero.
 
 Entre comentarios y trackbacks, aparte de las referencias explícitas, los blogs son páginas muy muy enlazadas, enlazadas entre sí (es lo que tiene la endogamia, claro), hiperenlazadas, como decía  
 <a href="http://www.chavalina.net/comentar.php?idpost=330#3059" target="_blank">obokaman</a> y cada vez van teniendo más peso para los robots de los buscadores, así que viéndole las orejas al lobo, nos ofrecen esta bonita solución para el spam, y, de paso, quitar parte del peso que ejercen los blogs (en cuanto a esto que hablamos, ojo).

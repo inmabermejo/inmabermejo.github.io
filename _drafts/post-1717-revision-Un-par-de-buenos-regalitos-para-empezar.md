@@ -24,7 +24,7 @@ Por cierto, a quien se dedica a "buscarme" gracias, de verdad
 </p>
 
 <p align="left">
-  Y en la 2&ordf; posición al buscarme jujuju, estoy<br /> contenta, &iquest;se nota?<img src="/imagenes/emoticonos/arcoiris.gif" alt="emo" /><a href="http://www.google.es/search?hl=es&ie=UTF-8&oe=UTF-8&q=chavalina&btnG=B%C3%BAsqueda+en+Google&meta=" target="_blank"><br /> aquí puedes comprobarlo t&uacute; mismo</a> y <a href="http://search.yahoo.com/search?fr=fp-pull-web-t&p=chavalina" target="_blank">también<br /> en Yahoo!</a>
+  Y en la 2&ordf; posición al buscarme jujuju, estoy<br /> contenta, &iquest;se nota?<img src="/imagenes/emoticonos/arcoiris.gif" alt="emo" /><a href="http://www.google.es/search?hl=es&ie=UTF-8&oe=UTF-8&q=chavalina&btnG=B%C3%BAsqueda+en+Google&meta=" target="_blank"><br /> aquí puedes comprobarlo tú mismo</a> y <a href="http://search.yahoo.com/search?fr=fp-pull-web-t&p=chavalina" target="_blank">también<br /> en Yahoo!</a>
 </p>
 
 <p align="left">

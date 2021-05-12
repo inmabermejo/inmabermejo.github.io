@@ -13,7 +13,7 @@ Estoy casi por decir que la del domingo ha sido la mejor carrera del mundial, au
 
 Una carrera tan interesante que sólo fue posible gracias a que Michael Schumacher sufrió un accidente durante la clasificación y tuvo que salir desde el puesto 18, acabando al final 7&ordm;. Me gustaría haber visto los comentarios del se&ntilde;or Lobato si hubiera sido Alonso el que se hubiera visto en esta situación, pero como es M. Schumacher… «Alonsitis».
 
-Al final, menos de un segundo de diferencia entre <a href="http://www.chavalina.net/comentar.php?idpost=206&#038;q=" target="_blank">mi querido Montoya</a> y Kimi Raikkonen hasta la &uacute;ltima vuelta. Una maravilla. Al final ganó el colombiano, supo mantenerse y ahora puede mirar con desdén a su ya ex-equipo Williams BMW, donde &uacute;ltimamente parece que no sabían apreciarlo (y por supuesto, no supieron domarlo).
+Al final, menos de un segundo de diferencia entre <a href="http://www.chavalina.net/comentar.php?idpost=206&#038;q=" target="_blank">mi querido Montoya</a> y Kimi Raikkonen hasta la última vuelta. Una maravilla. Al final ganó el colombiano, supo mantenerse y ahora puede mirar con desdén a su ya ex-equipo Williams BMW, donde últimamente parece que no sabían apreciarlo (y por supuesto, no supieron domarlo).
 
 Y el a&ntilde;o que viene McLaren va a dar miedo…
 
@@ -21,7 +21,7 @@ Gran carrera también de Fernando Alonso, un poco extra&ntilde;a su entrada a bo
 
 Un consuelo esta carrera para un mundial más que **aburrido**. El dominio de Ferrari ha sido desolador, y ahora que parecía que se iba a igualar más la cosa, <a href="http://noticiasdot.com/publicaciones/2004/1004/2810/noticias281004/noticias281004-1.htm" target="_blank">se amotinan los más grandes</a> (gracias por <a href="http://www.chavalina.net/comentar.php?idpost=250#1931" target="_blank">el enlace</a> a <a href="http://blog.corsaria.com/" target="_blank">corsaria</a>).
 
-Y sinceramente, si realmente las cifras son esas (seg&uacute;n el director deportivo de Ferrari perciben el 47% de los derechos de televisión y alrededor de 1/4 de las ganancias totales), lo veo casi lógico.
+Y sinceramente, si realmente las cifras son esas (según el director deportivo de Ferrari perciben el 47% de los derechos de televisión y alrededor de 1/4 de las ganancias totales), lo veo casi lógico.
 
 También entran en juego las nuevas normas que entrarán en vigor el a&ntilde;o que viene, que aunque propiciarán la igualdad entre equipos, también nos quitarán bastante del espectáculo. Cambios aerodinámicos (coches más altos), motores más fiables (tendrán que aguantar dos grandes premios) y neumáticos más resistentes (solo un juego para la clasificación y la carrera), todo contribuye a hacer los coches más lentos y los grandes no podrán lucirse como hasta ahora (pobres Ferrari, qué pena me dan).
 
@@ -29,4 +29,4 @@ Habrá que poner atención para enterarse de todas las novedades y de cómo acab
 
 Y genial el especial de Telecinco, <a href="http://log.xergio.net/uf-vaya-especial-de-la-f1-200304-de-telecinco.html" target="_blank">como dijo xergio</a>, vimos cosas que si no hubiera sido por lo que se ha volcado la cadena con la Formula 1 nos hubiéramos quedado a dos velas, y han permitido conocer entresijos de este deporte que, al menos yo, no había visto nunca.
 
-A pesar de su «Alonsitis», es de agradecer lo que explican antes de cada carrera, que nos acerquen un poco a los pilotos (entrevistas a Montoya, mmmmmmm) y que siempre saquen algo en la sección de deportes de las noticias. Esperemos que mantengan este ritmo hasta que vuelva el Mundial (127 días!) &iquest;cómo voy a aguantar? no veré más la tele… Bueno, en la página oficial podemos ir viendo <a href="http://www.formula1.com/news/2349.html" target="_blank">unos res&uacute;menes</a> de la temporada para entretenernos hasta entonces.
+A pesar de su «Alonsitis», es de agradecer lo que explican antes de cada carrera, que nos acerquen un poco a los pilotos (entrevistas a Montoya, mmmmmmm) y que siempre saquen algo en la sección de deportes de las noticias. Esperemos que mantengan este ritmo hasta que vuelva el Mundial (127 días!) &iquest;cómo voy a aguantar? no veré más la tele… Bueno, en la página oficial podemos ir viendo <a href="http://www.formula1.com/news/2349.html" target="_blank">unos resúmenes</a> de la temporada para entretenernos hasta entonces.

@@ -13,7 +13,7 @@ permalink: /2004/04/20/90-revision/
 
 Parece que la fiesta terminó,  
   
-perdidos en el t&uacute;nel del amor.  
+perdidos en el túnel del amor.  
   
 Y dicen las hojas del libro que más leo yo  
   

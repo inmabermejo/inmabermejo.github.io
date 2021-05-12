@@ -8,4 +8,4 @@ guid: http://www.wp.chavalina.net/2006/03/29/647-revision/
 permalink: /2006/03/29/647-revision/
 ---
 Mmmmmmm…  
-este solecito me pone de buen humor. Ya es primavera, y me siento feliz sin ning&uacute;n motivo en especial. Es que a algunos el tiempo nos afecta mucho. Y para que mi felicidad fuera completa, sólo necesitaría estar en una playa desierta, en lugar de en mi despacho mirando el calendario.
+este solecito me pone de buen humor. Ya es primavera, y me siento feliz sin ningún motivo en especial. Es que a algunos el tiempo nos afecta mucho. Y para que mi felicidad fuera completa, sólo necesitaría estar en una playa desierta, en lugar de en mi despacho mirando el calendario.

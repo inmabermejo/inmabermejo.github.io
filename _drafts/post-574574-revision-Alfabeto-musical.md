@@ -7,7 +7,7 @@ layout: revision
 guid: http://www.wp.chavalina.net/2005/11/12/574-revision/
 permalink: /2005/11/12/574-revision/
 ---
-<a href="http://manuls.bitacoras.com" target="_blank">Manuls</a> me ha pasado uno de esos _posts en cadena_, que eso es lo que verdaderamente son![gafas](/imagenes/emoticonos/gafas.gif) , como los mails de _envíaselo a 2000 personas o no tendrás sexo en no se cuánto tiempo_, aunque esta vez me gusta, se trata de completar un alfabeto con grupos de m&uacute;sica:
+<a href="http://manuls.bitacoras.com" target="_blank">Manuls</a> me ha pasado uno de esos _posts en cadena_, que eso es lo que verdaderamente son![gafas](/imagenes/emoticonos/gafas.gif) , como los mails de _envíaselo a 2000 personas o no tendrás sexo en no se cuánto tiempo_, aunque esta vez me gusta, se trata de completar un alfabeto con grupos de música:
 
   * A: Amaral
   * B: (The) Beatles

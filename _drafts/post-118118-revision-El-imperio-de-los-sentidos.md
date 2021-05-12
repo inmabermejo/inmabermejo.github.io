@@ -11,7 +11,7 @@ No os equivoquéis… me refiero al PC, al ordenador, que va _avanzando a pasos 
 
 Y es que ya está disponible para quien lo quiera .<a href=http://www.noticiasdot.com/publicaciones/2004/0504/1305/noticias130504/noticias130504-7.htm>el Aromatizador <acronym title="Universal Serial Bus">USB</acronym></a>, con hasta veinte fragancias distintas para poder recrear en tu habitación toda clase de ambientes![gafas](/imagenes/emoticonos/gafas.gif) 
 
-Cuál será la próxima chorrada que nos espera? un teclado de gel con apariencia de rubia neumática o morenazo cachas, seg&uacute;n corresponda?
+Cuál será la próxima chorrada que nos espera? un teclado de gel con apariencia de rubia neumática o morenazo cachas, según corresponda?
 
 <p align="center">
   <img src="http://www.noticiasdot.com/publicaciones/2004/0504/1305/noticias130504/images/usb-aromatizador.gif" border="1" alt="Aromatizador USB" />

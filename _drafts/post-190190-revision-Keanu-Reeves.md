@@ -13,4 +13,4 @@ permalink: /2004/08/11/190-revision/
 
 
 
-No sé si tiene alg&uacute;n proyecto entre manos actualmente…![emo](/imagenes/emoticonos/guino.gif)
+No sé si tiene algún proyecto entre manos actualmente…![emo](/imagenes/emoticonos/guino.gif)

@@ -35,7 +35,7 @@ Forever….
 Podéis ver la noticia ampliada y también la lista del a&ntilde;o  
 pasado.
 
-&iquest;Alg&uacute;n candidato más?
+&iquest;Algún candidato más?
 
   * <a href="http://www.noticiasdot.com/publicaciones/2004/0104/2301/noticias230104/noticias230104-1.htm" target="_blank"><i>Vaporware<br /> 2003</i> en Noticiasdot.com</a>
   * <a href="http://www.noticiasdot.com/publicaciones/2003/0103/2901/noticias290103/noticias290103-1.htm" target="_blank"><i>Vaporware<br /> 2002: vendiendo humo tecnológico</i> en Noticiasdot.com</a>

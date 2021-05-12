@@ -7,7 +7,7 @@ layout: revision
 guid: http://www.wp.chavalina.net/2004/04/18/87-revision/
 permalink: /2004/04/18/87-revision/
 ---
-Recuperándome todavía de las Fiestas de Primavera, mis neuronas a&uacute;n no responden sino a estímulos físicos, así que tendré que ir con cuidado con lo que pongo aquí<img src="/imagenes/emoticonos/pensativo.gif" width="16" height="16" /> 
+Recuperándome todavía de las Fiestas de Primavera, mis neuronas aún no responden sino a estímulos físicos, así que tendré que ir con cuidado con lo que pongo aquí<img src="/imagenes/emoticonos/pensativo.gif" width="16" height="16" /> 
 
 Hoy una noticia un tanto grotesca para que haga juego con mi situación, sentada en el sofá decidiendo si desayuno cereales o una cerveza en el bar de mi amigo Alex. 
 

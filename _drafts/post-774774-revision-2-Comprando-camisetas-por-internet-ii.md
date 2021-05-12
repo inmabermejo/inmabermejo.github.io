@@ -13,6 +13,6 @@ Hace nada que [recibí las camisetas de Oddica del sorteo de Criterion](http://c
 
 Aunque la calidad de [Threadless](http://threadless.com/?from=chavalina) es inferior a la de [Oddica](http://oddica.com/), hay muchos más dise&ntilde;os donde escoger y al menos a mi me gustan más, una pena, porque me gustó mucho el pack y las camisetas de [Oddica](http://oddica.com/), la diferencia está en los detalles.
 
-Además de que me he quedado con un cierto resquemor, desde [la &uacute;ltima vez que compré camisetas](http://chavalina.net/comentar.php?idpost=665) parece ser que han subido los gastos de envío, o quizá haya sido por las rebajas.
+Además de que me he quedado con un cierto resquemor, desde [la última vez que compré camisetas](http://chavalina.net/comentar.php?idpost=665) parece ser que han subido los gastos de envío, o quizá haya sido por las rebajas.
 
 A ver cuándo llega!![emo](/imagenes/emoticonos/sonrisa.gif)

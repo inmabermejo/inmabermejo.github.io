@@ -6,4 +6,4 @@ url: http://toxico.bitacoras.com/
 date: 2005-07-23 07:27:29
 message: "SessionSaver funcionaba de maravilla en las primeras versiones, ya que cargaba las páginas directamente del caché, pero ahora, tanto esta extensión como Tab Mix lo hacen del servidor solicitado en la URL, lo que hace que a veces sea un calvario esperar a que se descarguen todos los datos de todas las pesta&ntilde;as...<br />
 <br />
-Si que es verdad que Tab Mix ahorra instalar un gran n&uacute;mero de extensiones, aunque veremos lo que tarda en dar incompatibilidades como ocurrió con Tabbrowser Extensions :D"
+Si que es verdad que Tab Mix ahorra instalar un gran número de extensiones, aunque veremos lo que tarda en dar incompatibilidades como ocurrió con Tabbrowser Extensions :D"

@@ -7,7 +7,7 @@ layout: revision
 guid: http://www.chavalina.net/2008/12/21/778-revision-2/
 permalink: /2008/12/21/778-revision-2/
 ---
-Desde <a href="http://www.labrujulaverde.com/2006/12/19/5-cosas-que-probablemente-no-sabes-de-mi/" target="_blank">La br&uacute;jula verde</a> me envían un meme para que cuente 5 cosas que crea que los que leen esta bitácora no saben.
+Desde <a href="http://www.labrujulaverde.com/2006/12/19/5-cosas-que-probablemente-no-sabes-de-mi/" target="_blank">La brújula verde</a> me envían un meme para que cuente 5 cosas que crea que los que leen esta bitácora no saben.
 
 Voy a intentarlo aunque no sé yo, porque con lo que largaba yo por aquí en los primeros tiempos, creo que lo he contado casi todo. Así que a ver:
 

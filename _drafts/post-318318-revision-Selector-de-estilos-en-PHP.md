@@ -12,7 +12,7 @@ Desde que puse varias hojas de estilo para elegir en el blog noté que iba más 
 El problema es que se tienen que cargar las cuatro hojas de estilo al recibir la página. Y esto además hace que al elegir otro estilo con el selector a veces haya que recargar la página para que se vean todas las imágenes. Para evitar esto y hacer que la página sea menos pesada, he cambiado el <a href="http://www.alistapart.com/articles/alternate/" target="_blank">selector de estilos</a> de A List Apart, basado en JavaScript, por uno similar pero en PHP.
 
 Veamos cómo funciona.  
-En los elementos del men&uacute; de la izquierda que seleccionan el estilo antes teníamos una llamada a una función de javascript como se describe en <a href="http://www.alistapart.com/articles/alternate/" target="_blank">el artículo</a>, ahora simplemente hay un enlace a un script, que será el encargado de hacer el cambio, pasándole un parámetro (mediante el método GET) que indica la hoja de estilo elegida: 
+En los elementos del menú de la izquierda que seleccionan el estilo antes teníamos una llamada a una función de javascript como se describe en <a href="http://www.alistapart.com/articles/alternate/" target="_blank">el artículo</a>, ahora simplemente hay un enlace a un script, que será el encargado de hacer el cambio, pasándole un parámetro (mediante el método GET) que indica la hoja de estilo elegida: 
 
 <div class="codigo">
   <a href="styleswitcher.php?estilo=4-7" title="estilo 4.7">

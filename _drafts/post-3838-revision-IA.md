@@ -11,7 +11,7 @@ Hoy comenzaron mis clases de Introducción a la Inteligencia Artificial (IA).
 
 Este es un tema que me interesaba mucho cuando comencé la carrera, incluso quería especializarme y llegar a trabajar en algo de esa rama. Ahora con mi pérdida absoluta de la ambición que tenía cuando empecé, me da igual en lo que trabaje siempre que me permita hacer la vida que quiero, pero este tema ha vuelto a interesarme, así que intentaré haceros llegar un poco de lo que aprenda.
 
-Hoy solamente hemos intentado definir la IA, cosa bastante complicada por cierto, ya que si ya de por sí no es fácil definir lo que es la inteligencia y lo que es la calidad de artificial. Seg&uacute;n <a href="http://www.rae.es" target="_blank">Real Academia Espa&ntilde;ola</a>: 
+Hoy solamente hemos intentado definir la IA, cosa bastante complicada por cierto, ya que si ya de por sí no es fácil definir lo que es la inteligencia y lo que es la calidad de artificial. Según <a href="http://www.rae.es" target="_blank">Real Academia Espa&ntilde;ola</a>: 
 
 <table width="550"  border="0" align="center">
   <tr>
@@ -35,7 +35,7 @@ Hoy solamente hemos intentado definir la IA, cosa bastante complicada por cierto
 
 Pero para entendernos, la definición que a mí me ha gustado más ha sido la que nos da la .
 
-Seg&uacute;n este test, para saber si una máquina se puede llamar <acronym title="Inteligencia Artificial">IA</acronym> hay que poner en dos habitaciones separadas a un humano y a la máquina. Entonces, otro humano, desde fuera, establece conversaciones mediante un sistema como el chat, por ejemplo, con ambas; si no es capaz de distinguir dónde está la máquina, entonces esa máquina ha pasado la prueba y puede ser considerada IA. 
+Según este test, para saber si una máquina se puede llamar <acronym title="Inteligencia Artificial">IA</acronym> hay que poner en dos habitaciones separadas a un humano y a la máquina. Entonces, otro humano, desde fuera, establece conversaciones mediante un sistema como el chat, por ejemplo, con ambas; si no es capaz de distinguir dónde está la máquina, entonces esa máquina ha pasado la prueba y puede ser considerada IA. 
 
 Expresamente para rebatir esta prueba se han construido programas capaces de mantener una conversación más o menos con sentido, y que basándose en lo que el humano va escribiendo, pueden dar la sensación de que es una conversación con algo inteligente, como ELIZA; sin embargo, no hay nada de <acronym title="Inteligencia Artificial">IA</acronym> en estos programas, simplemente se trata de analizar sintaxis y recorrer tablas de contenidos para dar las respuestas.
 

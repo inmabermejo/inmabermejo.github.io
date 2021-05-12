@@ -11,4 +11,4 @@ permalink: /2006/01/18/612-revision/
 
 Porque no lo había sospechado ni por un momento. Anda que alguno se habrá desquitado bien, menos mal que los hombres no pueden embarazarse jejejeje.
 
-Mari, Jesus, Turbi, Carmen, Tere, Victor, Jeromico, Alex, Inma, Rodi, Cristina, Pablo, Vane, Jes&uacute;s Iván, y mi Patri…![emo](/imagenes/emoticonos/beso.gif)
+Mari, Jesus, Turbi, Carmen, Tere, Victor, Jeromico, Alex, Inma, Rodi, Cristina, Pablo, Vane, Jesús Iván, y mi Patri…![emo](/imagenes/emoticonos/beso.gif)

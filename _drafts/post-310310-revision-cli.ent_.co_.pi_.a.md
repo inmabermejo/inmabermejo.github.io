@@ -7,7 +7,7 @@ layout: revision
 guid: http://www.wp.chavalina.net/2005/01/03/310-revision/
 permalink: /2005/01/03/310-revision/
 ---
-Desde <a href="http://www.domestikalien.com/index.php" target="_blank">Domestik Alien</a> llego a <a href="http://www.clientcopia.com" target="_blank">clientcopia</a>, lleno de situaciones que a los que hemos trabajado de informáticos cara al p&uacute;blico (con p&uacute;blico quiero decir cualquier cosa que no tenga procesador) nos sonará muchísimo.
+Desde <a href="http://www.domestikalien.com/index.php" target="_blank">Domestik Alien</a> llego a <a href="http://www.clientcopia.com" target="_blank">clientcopia</a>, lleno de situaciones que a los que hemos trabajado de informáticos cara al público (con público quiero decir cualquier cosa que no tenga procesador) nos sonará muchísimo.
 
 > phone call from panicing client: client: oh hi Tom, Mark gave me your number. He said you can fix computer stuff. me: yer, sometimes. what&prime;s up? client: well some dumb fuck super glued my fucking mouse to my desk. me: (supressing laugher) I see. client: anyway, that&prime;s not really the problem. What I want to know is, can I turn my monitor off without affecting the computer? me: yes, but how does that help? client: they&prime;ve left a porno movie playing and I have a meeting in 30 seconds. me: you better unplug the speakers as well.
 

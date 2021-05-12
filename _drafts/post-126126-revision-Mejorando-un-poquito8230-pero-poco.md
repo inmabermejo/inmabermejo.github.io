@@ -23,7 +23,7 @@ permalink: /2004/05/30/126-revision/
       </p>
       
       <p>
-        Muchas gracias a todos los que me enviáis correos, intento contestarlos a todos, pero &uacute;ltimamente ando bastante ocupada, exámenes, prácticas, trabajo… uf, vaya rollo os estoy metiendo.
+        Muchas gracias a todos los que me enviáis correos, intento contestarlos a todos, pero últimamente ando bastante ocupada, exámenes, prácticas, trabajo… uf, vaya rollo os estoy metiendo.
       </p>
       
       <p>

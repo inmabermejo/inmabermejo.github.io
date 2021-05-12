@@ -11,8 +11,8 @@ Mi amiga Magdalena de nuevo (chica, te voy a tener que dar comisión o una secci
 
 > Esta sencilla herramienta te puede ser de utilidad en varias circunstancias: un mensaje de correo electrónico de gran tama&ntilde;o bloquea tu cuenta y no te deja bajar el resto, estás esperando un mensaje importante en tu dirección personal y quieres comprobar su llegada desde el trabajo, etc. 
 > 
-> Para éstas y otras ocasiones, Magic Mail Monitor te brinda la solución adecuada, permitiéndote echar un vistazo en tu servidor de correo electrónico a los mensajes que a&uacute;n tengas pendientes de bajar. 
+> Para éstas y otras ocasiones, Magic Mail Monitor te brinda la solución adecuada, permitiéndote echar un vistazo en tu servidor de correo electrónico a los mensajes que aún tengas pendientes de bajar. 
 
-pues eso, para saber lo que baja antes de perder el tiempo, porque &uacute;ltimamente parece que todo el mundo se cree que el ADSL viene de serie…
+pues eso, para saber lo que baja antes de perder el tiempo, porque últimamente parece que todo el mundo se cree que el ADSL viene de serie…
 
   * <a href="http://www.softonic.com/ie/26581" target="_blank">Magic Mail en Softonic</a>

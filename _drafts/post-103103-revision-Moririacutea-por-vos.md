@@ -21,7 +21,7 @@ Será el poder de una canción,
 Pero esta noche moriría por vos  
 Será el champagne, será el color de tus ojos verdes  
 De ciencia ficción,  
-La &uacute;ltima cena para los dos  
+La última cena para los dos  
 Pero esta noche moriría por vos 
 
 Como Nicolas Cage en Living las Vegas  
@@ -30,7 +30,7 @@ Es un misterio hacia dónde la noche nos lleva
 
 Como Nicolas Cage en Living las Vegas  
 Vamos, mi ni&ntilde;o, a perder la cabeza  
-Como si fuera nuestro &uacute;ltimo día en la Tierra
+Como si fuera nuestro último día en la Tierra
 
 Será tu voz, será el licor  
 Serán las luces de esta habitación  

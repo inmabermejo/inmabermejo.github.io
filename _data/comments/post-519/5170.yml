@@ -6,10 +6,10 @@ url: http://blackshell.usebox.net/
 date: 2005-07-12 04:03:33
 message: "Uhm, realmente hay pocos casos en los que no se puede obtener la <acronym title=\"Internet Protocol\">IP</acronym> <strong>real</strong> del usuario, y en tal caso se puede pedir responsabilidades al proxy que ha realizado el servicio (y que se ha tomado la molestia de no proporcionar la <acronym title=\"Internet Protocol\">IP</acronym> del cliente en X-FORWARED-FOR).<br />
 <br />
-Dada una <acronym title=\"Internet Protocol\">IP</acronym> y una hora es suficiente como para empezar a recorrer el camino de identificar al usuario. Que hayan medios para conseguir que esto sera in&uacute;til no quiere decir que siempre se pongan en práctica (yo casi diría que más bien al contrario).<br />
+Dada una <acronym title=\"Internet Protocol\">IP</acronym> y una hora es suficiente como para empezar a recorrer el camino de identificar al usuario. Que hayan medios para conseguir que esto sera inútil no quiere decir que siempre se pongan en práctica (yo casi diría que más bien al contrario).<br />
 <br />
 Eso no quiere decir que siempre sea fácil, pero hay muchas posibilidades. Así que es buena idea guardar cierta información de control por motivos administrativos que pueden salvarnos el culo a los proveedores de servicios (esta bitácora, por ejemplo) en vista del cariz que están tomando las cosas.<br />
 <br />
 Por supuesto que hay que dejar bien claras las cosas y no abusar tampoco de los usuarios. Por ejemplo, en mi bitácora lo dejo bien claro en la política de uso aceptable que esa información registrada automáticamente existe como necesidad administrativa del servidor, pero que en casos de abuso puede ser usada para demostrar situaciones anormales.<br />
 <br />
-Y a&uacute;n con todo, creo que no cumplo al 100% con la LSSICE :("
+Y aún con todo, creo que no cumplo al 100% con la LSSICE :("

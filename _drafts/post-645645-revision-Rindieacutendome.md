@@ -8,7 +8,7 @@ guid: http://www.wp.chavalina.net/2006/03/18/645-revision/
 permalink: /2006/03/18/645-revision/
 ---
 Estoy cansada, muy cansada.  
-Cansada de luchar, de gastar mis energías in&uacute;tilmente, de darme de cabeza contra el muro del spam.
+Cansada de luchar, de gastar mis energías inútilmente, de darme de cabeza contra el muro del spam.
 
 Hace poco <a href="http://chavalina.net/comentar.php?idpost=617&#038;q=" target="_blank">criticaba a Miguel</a> por pasarse al _lado oscuro_, pero creo que yo también voy a tener que hacerlo. No tengo tiempo de dise&ntilde;ar un mejor sistema para prevenir el spam. Por el momento he cerrado los trackbacks, <a href="http://blackshell.usebox.net/archivo/794.php" target="_blank">la solución que propone Juanjo</a> no me sirve porque sólo dejaría pasar los _pingbacks_ (<a href="http://chavalina.net/comentar.php?idpost=514" target="_blank">diferencias entre trackbacks y pingbacks</a>).
 

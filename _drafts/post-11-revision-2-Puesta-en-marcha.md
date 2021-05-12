@@ -16,5 +16,5 @@ permalink: /2008/12/24/1-revision-2/
 </p>
 
 <p align="left">
-  Espero que os sea &uacute;til <img src=/imagenes/emoticonos/beso.gif" alt="emo">
+  Espero que os sea útil <img src=/imagenes/emoticonos/beso.gif" alt="emo">
 </p>

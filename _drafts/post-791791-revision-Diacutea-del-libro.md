@@ -7,7 +7,7 @@ layout: revision
 guid: http://www.wp.chavalina.net/2007/04/24/791-revision/
 permalink: /2007/04/24/791-revision/
 ---
-<img class="imgizqda" src="/imagenes/fotos/dia-del-libro-07.jpg" alt="Casa Del Libro me regaló estos cuatro hace un par de meses" />Ayer fue el día del libro, y eso me recuerda que desde el verano tengo ganas de comentar algunos de los &uacute;ltimos que he leído (no los «académicos», por favor!).
+<img class="imgizqda" src="/imagenes/fotos/dia-del-libro-07.jpg" alt="Casa Del Libro me regaló estos cuatro hace un par de meses" />Ayer fue el día del libro, y eso me recuerda que desde el verano tengo ganas de comentar algunos de los últimos que he leído (no los «académicos», por favor!).
 
 Y también agradecer desde aquí a [Casa Del Libro](http://www.casadellibro.com/homeAfiliado?ca=1467) que, por medio de [Antonio Mas](http://trabajarsinconexion.com/) me regaló varios libros, como a algunos blogueros más, [JJ](http://atalaya.blogalia.com/historias/45981) o [jlori](http://www.ecuaderno.com/2006/12/07/diccionario-combinatorio-practico-del-espanol-contemporaneo/). Además, tiene un programa de afiliados al que me he apuntado.
 
@@ -15,7 +15,7 @@ Me regalaron:
 
   * **11 minutos**: un rollazo. Quizá soy un poco dura, pero es que no despertó absolutamente ninguna sensación en mí, y eso que lo cogí con ganas, por aquello del morbo de la zagala que se mete a p*tilla y a ver qué le pasa y tal y cual, pero ni con esas. Iba a leer El Alquimista, pero creo que necesito un descanso de Coelho. 
   * **Deseo**: no digo que el libro no sea bueno porque no me lo he leído. No he podido pasar de 20 páginas, porque tiene un estilo muy particular y me carga mucho leerlo:  
-    > &iquest;Qué pasa con las mujeres? El imperecedero retrato de sus placeres les importa más que el original perecedero, que tendrán que exponer tarde o temprano a la competencia de la vida, cuando, febrilmente encadenadas a su cuerpo, deban mostrarse en p&uacute;blico en la pastelería, con un vestido nuevo y un hombre nuevo. Quieren contemplar la imagen del amado, ese hermoso rostro, en el silencio de la pocilga conyugal, apretadas a alguien que de vez en cuando se refugia pesadamente en ellas para no tener que mirarse a sí mismo todo el tiempo. Toda imagen descansa mejor en la memoria que en la vida misma, y, abandonadas, hojeamos ociosamente nuestras hojas sonoras y nos sacamos los recuerdos de entre los dedos de los pies: &iexcl;Qué hermoso fue abrirse un día de par en par! Gerti puede incluso cocerse al piano, y presentar al marido sus panecillos recién hechos. Y los ni&ntilde;os cantan tralalá.  
+    > &iquest;Qué pasa con las mujeres? El imperecedero retrato de sus placeres les importa más que el original perecedero, que tendrán que exponer tarde o temprano a la competencia de la vida, cuando, febrilmente encadenadas a su cuerpo, deban mostrarse en público en la pastelería, con un vestido nuevo y un hombre nuevo. Quieren contemplar la imagen del amado, ese hermoso rostro, en el silencio de la pocilga conyugal, apretadas a alguien que de vez en cuando se refugia pesadamente en ellas para no tener que mirarse a sí mismo todo el tiempo. Toda imagen descansa mejor en la memoria que en la vida misma, y, abandonadas, hojeamos ociosamente nuestras hojas sonoras y nos sacamos los recuerdos de entre los dedos de los pies: &iexcl;Qué hermoso fue abrirse un día de par en par! Gerti puede incluso cocerse al piano, y presentar al marido sus panecillos recién hechos. Y los ni&ntilde;os cantan tralalá.  
     > Nos merecemos todo lo que podemos soportar. 
 
   * **Lo mejor que le puede pasar a un cruasán**: muy entretenido, me lo leí muy rápido porque me enganchó mucho, es muy dinámico. No es de lo más profundo, pero para pasar el rato está bien. 
@@ -31,7 +31,7 @@ Y yo compré:
 Y me han regalado/prestado/he robado (jiji): 
 
   * **En el blanco**: Ken Follet. Un laboratorio farmacológico tiene un virus muy malo muy malo, y, cómo no, se lo roban. Es entretenido para pasar las tardes de verano. 
-  * **Preg&uacute;ntale a Alicia**: historia de una adolescente normal que se da a la droga, escrito en primera persona. Lo bueno es que no es un libro actual, tendrá al menos 20 o 30 a&ntilde;os y eso se nota. Es sórdido, pero no se nota la b&uacute;squeda de lo morboso porque sí, como en los libros actuales. Me gusta mucho este libro. 
+  * **Pregúntale a Alicia**: historia de una adolescente normal que se da a la droga, escrito en primera persona. Lo bueno es que no es un libro actual, tendrá al menos 20 o 30 a&ntilde;os y eso se nota. Es sórdido, pero no se nota la búsqueda de lo morboso porque sí, como en los libros actuales. Me gusta mucho este libro. 
   * **Cuentos para pensar**: Jorge Bucay. Este libro es de mi madre. Mi madre siempre compra libros como «El caballero de la armadura oxidada», «Los estados carenciales»… libros en los que en la contraportada dice que son para reflexionar. éste es del tipo, pero es bueno. Son cuentos muy cortos, y que verdaderamente hacen pensar, aquí dejo uno como ejemplo:  
     > Su madre se había marchado por la ma&ntilde;ana temprano y los habíaa dejado al cuidado de Marina, una joven de dieciocho a&ntilde;os a la que a veces contrataba por unas horas para hacerse cargo de ellos a cambio de unos pocos pesos. Desde que el padre había muerto, los tiempo eran demasiado duros como para arriesgar el trabajo faltando cada vez que la abuela se enfermara o se ausentara de la cuidad.
     > 
@@ -43,9 +43,9 @@ Y me han regalado/prestado/he robado (jiji):
     > 
     > La tos del bebé debido al humo que se filtraba por debajo de la puerta lo despertó. Sin pensar, Pancho saltó de la cama y forcejeó con el picaporte para abrir la puerta pero no pudo.
     > 
-    > De todos modos, si lo hubiera conseguido, él y su hermano de meses hubieran sido devorados por las llamas en pocoo minutos. Pancho gritó llamando a Marina, pero nadie le contestó su llamada de auxilio. Así que corrió al teléfono que habia en el cuarto (él sabía como marcar el n&uacute;mero de su mamá) pero no había línea.
+    > De todos modos, si lo hubiera conseguido, él y su hermano de meses hubieran sido devorados por las llamas en pocoo minutos. Pancho gritó llamando a Marina, pero nadie le contestó su llamada de auxilio. Así que corrió al teléfono que habia en el cuarto (él sabía como marcar el número de su mamá) pero no había línea.
     > 
-    > Pancho se dio cuenta que debía sacar a su hermanito de allí. Intentó abrir la ventana que daba a la cornisa, pero era imposible para sus peque&ntilde;as manos destrabar el seguro y aunque lo hubiera conseguido a&uacute;n debia soltar la malla de alambre que sus padres habían instalado como protección.
+    > Pancho se dio cuenta que debía sacar a su hermanito de allí. Intentó abrir la ventana que daba a la cornisa, pero era imposible para sus peque&ntilde;as manos destrabar el seguro y aunque lo hubiera conseguido aún debia soltar la malla de alambre que sus padres habían instalado como protección.
     > 
     > Cuando los bomberos terminaron de apagar el incendio, el tema de conversación de todos era el mismo:  
     > &iquest;Cómo pudo ese ni&ntilde;o peque&ntilde;o romper el vidrio y luego el enrejado con el perchero?  

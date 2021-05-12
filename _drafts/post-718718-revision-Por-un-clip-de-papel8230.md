@@ -10,6 +10,6 @@ permalink: /2006/07/10/718-revision/
 … una casa.  
 Kyle McDonald, un chico canadiense que hace un a&ntilde;o se hizo famoso por su <a href="http://oneredpaperclip.blogspot.com/" target="_blank">su pretensión de conseguir una casa a partir de un clip</a>, solamente mediante el trueque por objetos con un valor superior, por fin lo ha conseguido. 
 
-El ayuntamiento de Kipling Saskatchewan, un pueblo de Canadá le ha cambiado la casa por lo &uacute;ltimo que había conseguido, un papel en una película. &iquest;Qué ganan ellos con eso? pues van a celebrar un casting al más puro estilo <em lang="en">American Idol</em>, o como <acronym title="Operación Tru&ntilde;o, digo, Triunfo">OT</acronym> de aquí, abierto a gente **de todo el mundo**. Muy bien pensado.
+El ayuntamiento de Kipling Saskatchewan, un pueblo de Canadá le ha cambiado la casa por lo último que había conseguido, un papel en una película. &iquest;Qué ganan ellos con eso? pues van a celebrar un casting al más puro estilo <em lang="en">American Idol</em>, o como <acronym title="Operación Tru&ntilde;o, digo, Triunfo">OT</acronym> de aquí, abierto a gente **de todo el mundo**. Muy bien pensado.
 
 Y es que éstas son las cosas que siempre ocurren en Norteamérica… porque aquí en Espa&ntilde;a no sé yo si le hubiera salido bien la jugada…

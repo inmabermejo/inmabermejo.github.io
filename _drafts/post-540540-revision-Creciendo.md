@@ -11,4 +11,4 @@ permalink: /2005/07/25/540-revision/
 
 Normalmente no es así, me amarga bastante el tema, soy bastante pesimista con esto porque no creo que haya nada en absoluto después de la muerte, así que me da bastante miedo pensar en el futuro, porque el futuro es ahora.
 
-Cambian las cosas, he tenido noches, viajes, comidas, cenas con mis amigos que han acabado frente a la mesa bebiendo y hablando… hablando de _política_, _hipotecas_, _seguros_… en lugar de a quién le gusta quién, o quién se emborrachó más la &uacute;ltima vez. Y yo sólo quiero volver a tener dieciséis.
+Cambian las cosas, he tenido noches, viajes, comidas, cenas con mis amigos que han acabado frente a la mesa bebiendo y hablando… hablando de _política_, _hipotecas_, _seguros_… en lugar de a quién le gusta quién, o quién se emborrachó más la última vez. Y yo sólo quiero volver a tener dieciséis.

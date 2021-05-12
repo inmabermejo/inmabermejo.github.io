@@ -3,7 +3,7 @@ name: Oscar
 email: oriera@gmail.com
 avatar: https://www.gravatar.com/avatar/98e4d41711c219a9b0ec1bff92ee84f6?r=pg&d=retro
 date: 2006-02-01 15:40:52
-message: "Pues no, no tiene mucho valor, pero se activa seg&uacute;n el nivel de seguridad que seleccionas.<br />
+message: "Pues no, no tiene mucho valor, pero se activa según el nivel de seguridad que seleccionas.<br />
 <br />
 La seguridad por referrer no es seguridad, ya que es facil de falsear. Y lo de variable en los formularios que me imagino que haces: si el spam ha llegado a tu blog, que es un cms \"home made\", es que se descargan la web, comprueban el formulario y lo simulan.<br />
 <br />

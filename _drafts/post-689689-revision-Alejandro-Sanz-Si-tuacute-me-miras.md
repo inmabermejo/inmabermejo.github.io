@@ -1,6 +1,6 @@
 ---
 id: 1376
-title: 'Alejandro Sanz: Si t&uacute; me miras'
+title: 'Alejandro Sanz: Si tú me miras'
 date: 2006-05-27T06:40:14+02:00
 author: Chavalina
 layout: revision

@@ -13,7 +13,7 @@ Como por ejemplo <a href="http://chavalina.net/comentar.php?idpost=561" target="
 
 Definitivamente, Google <a href="http://chavalina.net/comentar.php?idpost=603" target="_blank">procrastina</a> incluso más que yo.
 
-Y su &uacute;ltima ocurrencia es <a href="http://www.google.com/support/spreadsheets" target="_blank">Google Spreadsheets</a>, una especie de hoja de cálculo que se probará con invitación.
+Y su última ocurrencia es <a href="http://www.google.com/support/spreadsheets" target="_blank">Google Spreadsheets</a>, una especie de hoja de cálculo que se probará con invitación.
 
 Lo he visto en <a href="http://www.pixelydixel.com/2006/06/google-spreadsheets-la-muerte-de-microsoft-excel.html" target="_blank">Pixel y Dixel</a> pero, personalmente, no creo que sea competencia para las aplicaciones de escritorio, como no lo es Writely. Son aplicaciones para usar ocasionalmente, en un momento dado, cuando por cualquier motivo no puedes acceder a _tu aplicación_, la que tiene tus plantillas, tus preferencias y que puedes usar sin estar conectado.
 

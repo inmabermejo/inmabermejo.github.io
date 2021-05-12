@@ -13,7 +13,7 @@ Después de mucho tiempo sin pasar por <a href="http://www.f1.com" target="_blan
   <img src="/imagenes/fotos/f1-com.jpg" alt="Redise&ntilde;o de la página de F1.com" />
 </p>
 
-&iquest;He sido la &uacute;ltima en enterarme?
+&iquest;He sido la última en enterarme?
 
 No está nada mal, le da garra, &iquest;un homenaje a Ferrari? bueno, el rojo es el color de este deporte, tampoco hay que ser mala…
 

@@ -35,7 +35,7 @@ permalink: /2008/12/21/559-revision-2/
   * podcasting: fonodiario
   * post = artículo, anotación, entrada
   * reader = lector
-  * sidebar = men&uacute; lateral
+  * sidebar = menú lateral
   * scent = rastro, pista
   * social software = aplicaciones sociales
   * software: programas (informáticos)

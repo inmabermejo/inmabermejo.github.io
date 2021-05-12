@@ -4,7 +4,7 @@ email: amigogagarin@gmail.com
 avatar: https://www.gravatar.com/avatar/26e6b5aa780253461550cb6b9aba676b?r=pg&d=retro
 url: http://www.blogia.com/dameunduados
 date: 2005-02-01 11:29:07
-message: "[QUOTE]Ojo! si usáis NTFS esto no es tan sencillo, dependiendo de la distribución, posiblemente tengáis que a&ntilde;adir algo a vuestro n&uacute;cleo, por ejemplo en Red Hat, pero ése no es el tema ahora.[~QUOTE] <br />
+message: "[QUOTE]Ojo! si usáis NTFS esto no es tan sencillo, dependiendo de la distribución, posiblemente tengáis que a&ntilde;adir algo a vuestro núcleo, por ejemplo en Red Hat, pero ése no es el tema ahora.[~QUOTE] <br />
 <br />
 Más bien ni deberían intentarlo. Hasta donde sé lo máximo como se puede montar una unidad NTFS es sólo de lectura (ro). Podría ser peligroso que el Thunderbird en linux intentara escribir en un disco NTFS. <br />
 <br />

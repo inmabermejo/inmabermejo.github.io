@@ -23,13 +23,13 @@ Y ahora, por estar en aquel servicio me mandaron un mail «pre-aprobándome» :-
 
 La verdad es que lo primero que no me ha gustado es que no está integrado con mi cuenta de [TLA](http://www.text-link-ads.com/?ref=39914 "Text Link Ads"). Quizá yo he pecado un poco de ingenua, pero hasta 3 veces he intentado identificarme con mi usuario, hasta que me he rendido y me he registrado otra vez. Co&ntilde;e, pues si no está integrado, no utilices datos míos que ya tienes para decirme que estoy «pre-aprobada» :-S
 
-Es un servicio muy 2.0, con su dise&ntilde;o con colores a la moda y degradados, y un logo que, como diría mi amigo [Havoc](http://www.greensouth.net), haría llorar al ni&ntilde;o Jes&uacute;s, pero como hay que probarlo todo menos la heroína, pues me animo y hago clicks en sus opciones, navego el sitio, doy de alta mis 3 sitios actuales (sólo puedes dar de alta 6), escribo mi primera review (o sea ésta). 
+Es un servicio muy 2.0, con su dise&ntilde;o con colores a la moda y degradados, y un logo que, como diría mi amigo [Havoc](http://www.greensouth.net), haría llorar al ni&ntilde;o Jesús, pero como hay que probarlo todo menos la heroína, pues me animo y hago clicks en sus opciones, navego el sitio, doy de alta mis 3 sitios actuales (sólo puedes dar de alta 6), escribo mi primera review (o sea ésta). 
 
 No sé, los blogs que merecen la pena no creo que sean muy dados a venderse.
 
 Pero claro, yo misma he hecho publicidad gratuita de productos simplemente porque los quería, [todos tenemos nuestros caprichos](http://chavalina.net/archivos.php?patron=capri) &iquest;esto es venderse?
 
-Pronto me voy a comprar un monitor widescreen, una impresora láser, un teclado y ratón Logitech, una mesa del Ikea (o del R&uacute;stiko), voy a hacer tarjetas con Moo… y seguramente lo voy a contar por aquí, &iquest;quiero contarlo de gratis, o que me paguen por decir lo mismo?
+Pronto me voy a comprar un monitor widescreen, una impresora láser, un teclado y ratón Logitech, una mesa del Ikea (o del Rústiko), voy a hacer tarjetas con Moo… y seguramente lo voy a contar por aquí, &iquest;quiero contarlo de gratis, o que me paguen por decir lo mismo?
 
 Si yo pudiera decirles a éstos «eh, mirad, me he comprado éste monitor Dell, a ver cuándo me pagáis porque cuente en el blog qué me parece, en vez de estar ese rato leyendo mis feeds», pues estupendo de la muerte.
 

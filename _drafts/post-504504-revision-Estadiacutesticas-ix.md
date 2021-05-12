@@ -7,4 +7,4 @@ layout: revision
 guid: http://www.wp.chavalina.net/2005/06/26/504-revision/
 permalink: /2005/06/26/504-revision/
 ---
-123.684 + 97.765 visitas &uacute;nicas desde el 25 de julio de 2004. Apuntado, y el contador a 0.
+123.684 + 97.765 visitas únicas desde el 25 de julio de 2004. Apuntado, y el contador a 0.

@@ -8,4 +8,4 @@ message: "Ya he roto algo XDD<br />
 <br />
 Es que me ha dado cosa que Jose Pablo perdiera su comentario por no poner título, así que he puesto un peque&ntilde;o JS y de paso he borrado las sesiones amontonadas pero *sin reiniciar* el Apache.<br />
 <br />
-Ahora debería ir, si no abres otro post a la vez, ya que el form_key se activa para la &uacute;ltima anotación vista en detalle (y en el que se acepta el comentario). Es una medida antispam que muy pocas veces causa molestias, solo si hay varios post abiertos o el admin juega con las sesiones... sorry :("
+Ahora debería ir, si no abres otro post a la vez, ya que el form_key se activa para la última anotación vista en detalle (y en el que se acepta el comentario). Es una medida antispam que muy pocas veces causa molestias, solo si hay varios post abiertos o el admin juega con las sesiones... sorry :("

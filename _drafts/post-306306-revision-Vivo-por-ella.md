@@ -69,7 +69,7 @@ la protagonista es ella también.
 
 Vivo por ella porque va  
 dándome siempre la salida  
-porque la m&uacute;sica es así  
+porque la música es así  
 fiel y sincera de por vida.
 
 Vivo por ella que me da  
@@ -77,7 +77,7 @@ noches de amor y libertad.
 Si hubiese otra vida, la vivo  
 por ella también.
 
-Ella se llama m&uacute;sica.
+Ella se llama música.
 
 Yo vivo también.
 
@@ -87,6 +87,6 @@ Por ella también.
 
 ésta es una canción que siempre me ha gustado.  
 Sin embargo, adquirió cierto significado especial cuando conocí a cierta persona.  
-Porque aunque ni siquiera le gustaba esa canción, reflejaba completamente su personalidad. Vivía sólo por dos cosas, la m&uacute;sica y él mismo (no necesariamente por este orden) y todo lo demás era secundario. Creo que podría haber llegado muy alto si hubiera sido más ambicioso (lo que no quiere decir que no lo fuera) porque tenía talento, pero lo mismo al final no le importaba tanto y era solo pose.
+Porque aunque ni siquiera le gustaba esa canción, reflejaba completamente su personalidad. Vivía sólo por dos cosas, la música y él mismo (no necesariamente por este orden) y todo lo demás era secundario. Creo que podría haber llegado muy alto si hubiera sido más ambicioso (lo que no quiere decir que no lo fuera) porque tenía talento, pero lo mismo al final no le importaba tanto y era solo pose.
 
 Me pregunto qué habrá sido de él, ahora que hace tanto que no le veo. Desde agosto, exactamente…

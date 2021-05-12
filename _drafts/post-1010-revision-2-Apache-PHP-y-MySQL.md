@@ -12,7 +12,7 @@ permalink: /2008/12/24/10-revision-2/
 </p>
 
 <p align="left">
-  Para quien no lo sepa os cuento que, a grandes rasgos,<br /> <acronym title="Hypertext PreProcessor">PHP</acronym> es un lenguaje de programación bastante potente que se<br /> usa en combinación con el código <acronym title="HyperText Markup Language">HTML</acronym> para conseguir<br /> un determinado resultado (por ejemplo, manejar una base de datos).<br /> Este código en <acronym title="Hypertext PreProcessor">PHP</acronym> se ejecuta en el servidor, a diferencia<br /> de JavaScript (que se hace en el cliente), t&uacute; en tu navegador<br /> no recibes el código PHP, sino solo el resultado!
+  Para quien no lo sepa os cuento que, a grandes rasgos,<br /> <acronym title="Hypertext PreProcessor">PHP</acronym> es un lenguaje de programación bastante potente que se<br /> usa en combinación con el código <acronym title="HyperText Markup Language">HTML</acronym> para conseguir<br /> un determinado resultado (por ejemplo, manejar una base de datos).<br /> Este código en <acronym title="Hypertext PreProcessor">PHP</acronym> se ejecuta en el servidor, a diferencia<br /> de JavaScript (que se hace en el cliente), tú en tu navegador<br /> no recibes el código PHP, sino solo el resultado!
 </p>
 
 <p align="left">
@@ -24,7 +24,7 @@ permalink: /2008/12/24/10-revision-2/
 </p>
 
 <p align="left">
-  Y como yo soy muuuuy mala profesora, os dejaré<br /> un par de buenos tutoriales: el de <a href="http://www.programacion.com/php/tutorial/php/" target="_blank">programacion.com</a><br /> y <a href="http://www.rinconastur.com/php/" target="_blank">este<br /> que encontré de casualidad</a> y que es con el que he conseguido<br /> hacer algo por fin, porque el chico lo explica todo para que se<br /> entienda, no como algunos manuales que lo &uacute;nico que ense&ntilde;an<br /> es la pedantería del autor.
+  Y como yo soy muuuuy mala profesora, os dejaré<br /> un par de buenos tutoriales: el de <a href="http://www.programacion.com/php/tutorial/php/" target="_blank">programacion.com</a><br /> y <a href="http://www.rinconastur.com/php/" target="_blank">este<br /> que encontré de casualidad</a> y que es con el que he conseguido<br /> hacer algo por fin, porque el chico lo explica todo para que se<br /> entienda, no como algunos manuales que lo único que ense&ntilde;an<br /> es la pedantería del autor.
 </p>
 
 <p align="left">
@@ -40,4 +40,4 @@ permalink: /2008/12/24/10-revision-2/
   * [apache.org](http://www.apache.org/)
   * <a href="http://www.programacion.com/php/tutorial/php/" target="_blank">Tutorial<br /> de <acronym title="Hypertext PreProcessor">PHP</acronym> &#8211; MySQL de programacion.com</a>
   * <a href="http://www.rinconastur.com/php/" target="_blank">Memorias<br /> de un aprendiz de PHP</a>
-  * <a href="ficheros/ficheros.php#php" target="_blank">Alg&uacute;n<br /> manual…</a>
+  * <a href="ficheros/ficheros.php#php" target="_blank">Algún<br /> manual…</a>

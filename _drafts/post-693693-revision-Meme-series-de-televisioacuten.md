@@ -7,7 +7,7 @@ layout: revision
 guid: http://www.wp.chavalina.net/2006/05/29/693-revision/
 permalink: /2006/05/29/693-revision/
 ---
-Hace mucho que no hacía un MM de esos, pero <a href="http://gonzolog.net/2006/05/un-meme-mas/" target="_blank">me lo manda Dr. Gonzo</a> y se trata sobre comentar las series de televisión que seguimos habitualmente. Pues me siento orgullosa de decir que desde este a&ntilde;o, más o menos, la &uacute;nica serie que sigo relativamente es Friends, y que además es casi lo &uacute;nico que veo en televisión.
+Hace mucho que no hacía un MM de esos, pero <a href="http://gonzolog.net/2006/05/un-meme-mas/" target="_blank">me lo manda Dr. Gonzo</a> y se trata sobre comentar las series de televisión que seguimos habitualmente. Pues me siento orgullosa de decir que desde este a&ntilde;o, más o menos, la única serie que sigo relativamente es Friends, y que además es casi lo único que veo en televisión.
 
 Mientras como veo el o los capítulos correspondientes, ya ni siquiera llego a Los Simpsons![llorar](/imagenes/emoticonos/llorar.gif) (eso sí, los fines de semana siempre caen), y si alguna noche no hago algo, pues me pongo una peli en el ordenador. Ah, y cuando hay Fórmula 1 o algo de deportes que esté bien (salto desde plataforma jeje).
 

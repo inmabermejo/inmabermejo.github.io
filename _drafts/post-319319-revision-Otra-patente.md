@@ -7,4 +7,4 @@ layout: revision
 guid: http://www.wp.chavalina.net/2005/01/09/319-revision/
 permalink: /2005/01/09/319-revision/
 ---
-<a href="http://google.dirson.com/noticias.new/1018/" target="_blank">Google patenta las palabras resaltadas en las b&uacute;squedas</a> via Google Dirson
+<a href="http://google.dirson.com/noticias.new/1018/" target="_blank">Google patenta las palabras resaltadas en las búsquedas</a> via Google Dirson

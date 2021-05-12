@@ -20,7 +20,7 @@ He encontrado <a href="http://todosafavordelcanon.es/index.html" target="_blank"
 > Queremos ser libres para crear y producir.  
 > Como siempre.
 > 
-> Ay&uacute;danos para que sigamos componiendo,  
+> Ayúdanos para que sigamos componiendo,  
 > cantando, interpretando, bailando,  
 > guionizando, dirigiendo pelis y series para ti.
 > 

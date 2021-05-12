@@ -1,6 +1,6 @@
 ---
 id: 1479
-title: 'S&uacute;bete al carro de los estándares'
+title: 'Súbete al carro de los estándares'
 date: 2005-11-23T00:43:38+02:00
 author: Chavalina
 layout: revision

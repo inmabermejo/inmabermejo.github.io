@@ -13,7 +13,7 @@ Llevo unas semanitas de lo más monótonas, con un peque&ntilde;o paréntesis el
 Bueno, y el jueves otro paréntesis, pero esa no la paso por caja.
 
 Pero ahora estamos de vacas flacas.  
-Mi día: levantarme, ir a trabajar o a la biblioteca, comer, ir a la biblioteca, cenar, dormir. &iquest;T&uacute; crees que puedo continuar así?  
+Mi día: levantarme, ir a trabajar o a la biblioteca, comer, ir a la biblioteca, cenar, dormir. &iquest;Tú crees que puedo continuar así?  
 // pues no //  
 ![emo](/imagenes/emoticonos/guino.gif)  
 Me estoy perdiendo… Pero queda poco.

@@ -1,6 +1,6 @@
 ---
 id: 1398
-title: 'M&uacute;sica House, Google y créditos'
+title: 'Música House, Google y créditos'
 date: 2004-01-04T05:48:12+02:00
 author: Chavalina
 layout: revision

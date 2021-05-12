@@ -7,12 +7,12 @@ layout: revision
 guid: http://www.wp.chavalina.net/2005/04/16/395-revision/
 permalink: /2005/04/16/395-revision/
 ---
-<img class="imgizqda" src="/imagenes/fotos/weblogsjueves.jpg" alt="Vi&ntilde;eta de Vergara sobre los blogs" /> &iquest;Encontráis alg&uacute;n parecido entre esto de la izquierda y <a href="http://www.chavalina.net/comentar.php?idpost=334&#038;q=premios" target="_blank">esto otro</a>?![emo](/imagenes/emoticonos/risa.gif) 
+<img class="imgizqda" src="/imagenes/fotos/weblogsjueves.jpg" alt="Vi&ntilde;eta de Vergara sobre los blogs" /> &iquest;Encontráis algún parecido entre esto de la izquierda y <a href="http://www.chavalina.net/comentar.php?idpost=334&#038;q=premios" target="_blank">esto otro</a>?![emo](/imagenes/emoticonos/risa.gif) 
 
 La verdad es que, salvo por las gafas y el pelo corto, me he sentido bastante identificada (y es que lo de <a href="http://www.chavalina.net/comentar.php?idpost=245&#038;q=borjamari" target="_blank">mi sosa intimidad</a> en <a href="http://borjamari.blogspot.com/" target="_blank">Borjamari</a> me marcó para siempre).
 
 Qué rabia haber dejado de leer <a href="http://www.eljueves.es/" target="_blank">«El jueves»</a> y no haber comprado el extra Tecnología, &iexcl;con lo que me gustaban a mi sus extras!  
-Ahora, si yo fuera como debería ser para ser digna escritora de este blog, debería pedir el n&uacute;mero atrasado _para documentarme_![emo](/imagenes/emoticonos/pensativo.gif) 
+Ahora, si yo fuera como debería ser para ser digna escritora de este blog, debería pedir el número atrasado _para documentarme_![emo](/imagenes/emoticonos/pensativo.gif) 
 
 Ha sido muy comentado este «Para ti que eres joven» por aquí en la blogocosa (cómo no!) pero realmente no podemos asegurar que así es como nos ven desde fuera. Ahora me pregunto, &iquest;cómo nos ven desde fuera? entre mis amigos, muy pocos saben lo que es un blog.
 

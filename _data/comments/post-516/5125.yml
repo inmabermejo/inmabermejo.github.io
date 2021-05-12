@@ -3,7 +3,7 @@ name: Antonio Vélez
 email: velezsl_81@hotmail.com
 avatar: https://www.gravatar.com/avatar/159b2e3f0669f6a48a23b5befb4f85e5?r=pg&d=retro
 date: 2005-07-08 13:02:16
-message: "No sé, pero parece que realmente AJAX &uacute;ltimamente se basa más en el marketing que otra cosa. Realmente no es nada concreto, es un poco como humo. El uso del XMLHttpRequest es un poco pasar de los iframes y una manera de compactar código obviando <acronym title=\"HyperText Markup Language\">HTML</acronym> y al final tiendes a hacer componentes, así que eso y pasarte a ASP .net viene a ser lo mismo.<br />
+message: "No sé, pero parece que realmente AJAX últimamente se basa más en el marketing que otra cosa. Realmente no es nada concreto, es un poco como humo. El uso del XMLHttpRequest es un poco pasar de los iframes y una manera de compactar código obviando <acronym title=\"HyperText Markup Language\">HTML</acronym> y al final tiendes a hacer componentes, así que eso y pasarte a ASP .net viene a ser lo mismo.<br />
 <br />
 En el proyecto que estoy ahora usamos el concepto de Ajax de usabilidad y no navegación directa, pero tiramos de los iframes que a la hora de depurar es mucho más simple, y realmente no se nota, salvo por la banderita de windows que ondea entre opciones <img src=\"/imagenes/emoticonos/risa.gif\" alt=\":-D\" /> <br />
 <br />

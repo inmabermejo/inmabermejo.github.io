@@ -11,4 +11,4 @@ Grabado por la menda <a href="http://chavalina.net/comentar.php?idpost=739" targ
 
 
 
-Por cierto, que a&uacute;n le debo más fotos de este concierto a Hombre de Uel… qué poca verg&uuml;enza tengo![emo](/imagenes/emoticonos/triste.gif)
+Por cierto, que aún le debo más fotos de este concierto a Hombre de Uel… qué poca verg&uuml;enza tengo![emo](/imagenes/emoticonos/triste.gif)
