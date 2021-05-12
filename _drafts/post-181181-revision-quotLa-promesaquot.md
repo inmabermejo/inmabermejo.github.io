@@ -9,4 +9,4 @@ permalink: /2004/08/05/181-revision/
 ---
 Nueva película de Carmen Maura, la única actriz española que me gusta, y que estoy segura bordará este papel, ya que es de los que le van como anillo al dedo (no hay que menospreciarla por ello), una mujer intenta dejar atrás una vida vacía cambiando de ciudad y de identidad, y, como no podía ser de otra forma, lo pasa faltal la pobre.
 
-Echo de menos el dueto Almodóvar-Maura, pero bueno, qué le vamos a hacer. <a href=http://www.lahiguera.net/cinemania/pelicula/988/ target=&prime;_blank&prime;>La película</a> se estrena el viernes 13 de agosto, habrá que verla cuanto antes, si la ponen en algún cine de Murcia durará poco, es el sino del cine español.
+Echo de menos el dueto Almodóvar-Maura, pero bueno, qué le vamos a hacer. <a href=http://www.lahiguera.net/cinemania/pelicula/988/ target=′_blank′>La película</a> se estrena el viernes 13 de agosto, habrá que verla cuanto antes, si la ponen en algún cine de Murcia durará poco, es el sino del cine español.

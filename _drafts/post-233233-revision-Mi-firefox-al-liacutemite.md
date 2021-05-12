@@ -16,5 +16,5 @@ Con sólo 5 pestañas de navegación abiertas he acabado teniendo que «matar» 
 No es la primera vez que <a href="http://www.mozilla.org/products/firefox/" target="_blank">este navegador</a>, que creo que es lo mejor que hay por ahora, todo sea dicho, se me vuelve loco. Recuerdo que nunca pude instalar ninguna 0.9 porque los tabs vibraban literalmente, parecía aquello el baile de San Vito.
 
 Pero esto me ha molestado más.  
-Y lo que me resulta curioso… ha ocurrido mientras visitaba una página hecha (**muy bien hecha**) por completo en <a href="http://www.macromedia.com/software/flash/&prime;" target="_blank">Flash</a>, concretamente una galería de fotos que envidio sobremanera.  
+Y lo que me resulta curioso… ha ocurrido mientras visitaba una página hecha (**muy bien hecha**) por completo en <a href="http://www.macromedia.com/software/flash/′" target="_blank">Flash</a>, concretamente una galería de fotos que envidio sobremanera.  
 Sin acritud, ¿eh?![emo](/imagenes/emoticonos/sonrisa.gif)

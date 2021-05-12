@@ -12,7 +12,7 @@ permalink: /2005/01/30/343-revision/
 Hasta entonces yo había usado la técnica que encontré en <a href="http://www.simple-d.net/200411/transparencies/" target="_blank">simple-d</a>, se trata simplemente de definir un color de fondo para la capa y luego especificar su opacidad:
 
 <div class="codigo">
-  -moz-opacity:0.75;<br /> opacity:0.75;<br /> filter:alpha(opacity=&prime;75&prime;);
+  -moz-opacity:0.75;<br /> opacity:0.75;<br /> filter:alpha(opacity=′75′);
 </div>
 
 Sin embargo, con esta técnica he observado que los elementos que están dentro del contenedor al que se le aplique automáticamente adoptan también esa opacidad (texto, fotos…), y además, como decía stripTM en la lista, esto no se verá bien en todos los navegadores pues no pertenece a CSS1 o CSS2, proponiendo como alternativa las transparencias PNG.
@@ -28,7 +28,7 @@ Para el diseño que estoy construyendo ahora mismo el que mejor me ha venido ha 
 Para hacer que el fondo de una capa sea semitransparente creamos una imagen PNG tal y como queramos, en este ejemplo se llama grey.png, y creamos una clase <acronym title="Cascade Style Sheets">CSS</acronym> para estos objetos:
 
 <div class="codigo">
-  .transp {<br /> /* Mozilla ignores crazy MS image filters, so it will skip the following */<br /> filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true, sizingMethod=scale src=&prime;grey.png&prime;);<br /> }<br /> /* <acronym title="Internet Explorer">IE</acronym> ignores styles with [attributes], so it will skip the following. */<br /> .transp [class] {<br /> background-image:url(&prime;grey.png&prime;);<br /> }
+  .transp {<br /> /* Mozilla ignores crazy MS image filters, so it will skip the following */<br /> filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true, sizingMethod=scale src=′grey.png′);<br /> }<br /> /* <acronym title="Internet Explorer">IE</acronym> ignores styles with [attributes], so it will skip the following. */<br /> .transp [class] {<br /> background-image:url(′grey.png′);<br /> }
 </div>
 
 Y para usarlo simplemente tendremos que hacer una capa y darle esta clase.

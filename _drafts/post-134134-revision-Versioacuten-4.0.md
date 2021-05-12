@@ -13,7 +13,7 @@ permalink: /2004/06/08/134-revision/
       <table border="0" cellspacing="5" cellpadding="10" width="1" align="left">
         <tr>
           <td>
-            <img src="/imagenes/fotos/sugerencias.jpg" alt="Entrada &prime;La mala educación&prime;" width="175" height="200" border="1" />
+            <img src="/imagenes/fotos/sugerencias.jpg" alt="Entrada ′La mala educación′" width="175" height="200" border="1" />
           </td>
         </tr>
       </table>

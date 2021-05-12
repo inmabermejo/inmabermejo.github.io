@@ -7,7 +7,7 @@ layout: revision
 guid: http://www.wp.chavalina.net/2006/06/08/700-revision/
 permalink: /2006/06/08/700-revision/
 ---
-He encontrado <a href="http://todosafavordelcanon.es/index.html" target="_blank">esta web, bastante cutre</a>, todo hay que decirlo, en&prime;ca <a href="http://sol.blogia.com/2006/060802-todosafavordelcanon.php" target="_blank">Jesusda</a>. él comenta que es una nueva web de la SGAE para dar en las narices a <a href="http://todoscontraelcanon.es/" target="_blank">Todos contra el canon</a> , pero yo lo primero que he pensado es que es una coña, sobre todo después de leer esto: 
+He encontrado <a href="http://todosafavordelcanon.es/index.html" target="_blank">esta web, bastante cutre</a>, todo hay que decirlo, en′ca <a href="http://sol.blogia.com/2006/060802-todosafavordelcanon.php" target="_blank">Jesusda</a>. él comenta que es una nueva web de la SGAE para dar en las narices a <a href="http://todoscontraelcanon.es/" target="_blank">Todos contra el canon</a> , pero yo lo primero que he pensado es que es una coña, sobre todo después de leer esto: 
 
 > Lleva la contraria a tu vecina.  
 > Destaca entre tus amistades.  

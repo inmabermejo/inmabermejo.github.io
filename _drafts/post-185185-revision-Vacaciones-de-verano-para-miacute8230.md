@@ -8,7 +8,7 @@ guid: http://www.wp.chavalina.net/2004/08/06/185-revision/
 permalink: /2004/08/06/185-revision/
 ---
 <p align="center">
-  <a href=http://www.chavalina.net/imagenes/fotos/miverano.jpg target=&prime;_blank&prime;><img src="http://www.chavalina.net/imagenes/fotos/thumbs/miverano.jpg" border="1" alt=mi verano></a>
+  <a href=http://www.chavalina.net/imagenes/fotos/miverano.jpg target=′_blank′><img src="http://www.chavalina.net/imagenes/fotos/thumbs/miverano.jpg" border="1" alt=mi verano></a>
 </p>
 
 …caminando por la arena junto a ti  

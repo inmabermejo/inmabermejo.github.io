@@ -18,7 +18,7 @@ permalink: /2004/03/07/49-revision/
       </p>
       
       <p>
-        Con sigilo me escurro a mitad de clase de Redes. Es muy temprano para que haya alguien en la cafetería y muy tarde para tener un sitio en la biblioteca. Al menos tengo que sentarme arriba y puedo dar dos cabezadas mientras nuestro anodino profesor hace 0&prime;7 ejercicios por minuto. Esto es vida.
+        Con sigilo me escurro a mitad de clase de Redes. Es muy temprano para que haya alguien en la cafetería y muy tarde para tener un sitio en la biblioteca. Al menos tengo que sentarme arriba y puedo dar dos cabezadas mientras nuestro anodino profesor hace 0′7 ejercicios por minuto. Esto es vida.
       </p>
       
       <p>

@@ -7,7 +7,7 @@ date: 2005-01-09 11:53:48
 message: "[QUOTE]Sin embargo, mi index.php sigue siendo demasiado pesado.<br />
 Pensé en \"cortar\" los artículos menos actuales (por ejemplo, los cinco más antiguos) de la portada dejando solo unas líneas a modo de resumen (...)[~QUOTE]<br />
 <br />
-Bueno, pos yo pensaba que podrías hacer una versión \"light\" o \"56kb\" y una versión \"hard\" o \"banda ancha\". Como veo que te gustan y dominas el tema cookies (a diferencia d mi <img src=\"/imagenes/emoticonos/llorar.gif\" alt=\":&prime;-(\" /> ) propongo que hagas un selector de versión aprovechando el selector de estilos. Sólo deberías pasar un parámetro más a través de GET. <br />
+Bueno, pos yo pensaba que podrías hacer una versión \"light\" o \"56kb\" y una versión \"hard\" o \"banda ancha\". Como veo que te gustan y dominas el tema cookies (a diferencia d mi <img src=\"/imagenes/emoticonos/llorar.gif\" alt=\":′-(\" /> ) propongo que hagas un selector de versión aprovechando el selector de estilos. Sólo deberías pasar un parámetro más a través de GET. <br />
 Entonces, la primera vez que un usuario visite tu página le fuerzas a escoger y que se guarde su elección en una cookie permanente. Si ha escogido \"56kb\" pues que sólo se carguen 5 posts y si ha escogido \"banda ancha\" pues 20... no sé, o algo por el estilo. Evidentemente con un link para que pueda cambiar esa cookie guardada.<br />
 uhmmm... se me ha ido un poco la olla verdad? Sk <acronym title=\"Hypertext PreProcessor\">PHP</acronym> es lo que tiene, puedes hacer muchas cosas y te animas, animas... jejejej!<br />
 Bueno wapa, que corto el rollo ya. Gato-besos! <img src=\"/imagenes/emoticonos/beso.gif\" alt=\":-*\" /> "

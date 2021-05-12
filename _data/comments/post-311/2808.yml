@@ -4,4 +4,4 @@ email: obokaman@obokaman.com
 avatar: https://www.gravatar.com/avatar/9a674668eb31442fc0ffab5d91bb855c?r=pg&d=retro
 url: http://www.obokaman.com
 date: 2005-01-05 00:21:53
-message: "Vaya... sa saltó la etiqueta HTML.... bueno, sería simplemente añadir onLoad=\"setActiveStyleSheet(&prime;version 7.0&prime;); return false;\" dentro de la etiqueta BODY."
+message: "Vaya... sa saltó la etiqueta HTML.... bueno, sería simplemente añadir onLoad=\"setActiveStyleSheet(′version 7.0′); return false;\" dentro de la etiqueta BODY."

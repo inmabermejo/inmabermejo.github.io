@@ -15,4 +15,4 @@ Y además, **Al-O** me ha recuperado esta <a href="http://www.guimp.com/breakout
   * <a href="http://www.minid.net/archivos/categorias/google/nuevo_diseno_de_google.php#a13559" target="_blank">Minid.net – weblog de tecnología y diseño </a>
   * <a href="http://www.infoblanca.net/" target="_blank">La web inalámbrica de Blanca</a>
   * <a href="http://www.lover-ice.com/1.htm" target="_blank">Lover-ice.com</a>
-  * <a href="http://www.guimp.com/breakout.html" target="_blank">::guimp breakout:: world&prime;s smallest breakout game </a>
+  * <a href="http://www.guimp.com/breakout.html" target="_blank">::guimp breakout:: world′s smallest breakout game </a>

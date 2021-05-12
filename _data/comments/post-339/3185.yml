@@ -6,6 +6,6 @@ message: "En tu vista previa no se ven los caretos/emoticonos/smileys, para que 
 <br />
 var NewText = document.getElementById(\"pw\").value;<br />
 splitText = NewText.split(/
-/).join(\"&prime;); <br />
+/).join(\"′); <br />
 <br />
 (He tenido que poner un espacio en los tags HTML) "

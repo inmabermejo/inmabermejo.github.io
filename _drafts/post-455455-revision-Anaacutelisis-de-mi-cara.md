@@ -17,7 +17,7 @@ bueno, que con esa mata de pelo negro, ojos oscuros y ahora que estoy morenita m
 **De acuerdo con…** _Politeness_, suspensa, me lo esperaba. _Intelligence_, no está mal, aprobado. Más de lo que esperaba jeje.  
 **No estoy de acuerdo con…** El resto. 
 
-  * _Risk_, 5.1, ni de coña, yo soy muy echá pa&prime;lante.
+  * _Risk_, 5.1, ni de coña, yo soy muy echá pa′lante.
   * _Ambition_ 5.8, que va, antes era bastante ambiciosa, pero ahora prefiero aplicar «La felicidad no consiste en conseguir lo que amas, sino en amar lo que tienes» o algo de eso.
   * _Gay Factor_ 2! pero cómo! vaya, no sé cómo tomarme esto, **a mi me gustan los hombres mucho más!**.
   * _Promiscuity_, me parece demasiado alto… 

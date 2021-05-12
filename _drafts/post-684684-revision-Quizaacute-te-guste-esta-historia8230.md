@@ -7,4 +7,4 @@ layout: revision
 guid: http://www.wp.chavalina.net/2006/05/24/684-revision/
 permalink: /2006/05/24/684-revision/
 ---
-![emo](/imagenes/emoticonos/sonrisa.gif) (visto&prime;ca <a href="http://www.putamurcia.com/index.php/2006/05/23/ey-princesa/" target="_blank">guiye</a>)
+![emo](/imagenes/emoticonos/sonrisa.gif) (visto′ca <a href="http://www.putamurcia.com/index.php/2006/05/23/ey-princesa/" target="_blank">guiye</a>)

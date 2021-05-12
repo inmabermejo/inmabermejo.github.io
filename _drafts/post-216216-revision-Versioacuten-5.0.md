@@ -23,9 +23,9 @@ Gracias también a la gente de #bitacoras, a David Martínez (siempre te estoy d
   * <a href="http://www.thenoodleincident.com/tutorials/box_lesson/boxes.html" target="_blank">Little Boxes</a> 
   * <a href="http://css.maxdesign.com.au/index.htm" target="_blank">CSS max design </a>
   * <a href="http://www.moronicbajebus.com/playground/cssplay/" target="_blank">CSS play</a> 
-  * <a href="http://veerle.duoh.com/" target="_blank">Veerle&prime;s blog </a>
+  * <a href="http://veerle.duoh.com/" target="_blank">Veerle′s blog </a>
   * <a href="http://www.asptutor.com/css/parte2.asp" target="_blank">ASPTutor.com Tutorial de CSS</a> 
   * <a href="http://www.alistapart.com/articles/taminglists/" target="_blank">A list apart: <acronym title="Cascade Style Sheets">CSS</acronym> design: Taming lists </a>
-  * <a href="http://www.oreillynet.com/pub/a/network/2000/07/21/magazine/css_anarchist.html?page=1" target="_blank">The <acronym title="Cascade Style Sheets">CSS</acronym> Anarchist&prime;s Cookbook</a>
+  * <a href="http://www.oreillynet.com/pub/a/network/2000/07/21/magazine/css_anarchist.html?page=1" target="_blank">The <acronym title="Cascade Style Sheets">CSS</acronym> Anarchist′s Cookbook</a>
   * <a href="http://www.minid.net/archivos/categorias/xhtml/13_leyes_de_oro_para_dar_el_gran_paso.php" target="_blank">13 leyes de oro para dar el gran paso (mini-d)</a> 
   * <a href="http://www.theragingche.com/blog/archive/182/" target="_blank">Como cambiar de <acronym title="HyperText Markup Language">HTML</acronym> a XHTML</a>

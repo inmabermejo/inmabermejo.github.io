@@ -20,7 +20,7 @@ permalink: /2004/06/21/146-revision/
             </tr> </tbody> </table> 
             
             <p>
-              Los Simpson es la única serie que me gusta entre las que puedo ver actualmente. Quién pillara Cartoon Network y Dexter&prime;s Laboratory, pero ni siquiera la televisión se apiada de mí.
+              Los Simpson es la única serie que me gusta entre las que puedo ver actualmente. Quién pillara Cartoon Network y Dexter′s Laboratory, pero ni siquiera la televisión se apiada de mí.
             </p>
             
             <p>

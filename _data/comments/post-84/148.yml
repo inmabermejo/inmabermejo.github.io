@@ -6,4 +6,4 @@ message: "Hombre, todo depende. Pero por lo general un cortafuegos es necesario.
 <br />
 Además determinados sistemas no están preparados para funcionar en \"entornos hostiles\". Puedo poner un ejemplo: en caso de que una máquina esté conectada a 2 redes (local e internet) y deseamos compartir ficheros en windows con SMB... tendremos el culo al aire en internet si usamos NetBIOS sobre <acronym title=\"Transmision Control Protocol\">TCP</acronym>. En este caso la buena configuración de gelo no vale, porque ¿como se puede hacer para que esos servicios solo \"escuchen\" en la red local? ;) Ahí el cortafuegos filtra lo que creamos conveniente.<br />
 <br />
-Además el cortafuegos &prime;&prime;debe&prime;&prime; hacer más cosas, pero como ejemplo ya vale ¿no? :D"
+Además el cortafuegos ′′debe′′ hacer más cosas, pero como ejemplo ya vale ¿no? :D"

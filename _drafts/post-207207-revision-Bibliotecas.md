@@ -10,4 +10,4 @@ permalink: /2004/09/02/207-revision/
 ¿Habéis ligado alguna vez en la biblioteca?
 
 Pues llevad cuidado en <acronym title="la de mi pueblo, por ejemplo">las bibliotecas endogámicas</acronym>…  
-Pero bueno. Enseguida son las fiestas de <a href="http://www.um.es/bienvenida/" target=&prime;_blank&prime;>bienvenida</a>![emo](/imagenes/emoticonos/sonrisa.gif)
+Pero bueno. Enseguida son las fiestas de <a href="http://www.um.es/bienvenida/" target=′_blank′>bienvenida</a>![emo](/imagenes/emoticonos/sonrisa.gif)

@@ -8,6 +8,6 @@ message: "  function mailme(mailstr) {<br />
     window.open(\"mailto:\"+newString);<br />
   }<br />
 <br />
-Pon el mail como &lt;a href =\"javascript:mailme(&prime;mimail:midominio.com&prime;)\"&gt;<br />
+Pon el mail como &lt;a href =\"javascript:mailme(′mimail:midominio.com′)\"&gt;<br />
 <br />
 // notese el cambio de @ por : //"

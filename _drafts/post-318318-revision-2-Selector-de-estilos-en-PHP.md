@@ -23,7 +23,7 @@ Hay que tener cuidado con los nombres que se ponen a estos parámetros, mejor no
 Este script, llamado styleswitcher.php, simplemente recoge ese parámetro y la página desde la que se ha llegado, para luego volver a ella y que el usuario no se desconcierte, envía una cookie para recordar el estilo elegido, y vuelve a la página desde la que se llegó:
 
 <div class="codigo">
-  <?<br /> $referencia = getenv(«HTTP_REFERER»);<br /> $estilo=$HTTP_GET_VARS[&prime;estilo&prime;];<br /> setcookie(«chnet_estilo»,$estilo);<br /> ?><br /> <html><br /> <head><br /> <title>modificando estilo</title> <br /> </head><br /> <body onLoad = "parent.location = &prime;<? echo $referencia; ?>&prime;"><br /> </body><br /> </html>
+  <?<br /> $referencia = getenv(«HTTP_REFERER»);<br /> $estilo=$HTTP_GET_VARS[′estilo′];<br /> setcookie(«chnet_estilo»,$estilo);<br /> ?><br /> <html><br /> <head><br /> <title>modificando estilo</title> <br /> </head><br /> <body onLoad = "parent.location = ′<? echo $referencia; ?>′"><br /> </body><br /> </html>
 </div>
 
 Ahora hemos vuelto a la página en la que estábamos, y sólo queda cambiar el estilo por el nuevo.  

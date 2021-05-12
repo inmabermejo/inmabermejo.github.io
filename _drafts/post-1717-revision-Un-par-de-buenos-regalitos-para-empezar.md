@@ -8,7 +8,7 @@ guid: http://www.wp.chavalina.net/2004/01/06/17-revision/
 permalink: /2004/01/06/17-revision/
 ---
 Pues sí, además de lo que me han dejado en casa, que me  
-ha sorprendido y me ha gustado mucho (reloj+dinero+torre de cd&prime;s+bombones…)  
+ha sorprendido y me ha gustado mucho (reloj+dinero+torre de cd′s+bombones…)  
 esta mañana al levantarme "me he visto" por primera vez  
 en Google!
 

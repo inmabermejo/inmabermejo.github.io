@@ -2,15 +2,15 @@ id: 2906
 name: Chavalina
 url: http://www.chavalina.net
 date: 2005-01-08 19:14:23
-message: "Mmmmmm, pues i don&prime;t know, ni idea, hice ayer uno de prueba con David (dmnet) y todo ok. Si te da el error ese que me dijiste creo que será porque quizá una de las variables que envías (el título o la url) no se recibe o se llama de otra forma.<br />
+message: "Mmmmmm, pues i don′t know, ni idea, hice ayer uno de prueba con David (dmnet) y todo ok. Si te da el error ese que me dijiste creo que será porque quizá una de las variables que envías (el título o la url) no se recibe o se llama de otra forma.<br />
 <br />
 Según los temas que me leí cuando lo implementé, los nombres de las variables son estos que he puesto arriba<br />
 <br />
-$url=$HTTP_POST_VARS[&prime;url&prime;];<br />
-$title=$HTTP_POST_VARS[&prime;title&prime;];<br />
-$blog_name=$HTTP_POST_VARS[&prime;blog_name&prime;];<br />
-$excerpt=$HTTP_POST_VARS[&prime;excerpt&prime;];<br />
-$idpost=$HTTP_GET_VARS[&prime;id&prime;];<br />
+$url=$HTTP_POST_VARS[′url′];<br />
+$title=$HTTP_POST_VARS[′title′];<br />
+$blog_name=$HTTP_POST_VARS[′blog_name′];<br />
+$excerpt=$HTTP_POST_VARS[′excerpt′];<br />
+$idpost=$HTTP_GET_VARS[′id′];<br />
 <br />
 y son los que me manda la gente y parece que van, si quieres puedes mirar a ver si alguno de los obligatorios (los dichos, titulo y url) no se llama igual o algo...<br />
 O ni te molestes, aunque ahora me pica la curiosidad!"

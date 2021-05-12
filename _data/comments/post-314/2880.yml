@@ -4,15 +4,15 @@ url: http://www.chavalina.net
 date: 2005-01-07 09:04:28
 message: "Mmmm.... mira:<br />
 ____________________________________________________<br />
-$url=$HTTP_POST_VARS[&prime;url&prime;];<br />
-$title=$HTTP_POST_VARS[&prime;title&prime;];<br />
-$blog_name=$HTTP_POST_VARS[&prime;blog_name&prime;];<br />
-$excerpt=$HTTP_POST_VARS[&prime;excerpt&prime;];<br />
-$idpost=$HTTP_GET_VARS[&prime;id&prime;];<br />
+$url=$HTTP_POST_VARS[′url′];<br />
+$title=$HTTP_POST_VARS[′title′];<br />
+$blog_name=$HTTP_POST_VARS[′blog_name′];<br />
+$excerpt=$HTTP_POST_VARS[′excerpt′];<br />
+$idpost=$HTTP_GET_VARS[′id′];<br />
 <br />
 if(!isset($url) || !isset($title)){<br />
 	//error: la url y el título son obligatorios<br />
-	echo &prime;&prime;;<br />
+	echo ′′;<br />
 }else{<br />
 	//todo correcto, insertarlo en mi tabla de trackbacks<br />
 ____________________________________________________<br />

@@ -13,13 +13,13 @@ Me ha sorprendido mi resultado, soy más mala de lo que creía:
 
 > Sixth Level of Hell – The City of Dis
 > 
-> You approach Satan&prime;s wretched city where you behold a wide plain surrounded by iron walls. Before you are fields full of distress and torment terrible. Burning tombs are littered about the landscape. Inside these flaming sepulchers suffer the heretics, failing to believe in God and the afterlife, who make themselves audible by doleful sighs. You will join the wicked that lie here, and will be offered no respite. The three infernal Furies stained with blood, with limbs of women and hair of serpents, dwell in this circle of Hell.
+> You approach Satan′s wretched city where you behold a wide plain surrounded by iron walls. Before you are fields full of distress and torment terrible. Burning tombs are littered about the landscape. Inside these flaming sepulchers suffer the heretics, failing to believe in God and the afterlife, who make themselves audible by doleful sighs. You will join the wicked that lie here, and will be offered no respite. The three infernal Furies stained with blood, with limbs of women and hair of serpents, dwell in this circle of Hell.
 
-**The Dante&prime;s Inferno Test has banished you to _the Sixth Level of Hell – The City of Dis!_**  
+**The Dante′s Inferno Test has banished you to _the Sixth Level of Hell – The City of Dis!_**  
 Here is how you matched up against all the levels:
 
-<table align="center" cellspacing="1" style="margin: 15px; background-color: #000000; border: none; font: 7pt  verdana, &prime;sans serif&prime;;">
-  <tr style="font: bold 10pt arial, verdana, &prime;sans serif&prime;; text-align: center; color: #ffffff; background-color: #333333;">
+<table align="center" cellspacing="1" style="margin: 15px; background-color: #000000; border: none; font: 7pt  verdana, ′sans serif′;">
+  <tr style="font: bold 10pt arial, verdana, ′sans serif′; text-align: center; color: #ffffff; background-color: #333333;">
     <th>
       <b>Level</b>
     </th>

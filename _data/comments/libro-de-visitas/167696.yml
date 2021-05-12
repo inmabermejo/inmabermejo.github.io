@@ -16,6 +16,6 @@ He escrito esto simplemente para que veas que, a diferencia de ti, sé hablar si
 <br />
 Si te sigues aburriendo, pues sigue escribiendo.<br />
 <br />
-DELETE FROM * WHERE nombre LIKE &prime;christyna&prime;<br />
+DELETE FROM * WHERE nombre LIKE ′christyna′<br />
 <br />
 Si es que hasta el nombre es perullo..."

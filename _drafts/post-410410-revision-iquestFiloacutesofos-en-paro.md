@@ -7,7 +7,7 @@ layout: revision
 guid: http://www.wp.chavalina.net/2005/04/24/410-revision/
 permalink: /2005/04/24/410-revision/
 ---
-<img class="imgizqda" src="/imagenes/fotos/filosofos-en-paro.gif" alt="&prime;me alegro, pa&prime;lante, la cola del paro no es para cantantes&prime; ES PARA FILóSOFOS" /> Hoy me llega mi hermana con este nombrecillo en el MSN. 
+<img class="imgizqda" src="/imagenes/fotos/filosofos-en-paro.gif" alt="′me alegro, pa′lante, la cola del paro no es para cantantes′ ES PARA FILóSOFOS" /> Hoy me llega mi hermana con este nombrecillo en el MSN. 
 
 Y yo me digo en mi ignorancia ¿ein?
 
