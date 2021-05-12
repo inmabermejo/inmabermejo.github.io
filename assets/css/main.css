@@ -7,7 +7,7 @@ line-height: 1.6;
 }
 @media only screen and (min-width: 768px) {
     body {
-    font-size: 130%;
+    font-size: 125%;
     }
 }
 
@@ -58,7 +58,7 @@ font-size: 90%;
     .site-title,
     .post .post-meta,
     .pagination {
-    font-size: 70%;
+    font-size: 75%;
     }
 }
 
@@ -68,13 +68,13 @@ margin-top: 24px;
 @media only screen and (min-width: 768px) {
     .search-form {
     display: inline-block;
-    margin-left: 100px;
+    margin-left: 88px;
     margin-top: 0;
     }
 }
 @media only screen and (min-width: 1024px) {
     .search-form {
-    margin-left: 140px;
+    margin-left: 128px;
     }
 }
 
