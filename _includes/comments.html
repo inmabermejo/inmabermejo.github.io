@@ -9,9 +9,14 @@
 {% assign comment_count = comments | size %}
 
 <div id="comments">
+
   {% if comment_count > 0 %}
   {% assign author = site.authors[page.author] %}
   <h2>{% if comment_count == 1 %}Un comentario{% else %}{{ comment_count }} comentarios{% endif %}</h2>
+
+  <p>Por ahora no se puede comentar en este blog, pero si quieres decirme algo, <a target="_blank" href="https://twitter.com/intent/tweet?text=@chavalina%20%23chavalina{{ page.date | date: date_hashtag }}">cuéntamelo en un tweet</a> 🐣</p>
+  <p>—</p>
+
   <ol class="comments-list">
   {% assign sorted_comments = comments | sort: 'date' %}
   {% for comment in sorted_comments %}
@@ -22,6 +27,8 @@
   </ol>
 {% else %}
   <h2>No hay comentarios</h2>
+  <p>Por ahora no se puede comentar en este blog, pero si quieres decirme algo, <a target="_blank" href="https://twitter.com/intent/tweet?text=@chavalina%20%23chavalina{{ page.date | date: date_hashtag }}">cuéntamelo en un tweet</a> 🐣</p>
+  <p>—</p>
 {% endif %}
 </div>
 {% if page.commenting == 'open' %}
