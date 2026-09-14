@@ -14,7 +14,7 @@
   {% assign author = site.authors[page.author] %}
   <h2>{% if comment_count == 1 %}Un comentario{% else %}{{ comment_count }} comentarios{% endif %}</h2>
 
-  <p>Por ahora no se puede comentar, pero si quieres decirme algo, <a target="_blank" href="https://twitter.com/intent/tweet?text=@chavalina%20%23chavalina{{ page.date | date: date_hashtag }}">cuéntamelo en un tweet</a> o <a target="_blank" href="https://bsky.app/hashtag/%23chavalina{{ page.date | date: date_hashtag }}">en Bluesky</a> en el hashtag <strong></strong>#chavalina{{ page.date | date: date_hashtag }}<strong> 🐣</p>
+  <p>Por ahora no se puede comentar, pero si quieres decirme algo, <a target="_blank" href="https://twitter.com/intent/tweet?text=@chavalina%20%23chavalina{{ page.date | date: date_hashtag }}">cuéntamelo en un tweet</a> o <a target="_blank" href="https://bsky.app/hashtag/%23chavalina{{ page.date | date: date_hashtag }}">en Bluesky</a> en el hashtag <strong>#chavalina{{ page.date | date: date_hashtag }}</strong> 🐣</p>
   <p>—</p>
 
   <ol class="comments-list">
@@ -27,7 +27,7 @@
   </ol>
 {% else %}
   <h2>No hay comentarios</h2>
-  <p>Por ahora no se puede comentar, pero si quieres decirme algo, <a target="_blank" href="https://twitter.com/intent/tweet?text=@chavalina%20%23chavalina{{ page.date | date: date_hashtag }}">cuéntamelo en un tweet</a> o <a target="_blank" href="https://bsky.app/hashtag/%23chavalina{{ page.date | date: date_hashtag }}">en Bluesky</a> en el hashtag <strong></strong>#chavalina{{ page.date | date: date_hashtag }}<strong> 🐣</p>
+  <p>Por ahora no se puede comentar, pero si quieres decirme algo, <a target="_blank" href="https://twitter.com/intent/tweet?text=@chavalina%20%23chavalina{{ page.date | date: date_hashtag }}">cuéntamelo en un tweet</a> o <a target="_blank" href="https://bsky.app/hashtag/%23chavalina{{ page.date | date: date_hashtag }}">en Bluesky</a> en el hashtag <strong>#chavalina{{ page.date | date: date_hashtag }}</strong>strong> 🐣</p>
 {% endif %}
 </div>
 {% if page.commenting == 'open' %}
